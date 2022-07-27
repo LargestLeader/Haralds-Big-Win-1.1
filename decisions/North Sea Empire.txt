@@ -1,0 +1,24 @@
+political_decisions = {
+	annex_lordship_of_ireland = {
+		potential = {
+			tag = NRD
+			LIR = { vassal_of = THIS }
+			NOT = { has_country_flag = annex_ireland }
+		}
+		allow = {
+			IRE = {
+				all_core = {
+						owned_by = LIR
+}
+}
+			state_n_government = 1
+		}
+		effect = {
+			set_country_flag = annex_ireland
+			prestige = 5
+			add_accepted_culture = irish
+			LIR = { annex_to = THIS }
+			IRE = { all_core = { add_core = THIS } }
+		}
+	}
+}

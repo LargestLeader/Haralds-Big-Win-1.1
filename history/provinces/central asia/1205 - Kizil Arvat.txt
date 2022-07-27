@@ -1,0 +1,6 @@
+owner = TIM
+controller = TIM
+add_core = TIM
+terrain = desert
+trade_goods = fish
+life_rating = 15

@@ -1,0 +1,4 @@
+owner = PNB
+controller = PNB
+add_core = PNBtrade_goods = wool
+terrain = forestlife_rating = 35

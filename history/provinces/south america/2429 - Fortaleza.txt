@@ -1,0 +1,6 @@
+owner = GUY
+controller = GUY
+add_core = GUY
+terrain = dry_forest
+trade_goods = fish
+life_rating = 35

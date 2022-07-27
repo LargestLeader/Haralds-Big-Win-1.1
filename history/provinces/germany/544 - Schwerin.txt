@@ -1,0 +1,9 @@
+owner = PLB
+controller = PLB
+add_core = PLB
+add_core = WSF
+trade_goods = grain
+terrain = berlin
+life_rating = 40
+
+

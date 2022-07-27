@@ -1,0 +1,8 @@
+owner = CMM
+controller = CMM
+add_core = CMM
+terrain = dryhills
+trade_goods = grain
+life_rating = 35
+
+

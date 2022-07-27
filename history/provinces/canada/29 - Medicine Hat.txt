@@ -1,0 +1,6 @@
+owner = BCK
+controller = BCK
+add_core = BCK
+trade_goods = fruit
+terrain = desert
+life_rating = 15

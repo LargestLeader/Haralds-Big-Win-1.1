@@ -1,0 +1,6 @@
+owner = JOD
+controller = JOD
+add_core = JOD
+trade_goods = timber
+life_rating = 32
+terrain = jaipur

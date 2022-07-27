@@ -1,0 +1,6 @@
+owner = CMM
+controller = CMM
+add_core = CMM
+trade_goods = iron
+life_rating = 35
+

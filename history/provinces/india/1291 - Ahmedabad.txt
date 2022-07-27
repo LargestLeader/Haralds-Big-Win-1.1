@@ -1,0 +1,6 @@
+owner = SIN
+controller = SIN
+add_core = SIN
+trade_goods = tobacco
+life_rating = 32
+naval_base = 2

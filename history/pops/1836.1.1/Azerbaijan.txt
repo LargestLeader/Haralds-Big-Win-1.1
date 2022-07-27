@@ -1,0 +1,667 @@
+#Northern Azerbaijan Region (340000)
+#under the rule the Timurid Empire in 1836
+#Baku (76000/19000 POPS)
+1102 = {
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 120
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 15
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 45
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 120
+	}
+
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 125
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 60
+	}
+
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 350
+	}
+
+	aristocrats = {
+		culture = tat
+		religion = sunni
+		size = 475
+	}
+
+	bureaucrats = {
+		culture = tat
+		religion = sunni
+		size = 215
+	}
+
+	clergymen = {
+		culture = tat
+		religion = sunni
+		size = 730
+	}
+
+	artisans = {
+		culture = tat
+		religion = sunni
+		size = 4800
+	}
+
+	soldiers = {
+		culture = tat
+		religion = sunni
+		size = 1375
+	}
+
+	farmers = {
+		culture = tat
+		religion = sunni
+		size = 22955
+	}
+	
+	clergymen = {
+		culture = tat
+		religion = zoroastrian
+		size = 130
+	}
+
+	artisans = {
+		culture = tat
+		religion = zoroastrian
+		size = 500
+	}
+
+	soldiers = {
+		culture = tat
+		religion = zoroastrian
+		size = 375
+	}
+
+	farmers = {
+		culture = tat
+		religion = zoroastrian
+		size = 2955
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 620
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 4540
+	}
+
+	clergymen = {
+		culture = judeo_iranian
+		religion = jewish
+		size = 135
+	}
+
+	artisans = {
+		culture = judeo_iranian
+		religion = jewish
+		size = 3615
+	}
+}
+
+#Naftmardab (76000/19000 POPS)
+
+#Siyazen (56000/14000 POPS)
+1103 = {
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 30
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 1175
+	}
+
+	aristocrats = {
+		culture = tat
+		religion = sunni
+		size = 275
+	}
+
+	clergymen = {
+		culture = tat
+		religion = sunni
+		size = 325
+	}
+
+	artisans = {
+		culture = tat
+		religion = sunni
+		size = 1050
+	}
+
+	soldiers = {
+		culture = tat
+		religion = sunni
+		size = 1075
+	}
+
+	farmers = {
+		culture = tat
+		religion = sunni
+		size = 20200
+	}
+
+	aristocrats = {
+		culture = budukh_kryts
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = budukh_kryts
+		religion = sunni
+		size = 80
+	}
+
+	artisans = {
+		culture = budukh_kryts
+		religion = sunni
+		size = 20
+	}
+
+	soldiers = {
+		culture = budukh_kryts
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = budukh_kryts
+		religion = sunni
+		size = 3400
+	}
+}
+#Sheki (24000/6000 POPS)
+1104 = {
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 30
+	}
+
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 45
+	}
+	
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = tat
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = tat
+		religion = sunni
+		size = 1025
+	}
+
+	farmers = {
+		culture = tat
+		religion = sunni
+		size = 13100
+	}
+
+	clergymen = {
+		culture = lezgic
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = lezgic
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = lezgic
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = lezgic
+		religion = sunni
+		size = 2000
+	}
+	
+	clergymen = {
+		culture = alvuanian
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = alvuanian
+		religion = orthodox
+		size = 250
+	}
+
+	soldiers = {
+		culture = alvuanian
+		religion = orthodox
+		size = 400
+	}
+
+	farmers = {
+		culture = alvuanian
+		religion = orthodox
+		size = 4000
+	}
+	
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 10000
+	}
+}
+#Ilisu (24000/6000 POPS)
+
+#Ganja (68000/17000 POPS)
+1105 = {
+	aristocrats = {
+		culture = tat
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = tat
+		religion = sunni
+		size = 275
+	}
+
+	artisans = {
+		culture = tat
+		religion = sunni
+		size = 4500
+	}
+
+	soldiers = {
+		culture = tat
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = tat
+		religion = sunni
+		size = 13000
+	}
+	
+	aristocrats = {
+		culture = tat
+		religion = coptic
+		size = 100
+	}
+
+	clergymen = {
+		culture = tat
+		religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = tat
+		religion = coptic
+		size = 700
+	}
+
+	soldiers = {
+		culture = tat
+		religion = coptic
+		size = 175
+	}
+
+	farmers = {
+		culture = tat
+		religion = coptic
+		size = 6875
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 125
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 350
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 900
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 17000
+	}
+	
+	aristocrats = {
+		culture = alvuanian
+		religion = orthodox
+		size = 125
+	}
+
+	clergymen = {
+		culture = alvuanian
+		religion = orthodox
+		size = 85
+	}
+
+	artisans = {
+		culture = alvuanian
+		religion = orthodox
+		size = 450
+	}
+
+	soldiers = {
+		culture = alvuanian
+		religion = orthodox
+		size = 175
+	}
+
+	farmers = {
+		culture = alvuanian
+		religion = orthodox
+		size = 4000
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 4000
+	}
+}
+#Qazakh (68000/17000 POPS)
+
+#Agdam (60000/15000 POPS)
+1106 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 200
+	}
+	
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = alvuanian
+		religion = orthodox
+		size = 150
+	}
+
+	soldiers = {
+		culture = alvuanian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = alvuanian
+		religion = orthodox
+		size = 3000
+	}
+	
+	aristocrats = {
+		culture = tat
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = tat
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = tat
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = tat
+		religion = sunni
+		size = 100
+	}
+	
+	farmers = {
+		culture = tat
+		religion = sunni
+		size = 500
+	}
+	
+	aristocrats = {
+		culture = kurmanji
+		religion = sunni
+		size = 30
+	}
+
+	clergymen = {
+		culture = kurmanji
+		religion = sunni
+		size = 30
+	}
+
+	artisans = {
+		culture = kurmanji
+		religion = sunni
+		size = 30
+	}
+
+	soldiers = {
+		culture = kurmanji
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kurmanji
+		religion = sunni
+		size = 225
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 300
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 350
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 900
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size = 225
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 3225
+	}
+}
+
+#Khachen/Shushi (60000/15000 POPS)
+
+
+#Lankaran (56000/14000 POPS)
+1107 = {
+	aristocrats = {
+		culture = talysh
+		religion = shiite
+		size = 675
+	}
+
+	clergymen = {
+		culture = talysh
+		religion = shiite
+		size = 675
+	}
+
+	artisans = {
+		culture = talysh
+		religion = shiite
+		size = 1200
+	}
+
+	soldiers = {
+		culture = talysh
+		religion = shiite
+		size = 2150
+	}
+
+	farmers = {
+		culture = talysh
+		religion = shiite
+		size = 35000
+	}
+	
+	farmers = {
+		culture = deylemi
+		religion = shiite
+		size = 2000
+	}
+	
+	farmers = {
+		culture = turkish
+		religion = shiite
+		size = 3400
+	}
+}

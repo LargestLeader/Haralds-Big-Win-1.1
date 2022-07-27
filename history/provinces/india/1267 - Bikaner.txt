@@ -1,0 +1,6 @@
+owner = JOD
+controller = JOD
+add_core = JOD
+terrain = desert
+trade_goods = wool
+life_rating = 32

@@ -1,0 +1,4 @@
+add_core = TUN
+trade_goods = wool
+terrain = oasis
+life_rating = 20

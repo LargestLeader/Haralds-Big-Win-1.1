@@ -1,0 +1,5 @@
+add_core = MOR
+add_core = TRZ
+terrain = oasis
+trade_goods = cattle
+life_rating = 20

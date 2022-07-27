@@ -1,0 +1,6 @@
+owner = OIR
+controller = OIR
+add_core = OIR
+trade_goods = coal
+life_rating = 30
+

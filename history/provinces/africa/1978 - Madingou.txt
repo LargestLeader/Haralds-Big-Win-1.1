@@ -1,0 +1,5 @@
+owner = KON
+controller = KON
+add_core = KON
+trade_goods = iron
+life_rating = 30

@@ -1,0 +1,5 @@
+owner = LIR
+controller = LIR
+add_core = IRE
+trade_goods = fish
+life_rating = 35

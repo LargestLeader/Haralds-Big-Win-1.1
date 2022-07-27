@@ -1,0 +1,7 @@
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = WSF
+trade_goods = iron
+life_rating = 35
+terrain = prague

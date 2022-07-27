@@ -1,0 +1,7 @@
+owner = PNB
+controller = PNB
+add_core = PNB
+trade_goods = cattle
+life_rating = 38
+terrain = plains
+naval_base = 1

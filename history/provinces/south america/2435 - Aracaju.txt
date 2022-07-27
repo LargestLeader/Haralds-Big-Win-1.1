@@ -1,0 +1,6 @@
+owner = GUY
+controller = GUY
+add_core = GUY
+trade_goods = tobacco
+terrain = coastal_forest
+life_rating = 35

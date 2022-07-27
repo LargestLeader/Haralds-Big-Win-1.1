@@ -1,0 +1,197 @@
+political_decisions = {
+	annex_azov_host = {
+		potential = {
+			OR = {
+				AND = {
+					tag = RUS
+					has_country_flag = push_kyiv
+				}
+				tag = RTH
+			}
+			DON = { vassal_of = THIS }
+			NOT = { has_country_flag = annex_azov }
+		}
+		allow = {
+			OR = {
+				CRI = {
+					all_core = {
+						owned_by = DON
+					}
+				}
+				CRI = {
+					all_core = {
+						owned_by = RTH
+					}
+				}
+			}
+			state_n_government = 1
+		}
+		effect = {
+			set_country_flag = annex_azov
+			prestige = 5
+			add_accepted_culture = crimean_tatar
+			DON = { annex_to = TIHS }
+			DON = { all_core = { add_core = THIS } }
+			DON = { all_core = { remove_core = DON } }
+			CRI = { all_core = { remove_core = CRI } }
+		}
+	}
+	push_kyiv = {
+		potential = {
+			tag = RTH
+			NOT = { has_country_flag = push_kyiv }
+		}
+		allow = {
+			state_n_government = 1
+			owns = 1008
+			owns = 1015
+			owns = 999
+			owns = 943
+			owns = 945
+		}
+		effect = {
+			prestige = 10
+			MUS = { all_core = { add_core = RTH } }
+			set_country_flag = push_kyiv
+		}
+	}
+	push_tver = {
+		potential = {
+			tag = MUS
+			NOT = { has_country_flag = push_tver }
+		}
+		allow = {
+			state_n_government = 1
+			owns = 977
+			owns = 958
+			owns = 962
+			owns = 999
+			owns = 943
+			owns = 945
+		}
+		effect = {
+			prestige = 10
+			RTH = { all_core = { add_core = MUS } }
+			set_country_flag = push_tver
+		}
+	}
+	form_russia = {
+		potential = {
+			OR = {
+				AND = {
+					tag = RTH
+					has_country_flag = push_kyiv
+				}
+				AND = {
+					tag = MUS
+					has_country_flag = push_tver
+				}
+			}
+			NOT = {
+				exists = RUS
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			MUS = { all_core = { owned_by = THIS } }
+			RTH = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			prestige = 20
+			change_tag = RUS
+			add_accepted_culture = east_slavic
+		}
+	}
+	russian_unification = {
+		potential = {
+			tag = RUS
+			NOT = {
+				has_country_flag = russian_unification
+			}
+		}
+		allow = { 
+			RUS = { all_core = { owned_by = RUS } }
+		}
+		effect = {
+			prestige = 10
+			MUS = { all_core = { remove_core = MUS } }
+			RTH = { all_core = { remove_core = RTH } }
+			SMK = { all_core = { remove_core = SMK } }
+			BYE = { all_core = { remove_core = BYE } }
+			URA = { all_core = { remove_core = URA } }
+			MNK = { all_core = { remove_core = MNK } }
+			set_country_flag - russian_unification
+		}
+	}
+	russia_crimea = {
+		tag = RUS
+		potential = {
+			NOT = { 
+				has_country_flag = russia_crimea
+				has_country_flag = annex_azov
+				is_our_vassal = DON
+			}
+		}
+		allow = {
+			state_n_government = 1
+			DON = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			set_country_flag = russia_crimea
+			prestige = 5
+			add_accepted_culture = crimean_tatar
+			DON = { all_core = { add_core = THIS } }
+			DON = { all_core = { remove_core = DON } }
+			CRI = { all_core = { remove_core = CRI } }
+		}
+	}
+	russian_moldovia = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = russian_moldovia }
+		}
+		allow = {
+			owns = 676
+		}
+		effect = {
+			676 = { add_core = RUS }
+			677 = { add_core = RUS }
+			678 = { add_core = RUS }
+			set_country_flag = russian_moldovia
+		}
+	}
+	take_kazan = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = take_kazan }
+		}
+		allow = {
+			owns = 1030
+			owns = 1034
+			owns - 1031
+		}
+		effect = {
+			KZN = { all_core = { add_core = RUS } }
+		}
+	}
+	fall_of_kazan = {
+		potential = { 
+			tag = RUS
+			has_country_flag = take_kazan
+			NOT = { has_country_flag = fall_of_kazan }
+		}
+		allow = {
+			KZN = { all_core = { owned_by = RUS } }
+		}
+		effect = { 
+			prestige = 20
+			KZN = { all_core = { remove_core = TAR } }
+			KZN = { all_core = { remove_core = KZN } }
+			add_country_modifier = {
+				name = russian_assimilate
+				duration = 10000
+			}
+			set_country_flag = fall_of_kazan
+		}
+	}
+}

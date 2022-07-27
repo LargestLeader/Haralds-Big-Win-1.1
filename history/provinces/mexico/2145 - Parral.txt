@@ -1,0 +1,6 @@
+owner = FDA
+controller = FDA
+add_core = FDA
+trade_goods = cattle
+terrain = montane_forest
+life_rating = 35

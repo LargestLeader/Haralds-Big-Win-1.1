@@ -1,0 +1,6 @@
+owner = GUY
+controller = GUY
+add_core = GUY
+trade_goods = fruit
+terrain = savanna
+life_rating = 35

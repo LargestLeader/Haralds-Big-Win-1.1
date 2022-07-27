@@ -1,0 +1,3 @@
+terrain = oasis
+trade_goods = grain
+life_rating = 20

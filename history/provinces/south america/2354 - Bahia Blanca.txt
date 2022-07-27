@@ -1,0 +1,7 @@
+owner = PNB
+controller = PNB
+add_core = PNB
+trade_goods = wool
+life_rating = 30
+terrain = steppe
+

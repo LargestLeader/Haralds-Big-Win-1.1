@@ -1,0 +1,6 @@
+owner = ORM
+controller = ORM
+add_core = ORM
+add_core = ETH
+trade_goods = grain
+life_rating = 10

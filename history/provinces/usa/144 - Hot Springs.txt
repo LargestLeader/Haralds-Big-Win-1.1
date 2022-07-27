@@ -1,0 +1,6 @@
+owner = NIB
+controller = NIB
+add_core = NIB
+trade_goods = grain
+life_rating = 35
+

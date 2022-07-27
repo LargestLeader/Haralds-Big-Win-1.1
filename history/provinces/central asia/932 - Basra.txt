@@ -1,0 +1,8 @@
+owner = TIM
+controller = TIM
+add_core = TIM
+add_core = IRQ
+trade_goods = fish
+terrain = marsh
+life_rating = 35
+

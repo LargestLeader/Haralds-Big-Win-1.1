@@ -1,0 +1,7 @@
+#############################################;;;;;;;;;;;;;;x
+will_receive_title;Request Grant;;;;;;;;;;;;;x
+will_receive_desc;Requests money from other players.;;;;;;;;;;;;;x
+will_give_title;Enable Giving Grants;;;;;;;;;;;;;x
+will_give_desc;Enables giving money to other players.;;;;;;;;;;;;;x
+will_not_give_title;Disable Giving Grants;;;;;;;;;;;;;x
+will_not_give_desc;Disables giving money to other players.;;;;;;;;;;;;;x

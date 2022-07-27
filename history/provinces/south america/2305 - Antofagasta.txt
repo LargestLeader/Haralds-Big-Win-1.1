@@ -1,0 +1,7 @@
+owner = INC
+controller = INC
+add_core = INC
+trade_goods = iron
+terrain = desert
+life_rating = 15
+naval_base = 1

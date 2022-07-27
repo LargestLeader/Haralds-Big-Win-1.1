@@ -1,0 +1,84 @@
+country_event = {
+	id = 99999999
+	title = "Russian States Fall to Our Enemies"
+	desc = "A neigboring Russian nation has been sized by our enemies. We can't allow this injustice to stand."
+	
+	fire_only_once = yes
+	
+	trigger = {
+		OR = {
+			tag = MUS
+			tag = RTH
+		}
+		NOT = {
+			OR = {
+				943 = { owned_by = SMK }
+				943 = { owned_by = THIS }
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 10
+	}
+	option = {
+		name = "We must save our countrymen!"
+		SMK = { all_core = { add_core = MUS } }
+		SMK = { all_core = { add_core = RTH } }
+	}
+}
+country_event = {
+	id = 99999998
+	title = "Russian States Fall to Our Enemies"
+	desc = "A neigboring Russian nation has been sized by our enemies. We can't allow this injustice to stand."
+	
+	fire_only_once = yes
+	
+	trigger = {
+		OR = {
+			tag = MUS
+			tag = RTH
+		}
+		NOT = {
+			OR = {
+				945 = { owned_by = BYE }
+				945 = { owned_by = THIS }
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 10
+	}
+	option = {
+		name = "We must save our countrymen!"
+		BYE = { all_core = { add_core = MUS } }
+		BYE = { all_core = { add_core = RTH } }
+	}
+}
+country_event = {
+	id = 99999997
+	title = "Russian States Fall to Our Enemies"
+	desc = "A neigboring Russian nation has been sized by our enemies. We can't allow this injustice to stand."
+	
+	fire_only_once = yes
+	
+	trigger = {
+		OR = {
+			tag = MUS
+			tag = RTH
+		}
+		NOT = {
+			OR = {
+				718 = { owned_by = MNK }
+				718 = { owned_by = THIS }
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 10
+	}
+	option = {
+		name = "We must save our countrymen!"
+		MNK = { all_core = { add_core = MUS } }
+		MNK = { all_core = { add_core = RTH } }
+	}
+}
