@@ -1,0 +1,23 @@
+political_decisions = {
+    illinewek_survival = {
+        potential = {
+            tag = ILL
+            NOT = { has_country_flag = illinewek_survival }
+            NOT = { 184 = { is_core = NEN }}
+        }
+        allow = {
+            civilized = yes
+        }
+        effect = {
+            prestige = 30
+            LNP = { all_core = { add_core = THIS }}
+            SHE = { all_core = { add_core = THIS }}
+            HRN = { all_core = { add_core = THIS }}
+            MKG = { all_core = { add_core = THIS }}
+            MIA = { all_core = { add_core = THIS }}
+            VGR = { all_core = { add_core = THIS }}
+            YCH = { all_core = { add_core = THIS }}
+            set_country_flag = illinewek_survival
+        }
+    }
+}

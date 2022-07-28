@@ -1,0 +1,72 @@
+army = {
+	name = "1st Batavian Army"
+	location = 226
+  regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 215
+	}
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+        home = 211
+    }
+    regiment = {
+        name = "3rd Infantry"
+        type = infantry
+        home = 223
+    }
+    regiment = {
+        name = "4th Infantry"
+        type = infantry
+        home = 226
+    }
+    regiment = {
+        name = "5th Infantry"
+        type = infantry
+        home = 232
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+        home = 232
+    }
+    regiment = {
+        name = "2nd Artillery
+        type = artillery
+        home = 247
+    }
+    regiment = {
+        name = "1st Hussar"
+        type = hussar
+        home = 243
+    }
+}	
+navy = {
+    name = "Batavian Fleet"
+    location = 243
+    ship = {
+        name = "Triton"
+        type = frigate
+    }
+    ship = {
+        name = "Johnathon"
+        type = frigate
+    }
+    ship = {
+        name = "Freddy"
+        type = frigate
+    }
+    ship = {
+        name = "Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "Trans"
+        type = clipper_transport
+    }
+    ship = {
+        name = "Susan"
+        type = clipper_transport
+    }
+}

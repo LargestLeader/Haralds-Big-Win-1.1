@@ -1,5 +1,5 @@
 capital = 143
-primary_culture = cree
+primary_culture = illinois
 religion = protestant
 government = democracy
 plurality = 0.05
@@ -50,7 +50,5 @@ set_country_flag = protestant_country
 set_country_flag = unciv
 set_country_flag = new_world_nation
 
-flintlock_rifles = 1
-enlightenment_thought = 1
 
 oob = "MIA_oob.txt"
