@@ -1,7 +1,7 @@
 owner = SYC
 controller = SYC
 add_core = SYC
-
+add_core = ITA
 trade_goods = sulphur
 terrain = catania
 life_rating = 40

@@ -4,7 +4,6 @@ political_decisions = {
 			tag = NRD
 			LIR = { vassal_of = THIS }
 			NOT = { has_country_flag = annex_ireland }
-		}
 		allow = {
 			IRE = {
 				all_core = {
