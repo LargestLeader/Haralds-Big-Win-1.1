@@ -4,12 +4,13 @@ political_decisions = {
 			tag = NRD
 			LIR = { vassal_of = THIS }
 			NOT = { has_country_flag = annex_ireland }
+		}
 		allow = {
 			IRE = {
 				all_core = {
-						owned_by = LIR
-}
-}
+					owned_by = LIR
+				}
+			}
 			state_n_government = 1
 		}
 		effect = {
