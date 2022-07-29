@@ -1,6 +1,7 @@
 owner = TIM
 controller = TIM
 add_core = IRQ
+add_core = ABB
 trade_goods = grain
 life_rating = 35
 terrain = plains

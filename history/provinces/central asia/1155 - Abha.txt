@@ -1,6 +1,7 @@
 owner = NYE
 controller = NYE
 add_core = NYE
+add_core = ABB
 add_core = HDJ
 trade_goods = wool
 terrain = semidesert

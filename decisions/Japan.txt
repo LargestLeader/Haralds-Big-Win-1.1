@@ -1,0 +1,29 @@
+political_decisions = {
+    core_korea = {
+        potential = {
+            tag = JAP
+            NOT = { has_country_flag = core_korea }
+        }
+        allow = {
+            KOR = { all_core = { owned_by = JAP }}
+        }
+        effect = {
+            prestige = 20
+            KOR = { all_core = { add_core = JAP }}
+            set_country_flag = core_korea
+        }
+    }
+    japanese_hawaii = {
+        potential = {
+            tag = JAP
+            civilized = yes
+            658 = { is_core = JAP }
+        }
+        allow = {
+            658 = { owned_by = JAP }
+        }
+        effect = {
+            658 = { add_core = JAP }
+        }
+    }
+}

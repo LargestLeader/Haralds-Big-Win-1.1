@@ -1,6 +1,7 @@
 owner = HAL
 controller = HAL
 add_core = HAL
+add_core = ABB
 trade_goods = wool
 terrain = oasis
 life_rating = 20

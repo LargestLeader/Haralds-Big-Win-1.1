@@ -776,7 +776,10 @@ punitive_effects = {
 icon = 8
 
 }
-
+russian_assimilate = {
+	global_assimilation_rate = 0.05
+	icon = 8
+}
 treaty_port = {
 	mine_rgo_size = 8
 	farm_rgo_size = 8

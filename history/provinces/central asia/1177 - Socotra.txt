@@ -4,6 +4,7 @@ add_core = KTH
 add_core = MHR
 add_core = FDL
 add_core = LHJ
+add_core = ABB
 trade_goods = fish
 life_rating = 20
 terrain = semidesert

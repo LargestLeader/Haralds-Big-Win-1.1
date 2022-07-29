@@ -44,10 +44,6 @@ political_decisions = {
 		allow = {
 			state_n_government = 1
 			owns = 1008
-			owns = 1015
-			owns = 999
-			owns = 943
-			owns = 945
 		}
 		effect = {
 			prestige = 10
@@ -63,11 +59,6 @@ political_decisions = {
 		allow = {
 			state_n_government = 1
 			owns = 977
-			owns = 958
-			owns = 962
-			owns = 999
-			owns = 943
-			owns = 945
 		}
 		effect = {
 			prestige = 10
@@ -124,8 +115,9 @@ political_decisions = {
 		}
 	}
 	russia_crimea = {
-		tag = RUS
 		potential = {
+			tag = RUS
+			967 = { is_core = DON }
 			NOT = { 
 				has_country_flag = russia_crimea
 				has_country_flag = annex_azov
@@ -143,6 +135,21 @@ political_decisions = {
 			DON = { all_core = { add_core = THIS } }
 			DON = { all_core = { remove_core = DON } }
 			CRI = { all_core = { remove_core = CRI } }
+		}
+	}
+	russia_crimeaa = {
+		potential = {
+			tag = RUS 
+			NOT = {
+				967 = { is_core = DON }
+				accepted_culture = crimean_tatar
+			}
+		}
+		allow = {
+		}
+		effect = {
+			prestige = 5
+			add_accepted_culture = crimean_tatar
 		}
 	}
 	russian_moldovia = {

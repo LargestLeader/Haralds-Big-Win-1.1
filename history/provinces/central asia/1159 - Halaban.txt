@@ -2,5 +2,6 @@ owner = NEJ
 controller = NEJ
 add_core = NEJ
 add_core = HAL
+add_core = ABB
 trade_goods = wool
 life_rating = 10

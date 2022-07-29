@@ -1,0 +1,68 @@
+army = {
+    name = "Army of Granada"
+    location = 510
+    regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 510
+	}
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+        home = 510
+    }
+    regiment = {
+        name = "3rd Infantry"
+        type = infantry
+        home = 516
+    }
+    regiment = {
+        name = "4th Infantry"
+        type = infantry
+        home = 516
+    }
+    regiment = {
+        name = "5th Infantry"
+        type = infantry
+        home = 515
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+        home = 515
+    }
+    regiment = {
+        name = "2nd Artillery"
+        type = artillery
+        home = 514
+    }
+}
+army = {
+    name = "Army of al-Mariyya"
+    location = 515
+    regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 521
+	}
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+        home = 509
+    }
+    regiment = {
+        name = "3rd Infantry"
+        type = infantry
+        home = 512
+    }
+    regiment = {
+        name = "4th Infantry"
+        type = infantry
+        home = 512
+    }
+    regiment = {
+        name = "5th Infantry"
+        type = infantry
+        home = 525
+    }
+}

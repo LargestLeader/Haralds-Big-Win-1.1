@@ -3,3 +3,4 @@ life_rating = 10
 owner = HAL
 controller = HAL
 add_core = HAL
+add_core = ABB

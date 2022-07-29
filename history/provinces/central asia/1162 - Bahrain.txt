@@ -2,6 +2,7 @@ owner = TIM
 controller = TIM
 add_core = TIM
 add_core = BHR
+add_core = ABB
 trade_goods = fruit
 terrain = semidesert
 life_rating = 34

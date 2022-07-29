@@ -1,6 +1,7 @@
 owner = NYE
 controller = NYE
 add_core = NYE
+add_core = ABB
 trade_goods = coffee
 terrain = steppe
 life_rating = 35

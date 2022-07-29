@@ -2,6 +2,7 @@ owner = ABB
 controller = ABB
 add_core = KNI
 add_core = MLT
+add_core = ABB
 trade_goods = precious_goods
 life_rating = 40
 naval_base = 1

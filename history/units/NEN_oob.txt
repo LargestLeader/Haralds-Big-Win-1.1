@@ -29,10 +29,10 @@ army = {
     regiment = {
         name = "1st Artillery"
         type = artillery
-        home = 232
+        home = 241
     }
     regiment = {
-        name = "2nd Artillery
+        name = "2nd Artillery"
         type = artillery
         home = 247
     }
@@ -62,7 +62,7 @@ navy = {
         type = clipper_transport
     }
     ship = {
-        name = "Trans"
+        name = "Train"
         type = clipper_transport
     }
     ship = {

@@ -1,5 +1,6 @@
 owner = NYE
 controller = NYE
 add_core = NYE
+add_core = ABB
 trade_goods = wool
 life_rating = 5

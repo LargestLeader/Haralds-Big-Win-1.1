@@ -1,6 +1,6 @@
 #color = { 194  53  60 }
 color = { 232  26  63 } 
-absolute_monarchy = { 194  123  47 }
+absolute_monarchy = { 232  26  63 }
 prussian_constitutionalism = { 232  26  63 } 
 hms_government = { 232  26  63 }
 proletarian_dictatorship = { 199  67  44 }
