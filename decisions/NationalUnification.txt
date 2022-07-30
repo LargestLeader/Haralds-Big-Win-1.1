@@ -80,9 +80,9 @@ political_decisions = {
 						OR = {
 							province_id = 370 # Ignore Schleswig
 							province_id = 371 # Ignore Schleswig
-							province_id = 410 # Need not have Elsaß-Lothringen
-							province_id = 409 # Need not have Elsaß-Lothringen
-							province_id = 412 # Need not have Elsaß-Lothringen
+							province_id = 410 # Need not have Elsaï¿½-Lothringen
+							province_id = 409 # Need not have Elsaï¿½-Lothringen
+							province_id = 412 # Need not have Elsaï¿½-Lothringen
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
@@ -342,7 +342,7 @@ political_decisions = {
 		news_desc_short = "form_scandinavia_NEWS_SHORT"
 		potential = {
 			OR = {
-				is_culture_group = scandinavian
+				is_culture_group = north_germanic
 				is_culture_group = bears
 			}
 			NOT = {
@@ -453,9 +453,9 @@ political_decisions = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Straßburg"
+				change_province_name = "Straï¿½burg"
 				state_scope = {
-					change_region_name = "Elsaß-Lothringen"
+					change_region_name = "Elsaï¿½-Lothringen"
 				}
 			}
 			prestige = 5
@@ -642,9 +642,10 @@ political_decisions = {
 			CRO = { all_core = { add_core = YUG } }
 			BOS = { all_core = { add_core = YUG } }
 			SLO = { all_core = { add_core = YUG } }
-			add_accepted_culture = serb
-			add_accepted_culture = bosniak
-			add_accepted_culture = croat
+			add_accepted_culture = shtokavian
+			add_accepted_culture = slovene
+			add_accepted_culture = kaykavian
+			add_accepted_culture = albanian
 			change_tag = YUG
 			any_country = {
 				limit = {
