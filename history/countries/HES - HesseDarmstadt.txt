@@ -78,9 +78,8 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-piston_steam_engine = 1
-mechanical_production = 1
-mechanized_mining = 1
+water_wheel_power = 1
+publishing_industry = 1
 basic_chemistry = 1
 
 #Inventions
@@ -151,7 +150,7 @@ oob = "HES_oob.txt"
 	associationism = 1
 	phenomenalism = 1
 	
-	piston_steam_engine = 1
+	water_wheel_power = 1
 	high_pressure_steam_engine = 1
 	compound_steam_engines = 1
 	mechanical_production = 1

@@ -42,7 +42,35 @@ country_event = {
         days = 1
     }
     option = {
-        tite = "Ok"
+        name = "Ok"
         remove_province_modifier = lozania_push
+    }
+}
+country_event = {
+    id = 2100006
+    title = "Natives Assimilate"
+    desc = "Some Natives have seen the glory of our culture!"
+
+    trigger = {
+        tag = NEN
+        has_country_flag = fall_of_illinewek
+        any_state = {
+            limit = { is_colonial = yes }
+            random_owned = {
+                limit = { 
+                    is_core = NEN
+                    any_pop = {
+                        has_pop_culture = illinois
+                    }
+                }
+            }
+        }
+    }
+    mean_time_to_happen = {
+        days = 730
+    }
+    option = {
+        name = "Glorious"
+        assimilate = yes
     }
 }
