@@ -69,6 +69,6 @@ oob = "HAW_oob.txt"
 	foreign_weapons = yes_foreign_weapons
 
 	#Technologies
-	piston_steam_engine = 1
+	water_wheel_power = 1
 	flintlock_rifles = 1
 }

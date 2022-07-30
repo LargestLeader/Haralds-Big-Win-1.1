@@ -110,7 +110,7 @@ state_n_government = 1
 #Culture - Psychology
 introspectionism = 1
 #Industry - Power
-piston_steam_engine = 1
+water_wheel_power = 1
 high_pressure_steam_engine = 1
 #Industry - Mechanization
 mechanical_production = 1

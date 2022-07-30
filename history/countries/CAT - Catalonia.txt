@@ -1,13 +1,12 @@
 capital = 498
 primary_culture = catalan
-culture = aragonese
 religion = catholic
 government = hms_government
-plurality = 0.05
+plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.23
+literacy = 0.26
 civilized = yes
-prestige = 10
+prestige = 20
 
 # Political reforms
 slavery = no_slavery
@@ -60,9 +59,8 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-piston_steam_engine = 1
-mechanical_production = 1
-mechanized_mining = 1
+water_wheel_power = 1
+publishing_industry = 1
 basic_chemistry = 1
 
 set_country_flag = catholic_country

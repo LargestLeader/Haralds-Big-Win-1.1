@@ -1,0 +1,76 @@
+country_event = {
+    id = 2100001
+    title = "Settling the West"
+    desc = "Now that we have defeated the native our settlers can go west."
+
+    is_triggered_only = yes
+    option = {
+        name = "To the West we go!"
+        any_state = {
+            limit = {
+                is_colonial = yes
+            }
+            any_owned = {
+                limit = {
+                    is_core = NEN
+                }
+                add_province_modifier = { 
+                    name = lozania_push
+                    duration = 10000 
+                }
+            }
+        }
+    }
+}
+country_event = {
+    id = 2100002
+    title = "A Colony Stated"
+    desc = "Colony Stated"
+
+    trigger = {
+        tag = NEN
+        any_state = {
+            limit = {
+                is_colonial = no
+            }
+            any_owned = {
+                has_province_modifier = lozania_push
+            }
+        }
+    }
+    mean_time_to_happen = {
+        days = 1
+    }
+    option = {
+        name = "Ok"
+        remove_province_modifier = lozania_push
+    }
+}
+country_event = {
+    id = 2100006
+    title = "Natives Assimilate"
+    desc = "Some Natives have seen the glory of our culture!"
+
+    trigger = {
+        tag = NEN
+        has_country_flag = fall_of_illinewek
+        any_state = {
+            limit = { is_colonial = yes }
+            random_owned = {
+                limit = { 
+                    is_core = NEN
+                    any_pop = {
+                        has_pop_culture = illinois
+                    }
+                }
+            }
+        }
+    }
+    mean_time_to_happen = {
+        days = 730
+    }
+    option = {
+        name = "Glorious"
+        assimilate = yes
+    }
+}

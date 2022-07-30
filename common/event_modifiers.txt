@@ -774,10 +774,20 @@ icon = 8
 
 punitive_effects = {
 icon = 8
-
 }
+
+lozania_push = {
+immigrant_attract = 4
+icon = 19
+}
+
 russian_assimilate = {
 	global_assimilation_rate = 0.05
+	icon = 8
+}
+victory_in_spain = {
+	immigrant_attract = 4
+	assimilation_rate = 100
 	icon = 8
 }
 treaty_port = {

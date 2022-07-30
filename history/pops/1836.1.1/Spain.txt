@@ -1053,7 +1053,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 1100
+		size = 3100
 	}
 
 	farmers = {
@@ -1110,7 +1110,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 250
+		size = 3250
 	}
 
 	labourers = {
@@ -1149,7 +1149,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 1100
+		size = 3100
 	}
 
 	farmers = {
@@ -1231,7 +1231,7 @@
 	farmers = {
 		culture = catalan
 		religion = catholic
-		size = 53225
+		size = 123225
 	}
 
 	aristocrats = {
@@ -1329,7 +1329,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 250
+		size = 3250
 	}
 
 	farmers = {
@@ -1423,7 +1423,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 400
+		size = 3400
 	}
 
 	farmers = {
@@ -1556,7 +1556,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 2000
+		size = 3000
 	}
 
 	farmers = {
@@ -1643,7 +1643,7 @@
 	soldiers = {
 		culture = catalan
 		religion = catholic
-		size = 250
+		size = 3050
 	}
 
 	farmers = {
@@ -1712,7 +1712,7 @@
 	soldiers = {
 		culture = algaravian
 		religion = sunni
-		size = 550
+		size = 3050
 	}
 
 	farmers = {

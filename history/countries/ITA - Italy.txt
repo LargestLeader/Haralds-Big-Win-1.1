@@ -116,7 +116,7 @@ govt_flag = {
 	introspectionism = 1
 	associationism = 1
 	
-	piston_steam_engine = 1
+	water_wheel_power = 1
 	high_pressure_steam_engine = 1
 	compound_steam_engines = 1
 	mechanical_production = 1

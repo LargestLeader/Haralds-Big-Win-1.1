@@ -1,0 +1,56 @@
+country_event = {
+    id = 2100003
+    title = "Jihad Against Aragon"
+    desc = "The Christians have sullied Iberia for far to long. The time to drive them out has come."
+
+    trigger = {
+        tag = ANU
+        year = 1840
+        NOT = { has_country_flag = renewed_jihad }
+    }
+    mean_time_to_happen = {
+        days = 1
+    }
+    option = {
+        name = "Not sure what to make this"
+        set_country_flag = renewed_jihad
+    }
+}
+country_event = {
+    id = 2100004
+    title = "Reconquista"
+    desc = "I hate coming up with larp"
+
+    trigger = {
+        tag = CAT
+        year = 1840
+        NOT = { has_country_flag = reconquista_returns }
+    }
+    mean_time_to_happen = {
+        days = 1
+    }
+    option = {
+        name = "someone else come up with something"
+        set_country_flag = reconquista_returns
+    }
+}
+country_event = {
+    id = 2100005
+    title = "YOU WILL CONVERT NOW"
+    desc = "Im sick of this not working"
+
+    is_triggered_only = yes
+    option = {
+        name = "Im malcontent"
+        any_owned = {
+            limit = { 
+                is _core = THIS
+                continent = europe
+            }
+            add_province_modifier = {
+                name = victory_in_spain
+                duration = 3650
+            }
+        }
+    }
+}

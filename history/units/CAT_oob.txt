@@ -1,0 +1,68 @@
+army = {
+    name = "Army of Catalonia"
+    location = 498
+    regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 498
+	}
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+        home = 501
+    }
+    regiment = {
+        name = "3rd Infantry"
+        type = infantry
+        home = 501
+    }
+    regiment = {
+        name = "4th Infantry"
+        type = infantry
+        home = 496
+    }
+    regiment = {
+        name = "5th Infantry"
+        type = infantry
+        home = 496
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+        home = 503
+    }
+    regiment = {
+        name = "2nd Artillery"
+        type = artillery
+        home = 503
+    }
+}
+army = {
+    name = "Army of Valencia"
+    location = 503
+    regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 499
+	}
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+        home = 499
+    }
+    regiment = {
+        name = "3rd Infantry"
+        type = infantry
+        home = 505
+    }
+    regiment = {
+        name = "4th Infantry"
+        type = infantry
+        home = 505
+    }
+    regiment = {
+        name = "5th Infantry"
+        type = infantry
+        home = 506
+    }
+}
