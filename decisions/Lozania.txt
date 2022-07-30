@@ -25,7 +25,6 @@ political_decisions = {
             MIA = { all_core = { add_core = NEN }}
             VGR = { all_core = { add_core = NEN }}
             YCH = { all_core = { add_core = NEN }}
-            }
         }
     }
     fall_of_illinewek = {
@@ -49,6 +48,7 @@ political_decisions = {
             VGR = { all_core = { remove_core = VGR }}
             YCH = { all_core = { remove_core = YCH }}
             set_country_flag = fall_of_illinewek
+            country_event = 2100001
         }
     }
 }
