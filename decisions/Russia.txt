@@ -90,7 +90,9 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			change_tag = RUS
-			add_accepted_culture = east_slavic
+			add_accepted_culture = russian
+			add_accepted_culture = novgorodian
+			add_accepted_culture = ukrainian
 		}
 	}
 	russian_unification = {
