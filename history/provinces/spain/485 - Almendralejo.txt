@@ -1,6 +1,6 @@
-owner = CST
-controller = CST
-add_core = CST
+owner = ANU
+controller = ANU
+add_core = ANU
 add_core = IBR
 trade_goods = wool
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = ANU
+controller = ANU
+add_core = ANU
 add_core = IBR
 trade_goods = wool
 life_rating = 35

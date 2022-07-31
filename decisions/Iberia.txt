@@ -1,28 +1,12 @@
 political_decisions = {
-    aragon_defeated = {
-        potential = {
-            tag = ANU
-            NOT = { has_country_flag = aragon_defeated }
-        }
-        allow = {
-            state_n_government = 1
-            owns = 506
-            owns = 503
-        }
-        effect = {
-            prestige = 30
-            IBR = { all_core = { add_core = ANU } }
-            set_country_flag = aragon_defeated
-        }
-    }
     the_caliphs_return_to_spain = {
         potential = {
             tag = ANU
-            has_country_flag = aragon_defeated
             489 = { is_core = IBR }
         }
         allow = {
-            ANU = { all_core = { owned_by = ANU }}
+            state_n_government = 1
+            IBR = { all_core = { owned_by = IBR }}
         }
         effect = {
             prestige = 30
@@ -35,76 +19,21 @@ political_decisions = {
             ATR = { all_core = { remove_core = ATR }}
         }
     }
-    aragon_victorious = {
-        potential = {
-            tag = CAT
-            NOT = { has_country_flag = aragon_victorious }
-        }
-        allow = {
-            state_n_government = 1
-            owns = 513
-            owns = 510
-        }
-        effect = {
-            prestige = 10
-            ANU = { all_core = { add_core = CAT }}
-            ANU = { all_core = { add_core = IBR }}
-            set_country_flag = aragon_victorious
-        }
-    }
-    reconquista_completed = {
-        potential = {
-            tag = CAT
-            has_country_flag = aragon_victorious
-            NOT = { has_country_flag = reconquista_completed }
-        }
-        allow = {
-            ANU = { all_core = { owned_by = CAT }}
-        }
-        effect = {
-            prestige = 20
-            ANU = { all_core = { remove_core = ANU }}
-            IBR = { all_core = { add_core = CAT }}
-            set_country_flag = reconquista_completed
-        }
-    }
     form_iberia = {
         potential = {
             tag = CAT
-            has_country_flag = reconquista_completed
         }
         allow = {
-            nationalism_n_imperialism = 1
+            state_n_government = 1
             IBR = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = { 
-                            vassal_of = THIS
-                        }
-                        owner = { 
-                            in_sphere = THIS
-                        }
-                    }
-                }
+                all_core = { owned_by = THIS }
             }
         }
         effect = {
             prestige = 30
             change_tag = IBR
-            any_country = {
-                limit = {
-                    is_culture_group = THIS
-                    OR = {
-                        vassal_of = THIS
-                        in_sphere = THIS
-                    }
-                }
-                country_event = { id=11101 days=0 }
-            }
             add_accepted_culture = galician
             add_accepted_culture = asturleonese
-            add_accepted_culture = basque
             add_accepted_culture = algaravian
             CAT = { all_core = { add_core = IBR }}
             CAT = { all_core = { remove_core = CAT }}
@@ -112,6 +41,7 @@ political_decisions = {
             POR = { all_core = { remove_core = POR }}
             BSQ = { all_core = { remove_core = BSQ }}
             ATR = { all_core = { remove_core = ATR }} 
+            ANU = { all_core = { remove_core = ANU }}
         }
     }
 }

@@ -1,6 +1,6 @@
-owner = ATR
-controller = ATR
-add_core = ATR
+owner = CAT
+controller = CAT
+add_core = CAT
 add_core = IBR
 trade_goods = grain
 life_rating = 35

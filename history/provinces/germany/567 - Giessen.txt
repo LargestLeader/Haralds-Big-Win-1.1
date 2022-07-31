@@ -1,5 +1,6 @@
-owner = HES
-controller = HES
+ownerowner = SAX
+controller = SAX
+add_core = SAX
 add_core = HES
 add_core = GER
 trade_goods = cattle

@@ -1,6 +1,7 @@
-owner = ATR
-controller = ATR
-add_core = ATR
+owner = ANU
+controller = ANU
+add_core = ANU
+add_core = IBR
 add_core = CST
 add_core = IBR
 trade_goods = grain

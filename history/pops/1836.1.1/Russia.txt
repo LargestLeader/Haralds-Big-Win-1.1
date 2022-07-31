@@ -3194,25 +3194,25 @@
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2500
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 10000
 	}
@@ -3236,25 +3236,25 @@
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 1100
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 5150
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 3100
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 10000
 	}
@@ -3420,25 +3420,25 @@
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 10100
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 20775
 	}
@@ -3498,25 +3498,25 @@
 	}
 	
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 6775
 	}
@@ -3563,13 +3563,13 @@
 	}
 	
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 1775
 	}
 	
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 15000
 	}
@@ -3730,7 +3730,7 @@
 	}
 	
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 8000
 	}
@@ -3759,19 +3759,19 @@
 	}
 
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 7000
 	}
 
 	bureaucrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2000
 	}
 
 	officers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2000
 	}
@@ -3795,31 +3795,31 @@
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2750
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 6000
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 8750
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 35400
 	}
 	
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 10000
 	}
@@ -3831,31 +3831,31 @@
 	}
 
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 500
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 275
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 2850
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 350
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 31025
 	}
@@ -3906,25 +3906,25 @@
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 20825
 	}
@@ -4005,37 +4005,37 @@
 	}
 	
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 600
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 550
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2800
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 5750
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 20500
 	}
 	
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 8000
 	}
@@ -4065,31 +4065,31 @@
 	}
 
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 225
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 125
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 750
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 3150
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 30750
 	}
@@ -4097,31 +4097,31 @@
 #Simbirsk (340000/85000 POPS)
 1033 = {
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 525
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2600
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 6725
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 32700
 	}
@@ -4145,31 +4145,31 @@
 	}
 
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 75
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 250
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 50
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 4550
 	}
@@ -4177,31 +4177,31 @@
 #Samara (208000/52000 POPS)
 1034 = {
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 450
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2200
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 4000
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25600
 	}
@@ -4213,19 +4213,19 @@
 	}
 	
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 10650
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 2300
 	}
@@ -4233,31 +4233,31 @@
 #Syzran (540000/135000 POPS)
 1035 = {
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2750
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 6350
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 30000
 	}
@@ -4389,25 +4389,25 @@
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 1000
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2900
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 8000
 	}
@@ -4419,31 +4419,31 @@
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 50
 	}
 	
 	bureaucrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 200
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 2500
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 2750
 	}
@@ -4642,79 +4642,79 @@
 #Ufa (1212000/303000 POPS)
 1042 = {
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 700
 	}
 
 	bureaucrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 800
 	}
 
 	officers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 525
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2100
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 41045
 	}
 	
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 30000
 	}
 
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 1750
 	}
 
 	officers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 750
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 800
 	}
@@ -4726,37 +4726,37 @@
 	}
 
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 250
 	}
 
 	officers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 125
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 750
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 150
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 7700
 	}
@@ -4826,25 +4826,25 @@
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25  
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 220 
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 825
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 5875  
 	}
@@ -5800,43 +5800,43 @@
 	}
 	
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 800
 	}
 
 	bureaucrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 275
 	}
 
 	officers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 500
 	}
 	
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 4950
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 25750
 	}
@@ -5868,31 +5868,31 @@
 #Chelyabinsk (180000/45000 POPS)
 1059 = {
 	aristocrats = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 450
 	}
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 2250
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 450
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 41400
 	}
@@ -5901,19 +5901,19 @@
 1060 = {
 
 	artisans = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = sunni
 		size = 8000
 	}

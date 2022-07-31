@@ -1,5 +1,6 @@
-owner = WUL
-controller = WUL
+ownerowner = SAX
+controller = SAX
+add_core = SAX
 add_core = WUL
 add_core = GER
 trade_goods = fruit

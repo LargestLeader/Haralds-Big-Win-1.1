@@ -2687,7 +2687,7 @@
 #Sinop (192000/48000 POPS)
 883 = {
     farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 150
 	}

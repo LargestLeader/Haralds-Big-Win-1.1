@@ -1,6 +1,6 @@
-owner = BSQ
-controller = BSQ
-add_core = BSQ
+owner = CAT
+controller = CAT
+add_core = CAT
 add_core = ATR
 add_core = IBR
 trade_goods = iron

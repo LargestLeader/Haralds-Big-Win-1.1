@@ -1,7 +1,7 @@
-owner = CST
-controller = CST
+owner = ANU
+controller = ANU
 add_core = ATR
-add_core = CST
+add_core = ANU
 add_core = IBR
 trade_goods = iron
 life_rating = 35

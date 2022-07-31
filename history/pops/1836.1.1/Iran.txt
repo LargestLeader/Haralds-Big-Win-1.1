@@ -693,7 +693,7 @@
 #Ardabil (280000/70000 POPS)
 1112 = {
     farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 150
 	}
@@ -1994,7 +1994,7 @@
 	}
 	
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 150
 	}
@@ -2087,7 +2087,7 @@
 	}
 	
 	farmers = {
-		culture = bulgar_tatar
+		culture = astrakhan_tatar
 		religion = shiite
 		size = 150
 	}

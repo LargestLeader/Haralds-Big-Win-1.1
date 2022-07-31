@@ -119,9 +119,7 @@ political_decisions = {
 			tag = RUS
 			967 = { is_core = DON }
 			NOT = { 
-				has_country_flag = russia_crimea
-				has_country_flag = annex_azov
-				is_our_vassal = DON
+				has_accepted_culture = crimean_tatar
 			}
 		}
 		allow = {
@@ -194,10 +192,7 @@ political_decisions = {
 			prestige = 20
 			KZN = { all_core = { remove_core = TAR } }
 			KZN = { all_core = { remove_core = KZN } }
-			add_country_modifier = {
-				name = russian_assimilate
-				duration = 10000
-			}
+			add_accepted_culture = astrakhan_tatar
 			set_country_flag = fall_of_kazan
 		}
 	}
