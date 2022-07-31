@@ -6,7 +6,7 @@ political_decisions = {
         }
         allow = {
             state_n_government = 1
-            IBR = { all_core = { owned_by = IBR }}
+            IBR = { all_core = { owned_by = ANU }}
         }
         effect = {
             prestige = 30
