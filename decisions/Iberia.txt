@@ -10,6 +10,7 @@ political_decisions = {
         }
         effect = {
             prestige = 30
+            IBR = { all_core = { add_core = ANU }}
             country_event = 2100005
             IBR = { all_core = { remove_core = IBR }}
             CAT = { all_core = { remove_core = CAT }}
