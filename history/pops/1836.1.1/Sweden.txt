@@ -102,7 +102,7 @@
 	}
 
 	labourers = {
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size = 2350
 	}
@@ -140,7 +140,7 @@
 	}
 
 	farmers = {
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size = 1600
 	}
@@ -173,19 +173,19 @@
 	}
 
 	artisans = {
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size = 3200
 	}
 
 	farmers = {
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size = 1100
 	}
@@ -288,25 +288,25 @@
 	}
 	
 	clergymen = {
-		culture = dalecarlian 
+		culture = swedish 
 		religion = protestant
 		size = 450
 	}
 
 	artisans = {
-		culture = dalecarlian
+		culture = swedish
 		religion = protestant
 		size = 1050
 	}
 
 	soldiers = {
-		culture = dalecarlian
+		culture = swedish
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = dalecarlian
+		culture = swedish
 		religion = protestant
 		size = 22750
 	}

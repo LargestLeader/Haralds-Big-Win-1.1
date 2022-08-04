@@ -1,0 +1,37 @@
+form_zap = {
+    potential = {
+        is_culture_group = western_slavic
+        NOT = { WSF = { exists = yes } } 
+    }
+    allow = {
+        nationalism_n_imperialism = 1
+        WSF = {
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    in_sphere = THIS
+                    AND = {
+                        vassal_of = THIS
+                        in_sphere = THIS
+                    }
+                }
+            }
+        }
+    }
+    effect = {
+        prestige = 20
+        any_country = {
+            limit = {
+                in_sphere = THIS
+                is_culture_group = western_slavic
+            }
+            country_event = { id=11101 days=0 }
+        }
+        change_tag = WSF
+        add_accepted_culture = czech
+        add_accepted_culture = polish
+        add_accepted_culture = sorbian
+        add_accepted_culture = kashubian
+        add_accepted_culture = pruthenian
+    }
+}
