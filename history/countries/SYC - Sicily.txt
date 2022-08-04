@@ -1,7 +1,7 @@
 capital = 762
 primary_culture = french
 culture = norman
-culture = greek
+culture = griko
 culture = siqilli
 religion = catholic
 government = absolute_monarchy
