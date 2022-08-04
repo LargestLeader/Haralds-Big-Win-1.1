@@ -1,5 +1,5 @@
-owner = SAX
-controller = SAX
+owner = FRA
+controller = FRA
 add_core = WOL
 trade_goods = fruit
 terrain = semidesert

@@ -850,13 +850,13 @@
 	}
 
 	artisans = {
-		culture = griko
+		culture = greek
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = griko
+		culture = greek
 		religion = orthodox
 		size = 7500
 	}
