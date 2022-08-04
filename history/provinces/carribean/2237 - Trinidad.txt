@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
+owner = VEN
+controller = VEN
 add_core = TTB
 trade_goods = cotton
 life_rating = 35

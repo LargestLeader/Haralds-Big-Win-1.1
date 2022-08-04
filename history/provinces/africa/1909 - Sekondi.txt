@@ -1,5 +1,5 @@
-owner = ASH
-controller = ASH
+owner = SAX
+controller = SAX
 add_core = ASH
 trade_goods = cattle
 life_rating = 35
