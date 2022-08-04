@@ -173,7 +173,7 @@
 	}
 	
 	slaves = {
-		culture = griko
+		culture = greek
 		religion = orthodox
 		size = 500
 	}

@@ -1554,7 +1554,7 @@ hellenic = {
 		}
 		radicalism = 10
 	}
-	griko = {
+	greek = {
 		color = { 80 150 185 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
