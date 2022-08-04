@@ -1,0 +1,227 @@
+FRM = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+NAS = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+ERF = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+BRA = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+LIP = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+OLD = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+BRE = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+HOL = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+AAC = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+LUB = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+HAM = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+TRR = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+KOL = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+LBG = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+RHI = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+LUX = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+army = {
+    name = "1st Army of Saxony"
+    location = 580
+    regiment = {
+		name= "1st Hussar"
+		type = hussar
+		home = 531
+	}
+
+	regiment = {
+		name= "1st Infantry"
+		type = infantry
+		home = 532
+	}
+
+	regiment = {
+		name= "2nd Infantry"
+		type = infantry
+		home = 535
+	}
+
+	regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 534
+	}
+
+	regiment = {
+		name= "4th Infantry"
+		type = infantry
+		home = 534
+	}
+
+	regiment = {
+		name= "1st Artillery"
+		type = artillery
+		home = 553
+	}
+    regiment = {
+        name = "2nd Artillery"
+        type = artillery
+        home = 561
+    }
+    regiment = {
+        name = "3rd Artillery"
+        type = artillery
+        home = 561
+    }
+}
+army = {
+    name = "2nd Army of Saxony"
+    location = 581
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 581
+    }
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 581
+    }
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 580
+    }
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 580
+    }
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 377
+    }
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 375
+    }
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 375
+    }
+    regiment = {
+        name = "Hussar"
+        type = hussar
+        home = 375
+    }
+    regiment = {
+        name = "Hussar"
+        type = hussar
+        home = 376
+    }
+    regiment = {
+        name = "Hussar"
+        type = hussar
+        home = 378
+    }
+}
+army = {
+    name = "3rd Army of Saxony"
+    location = 566
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 562
+    }
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 566
+    }
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 566
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 595
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 595
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 2560
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 559
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 2561
+    }
+}

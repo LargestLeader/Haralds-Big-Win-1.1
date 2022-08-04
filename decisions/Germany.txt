@@ -1,0 +1,104 @@
+political_decisions = {
+    north_germany_thing = {
+        potential = {
+            tag = SAX
+            NOT = { has_country_flag = north_germany_thing }
+        }
+        allow = {
+            GER = {
+                all_core = {
+                    OR = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                                in_sphere = THIS
+                            }
+                        }
+                        is_core = LOR
+                        is_core = BAV
+                        is_core = WUR
+                        is_core = WLL
+                        is_core = LUX
+                        owned_by = FRA
+                    }
+                }
+            }
+        }
+        effect = {
+			prestige = 15
+            set_country_flag = north_germany_thing
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = north_german
+                        primary_culture = south_german
+                        primary_culture = swiss_german
+                        primary_culture = frisian
+						tag = SCH 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+                        tag = LOR
+                        tag = BAV
+                        tag = WUR
+                        tag = WLL
+                        tag = LUX
+					}
+				}
+				annex_to = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = GER
+                    NOT = {
+                        is_core = LOR
+                        is_core = BAV
+                        is_core = WUR
+                        is_core = WLL
+                        is_core = LUX
+                    }
+				}
+				add_core = SAX
+			}			
+		}
+        ai_will_do = {
+			factor = 1
+		}
+    }
+    form_germany = {
+        potential = {
+            is_culture_group = continental_west_germanic
+            NOT = { GER = { exists = yes } }
+        }
+        allow = {
+            is_greater_power = yes
+            war = no
+            GER = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            in_sphere = THIS
+                        }
+                    }
+                }
+            }
+        }
+        effect = {
+            prestige = 30
+            change_tag = GER
+            any_country = {
+                limit = {
+                    in_sphere = THIS
+                    is_culture_group = continental_west_germanic
+                }
+                country_event = { id=11101 days=0 }
+            }
+            SAX = { all_core = { remove_core = SAX }}
+        }
+        ai_will_do = {
+			factor = 1
+		}
+    }
+}

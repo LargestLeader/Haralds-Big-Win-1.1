@@ -941,12 +941,6 @@
 		religion = catholic
 		size = 200
 	}
-
-	farmers = {
-		culture = swiss_german
-		religion = catholic
-		size = 27775
-	}
 }
 
 

@@ -19,6 +19,9 @@ political_decisions = {
             BSQ = { all_core = { remove_core = BSQ }}
             ATR = { all_core = { remove_core = ATR }}
         }
+        ai_will_do = {
+			factor = 1
+		}
     }
     form_iberia = {
         potential = {
@@ -26,6 +29,7 @@ political_decisions = {
         }
         allow = {
             state_n_government = 1
+            war = no
             IBR = {
                 all_core = { owned_by = THIS }
             }
@@ -44,5 +48,8 @@ political_decisions = {
             ATR = { all_core = { remove_core = ATR }} 
             ANU = { all_core = { remove_core = ANU }}
         }
+        ai_will_do = {
+			factor = 1
+		}
     }
 }

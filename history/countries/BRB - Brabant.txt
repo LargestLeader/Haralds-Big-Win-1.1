@@ -1,6 +1,6 @@
 capital = 387
-primary_culture = dutch
-culture = north_german
+primary_culture = north_german
+culture = dutch
 religion = protestant
 government = absolute_monarchy
 plurality = 0.05

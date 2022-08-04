@@ -1,6 +1,7 @@
 owner = WLL
 controller = WLL
 add_core = WLL
+add_core = FRA
 add_core = GER
 trade_goods = iron
 terrain = namur

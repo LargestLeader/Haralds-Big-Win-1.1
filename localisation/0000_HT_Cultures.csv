@@ -35,19 +35,19 @@ ukrainian;Ruthenian;;;;;;;;;;;;;x
 janubi;Budjari;;;;;;;;;;;;;x
 swiss_german;Central German;;;;;;;;;;;;;x
 turkish;Turkoman;;;;;;;;;;;;;x
-north_german;Lower German;;;;;;;;;;;;;x
-south_german;Upper German;;;;;;;;;;;;;x
+north_german;North German;;;;;;;;;;;;;x
+south_german;South German;;;;;;;;;;;;;x
 norman;Norman;;;;;;;;;;;;x
 siqilli;Siqilli;;;;;;;;;;;;x
 griko;Griko;;;;;;;;;;;;x
 cuman;Cuman;;;;;;;;;;;;x
-jassic;Jász;;;;;;;;;;;;x
+jassic;Jï¿½sz;;;;;;;;;;;;x
 new_scots;New Scots;;;;;;;;;;;;x
-dutch;Lower Frankish;;;;;;;;;;;;x
+dutch;Frankish;;;;;;;;;;;;x
 ashkenazi;Yiddish;;;;;;;;;;;;x
-venetian;Veneto-Dalmatian;;;;;;;;;;;;x
+venetian;Venetian;;;;;;;;;;;;x
 tuscan;Tusco-Corsican;;;;;;;;;;;;x
-north_italian;Galloitalian;;;;;;;;;;;;x
+north_italian;North Italian;;;;;;;;;;;;x
 sardinian;Sardinian;;;;;;;;;;;;x
 torlakian;Torlakian;;;;;;;;;;;;x
 shtokavian;Shtokavian;;;;;;;;;;;;x
@@ -84,7 +84,7 @@ avar;Avar;;;;;;;;;;;;x
 dargin;Dargin;;;;;;;;;;;;x
 andi_didoic;Andi-Didoic;;;;;;;;;;;;x
 lezgic;Lez;;;;;;;;;;;;x
-u_tsang;Ü-Tsang;;;;;;;;;;;;x
+u_tsang;ï¿½-Tsang;;;;;;;;;;;;x
 amdo;Amdo;;;;;;;;;;;;x
 kham;Kham;;;;;;;;;;;;x
 kuki_chin;Kuki-Chin;;;;;;;;;;;;x
@@ -211,7 +211,7 @@ raji;Raji;;;;;;;;;;;;x
 mamluki;Mamluki;;;;;;;;;;;;x
 maltese;Malti;;;;;;;;;;;;x
 yevanic;Yevanic;;;;;;;;;;;;x
-ormuri;Ormuri–Parachi;;;;;;;;;;;;x
+ormuri;Ormuriï¿½Parachi;;;;;;;;;;;;x
 harari;Hareri;;;;;;;;;;;;x
 cushitic;Cushitic Minor;;;;;;;;;;;;x
 agaw;Agaw;;;;;;;;;;;;x
@@ -719,7 +719,7 @@ commanche;Commanche;;;;;;;;;;;;;;;;;;;;;;;;x
 paiute;Paiute;;;;;;;;;;;;;;;;;;;;;;;;x
 ute_lang;Ute;;;;;;;;;;;;;;;;;;;;;;;;x
 hopian;Hopi;;;;;;;;;;;;;;;;;;;;;;;;x
-tubatulabal;Tübatulabal;;;;;;;;;;;;;;;;;;;;;;;;x
+tubatulabal;Tï¿½batulabal;;;;;;;;;;;;;;;;;;;;;;;;x
 corachol;Corachol;;;;;;;;;;;;;;;;;;;;;;;;x
 yaqui;Yaqui;;;;;;;;;;;;;;;;;;;;;;;;x
 mayo;Mayo;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -1032,7 +1032,7 @@ kordali;Kordali;;;;;;;;;;;;;;;;;;;;;;;;x
 laki;Laki;;;;;;;;;;;;;;;;;;;;;;;;x
 khuzi;Khuzi;;;;;;;;;;;;;;;;;;;;;;;;x
 bandari;Bandari;;;;;;;;;;;;;;;;;;;;;;;;x
-uzbek;Özbeg;;;;;;;;;;;;;;;;;;;;;;;;x
+uzbek;ï¿½zbeg;;;;;;;;;;;;;;;;;;;;;;;;x
 chaharmahali;Chaharmahali;;;;;;;;;;;;;;;;;;;;;;;;x
 tsezic;Tsezic;;;;;;;;;;;;;;;;;;;;;;;;x
 andi;Andi;;;;;;;;;;;;;;;;;;;;;;;;x

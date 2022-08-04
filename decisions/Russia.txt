@@ -84,6 +84,7 @@ political_decisions = {
 		}
 		allow = {
 			nationalism_n_imperialism = 1
+			war = no
 			MUS = { all_core = { owned_by = THIS } }
 			RTH = { all_core = { owned_by = THIS } }
 		}
