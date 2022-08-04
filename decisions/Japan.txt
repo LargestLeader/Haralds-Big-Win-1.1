@@ -8,7 +8,7 @@ political_decisions = {
             KOR = { all_core = { owned_by = JAP }}
         }
         effect = {
-            prestige = 20
+            prestige = 10
             KOR = { all_core = { add_core = JAP }}
             set_country_flag = core_korea
         }
@@ -24,6 +24,75 @@ political_decisions = {
         }
         effect = {
             658 = { add_core = JAP }
+        }
+    }
+    japanese_phil = {
+        potential = {
+            tag = JAP
+            civilized = yes
+            NOT = { has_country_flag = japanese_phil }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+            PHI = { all_core = { owned_by = JAP}}
+        }
+        effect = {
+            prestige = 5
+            PHI = { all_core = { add_core = JAP }}
+            set_country_flag = japanese_phil
+        }
+    }
+    japanese_taiwan = {
+        potential = {
+            tag = JAP
+            civilized = yes
+            NOT = { has_country_flag = japanese_taiwan }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+            FJN = { all_core = { owned_by = JAP }}
+        }
+        effect = {
+            prestige = 5
+            FJN = { all_core = { add_core = JAP }}
+            set_country_flag = japanese_taiwan
+        }
+    }
+    japanese_capital = {
+        potential = {
+            tag = JAP
+            civilized = yes
+            NOT = { capital = 1649 }
+        }
+        allow = {
+            civilized = yes
+            owns = 1649
+        }
+        effect = {
+            prestige = 10
+            capital = 1649
+            life_rating = 5
+        }
+    }
+    asian_navy = {
+        potential = {
+            tag = JAP
+            has_country_flag = japanese_taiwan
+            has_country_flag = japanese_phil
+            has_country_flag = japanese_hawaii
+            NOT = { has_country_flag = asian_navy }
+        }
+        allow = {
+            revolution_n_counterrevolution = 1
+            JAP = { all_core = { owned_by = JAP }}
+        }
+        effect = {
+            prestige = 40
+            add_country_modifier = {
+                name = japan_big_win
+                duration = 18250
+            }
+            set_country_flag = asian_navy
         }
     }
 }

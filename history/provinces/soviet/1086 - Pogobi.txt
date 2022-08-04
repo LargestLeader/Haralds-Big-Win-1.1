@@ -1,6 +1,5 @@
-owner = MCK
-controller = MCK
-add_core = CHI
-add_core = MCK
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = fish
 life_rating = 15
