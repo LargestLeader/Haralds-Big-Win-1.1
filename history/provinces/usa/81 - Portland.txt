@@ -1,6 +1,7 @@
 owner = CAL
 controller = CAL
 add_core = CAL
+add_core = CMM
 trade_goods = fish
 life_rating = 35
 
