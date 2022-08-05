@@ -1,9 +1,10 @@
 capital = 729
 primary_culture = venetian
+culture = north_italian
 religion = catholic
 government = democracy
 plurality = 0.1
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0.6
 civilized = yes
 

@@ -1,5 +1,9 @@
 capital = 322
 primary_culture = swedish
+culture = finnish
+culture = estonian
+culture = latvian
+culture = ingrian
 religion = protestant
 government = absolute_monarchy
 plurality = 25.0

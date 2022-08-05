@@ -1,5 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = SVY
+controller = SVY
+add_core = SVY
+add_core = ITA
 trade_goods = silk
 life_rating = 35

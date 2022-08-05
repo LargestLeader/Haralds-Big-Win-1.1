@@ -5,6 +5,6 @@ add_core = MAJ
 add_core = GEL
 add_core = SOM
 add_core = HBY
-trade_goods = precious_goods
+trade_goods = precious_metal
 terrain = coastal_forest
 life_rating = 40

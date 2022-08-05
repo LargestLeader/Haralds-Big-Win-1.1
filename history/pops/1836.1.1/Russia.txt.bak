@@ -1013,7 +1013,7 @@
 	}
 	
 	farmers = {
-		culture = sami
+		culture = finnish
 		religion = animist
 		size = 350
 	}
@@ -1062,7 +1062,7 @@
 	}
 
 	farmers = {
-		culture = sami
+		culture = finnish
 		religion = animist
 		size = 1090
 	}
@@ -1070,49 +1070,49 @@
 #Kostomuksha (20000/5000 POPS)
 984 = {
 	clergymen = {
-		culture = karelian
+		culture = finnish
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = karelian
+		culture = finnish
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = karelian
+		culture = finnish
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = karelian
+		culture = finnish
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = karelian
+		culture = finnish
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = karelian
+		culture = finnish
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = karelian
+		culture = finnish
 		religion = catholic
 		size = 3500
 	}
 
 	farmers = {
-		culture = karelian
+		culture = finnish
 		religion = catholic
 		size = 500
 	}
@@ -1144,25 +1144,25 @@
 	}
 
 	clergymen = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 250
 	}
 
 	artisans = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 425
 	}
 
 	farmers = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 4500
 	}
@@ -1185,7 +1185,7 @@
 	}
 	
 	farmers = {
-		culture = sami
+		culture = finnish
 		religion = animist
 		size = 380
 	}
@@ -2013,19 +2013,19 @@
 	}
 
 	clergymen = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 13500
 	}
@@ -2224,13 +2224,13 @@
 	}
 	
 	farmers = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 3000
 	}
 
 	clergymen = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 10
 	}
@@ -2332,25 +2332,25 @@
 	}
 
 	clergymen = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 10250
 	}
@@ -2395,25 +2395,25 @@
 
 
 	clergymen = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 100
 	}
 
 	serfs = {
-		culture = karelian
+		culture = finnish
 		religion = orthodox
 		size = 9325
 	}

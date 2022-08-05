@@ -91,7 +91,7 @@
 	}
 
 	farmers = {
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size = 5075
 	}

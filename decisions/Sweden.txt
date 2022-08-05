@@ -1,0 +1,100 @@
+political_decisions = { 
+    form_scandinavia = {
+		news = yes
+		news_desc_long = "form_scandinavia_NEWS_LONG"
+		news_desc_medium = "form_scandinavia_NEWS_MEDIUM"
+		news_desc_short = "form_scandinavia_NEWS_SHORT"
+		potential = {
+		    is_culture_group = north_germanic
+			NOT = {
+				exists = SCA
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			war = no
+			NOR = { all_core = { owned_by = THIS }}
+            DEN = { all_core = { owned_by = THIS }}
+            SWE = { 
+                all_core = { 
+                    OR = {
+                        owned_by = THIS              
+                        owned_by = MUS
+                        owned_by = RUS 
+                        owned_by = RTH 
+                    }
+                }
+            }
+        }
+		
+		effect = {
+			prestige = 20
+			change_tag = SCA
+			add_accepted_culture = swedish
+			add_accepted_culture = danish
+			add_accepted_culture = norwegian
+			add_accepted_culture = icelandic
+            SWE = { all_core = { add_core = SCA }}
+            NOR = { all_core = { add_core = SCA }}
+            DEN = { all_core = { add_core = SCA }}
+            SWE = { all_core = { remove_core = SWE }}
+            NOR = { all_core = { remove_core = NOR }}
+            DEN = { all_core = { remove_core = DEN }}
+            ICL = { all_core = { add_core = SCA }}
+			any_country = {
+				limit = {
+					NOT = {
+						is_greater_power = yes
+					}
+					is_culture_group = scandinavian
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+    core_courland = {
+        potential = {
+            OR = {
+                tag = SCA
+                tag = SWE
+            }
+            358 = { is_core = CUR }
+        }
+        allow = {
+            CUR = { all_core = { owned_by = THIS}}
+        }
+        effect = {
+            CUR = { all_core = { add_core = THIS}}
+            CUR = { all_core = { remove_core = CUR}}
+            add_accepted_culture = courish
+        }
+    }
+    take_down_harald = {
+        potential = {
+            tag = SWE
+            NOT = { has_country_flag = take_down_harald }
+        }
+        allow = {
+            state_n_government = 1
+            SWE = { 
+                all_core = {
+                    OR = { 
+                        owned_by = THIS
+                        owned_by = NRD
+                    }
+                }
+            }
+        }
+        effect = {
+            prestige = 10
+            NOR = { all_core = { add_core = THIS } }
+            DEN = { all_core = { add_core = THIS } }
+            set_country_flag = take_down_harald
+        }
+    }
+}
