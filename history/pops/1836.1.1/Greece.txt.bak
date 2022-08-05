@@ -832,19 +832,19 @@
 #Zante (76000/19000 POPS)
 827 = {
 	aristocrats = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 175
 	}
 	
 	soldiers = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 1300
 	}

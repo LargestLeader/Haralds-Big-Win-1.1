@@ -2005,19 +2005,19 @@
 #Reggio (572000/143000 POPS)
 759 = {
 	aristocrats = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 3500
 	}
 
 	bureaucrats = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 475
 	}
 
 	officers = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 375
 	}
@@ -2035,7 +2035,7 @@
 	}
 
 	soldiers = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 2000
 	}
@@ -2140,19 +2140,19 @@
 #Palermo (744000/186000 POPS)
 762 = {
 	aristocrats = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 5200
 	}
 
 	bureaucrats = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 825
 	}
 
 	officers = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 500
 	}
@@ -2182,13 +2182,13 @@
 	}
 
 	soldiers = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 6000
 	}
 	
 	farmers = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 11737
 	}
@@ -2209,7 +2209,7 @@
 #Messina (352000/88000 POPS)
 763 = {
 	aristocrats = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 2450
 	}
@@ -2227,7 +2227,7 @@
 	}
 
 	soldiers = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 1100
 	}
@@ -2248,7 +2248,7 @@
 #Catania (720000/180000 POPS)
 764 = {
 	aristocrats = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 5000
 	}
@@ -2278,7 +2278,7 @@
 	}
 
 	soldiers = {
-		culture = norman
+		culture = french
 		religion = catholic
 		size = 3000
 	}
