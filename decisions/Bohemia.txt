@@ -1,5 +1,6 @@
 political_decisions = {
-form_zap = {
+
+form_zap = { #the fact this is not indented bugs me
     potential = {
         is_culture_group = western_slavic
         NOT = { WSF = { exists = yes } } 
@@ -36,4 +37,7 @@ form_zap = {
         add_accepted_culture = pruthenian
     }
 }
+
+
+
 }

@@ -101,4 +101,49 @@ political_decisions = {
 			factor = 1
 		}
     }
+
+    Claim_Mittelland = {
+        potential = {
+            tag = GER
+            NOT = { has_country_flag = mittelland }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            604 = { add_core = GER }
+            605 = { add_core = GER }
+            606 = { add_core = GER }
+            set_country_flag = mittelland
+        }
+    }
+
+    AHHH_IM_SOOOOOOOORBIIING = {
+        potential = {
+            tag = GER
+            not = { has_country_flag = soorb }
+        }
+        allow = { 
+            revolution_n_counterrevolution = 1 
+            OR = {
+                544 = { owned_by = THIS }
+                549 = { owned_by = THIS }
+            }
+        }
+        effect = {
+            prestige = 10
+            add_accepted_culture = sorbian
+            set_country_flag = soorb
+            544 = { add_core = THIS }
+            545 = { add_core = THIS }
+            547 = { add_core = THIS }
+            548 = { add_core = THIS }
+            549 = { add_core = THIS }
+            550 = { add_core = THIS }
+            551 = { add_core = THIS }
+            552 = { add_core = THIS }
+        }
+    }
+
+
 }

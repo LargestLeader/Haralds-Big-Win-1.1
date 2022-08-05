@@ -181,4 +181,25 @@ political_decisions = {
 		#news_desc_medium = "SOME_TEXT_MEDIUM"
 		#news_desc_short = "SOME_TEXT_SHORT"
 	}
+
+    switch_to_BOH_tech = {
+        potential = {
+            OR = {
+                tag = BOH
+                tag = WSF
+            }
+            NOT = { tech_school = bohemian_tech_school}
+        }
+        allow = {
+            OR = {
+                tag = BOH
+                tag = WSF            
+            }
+            nationalism_n_imperialism = 1
+			NOT = { has_country_modifier = academic_confusion }
+        }
+        effect = {
+            tech_school = bohemian_tech_school
+        }
+    }
 }
