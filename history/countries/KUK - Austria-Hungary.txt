@@ -1,6 +1,7 @@
-capital = 619
-primary_culture = south_german
-culture = hungarian
+capital = 641
+primary_culture = hungarian
+culture = romanian
+culture = slovak
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0
@@ -40,13 +41,13 @@ colonial_policy = no_colonies
 
 set_country_flag = catholic_country
 
-ruling_party = AUS_conservative
+ruling_party = HUN_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
-	conservative = 61
-	reactionary = 14
-	anarcho_liberal = 0
+	conservative = 58
+	reactionary = 12
+	anarcho_liberal = 5
 	socialist = 0
 	communist = 0
 }

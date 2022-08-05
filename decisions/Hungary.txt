@@ -1,0 +1,44 @@
+political_decisions = {
+    hungary-romania ={
+        potential = {
+            tag = HUN
+            NOT = { exists = KUK }
+        }
+        allow = {
+            ROM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = { vassal_of = THIS }
+                        province_id = 674
+                        province_id = 675
+                        province_id = 818
+                     }
+                 }
+            } 
+
+            owns = 659
+            owns = 2533
+       # add back later -  nationalism_n_imperialism = 1
+        }
+        effect = {
+            prestige = 20
+            change_tag = KUK
+            add_accepted_culture = romanian
+            
+            HUN = { all_core = { add_core = KUK } }
+            ROM = { all_core = { add_core = KUK } }
+            HUN = { all_core = { remove_core = HUN } }
+            ROM = { 
+                all_core = { 
+                    remove_core = ROM 
+                    remove_core = MOL
+                    remove_core = WAL
+                } 
+            }
+        WAL = { annex_to = THIS }
+        MOL = { annex_to = THIS } 
+        ROM = { annex_to = THIS } 
+        }
+    }
+} 
