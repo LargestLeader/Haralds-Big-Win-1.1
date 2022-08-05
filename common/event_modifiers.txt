@@ -824,3 +824,11 @@ kinda_bad_badboy = {
 	cb_generation_speed_modifier = -0.3
 	icon = 8
 }
+the_fog = {
+	population_growth = -0.02
+	pop_consciousness_modifier = 0.01
+	immigrant_attract = -0.02
+	life_rating = -1
+	icon = 20
+}
+

@@ -1,0 +1,34 @@
+#the fog.
+country_event = {
+    id = 2100008
+    title = "THE FOG"
+    desc = "the fog is coming."
+
+    mean_time_to_happen = {
+        months = 250
+        modifier = {
+            OR = {
+                tag = FRA
+                tag = JAP
+                tag = SHN
+            }
+        factor = 1.5
+        }
+    }
+
+    option = {
+        name = "it consumes."
+        random_owned = {
+            limit = {
+                is_colonial = no
+                NOT = { has_province_modifier = the_fog }
+            }
+            add_province_modifier = {
+                name = the_fog
+                duration = 180
+            }
+        }
+    }
+}
+
+
