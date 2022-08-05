@@ -790,10 +790,6 @@ victory_in_spain = {
 	assimilation_rate = 100
 	icon = 8
 }
-japan_big_win = {
-	naval_tech_research_bonus = 0.05
-	icon = 8
-}
 treaty_port = {
 	mine_rgo_size = 8
 	farm_rgo_size = 8

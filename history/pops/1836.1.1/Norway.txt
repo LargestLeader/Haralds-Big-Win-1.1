@@ -76,7 +76,7 @@
 	}
 
 	farmers = {
-		culture = finnish
+		culture = sami
 		religion = protestant
 		size = 1100
 	}
@@ -114,13 +114,13 @@
 	}
 
 	farmers = {
-		culture = finnish
+		culture = sami
 		religion = protestant
 		size = 2400
 	}
 
 	farmers = {
-		culture = finnish
+		culture = sami
 		religion = protestant
 		size = 2000
 	}

@@ -145,7 +145,6 @@ political_decisions = {
 					is_culture_group = arab
 					is_culture_group = east_slavic
 					is_culture_group = continental_west_germanic
-					is_culture_group = western_slavic
 					tag = ECU
 					tag = CLM
 					tag = VNZ
@@ -217,6 +216,60 @@ political_decisions = {
 			add_accepted_culture = venetian
 			capital = 749
 			VEN = { all_core = { add_core = ITA}}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	form_scandinavia = {
+		news = yes
+		news_desc_long = "form_scandinavia_NEWS_LONG"
+		news_desc_medium = "form_scandinavia_NEWS_MEDIUM"
+		news_desc_short = "form_scandinavia_NEWS_SHORT"
+		potential = {
+			OR = {
+				is_culture_group = north_germanic
+				is_culture_group = bears
+			}
+			NOT = {
+				exists = SCA
+			}
+		}
+		
+		allow = {
+			prestige = 45
+			war = no
+			SCA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = SCA
+			add_accepted_culture = swedish
+			add_accepted_culture = danish
+			add_accepted_culture = norwegian
+			add_accepted_culture = finnish
+			add_accepted_culture = icelandic
+			add_accepted_culture = sami
+			any_country = {
+				limit = {
+					NOT = {
+						is_greater_power = yes
+					}
+					is_culture_group = scandinavian
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
 		}
 		ai_will_do = {
 			factor = 1
@@ -392,7 +445,6 @@ political_decisions = {
 	form_yugoslavia = {
 		potential = {
 			is_culture_group = south_slavic
-			NOT = { tag = BYZ }
 			NOT = { exists = YUG }
 			NOT = { has_global_flag = yugoslavia_formed }
 		}
