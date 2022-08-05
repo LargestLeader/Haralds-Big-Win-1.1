@@ -757,31 +757,31 @@
 	}
 
 	aristocrats = {
-		culture = jassic
+		culture = hungarian
 		religion = protestant
 		size = 275 
 	}
 
 	clergymen = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 250 
 	}
 
 	artisans = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 1300 
 	}
 
 	soldiers = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 275
 	}
 
 	farmers = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 5900
 	}
@@ -873,25 +873,25 @@
 	}
 
 	clergymen = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 350 
 	}
 
 	soldiers = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 6525
 	}
@@ -985,25 +985,25 @@
 	}
 
 	clergymen = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 25 
 	}
 
 	artisans = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 150 
 	}
 
 	soldiers = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 2800 
 	}
@@ -1025,7 +1025,7 @@
 	}
 	
 	bureaucrats = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 700 
 	}

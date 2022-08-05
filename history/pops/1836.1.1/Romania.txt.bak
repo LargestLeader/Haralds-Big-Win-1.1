@@ -2193,7 +2193,7 @@
 	}	
 
 	farmers = {
-		culture = jassic
+		culture = hungarian
 		religion = orthodox
 		size = 1050 
 	}	
@@ -2313,7 +2313,7 @@
 	}
 	
 	farmers = {
-		culture = jassic
+		culture = hungarian
 		religion = orthodox
 		size = 8625
 	}
@@ -2325,7 +2325,7 @@
 	}
 
 	farmers = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 4500
 	}
@@ -2395,7 +2395,7 @@
 	}
 
 	farmers = {
-		culture = jassic
+		culture = hungarian
 		religion = catholic
 		size = 4578
 	}	

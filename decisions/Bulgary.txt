@@ -31,4 +31,16 @@ political_decisions = {
             set_country_flag = bulkan
         }
     }
+
+    tolerate_albanians = {
+        potential = {
+            tag = BYZ
+            NOT = { has_country_flag = accept_albania }
+        }
+        allow = { nationalism_n_imperialism = 1 }
+        effect = {
+            add_accepted_culture = albanian
+            set_country_flag = accept_albania
+        }
+    }
 }

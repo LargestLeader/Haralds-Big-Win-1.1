@@ -21,19 +21,19 @@
 	}
 
 	clergymen = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 500
 	}
 
 	soldiers = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 1250
 	}
 
 	artisans = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 10000
 	}
@@ -57,13 +57,13 @@
 	}
 	
 	farmers = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 72875
 	}
 	
 	clergymen = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 125
 	}
@@ -187,7 +187,7 @@
 	}
 	
 	labourers = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 19000
 	}
@@ -255,14 +255,14 @@
 	}
 	
 	farmers = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 10575
 	}
 
 
 	clergymen = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 50
 	}
@@ -500,7 +500,7 @@
 #Waterford (536000/134000 POPs)
 262 = {
 	aristocrats = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 500
 	}
@@ -542,13 +542,13 @@
 	}
 	
 	artisans = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 3000
 	}
 
 	farmers = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 64750
 	}
@@ -625,13 +625,13 @@
 	}
 	
 	artisans = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 10000
 	}
 	
 	artisans = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 10000
 	}
@@ -649,13 +649,13 @@
 	}
 	
 	artisans = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 2000
 	}
 	
 	farmers = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 50375
 	}
@@ -755,7 +755,7 @@
 	}
 	
 	farmers = {
-		culture = norse_gaelic
+		culture = englisk
 		religion = protestant
 		size = 33000
 	}
