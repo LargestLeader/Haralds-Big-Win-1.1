@@ -63,31 +63,31 @@
 #Oviedo (448000/112000 POPS)
 475 = {
 	aristocrats = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 1050
 	}
 
 	artisans = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 3100
 	}
 
 	farmers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 10850
 	}
@@ -152,43 +152,43 @@
 #Leon (280000/70000 POPS)
 477 = {
 	aristocrats = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 800
 	}
 
 	officers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 63600
 	}
@@ -196,31 +196,31 @@
 #Santander (178000/44500) POPS
 478 = {
 	aristocrats = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 3400
 	}
 
 	farmers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 35700
 	}
@@ -290,31 +290,31 @@
 #Valladolid (194000/48500 POPS)
 480 = {
 	aristocrats = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 3500
 	}
 
 	farmers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 23000
 	}
@@ -399,31 +399,31 @@
 #Soria (216000/54000 POPS)
 482 = {
 	aristocrats = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 2600
 	}
 
 	soldiers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 30000
 	}
@@ -565,25 +565,25 @@
 #Caceres (172000/43000 POPS)
 486 = {
 	aristocrats = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 450
 	}
@@ -595,7 +595,7 @@
 	}
 
 	farmers = {
-		culture = asturleonese
+		culture = galician
 		religion = catholic
 		size = 15725
 	}
