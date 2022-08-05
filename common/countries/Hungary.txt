@@ -247,27 +247,27 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Szent Istvan" Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós Pandúr Réka Turul Huszár Ulan 
+		"Szent Istvan" Zrinyi ï¿½rpï¿½d Szigetvï¿½r Sava Temes Bodrog Szamos Kï¿½rï¿½s Maros Leitha Balaton Csepel Lika Orjen Tï¿½tra Triglav Dinara Csikï¿½s Pandï¿½r Rï¿½ka Turul Huszï¿½r Ulan 
 	}
 	ironclad = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi ï¿½rpï¿½d Szigetvï¿½r Sava Temes Bodrog Szamos Kï¿½rï¿½s Maros Leitha Balaton Csepel Lika Orjen Tï¿½tra Triglav Dinara Csikï¿½s 	Pandï¿½r Rï¿½ka Turul Huszï¿½r Ulan 
 		
 		
 	}
 	manowar = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi ï¿½rpï¿½d Szigetvï¿½r Sava Temes Bodrog Szamos Kï¿½rï¿½s Maros Leitha Balaton Csepel Lika Orjen Tï¿½tra Triglav Dinara Csikï¿½s 	Pandï¿½r Rï¿½ka Turul Huszï¿½r Ulan 
 		
 	}
 	cruiser = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi ï¿½rpï¿½d Szigetvï¿½r Sava Temes Bodrog Szamos Kï¿½rï¿½s Maros Leitha Balaton Csepel Lika Orjen Tï¿½tra Triglav Dinara Csikï¿½s 	Pandï¿½r Rï¿½ka Turul Huszï¿½r Ulan 
 		
 	}
 	frigate = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi ï¿½rpï¿½d Szigetvï¿½r Sava Temes Bodrog Szamos Kï¿½rï¿½s Maros Leitha Balaton Csepel Lika Orjen Tï¿½tra Triglav Dinara Csikï¿½s 	Pandï¿½r Rï¿½ka Turul Huszï¿½r Ulan 
 		
 	}
 	monitor = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi ï¿½rpï¿½d Szigetvï¿½r Sava Temes Bodrog Szamos Kï¿½rï¿½s Maros Leitha Balaton Csepel Lika Orjen Tï¿½tra Triglav Dinara Csikï¿½s 	Pandï¿½r Rï¿½ka Turul Huszï¿½r Ulan 
 		
 		
 	}
@@ -278,7 +278,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós Pandúr Réka Turul Huszár Ulan 	
+		Zrinyi ï¿½rpï¿½d Szigetvï¿½r Sava Temes Bodrog Szamos Kï¿½rï¿½s Maros Leitha Balaton Csepel Lika Orjen Tï¿½tra Triglav Dinara Csikï¿½s Pandï¿½r Rï¿½ka Turul Huszï¿½r Ulan 	
 		
 		
 	}

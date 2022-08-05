@@ -398,6 +398,8 @@ KOM	    = "countries/Komi.txt"
 UMN	    = "countries/Uman.txt"
 GZA	    = "countries/Gazaria.txt"
 
+CRP = "countries/Carpathian Union.txt"
+
 ##HFM New Nations
 SCL		= "countries/Schaumburg-Lippe.txt"
 REU		= "countries/Reuss.txt"
