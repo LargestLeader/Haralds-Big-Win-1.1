@@ -19,7 +19,7 @@ political_decisions = {
 
             owns = 659
             owns = 2533
-       # add back later -  nationalism_n_imperialism = 1
+        add back later -  nationalism_n_imperialism = 1
         }
         effect = {
             prestige = 20
@@ -40,5 +40,9 @@ political_decisions = {
         MOL = { annex_to = THIS } 
         ROM = { annex_to = THIS } 
         }
+        ai_will_do = { factor = 1 }
     }
+
+
+
 } 

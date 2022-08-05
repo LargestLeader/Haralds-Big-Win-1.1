@@ -1,0 +1,26 @@
+political_decisions ={
+    assimilate_anatolia = {
+        potential = { 
+            tag = KRM
+            owns = 863
+            owns = 869
+        }
+        allow = {
+            owns = 863
+            owns = 869
+            owns = 883
+            owns = 882
+            owns = 875
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            country_event = 2100007
+            infamy = 10
+            861 = { remove_core = GRE }
+            862 = { remove_core = GRE }
+            863 = { remove_core = GRE }
+            864 = { remove_core = GRE }
+            865 = { remove_core = GRE }
+        }
+    }
+}
