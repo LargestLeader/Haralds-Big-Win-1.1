@@ -67,6 +67,7 @@ political_decisions = {
             SER = { all-core = { add-core = CRP } }
             KUK = { all_core = { add_core = CRP } }
             KUK = { all_core = { remove_core = KUK } }
+            788 = { add_core = CRP }
         }
         ai_will_do  = { factor = 1 }
     }

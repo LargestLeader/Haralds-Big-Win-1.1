@@ -182,6 +182,36 @@ political_decisions = {
 		#news_desc_short = "SOME_TEXT_SHORT"
 	}
 
+    support_ruhr_industrialism = {
+        potential = {
+            OR = {
+                tag = SAX
+                tag = GER
+            }
+            NOT = {
+                tech_school = prussian_tech_school
+            }
+        }
+        allow = {
+            regenerative_furnaces = 1
+            iron_breech_loaded_artillery = 1
+            state_n_government = 1
+            575 = {
+                state_scope = {
+                    has_building = steel_factory
+                }
+            }
+        }
+        effect = {
+            tech_school = prussian_tech_school
+            prestige = 5
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+        }
+    }
+
     switch_to_BOH_tech = {
         potential = {
             OR = {
@@ -191,15 +221,97 @@ political_decisions = {
             NOT = { tech_school = bohemian_tech_school}
         }
         allow = {
-            OR = {
-                tag = BOH
-                tag = WSF            
-            }
-            nationalism_n_imperialism = 1
-			NOT = { has_country_modifier = academic_confusion }
+            advanced_metallurgy = 1
+            iron_breech_loaded_artillery = 1
+            state_n_government = 1
+            industrial_score = 150
+            owns = 629
+            629 = { state_scope = { has_building = steel_factory } }
         }
         effect = {
             tech_school = bohemian_tech_school
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
         }
     }
+
+	switch_to_hungary_tech = {
+		potential = {
+			OR = {
+				tag = HUN
+				tag = KUK
+				tag = CRP
+			}
+			NOT = { tech_school = hungarian_tech_school}
+		}
+		allow = {
+			market_structure = 1
+			state_n_government = 1
+			military_plans = 1
+			NOT = { has_country_modifier = academic_confusion }
+		}
+		effect = {
+			tech_school = hungarian_tech_school
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+		}
+	}
+
+	switch_to_japan_militaristic_tech = {
+		potential = {
+			tag = JAP
+			civilized = yes
+			not = { tech_school = japanese_tech_school_militarism }
+		}
+		allow = {
+			army_professionalism = 1
+			state_n_government = 1
+			the_command_principle = 1
+			military_score = 50
+			war_policy = jingoism
+			NOT = { has_country_modifier = academic_confusion }
+		}
+		effect = {
+			tech_school = japanese_tech_school_militarism
+			prestige = -10
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+	switch_to_japan_pacifistic_tech = {
+		potential = {
+			tag = JAP
+			civilized = yes
+			not = { tech_school = japanese_tech_school_pacifism }
+		}
+		allow = {
+			idealism = yes
+			market_structure = yes
+			publishing_industry = yes
+			prestige = 45
+			war_policy = pacifism
+			NOT = { has_country_modifier = academic_confusion }
+		}
+		effect = {
+			tech_school = japanese_tech_school_pacifism
+			prestige = -10
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 3650
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+
+
+
 }
