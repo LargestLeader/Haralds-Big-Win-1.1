@@ -429,7 +429,7 @@
 	}
 	
 	serfs = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 13000 
 	}
@@ -655,43 +655,43 @@
 	}
 
 	clergymen = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 225
 	}
 
 	artisans = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 12925  
 	}
 
 	clergymen = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 45  
 	}
 
 	artisans = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 45  
 	}
 
 	serfs = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 4450
 	}
@@ -759,25 +759,25 @@
 	}
 	
 	clergymen = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 530  
 	}
 
 	artisans = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 1600
 	}
 
 	soldiers = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 900  
 	}
 
 	serfs = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 16000
 	}

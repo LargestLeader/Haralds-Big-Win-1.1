@@ -790,6 +790,11 @@ victory_in_spain = {
 	assimilation_rate = 100
 	icon = 8
 }
+ataturk_jumpscare ={
+	immigrant_attract = 4
+	assimilation_rate = 100
+	icon = 8
+}
 japan_big_win = {
 	naval_tech_research_bonus = 0.05
 	icon = 8

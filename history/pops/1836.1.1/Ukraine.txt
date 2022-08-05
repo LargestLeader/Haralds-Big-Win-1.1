@@ -290,25 +290,25 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
 	clergymen = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 850  
 	}
 
 	artisans = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 4600 
 	}
 
 	soldiers = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 900
 	}
 
 	farmers = {
-		culture = rusyn
+		culture = ukrainian
 		religion = orthodox
 		size = 20650  
 	}

@@ -40,5 +40,9 @@ political_decisions = {
         MOL = { annex_to = THIS } 
         ROM = { annex_to = THIS } 
         }
+        ai_will_do = { factor = 1 }
     }
+
+
+
 } 

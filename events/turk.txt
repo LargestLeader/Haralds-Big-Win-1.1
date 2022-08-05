@@ -1,0 +1,125 @@
+country_event = {
+    id = 2100007
+    title = "Ataturk jumps timelines"
+    desc = "And he will personally hunt down every single debt enjoyer on the anatolian peninsula"
+    picture = "ataturk"
+
+    is_triggered_only = yes
+    option = {
+        name = "Switch on the kebab hypnosis machine"
+            861 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            862 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            863 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            864 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            865 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            866 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            867 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            869 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            870 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            871 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            872 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            874 = { 
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            875 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            880 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            881 = { 
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            882 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            883 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            884 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+            895 = {
+                add_province_modifier = {
+                    name = ataturk_jumpscare
+                    duration = 3650
+                }
+            }
+    }
+}
