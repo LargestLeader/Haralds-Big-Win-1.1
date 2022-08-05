@@ -44,7 +44,7 @@ country_event = {
         name = "Im malcontent"
         any_owned = {
             limit = { 
-                is _core = THIS
+                is_core = THIS
                 continent = europe
             }
             add_province_modifier = {

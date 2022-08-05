@@ -1,3 +1,4 @@
+political_decisions = {
 form_zap = {
     potential = {
         is_culture_group = western_slavic
@@ -34,4 +35,5 @@ form_zap = {
         add_accepted_culture = kashubian
         add_accepted_culture = pruthenian
     }
+}
 }
