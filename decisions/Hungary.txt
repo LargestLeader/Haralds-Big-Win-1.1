@@ -50,6 +50,7 @@ political_decisions = {
         }
         allow = {
             revolution_n_counterrevolution = 1
+            SER = { all_core = { owned_by = THIS } }
         }
         effect = {
             prestige = 20
@@ -63,145 +64,48 @@ political_decisions = {
             CRO = { all_core = { add_core = CRP } }
             CRO = { all_core = { remove_core = CRO } }
             SER = { all_core = { add_core = CRP } }
-
+            SER = { all-core = { add-core = CRP } }
             KUK = { all_core = { add_core = CRP } }
             KUK = { all_core = { remove_core = KUK } }
         }
         ai_will_do  = { factor = 1 }
     }
 
-    Carpathian_Union_HUN = {
-            potential = {
-                tag = HUN # I don't want hungary locked out of this because they lost the first war to bulgary
-                NOT = { exists = CRP }
-            }
-            allow = {
-                revolution_n_counterrevolution = 1
-            }
-            effect = {
-                prestige = 30
-                change_tag = CRP
-                add_accepted_culture = slovene
-                add_accepted_culture = kaykavian
-                add_accepted_culture = shtokavian
+#    Carpathian_Union_HUN = {
+#            potential = {
+#                tag = HUN # I don't want hungary locked out of this because they lost the first war to bulgary
+#                NOT = { exists = CRP }
+#            }
+#            allow = {
+#                revolution_n_counterrevolution = 1
+#            }
+#            effect = {
+#                prestige = 30
+#                change_tag = CRP
+#                add_accepted_culture = slovene
+#                add_accepted_culture = kaykavian
+#                add_accepted_culture = shtokavian
+#                add_acclepted_culture = ROM
+#
+#                HUN = { all_core = { add_core = CRP } }
+#                ROM = { all_core = { add_core = KUK } }
+#                HUN = { all_core = { remove_core = HUN } }
+#                ROM = { 
+#                    all_core = { 
+#                        remove_core = ROM 
+#                        remove_core = MOL
+#                        remove_core = WAL
+#                    } 
+#                }
+#
+#                SLO = { all_core = { add_core = CRP } }
+#                SLO = { all_core = { remove_core = SLO } }
+#                CRO = { all_core = { add_core = CRP } }
+#                CRO = { all_core = { remove_core = CRO } }
+#                SER = { all_core = { add_core = CRP } }
+#            }
+#            ai_will_do = { factor = 1 }
+#    }
 
-                HUN = { all_core = { add_core = CRP } }
-                ROM = { all_core = { add_core = KUK } }
-                HUN = { all_core = { remove_core = HUN } }
-                ROM = { 
-                    all_core = { 
-                        remove_core = ROM 
-                        remove_core = MOL
-                        remove_core = WAL
-                    } 
-                }
-
-                SLO = { all_core = { add_core = CRP } }
-                SLO = { all_core = { remove_core = SLO } }
-                CRO = { all_core = { add_core = CRP } }
-                CRO = { all_core = { remove_core = CRO } }
-                SER = { all_core = { add_core = CRP } }
-            }
-            ai_will_do = { factor = 1 }
-    }
-
-
-#added this second, just in case SER ends up coring more provinces
-    remove_serb_cores = {
-        potential = {
-            tag = CRP
-        }
-        allow = {
-            SER = { all_core = { owned_by = THIS } }
-        }
-        effect = {
-            SER = { all_core = { remove_core = SER } }
-        }
-        ai_will_do = { factor = 1}
-    }
-
-    remove_serb_cores_1 = {
-        potential = {
-            tag = CRP
-            794 = { owned_by = THIS }
-        }
-        effect = {
-            794 = { remove_core = SER }
-            795 = { remove_core = SER }
-            796 = { remove_core = SER }
-            797 = { remove_core = SER }
-        }
-        ai_will_do = { factor = 1 }
-    }
-
-    remove_serb_cores_2 = {}
-        potential = {
-            tag = CRP
-            2538 = { owned_by = THIS }
-        }
-        effect = {
-            791 = { remove_core = SER }
-            792 = { remove_core = SER }
-            2538 = { remove_core = SER }
-        }
-        ai_will_do = { factor = 1 }
-    }
-
-    remove_serb_cores_3 = {
-        potential = {
-            tag = CRP
-            783 = { owned_by = THIS }
-        }
-        effect = {
-            783 = { remove_core = SER }
-            786 = { remove_core = SER }
-            787 = { remove_core = SER }
-        }
-        ai_will_do = { factor = 1}
-    }
-
-    remove_serb_cores_4 = {
-        potential = {
-            tag = CRP
-            OR = {
-                2583 = { owned_by = THIS }
-                2582 = { owned_by = THIS }
-            }
-        }
-        allow = {
-            2583 = { owned_by = THIS }
-            2582 = { owned_by = THIS }
-        }
-        effect = {
-            800 = { remove_core = SER }
-            2569 = { remove_core = SER }
-            2577 = { remove_core = SER }
-            2582 = { remove_core = SER }
-            2583 = { remove_core = SER }
-        }
-        ai_will_do = { factor = 1}
-    }
-
-    remove_serb_cores_5 = {
-        potential = {
-            tag = CRP
-            OR = {
-                798 = { owned_by = THIS }
-                803 = { owned_by = THIS }
-            }
-        }
-        allow = {
-            798 = { owned_by = THIS }
-            803 = { owned_by = THIS }
-        }
-        effect = {
-            798 = { remove_core = SER }
-            799 = { remove_core = SER }
-            802 = { remove_core = SER }
-            803 = { remove_core = SER }
-            804 = { remove_core = SER }
-        }
-        ai_will_do = { factor = 1}
-    }
 
 } 
