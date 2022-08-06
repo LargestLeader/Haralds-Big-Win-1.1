@@ -2,6 +2,7 @@ owner = SVY
 controller = SVY
 add_core = SVY
 add_core = ITA
+add_core = BRH
 trade_goods = fruit
 life_rating = 40
 terrain = turin

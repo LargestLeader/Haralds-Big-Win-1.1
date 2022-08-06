@@ -1,0 +1,20 @@
+political_decisions = {
+    form_burgundy = {
+        potential = {
+            tag = BRG
+            not = { exists = BRH }
+        }
+        allow = {
+            BRH = { all_core = { owned_by = THIS } }
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            prestige = 40
+            change_tag = BRH
+            add_accepted_culture = north_italian
+            BRG = { all_core = { add_core = BRH } }
+            BRG = { all_core = { remove_core = BRG } }
+        }
+        ai_will_do = { factor = 1 }
+    }
+}

@@ -86,7 +86,7 @@ political_decisions = {
 #                add_accepted_culture = slovene
 #                add_accepted_culture = kaykavian
 #                add_accepted_culture = shtokavian
-#                add_acclepted_culture = ROM
+#                add_accepted_culture = romanian
 #
 #                HUN = { all_core = { add_core = CRP } }
 #                ROM = { all_core = { add_core = KUK } }

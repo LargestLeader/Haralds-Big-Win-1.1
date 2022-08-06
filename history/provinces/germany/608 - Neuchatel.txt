@@ -1,5 +1,6 @@
 owner = BRG
 controller = BRG
 add_core = BRG
+add_core = BRH
 trade_goods = coal
 life_rating = 35
