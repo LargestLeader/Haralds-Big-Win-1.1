@@ -825,10 +825,9 @@ kinda_bad_badboy = {
 	icon = 8
 }
 the_fog = {
-	population_growth = -0.02
+	population_growth = -0.015
 	pop_consciousness_modifier = 0.01
-	immigrant_attract = -0.02
-	life_rating = -1
+	immigrant_attract = -0.015
 	icon = 20
 }
 

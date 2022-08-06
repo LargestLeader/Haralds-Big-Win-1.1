@@ -59,6 +59,7 @@ govt_flag = {
 	flag = theocracy
 }
 
+schools = pirate_intellectual_property_theft
 
 # Technologies
 

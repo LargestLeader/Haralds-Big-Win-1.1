@@ -2,6 +2,7 @@ owner = SWI
 controller = SWI
 add_core = SWI
 add_core = ITA
+add_core = BRH
 trade_goods = grain
 life_rating = 40
 terrain = milan

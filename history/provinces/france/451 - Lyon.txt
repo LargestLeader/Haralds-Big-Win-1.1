@@ -1,6 +1,7 @@
 owner = BRG
 controller = BRG
 add_core = BRG
+add_core = BRH
 trade_goods = iron
 life_rating = 40
 terrain = lyon

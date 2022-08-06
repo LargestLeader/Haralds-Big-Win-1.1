@@ -1,5 +1,5 @@
-owner = GBU
-controller = GBU
+owner = SWE
+controller = SWE
 add_core = GBU
 add_core = WOL
 trade_goods = fruit

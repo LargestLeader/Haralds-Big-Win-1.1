@@ -1,5 +1,5 @@
-owner = MOR
-controller = MOR
+owner = ANU
+controller = ANU
 add_core = PRI
 trade_goods = coffee
 life_rating = 35

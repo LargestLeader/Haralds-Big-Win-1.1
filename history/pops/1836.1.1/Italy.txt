@@ -392,6 +392,12 @@
 		size = 3900
 	}
 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
+
 	clergymen = {
 		culture = north_italian
 		religion = catholic
@@ -407,14 +413,21 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1750
+		size = 6750
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 159075
+		size = 152575
 	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+
 }
 #Venetia Region (2060000)
 #under the rule of Austria in 1836
@@ -447,7 +460,7 @@
 	artisans = {
 		culture = venetian
 		religion = catholic
-		size = 10000
+		size = 9000
 	}
 
 	artisans = {
@@ -477,13 +490,13 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 1150
+		size = 4800
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 60925
+		size = 56925
 	}
 
 	clergymen = {
@@ -496,6 +509,12 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 490
+	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 4000
 	}
 }
 #Verona (516000/129000 POPS)
@@ -527,19 +546,25 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 700
+		size = 2600
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 51000
+		size = 48100
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
 		size = 4025
+	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 1500
 	}
 }
 
@@ -560,25 +585,31 @@
 	artisans = {
 		culture = venetian
 		religion = catholic
-		size = 7500
+		size = 7200
 	}
 
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 1400
+		size = 5000
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 110000
+		size = 103600
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 17775
+		size = 17000
+	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 4500
 	}
 }
 #Treviso (232000/58000 POPS)
@@ -598,20 +629,27 @@
 	artisans = {
 		culture = venetian
 		religion = catholic
-		size = 2900
+		size = 2800
 	}
 
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 550
+		size = 2000
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 50300
+		size = 48800
 	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 800
+	}
+
 }
 #Udine (300000/75000 POPS)
 733 = {
@@ -636,13 +674,13 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 750
+		size = 2110
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 40000
+		size = 38000
 	}
 
 	aristocrats = {
@@ -673,6 +711,12 @@
 		culture = slovene
 		religion = catholic
 		size = 2200
+	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 750
 	}
 }
 #Tirol Region (368000) #see Austria.txt for balance of Region
@@ -736,7 +780,13 @@
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 27000
+		size = 25200
+	}
+
+	soldiers = {
+		culture = venetian
+		religion = catholic
+		size = 1800
 	}
 
 	farmers = {
@@ -850,19 +900,19 @@
 	artisans = {
 		culture = venetian
 		religion = catholic
-		size = 8000
+		size = 7700
 	}
 
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 175
+		size = 1200
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 7875
+		size = 7475
 	}
 
 	clergymen = {
@@ -880,13 +930,19 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size = 100
+		size = 150
 	}
 
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 6300
+		size = 6250
+	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 250
 	}
 }
 #Gorizia (180000/45000 POPS)
@@ -912,13 +968,13 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 125
+		size = 900
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 10800
+		size = 10200
 	}
 
 	clergymen = {
@@ -936,25 +992,31 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size = 325
+		size = 800
 	}
 
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 10000
+		size = 9700
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 20000
+		size = 19600
 	}
 
 	farmers = {
 		culture = gypsy
 		religion = catholic
 		size = 375
+	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 400
 	}
 
 }
@@ -1228,7 +1290,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 1800
+		size = 2700
 	}
 
 	artisans = {
@@ -1246,13 +1308,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 2000
+		size = 6899
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 149900
+		size = 143600
 	}
 
 	clergymen = {
@@ -1265,6 +1327,12 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 490
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 1300
 	}
 }
 #Leghorn (380000/95000 POPS)
@@ -1296,13 +1364,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 4600
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 84600
+		size = 80600
 	}
 
 	clergymen = {
@@ -1316,6 +1384,12 @@
 		religion = jewish
 		size = 1225
 	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 900
+	}
 }
 #Siena (380000/95000 POPS)
 747 = {
@@ -1328,7 +1402,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 975
+		size = 1400
 	}
 
 	artisans = {
@@ -1340,19 +1414,25 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 44925
+		size = 42000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
 		size = 40000
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 500
 	}
 }
 #Grosseto (184000/46000 POPS)
@@ -1366,7 +1446,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 425
+		size = 500
 	}
 
 	artisans = {
@@ -1378,7 +1458,7 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 1600
 	}
 
 	farmers = {
@@ -1457,7 +1537,7 @@
 	bureaucrats = {
 		culture = south_italian
 		religion = catholic
-		size = 725
+		size = 825
 	}
 
 	officers = {
@@ -1469,7 +1549,13 @@
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 3425
+		size = 7200
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 9000
 	}
 
 	artisans = {
@@ -1481,31 +1567,25 @@
 	artisans = {
 		culture = south_italian
 		religion = catholic
-		size = 10000
+		size = 9000
 	}
 
 	artisans = {
 		culture = south_italian
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_italian
-		religion = catholic
-		size = 6600
+		size = 6000
 	}
 
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 3000
+		size = 12000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 230750
+		size = 220750
 	}
 
 	clergymen = {
@@ -1518,6 +1598,12 @@
 		culture = south_italian
 		religion = jewish
 		size = 1375
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 2800
 	}
 }
 #Viterbo (180000/45000 POPS)
@@ -1543,13 +1629,19 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 1100
+		size = 1650
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 40150
+		size = 39200
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 400
 	}
 }
 #Umbria-Abruzzi Region (1056000)
@@ -1577,7 +1669,7 @@
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 950
+		size = 1800
 	}
 
 	artisans = {
@@ -1589,13 +1681,19 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 1100
+		size = 4000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 94750
+		size = 91300
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 700
 	}
 }
 #Ancona (180000/45000 POPS)
@@ -1609,7 +1707,7 @@
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 450
+		size = 600
 	}
 
 	artisans = {
@@ -1621,19 +1719,25 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 450
+		size = 1550
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 25025
+		size = 24025
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
 		size = 10000
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 200
 	}
 }
 #under the rule of Two Sicilies in 1836
@@ -1985,7 +2089,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 47790
+		size = 44790
 	}
 
 	farmers = {
@@ -1994,10 +2098,22 @@
 		size = 4000
 	}
 
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 1800
+	}
+
 	farmers = {
 		culture = south_italian
 		religion = catholic
 		size = 11210
+	}
+
+	farmers = {
+		culture = venetian
+		religion = catholic
+		size = 4000
 	}
 }
 #Calabria-Basilicata Region (1488000)

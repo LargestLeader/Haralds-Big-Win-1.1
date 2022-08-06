@@ -5,14 +5,16 @@ country_event = {
     desc = "the fog is coming."
 
     mean_time_to_happen = {
-        months = 250
+        months = 370
         modifier = {
             OR = {
-                tag = FRA
+                tag = PAP
                 tag = JAP
                 tag = SHN
+                tag = RUS
+                tag = FDA
             }
-        factor = 1.5
+        factor = 1.1
         }
     }
 
