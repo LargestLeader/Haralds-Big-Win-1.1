@@ -1,0 +1,296 @@
+army = {
+    name = "Army of Venice"
+    location = 729
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+        home = 729
+    }
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+        home = 729
+    }
+    regiment = {
+        name = "3rd Infantry"
+        type = infantry
+        home = 732
+    }
+    regiment = {
+        name = "4th Infantry"
+        type = infantry
+        home = 733
+    }
+    regiment = {
+        name = "1st Hussar"
+        type = hussar
+        home = 730
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+        home = 731
+    }
+    regiment = {
+        name = "2nd Artillery"
+        type = artillery
+        home = 731
+    }
+    regiment = {
+        name = "3rd Artillery"
+        type = artillery
+        home = 734
+    }
+    regiment = {
+        name = "4th Artillery"
+        type = artillery
+        home = 734
+    }
+    regiment = {
+        name = "5th Artillery"
+        type = artillery
+        home = 770
+    }
+}
+
+army = {
+    name = "Reserve Artillery Army"
+    location = 732
+    regiment  = {
+        name = "1st Reserve Artillery"
+        type = artillery
+        home = 736
+    }
+    regiment = {
+        name = "2nd Reserve Artillery"
+        type = artillery
+        home = 769
+    }
+}
+
+army = {
+    name = ""Jamaica Detachment"
+    location = 2217
+    regiment = {
+        name = "1st Jamaican Infantry"
+        type = infantry
+        home = 2217
+    }
+    regiment = {
+        name = "1st Jamaican Hussar
+        type = hussar
+        home = 2217
+    }
+}
+
+army = {
+    name = "I ran out of larp names
+    location = 780
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+        home = 780
+    }
+    regiment  = {
+        name = "2nd Infantry"
+        type = infantry
+        home = 758
+    }
+}
+
+navy = {
+    name = "Adriatic Fleet"
+    location = 729
+    ship = {
+        name = "Giove Fulminante"
+        type = manowar
+    }
+    ship = {
+        name = "Costanza Guerriera"
+        type = manowar
+    }
+    ship = {
+        name = "San Vittorio"
+        type = manowar
+    }
+    ship = {
+        name = "San Lorenzo Giustian"
+        type = commerce_raider
+    }
+    ship = {
+        name = "Stella Maris" #reference? or was the movie a reference? I found this in the ship names in venice file
+        type = commerce_raider
+    }
+    ship = {
+        name = "San Giovanni Battista"
+        type = frigate
+    }
+    ship = {
+        name = "Redentor del Mondo"
+        type = frigate
+    }
+    ship = {
+        name = "Leon Coronato"
+        type = frigate
+    }
+    ship = {
+        name = "Iride"
+        type = frigate
+    }
+    ship = {
+        name = "San Sebastiano"
+        type = frigate
+    }
+    ship = {
+        name = "Aurora Tigre"
+        type = frigate
+    }
+    ship = {
+        name = "Sol d'Oro"
+        type = frigate
+    }
+    ship = {
+        name = "Giove"
+        type = frigate
+    }
+    ship = {
+        name = "Amozzane Guerriera"
+        type = frigate
+    }
+    ship = {
+        name = "Rizzo d'Oro"
+        type = frigate
+    }
+    ship = {
+        name = "Colomba d'Oro"
+        type = frigate
+    }
+    ship = {
+        name = "Grande Alessandro"
+        type = frigate
+    }
+    ship = {
+        name = "Corona Costanza"
+        type = frigate
+    }
+    ship = {
+        name = "Madonna della Salute"
+        type = frigate
+    }
+}
+
+navy = {
+    name = "Transport Fleet"
+    location = 729
+    ship = {
+        name = "Aquila"
+        type = frigate
+    }
+    ship = {
+        name = "Croce Rossa"
+        type = frigate
+    }
+    ship = {
+        name = "1st Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "2nd Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "3rd Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "4th Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "5th Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "6th Transport
+        type = clipper_transport
+    }
+    ship = {
+        name = "7th Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "8th Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "9th Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "10th Transport"
+        type = clipper_transport
+    }
+}
+
+navy = {
+    name = "Dalmatian Squadron"
+    location = 780
+    ship = {
+        name = "Leone Triofante"
+        type = frigate
+    }
+    ship = {
+        name = "San Gaetano"
+        type = frigate
+    }
+    ship = {
+        name = "Fedelta"
+        type = frigate
+    }
+}
+
+navy = {
+    name = "Puglia Squadron"
+    location = 758
+    ship = {
+        name = "Adria in Pace"
+        type = manowar
+    }
+    ship = {
+        name = "San Pio Quinto"
+        type = frigate
+    }
+    ship = {
+        name = "Gloria Veneta"
+        type = frigate
+    }
+    ship = {
+        name = "Europa"
+        type = frigate
+    }
+    ship = {
+        name = "Forza"
+        type = frigate
+    }
+    ship = {
+        name = "Arsenal"
+        type = frigate
+    }
+}
+
+navy = {
+    name = "Caribbean Squadron"
+    location = 2217
+    ship = {
+        name = "Regina del Mar"
+        type = frigate
+    }
+    ship = {
+        name = "Trionfo"
+        type = frigate
+    }
+    ship = {
+        name = "Madonna dell"
+        type = frigate
+    }
+}

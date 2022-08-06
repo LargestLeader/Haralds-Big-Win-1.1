@@ -157,13 +157,13 @@
 	soldiers = {
 		culture = slovene
 		religion = catholic
-		size = 425
+		size = 1700
 	}
 
 	farmers = {
 		culture = slovene
 		religion = catholic
-		size = 30000
+		size = 29000
 	}
 	
 	farmers = {

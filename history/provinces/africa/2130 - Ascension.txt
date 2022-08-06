@@ -1,5 +1,6 @@
-owner = SAX
-controller = SAX
+owner = VEN
+controller = VEN
 trade_goods = fish
 life_rating = 20
 terrain = small_island
+colonial = 2

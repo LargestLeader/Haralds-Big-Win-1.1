@@ -23,13 +23,13 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 225
+		size = 1225
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 20875
+		size = 18375
 	}
 
 	clergymen = {
@@ -47,19 +47,25 @@
 	soldiers = {
 		culture = kaykavian
 		religion = catholic
-		size = 250
+		size = 750
 	}
 
 	farmers = {
 		culture = kaykavian
 		religion = catholic
-		size = 20625
+		size = 20125
 	}
 	
 	farmers = {
 		culture = gypsy
 		religion = catholic
 		size = 300
+	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 500
 	}
 }
 #Croatia Region (870000)
@@ -545,7 +551,7 @@
 	farmers = {
 		culture = kaykavian
 		religion = catholic
-		size = 4700
+		size = 4400
 	}
 
 	aristocrats = {
@@ -569,7 +575,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 75
+		size = 475
 	}
 
 	farmers = {
@@ -600,6 +606,12 @@
 		culture = hungarian
 		religion = catholic
 		size = 700
+	}
+
+	craftsmen = {
+		culture = venetian
+		religion = catholic
+		size = 150
 	}
 }
 #Baranya Region (180000) #see Hungary.txt for balance of Region
@@ -745,13 +757,13 @@
 	soldiers = {
 		culture = kaykavian
 		religion = catholic
-		size = 350
+		size = 1100
 	}
 
 	farmers = {
 		culture = kaykavian
 		religion = catholic
-		size = 8250
+		size = 8000
 	}
 	
 	farmers = {
@@ -775,13 +787,13 @@
 	artisans = {
 		culture = venetian
 		religion = catholic
-		size = 6500
+		size = 6200
 	}
 
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 225
+		size = 500
 	}
 
 	farmers = {
@@ -825,13 +837,13 @@
 	soldiers = {
 		culture = kaykavian
 		religion = catholic
-		size = 225
+		size = 300
 	}
 
 	farmers = {
 		culture = kaykavian
 		religion = catholic
-		size = 10525
+		size = 10425
 	}
 
 	bureaucrats = {
@@ -849,13 +861,13 @@
 	artisans = {
 		culture = venetian
 		religion = catholic
-		size = 1700
+		size = 1600
 	}
 
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 125
+		size = 300
 	}
 
 	farmers = {

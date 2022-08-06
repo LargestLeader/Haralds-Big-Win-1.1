@@ -47,7 +47,9 @@ bronze_muzzle_loaded_artillery = 1
 military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
+battleship_column_doctrine = 1
 clipper_design = 1
+paddle = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
 the_command_principle = 1
@@ -59,6 +61,7 @@ introspectionism = 1
 private_banks = 1
 no_standard = 1
 early_classical_theory_and_critique = 1
+late_classical_theory
 freedom_of_trade = 1
 guild_based_production = 1
 water_wheel_power = 1
@@ -66,6 +69,8 @@ publishing_industry = 1
 basic_chemistry = 1
 
 set_country_flag = catholic_country
+
+schools = naval_tech_school
 
 oob = "VEN_oob.txt"
 
