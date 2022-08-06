@@ -6,11 +6,12 @@ add_core = ITA
 trade_goods = fruit
 life_rating = 40
 terrain = florence
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
+fort = 1
+state_building = {
+	level = 1
+	building = canned_food_factory #bread to go with the winery in rome for communion (although I guess bread wouldnt come in a can but just roll with it)
+	upgrade = yes
+}
 1861.1.1 = {
 	controller = ITA
 	owner = ITA

@@ -9,7 +9,7 @@ army = {
     regiment = {
         name = "2nd Infantry"
         type = infantry
-        home = 729
+        home = 732
     }
     regiment = {
         name = "3rd Infantry"
@@ -44,12 +44,12 @@ army = {
     regiment = {
         name = "4th Artillery"
         type = artillery
-        home = 734
+        home = 770
     }
     regiment = {
         name = "5th Artillery"
         type = artillery
-        home = 770
+        home = 728
     }
 }
 
@@ -69,7 +69,7 @@ army = {
 }
 
 army = {
-    name = ""Jamaica Detachment"
+    name = "Jamaica Detachment"
     location = 2217
     regiment = {
         name = "1st Jamaican Infantry"
@@ -77,21 +77,21 @@ army = {
         home = 2217
     }
     regiment = {
-        name = "1st Jamaican Hussar
+        name = "1st Jamaican Hussar"
         type = hussar
         home = 2217
     }
 }
 
 army = {
-    name = "I ran out of larp names
+    name = "Dalmatia Detachment"
     location = 780
     regiment = {
         name = "1st Infantry"
         type = infantry
         home = 780
     }
-    regiment  = {
+    regiment = {
         name = "2nd Infantry"
         type = infantry
         home = 758
@@ -211,7 +211,7 @@ navy = {
         type = clipper_transport
     }
     ship = {
-        name = "6th Transport
+        name = "6th Transport"
         type = clipper_transport
     }
     ship = {

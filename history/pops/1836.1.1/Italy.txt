@@ -1290,7 +1290,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 1800
+		size = 2700
 	}
 
 	artisans = {
@@ -1308,13 +1308,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 2000
+		size = 6899
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 149900
+		size = 143600
 	}
 
 	clergymen = {
@@ -1327,6 +1327,12 @@
 		culture = ashkenazi
 		religion = jewish
 		size = 490
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 1300
 	}
 }
 #Leghorn (380000/95000 POPS)
@@ -1358,13 +1364,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 4600
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 84600
+		size = 80600
 	}
 
 	clergymen = {
@@ -1378,6 +1384,12 @@
 		religion = jewish
 		size = 1225
 	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 900
+	}
 }
 #Siena (380000/95000 POPS)
 747 = {
@@ -1390,7 +1402,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 975
+		size = 1400
 	}
 
 	artisans = {
@@ -1402,19 +1414,25 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 44925
+		size = 42000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
 		size = 40000
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 500
 	}
 }
 #Grosseto (184000/46000 POPS)
@@ -1428,7 +1446,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 425
+		size = 500
 	}
 
 	artisans = {
@@ -1440,7 +1458,7 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 1600
 	}
 
 	farmers = {
@@ -1519,7 +1537,7 @@
 	bureaucrats = {
 		culture = south_italian
 		religion = catholic
-		size = 725
+		size = 825
 	}
 
 	officers = {
@@ -1531,7 +1549,13 @@
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 3425
+		size = 7200
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 9000
 	}
 
 	artisans = {
@@ -1543,31 +1567,25 @@
 	artisans = {
 		culture = south_italian
 		religion = catholic
-		size = 10000
+		size = 9000
 	}
 
 	artisans = {
 		culture = south_italian
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_italian
-		religion = catholic
-		size = 6600
+		size = 6000
 	}
 
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 3000
+		size = 12000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 230750
+		size = 220750
 	}
 
 	clergymen = {
@@ -1580,6 +1598,12 @@
 		culture = south_italian
 		religion = jewish
 		size = 1375
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 2800
 	}
 }
 #Viterbo (180000/45000 POPS)
@@ -1605,13 +1629,19 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 1100
+		size = 1650
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 40150
+		size = 39200
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 400
 	}
 }
 #Umbria-Abruzzi Region (1056000)
@@ -1639,7 +1669,7 @@
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 950
+		size = 1800
 	}
 
 	artisans = {
@@ -1651,13 +1681,19 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 1100
+		size = 4000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 94750
+		size = 91300
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 700
 	}
 }
 #Ancona (180000/45000 POPS)
@@ -1671,7 +1707,7 @@
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 450
+		size = 600
 	}
 
 	artisans = {
@@ -1683,19 +1719,25 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 450
+		size = 1550
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 25025
+		size = 24025
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
 		size = 10000
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 200
 	}
 }
 #under the rule of Two Sicilies in 1836

@@ -1,2 +1,15 @@
+#Italian Alliances
 
+alliance = {
+    first = PAP
+    second = GEN
+    start_date = 1836.1.1
+    end_date - 1936.1.1
+}
 
+alliance = { #are you happy now tank? naples no longer gets "free" win (even though it kinda might)
+    first = PAP
+    second = SYC
+    start_date = 1836.1.1
+    end_date - 1936.1.1
+}
