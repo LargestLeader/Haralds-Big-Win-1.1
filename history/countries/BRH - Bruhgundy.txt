@@ -10,6 +10,7 @@ literacy = 0.75
 non_state_culture_literacy = 0.6
 civilized = yes
 prestige = 20
+is_releasable_vassal = no
 
 # Political reforms
 
