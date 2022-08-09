@@ -1,0 +1,39 @@
+political_decisions = {
+    PNB_operation = {
+        potential = {
+            tag = PNB
+            always = no
+        }
+        allow = {
+            tag = PNB
+        }
+        effect = {
+            any_owned = {
+                limit = {
+                    is_core = PNB
+                }
+                assimilate = yes
+                any_pop = {
+                    reduce_pop = 0.4
+                }
+            }
+        }
+    }
+    GUY_operation = {
+        potential = {
+            tag = GUY
+            always = no
+        }
+        allow = {
+            tag = GUY
+        }
+        effect = {
+            any_owned = {
+                limit = {
+                    is_core = GUY
+                }
+                assimilate = yes
+            }
+        }
+    }
+}
