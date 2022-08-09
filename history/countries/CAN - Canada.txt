@@ -1,7 +1,6 @@
 capital = 57
-primary_culture = anglo_canadian
+primary_culture = vinlander
 #culture = british
-culture = french_canadian
 religion = protestant
 government = dominion
 plurality = 0.2

@@ -1,5 +1,5 @@
-owner = FDA
-controller = FDA
-add_core = FDA
+owner = UCA
+controller = UCA
+add_core = UCA
 trade_goods = fish
 life_rating = 31
