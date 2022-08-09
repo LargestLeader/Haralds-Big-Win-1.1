@@ -1,7 +1,6 @@
-owner = ABB
-controller = ABB
-add_core = PRK
+owner = SIA
+controller = SIA
+add_core = SIA
 trade_goods = timber
 life_rating = 37
 naval_base = 1
-colonial = 2

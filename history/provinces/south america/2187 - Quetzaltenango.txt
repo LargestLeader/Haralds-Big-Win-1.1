@@ -1,7 +1,5 @@
-owner = FDA
-controller = FDA
-add_core = FDA
-
-add_core = CHP
+owner = UCA
+controller = UCA
+add_core = UCA
 trade_goods = iron
 life_rating = 31
