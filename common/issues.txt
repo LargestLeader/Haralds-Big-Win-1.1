@@ -1041,7 +1041,7 @@ economic_reforms = {
             core_pop_militancy_modifier = -0.005
         }
         yes_land_reform = {
-            technology_cost = 10000
+            technology_cost = 8000
             farm_rgo_eff = 0.25
             mine_rgo_eff = 0.25
             civilization_progress_modifier = 0.15
@@ -1072,7 +1072,7 @@ economic_reforms = {
                 core_pop_militancy_modifier = -0.005
         }
         yes_admin_reform = {
-            technology_cost = 12000
+            technology_cost = 10000
             administrative_efficiency_modifier = 0.1
             civilization_progress_modifier = 0.15
             allow = { NOT = { has_country_flag = lacking_writing_system } }
@@ -1104,7 +1104,7 @@ economic_reforms = {
             core_pop_militancy_modifier = -0.005
         }
         yes_finance_reform = {
-            technology_cost = 12000
+            technology_cost = 10000
             tax_efficiency = 0.1
             civilization_progress_modifier = 0.15
             max_loan_modifier = -1.0 # no loan 4 u
@@ -1133,7 +1133,7 @@ economic_reforms = {
             }
         }
         finance_reform_two = {
-            technology_cost = 18000
+            technology_cost = 15000
             tax_efficiency = 0.1
             civilization_progress_modifier = 0.35
 
@@ -1165,7 +1165,7 @@ economic_reforms = {
         no_monetary_reform = {
         }
         yes_monetary_reform = {
-            technology_cost = 12000
+            technology_cost = 10000
             tax_efficiency = 0.05
             civilization_progress_modifier = 0.15
             allow = { NOT = { has_country_flag = lacking_writing_system } }
@@ -1190,7 +1190,7 @@ economic_reforms = {
             }
         }
         monetary_reform_two = {
-            technology_cost = 18000
+            technology_cost = 15000
             tax_efficiency = 0.05
             civilization_progress_modifier = 0.25
 
@@ -1224,7 +1224,7 @@ economic_reforms = {
         }
         yes_education_reform = {
             education_efficiency_modifier = 0.1
-            technology_cost = 12500
+            technology_cost = 10000
             civilization_progress_modifier = 0.15
             allow = { NOT = { has_country_flag = lacking_writing_system } }
 
@@ -1256,7 +1256,7 @@ economic_reforms = {
         }
 
         yes_research_reform = {
-            technology_cost = 22000
+            technology_cost = 18000
             education_efficiency_modifier = 0.1
             civilization_progress_modifier = 0.25
             allow = { NOT = { has_country_flag = lacking_writing_system } }
@@ -1272,7 +1272,7 @@ economic_reforms = {
                         }
                         scaled_militancy = {
                             ideology = conservative
-                            factor = 2
+                            factor = 1
                         }
                         scaled_militancy = {
                             ideology = reactionary
@@ -1290,7 +1290,7 @@ economic_reforms = {
 
         }
         yes_transport_improv = {
-            technology_cost = 12000
+            technology_cost = 10000
             farm_rgo_eff = 0.25
             mine_rgo_eff = 0.25
             civilization_progress_modifier = 0.15
@@ -1337,7 +1337,7 @@ economic_reforms = {
 
         }
         yes_firearms_production = {
-            technology_cost = 12000
+            technology_cost = 10000
             civilization_progress_modifier = 0.15
             allow = { NOT = { has_country_flag = lacking_writing_system } money = 10000 }
 
@@ -1373,7 +1373,7 @@ economic_reforms = {
 
         }
         yes_pre_indust = {
-            technology_cost = 18000
+            technology_cost = 15000
             civilization_progress_modifier = 0.2
             allow = { NOT = { has_country_flag = lacking_writing_system } money = 2000 }
 
@@ -1410,7 +1410,7 @@ economic_reforms = {
 
         }
         yes_industrial_construction = {
-            technology_cost = 20000
+            technology_cost = 17500
             civilization_progress_modifier = 0.25
             allow = { NOT = { has_country_flag = lacking_writing_system } money = 7000 }
 
@@ -1450,7 +1450,7 @@ military_reforms = {
         yes_foreign_training = {
             #unit stats improve
             land_organisation = 0.1
-            technology_cost = 9000
+            technology_cost = 8000
             civilization_progress_modifier = 0.1
             research_points_on_conquer = 0.25
 
@@ -1492,8 +1492,9 @@ military_reforms = {
         }
         yes_foreign_weapons = {
             land_defense_modifier = 0.1
-            technology_cost = 11000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
+	    research_points_on_conquer = 0.25
 
             on_execute = {
                 effect = {
@@ -1523,8 +1524,9 @@ military_reforms = {
                 core_pop_militancy_modifier = -0.005
         }
         yes_military_constructions = {
-            technology_cost = 11000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
+	    research_points_on_conquer = 0.25
             allow = {
                 NOT = { has_country_flag = lacking_writing_system }
                 money = 2000
@@ -1575,7 +1577,7 @@ military_reforms = {
         }
         yes_foreign_officers = {
             leadership_modifier = 0.1
-            technology_cost = 11000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
             research_points_on_conquer = 0.25
             allow = {
@@ -1617,7 +1619,7 @@ military_reforms = {
         }
         yes_army_schools = {
             land_unit_start_experience = 10
-            technology_cost = 11000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
             allow = {
                 NOT = { has_country_flag = lacking_writing_system }
@@ -1658,9 +1660,8 @@ military_reforms = {
         }
         yes_foreign_naval_officers = {
             tariff_efficiency_modifier = 0.2
-            technology_cost = 12000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
-            research_points_on_conquer = 0.25
 
             allow = {
                 any_owned_province = { port = yes }
@@ -1701,10 +1702,8 @@ military_reforms = {
         }
         yes_naval_schools = {
             naval_unit_start_experience = 10
-            technology_cost = 12000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
-            research_points_on_conquer = 0.25
-
             allow = {
                 NOT = { has_country_flag = lacking_writing_system }
                 any_owned_province = { port = yes }
@@ -1746,7 +1745,7 @@ military_reforms = {
         yes_foreign_navies = {
             naval_attack_modifier = 0.2
             naval_defense_modifier = 0.2
-            technology_cost = 16000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
 
             allow = {
@@ -1790,7 +1789,7 @@ military_reforms = {
         }
 
         yes_western_shipyards = {
-            technology_cost = 12000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
 
             allow = {
@@ -1832,7 +1831,7 @@ military_reforms = {
         no_foreign_artillery = {
         }
         yes_foreign_artillery = {
-            technology_cost = 11000
+            technology_cost = 10000
             civilization_progress_modifier = 0.1
 
             on_execute = {
