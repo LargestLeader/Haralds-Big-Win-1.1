@@ -2,6 +2,6 @@ owner = CRI
 controller = CRI
 add_core = CRI
 add_core = DON
-add_core = TAR
+ 
 trade_goods = fish
 life_rating = 35
