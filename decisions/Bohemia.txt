@@ -1,43 +1,53 @@
 political_decisions = {
-
-form_zap = { #the fact this is not indented bugs me
-    potential = {
+     form_zap = {
+        potential = {
         is_culture_group = western_slavic
         NOT = { WSF = { exists = yes } } 
-    }
-    allow = {
+        }
+        allow = {
         nationalism_n_imperialism = 1
         WSF = {
             all_core = {
-                OR = {
-                    owned_by = THIS
-                    in_sphere = THIS
-                    AND = {
-                        vassal_of = THIS
-                        in_sphere = THIS
-                    }
-                }
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                                in_sphere = THIS
+                            }
+                        }
             }
-        }
-    }
-    effect = {
+            }
+            }
+        effect = {
         prestige = 20
+        change_tag = WSF
         any_country = {
             limit = {
                 in_sphere = THIS
                 is_culture_group = western_slavic
-            }
+                      }
             country_event = { id=11101 days=0 }
-        }
-        change_tag = WSF
+                    }
         add_accepted_culture = czech
         add_accepted_culture = polish
         add_accepted_culture = sorbian
         add_accepted_culture = kashubian
         add_accepted_culture = pruthenian
+        change_tag = WSF
+
+         }
     }
-}
-
-
-
+    eat_slovaks ={
+        potential = {
+            tag = WSF
+            NOT = { has_country_flag = eat_slovaks }
+        }
+        allow = {
+            owns = 633
+        }
+        effect = {
+            SLV = {all_core = {add_core = THIS }}
+            set_country_flag = eat_slovaks
+            add_accepted_culture = slovak
+        }
+    }
 }

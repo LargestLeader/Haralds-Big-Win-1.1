@@ -94,6 +94,7 @@ political_decisions = {
 			add_accepted_culture = russian
 			add_accepted_culture = novgorodian
 			add_accepted_culture = ukrainian
+			add_accepted_culture = ingrian
 		}
 	}
 	russian_unification = {
