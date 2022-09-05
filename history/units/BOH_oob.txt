@@ -1,0 +1,195 @@
+army=
+	{
+		name="Prague Guard"
+		location=625
+		regiment=
+		{
+			name="1st Vratislav Artillery"
+			type=artillery
+            home = 682
+		}
+		regiment=
+		{
+			name="1st Brno Artillery"
+			type=artillery
+            home = 631
+		}
+		regiment=
+		{
+			name="1st Lehnice Artillery"
+			type=artillery
+            home = 683
+		}
+		regiment=
+		{
+			name="1st Budejovice Artillery"
+			type=artillery
+            home = 630
+		}
+		regiment=
+		{
+			name="1st Aussig Artillery"
+			type=artillery
+            home = 628
+		}
+		regiment=
+		{
+			name="1st Opoli Artillery"
+			type=artillery
+            home = 684
+		}
+		regiment=
+		{
+			name="1st Dredany Infantry"
+			type=infantry
+            home = 558
+		}
+		regiment=
+		{
+			name="1st Karlsbad Infantry"
+			type=infantry
+            home = 627
+		}
+		regiment=
+		{
+			name="1st Hradec Krᬯv頉nfantry"
+			type=infantry
+            home = 628
+		}
+		regiment=
+		{
+			name="1st Prague Infantry"
+			type=infantry
+            home = 625
+		}
+	}
+	army=
+	{
+		name="The Polish Legion"
+		location=710
+		regiment=
+		{
+			name="1st Bydgoszcz Hussar"
+			type=hussar
+            home = 700
+		}
+		regiment=
+		{
+			name="2nd Poznan Artillery"
+			type=artillery
+            home = 699
+		}
+		regiment=
+		{
+			name="1st Poznan Artillery"
+			type=artillery
+            home = 699
+		}
+		regiment=
+		{
+			name="2nd Opoli Artillery"
+			type=artillery
+            home = 684
+		}
+		regiment=
+		{
+			name="1st Gniezno Artillery"
+			type=artillery
+            home = 701
+		}
+		regiment=
+		{
+			name="1st Krakow Artillery"
+			type=artillery
+            home = 703
+		}
+		regiment=
+		{
+			name="1st Katovice Infantry"
+			type=infantry
+            home = 685
+		}
+		regiment=
+		{
+			name="1st Vratislav Infantry"
+			type=infantry
+            home = 682
+		}
+		regiment=
+		{
+			name="2nd Vratislav Infantry"
+			type=infantry
+            home = 682
+		}
+		regiment=
+		{
+			name="2nd Prague Infantry"
+			type=infantry
+            home = 625
+		}
+	}
+	army=
+	{
+		name="Gdansk Guard"
+		location=690
+		regiment=
+		{
+			name="1st Koszalic Cuirassier"
+			type=cuirassier
+            home = 680
+		}
+		regiment=
+		{
+			name="1st Truso Artillery"
+			type=artillery
+            home = 693
+		}
+		regiment=
+		{
+			name="1st Katovice Artillery"
+			type=artillery
+            home = 685
+		}
+		regiment=
+		{
+			name="1st Przemysl Artillery"
+			type=artillery
+            home = 705
+		}
+		regiment=
+		{
+			name="1st Tarnow Artillery"
+			type=artillery
+            home = 714
+		}
+		regiment=
+		{
+			name="1st Nowy Sacz Artillery"
+			type=artillery
+            home = 704
+		}
+		regiment=
+		{
+			name="2nd Dredany Infantry"
+			type=infantry
+            home = 558
+		}
+		regiment=
+		{
+			name="3rd Prague Infantry"
+			type=infantry
+            home = 625
+		}
+		regiment=
+		{
+			name="4th Prague Infantry"
+			type=infantry
+            home = 625
+		}
+		regiment=
+		{
+			name="1st Kamenice Infantry"
+			type=infantry
+            home = 560
+		}
+	}
