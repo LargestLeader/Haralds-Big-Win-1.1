@@ -1,0 +1,661 @@
+navy={
+		name="English Home Fleet"
+		location=292
+		ship=
+		{
+			name="Royal Albert"
+			type=manowar
+		}
+
+		ship=
+		{
+			name="Victoria"
+			type=manowar
+		}
+
+		ship=
+		{
+			name="Windsor Castle"
+			type=manowar
+		}
+
+		ship=
+		{
+			name="Frederick William"
+			type=manowar
+		}
+
+		ship=
+		{
+			name="Marlborough"
+			type=manowar
+		}
+
+		ship=
+		{
+			name="Algiers"
+			type=manowar
+		}
+
+		ship=
+		{
+			name="Royal Sovereign"
+			type=manowar
+		}
+
+		ship=
+		{
+            name="Albion"
+			type=manowar
+		}
+
+		ship=
+		{
+			name="Prince of Wales"
+			type=manowar
+		}
+        
+		ship=
+		{
+			name="Avenger"
+			type=manowar
+		}
+		ship=
+		{
+			name="Birkenhead"
+			type=manowar
+		}
+		ship=
+		{
+			name="Odin"
+			type=manowar
+		}
+		ship=
+		{
+			name="Sidon"
+			type=manowar
+		}
+        ship=
+		{
+			name="Leopard"
+			type=frigate
+		}
+		ship=
+		{
+			name="Tiger"
+			type=frigate
+		}
+        ship=
+		{
+			name="Terrible"
+			type=frigate
+		}
+		ship=
+		{
+			name="Magicienne"
+			type=frigate
+		}
+		ship=
+		{
+			name="Penelope"
+			type=frigate
+		}
+		ship=
+		{
+			name="Valorous"
+			type=frigate
+		}
+		ship=
+		{
+			name="Furious"
+			type=frigate
+		}
+		ship=
+		{
+			name="Resolute"
+			type=frigate
+		}
+		ship=
+		{
+			name="Amphion"
+			type=frigate
+		}
+		ship=
+		{
+			name="Arrogant"
+			type=frigate
+		}
+		ship=
+		{
+			name="Dauntless"
+			type=frigate
+		}
+		ship=
+		{
+			name="Vigilant"
+			type=frigate
+		}
+		ship=
+		{
+			name="Termagant"
+			type=frigate
+		}
+		ship=
+		{
+			name="Euphrates"
+			type=frigate
+		}
+		ship=
+        	{
+			name="Belvidera"
+			type=frigate
+		}
+		ship=
+		{
+			name="Pomone"
+			type=frigate
+		}
+		ship=
+		{
+			name="Raleigh"
+			type=frigate
+		}
+		ship=
+		{
+			name="Briton"
+			type=frigate
+		}
+		ship=
+		{
+			name="Barham"
+			type=frigate
+		}
+		ship=
+		{
+			name="Boadicea"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Glae Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="Dextrous"
+			type=frigate
+		}
+		ship=
+		{
+			name="Endymion"
+			type=frigate
+		}
+		ship=
+		{
+			name="Ister"
+			type=frigate
+		}
+		ship=
+		{
+			name="Blonde"
+			type=frigate
+		}
+		ship=
+		{
+			name="Astrea"
+			type=frigate
+		}
+		ship=
+		{
+			name="Dartmouth"
+			type=frigate
+		}
+		ship=
+		{
+			name="Inconstant"
+			type=frigate
+		}
+		ship=
+		{
+			name="Shah"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Legkoer Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="Bucephalus"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Norþwik Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Kelmefort Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Sareburh Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Akemanekoer Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Ƣerplym Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Kantarburh Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Borthelmtun Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Isle of Man Frigate"
+			type=frigate
+		}
+    }
+
+navy = {
+            name = "English Transports"
+            location = 292
+		ship=
+		{
+			name="1st Inwernes Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Glae Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Kardif Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Lincyln Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Northwik Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Terplym Steam Transport"
+			type=steam_transport
+		}
+    }
+
+	navy=
+	{
+		name="Danish Home Fleet"
+		location=372
+		ship=
+		{
+			name="Imperieuse"
+			type=frigate
+		}
+		ship=
+		{
+			name="Euryalus"
+			type=frigate
+		}
+		ship=
+		{
+			name="Aurora"
+			type=frigate
+		}
+		ship=
+		{
+			name="Forte"
+			type=frigate
+		}
+		ship=
+		{
+			name="Chesapeake"
+			type=frigate
+		}
+		ship=
+		{
+			name="Liffey"
+			type=frigate
+		}
+		ship=
+		{
+			name="Shannon"
+			type=frigate
+		}
+		ship=
+		{
+			name="Topaze"
+			type=frigate
+		}
+		ship=
+		{
+			name="Mersey"
+			type=frigate
+		}
+		ship=
+		{
+			name="Liverpool"
+			type=frigate
+		}
+		ship=
+		{
+			name="Diadem"
+			type=frigate
+		}
+		ship=
+		{
+			name="Dons"
+			type=frigate
+		}
+		ship=
+		{
+			name="Ariadne"
+			type=frigate
+		}
+		ship=
+		{
+			name="Galatea"
+			type=frigate
+		}
+		ship=
+		{
+			name="Emerald"
+			type=frigate
+		}
+		ship=
+		{
+			name="Melpomene"
+			type=frigate
+		}
+		ship=
+		{
+			name="Immortalite"
+			type=frigate
+		}
+		ship=
+		{
+			name="Orlando"
+			type=frigate
+		}
+		ship=
+		{
+			name="Bristol"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Alesund Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Bergen Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Fredriksund Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Skien Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Drammen Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Christiania Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Sarpsborg Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Göteborg Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Malmö Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Karlskrona Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Aarhus Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Aalborg Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Ribe Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Flensburg Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Aabenraa Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st København Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Odense Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Bornholm Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Esbjerg Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="Tribune"
+			type=frigate
+		}
+		ship=
+		{
+			name="Bacchante"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Trondheim Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Bodo Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Drammen Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Karlskrona Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Aalborg Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Cobenhavn Steam Transport"
+			type=steam_transport
+		}
+	}
+
+army=
+	{
+		name="Capital Guard"
+		location=281
+		regiment=
+		{
+			name="1st Llandrindod Artillery"
+			type=artillery
+            home = 275
+		}
+		regiment=
+		{
+			name="1st Likeaster Artillery"
+			type=artillery
+            home = 289
+		}
+		regiment=
+		{
+			name="1st Manekeaster Artillery"
+			type=artillery
+            home = 278
+		}
+		regiment=
+		{
+			name="1st Snotingham Artillery"
+			type=artillery
+            home = 288
+		}
+		regiment=
+		{
+			name="1st Lonkaester Infantry"
+			type=infantry
+            home = 277
+		}
+		regiment=
+		{
+			name="1st Lincyln Infantry"
+			type=infantry
+            home = 290
+		}
+		regiment=
+		{
+			name="1st Lieds Infantry"
+			type=infantry
+            home = 282
+		}
+		regiment=
+		{
+			name="1st Baemurh Infantry"
+			type=infantry
+            home = 280
+		}
+		regiment=
+		{
+			name="1st Sheafeld Infantry"
+			type=infantry
+            home = 283
+		}
+		regiment=
+		{
+			name="1st Skaroaerh Infantry"
+			type=infantry
+            home = 281
+		}
+	}
+army=
+	{
+		name="Copenhagen Garrison"
+		location=372
+		regiment=
+		{
+			name="1st Malmo Artillery"
+			type=artillery
+            home = 334
+		}
+		regiment=
+		{
+			name="1st Ribe Artillery"
+			type=artillery
+            home = 368
+		}
+		regiment=
+		{
+			name="1st Karlskrona Infantry"
+			type=infantry
+            home = 335
+		}
+		regiment=
+		{
+			name="1st Aarhus Infantry"
+			type=infantry
+            home = 336
+		}
+		regiment=
+		{
+			name="1st Aalborg Infantry"
+			type=infantry
+            home = 367
+		}
+	}
+
+LIR = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+CAN = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+CAL = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
