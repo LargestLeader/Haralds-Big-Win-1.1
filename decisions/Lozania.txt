@@ -1,53 +1,33 @@
 political_decisions = {
-    nen_push_west = {
+    nen_push_south = {
         potential = {
             tag = NEN
-                NOT = { has_country_flag = nen_push_west}
+                NOT = { has_country_flag = nen_push_south}
         }
         allow = {
             state_n_government = 1
-            owns = 196
-            owns = 201
-            owns = 184
-            owns = 178
         }
         effect = {
-            set_country_flag = nen_push_west
+            set_country_flag = nen_push_south
             prestige = 10
-            LNP = { all_core = { add_core = NEN }}
-            LNP = { all_core = { remove_core = LNP }}
-            SHE = { all_core = { add_core = NEN }}
-            SHE = { all_core = { remove_core = SHE }}
-            MKG = { all_core = { add_core = NEN }}
-            MKG = { all_core = { remove_core = MKG}}
-            HRN = { all_core = { add_core = NEN }}
-            ILL = { all_core = { add_core = NEN }}
-            MIA = { all_core = { add_core = NEN }}
-            VGR = { all_core = { add_core = NEN }}
-            YCH = { all_core = { add_core = NEN }}
+            NIB = {all_core = {add_core = THIS}}
         }
     }
-    fall_of_illinewek = {
+    fall_of_new_iberia = {
         potential = {
             tag = NEN
-            has_country_flag = nen_push_west
-            NOT = { has_country_flag = fall_of_illinewek }
+            has_country_flag = nen_push_south
+            NOT = { has_country_flag = fall_of_nib }
         }
         allow = {
-            HRN = { all_core = { owned_by = THIS }}
-            ILL = { all_core = { owned_by = THIS }}
-            MIA = { all_core = { owned_by = THIS }}
-            VGR = { all_core = { owned_by = THIS }}
-            YCH = { all_core = { owned_by = THIS }}
+            NIB = { all_core = { owned_by = THIS }}
         }
         effect = {
             prestige = 20
-            HRN = { all_core = { remove_core = HRN }}
-            ILL = { all_core = { remove_core = ILL }}
-            MIA = { all_core = { remove_core = MIA }}
-            VGR = { all_core = { remove_core = VGR }}
-            YCH = { all_core = { remove_core = YCH }}
-            set_country_flag = fall_of_illinewek
+            NIB = { all_core = { remove_core = NIB}}
+            add_accepted_culture = iberiano
+            add_accepted_culture = cajun
+            set_country_flag = fall_of_nib
         }
     }
 }
