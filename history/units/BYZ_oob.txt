@@ -1,0 +1,183 @@
+army=
+	{
+		name="Anatolia Guard"
+		location=869
+		regiment=
+		{
+			name="1st Corinth Artillery"
+			type=artillery
+            home = 840
+		}
+		regiment=
+		{
+			name="1st Kalamata Artillery"
+			type=artillery
+            home = 841
+		}
+		regiment=
+		{
+			name="1st Patras Artillery"
+			type=artillery
+            home = 842
+		}
+		regiment=
+		{
+			name="1st Cyclades Artillery"
+			type=artillery
+            home = 845
+		}
+		regiment=
+		{
+			name="1st Lamia Infantry"
+			type=infantry
+            home = 836
+		}
+		regiment=
+		{
+			name="1st Missolonghi Infantry"
+			type=infantry
+            home = 837
+		}
+		regiment=
+		{
+			name="1st Amfissa Infantry"
+			type=infantry
+            home = 835
+		}
+		regiment=
+		{
+			name="1st Nafplion Infantry"
+			type=infantry
+            home = 839
+		}
+	}
+    army=
+	{
+		name="Serbia Border Garrison"
+		location=804
+		regiment=
+		{
+			name="1st Pleven Hussar"
+			type=hussar
+            home = 812
+		}
+		regiment=
+		{
+			name="1st Solun Artillery"
+			type=artillery
+            home = 805
+		}
+		regiment=
+		{
+			name="1st Skopje Artillery"
+			type=artillery
+            home = 806
+		}
+		regiment=
+		{
+			name="1st Bitola Artillery"
+			type=artillery
+            home = 807
+		}
+		regiment=
+		{
+			name="1st Sofiya Artillery"
+			type=artillery
+            home = 809
+		}
+		regiment=
+		{
+			name="1st Vidin Artillery"
+			type=artillery
+            home = 810
+		}
+		regiment=
+		{
+			name="1st Ni Infantry"
+			type=infantry
+            home = 798
+		}
+		regiment=
+		{
+			name="1st Leskovac Infantry"
+			type=infantry
+            home = 799
+		}
+		regiment=
+		{
+			name="1st Pristina Infantry"
+			type=infantry
+            home = 802
+		}
+		regiment=
+		{
+			name="1st Prizren Infantry"
+			type=infantry
+            home = 803
+		}
+	}
+	army=
+	{
+		name="Tsarigrad Garrison"
+		location=860
+		regiment=
+		{
+			name="1st Varna Artillery"
+			type=artillery
+            home = 814
+		}
+		regiment=
+		{
+			name="1st Silistre Artillery"
+			type=artillery
+            home = 818
+		}
+		regiment=
+		{
+			name="2nd Sofiya Artillery"
+			type=artillery
+            home = 809
+		}
+		regiment=
+		{
+			name="2nd Skopje Artillery"
+			type=artillery
+            home = 806
+		}
+		regiment=
+		{
+			name="1st Burgas Infantry"
+			type=infantry
+            home = 817
+		}
+		regiment=
+		{
+			name="1st Shumen Infantry"
+			type=infantry
+            home = 813
+		}
+		regiment=
+		{
+			name="1st Ruse Infantry"
+			type=infantry
+            home = 811
+		}
+		regiment=
+		{
+			name="1st Constanta Infantry"
+			type=infantry
+            home = 674
+		}
+		regiment=
+		{
+			name="1st Tulcea Infantry"
+			type=infantry
+            home = 675
+		}
+		regiment=
+		{
+			name="2nd Ni Infantry"
+			type=infantry
+            home = 798
+		}
+	}
