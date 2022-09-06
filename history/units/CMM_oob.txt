@@ -1,0 +1,101 @@
+army=
+	{
+		name="Western Scouting Force"
+		location=98
+		regiment=
+		{
+			name="1st Salt Lake City Cuirassier"
+			type=cuirassier
+            home = 97
+		}
+		regiment=
+		{
+			name="1st Cedar City Cuirassier"
+			type=cuirassier
+            home = 98
+		}
+		regiment=
+		{
+			name="1st Phoenix Cuirassier"
+			type=cuirassier
+            home = 100
+		}
+		regiment=
+		{
+			name="1st San Diego Infantry"
+			type=infantry
+            home = 90
+		}
+		regiment=
+		{
+			name="1st Boise Infantry"
+			type=infantry
+            home = 91
+		}
+		regiment=
+		{
+			name="1st Kullyspell Infantry"
+			type=infantry
+            home = 92
+		}
+		regiment=
+		{
+			name="1st Fort Hall Infantry"
+			type=infantry
+            home = 93
+		}
+	}
+
+army=
+	{
+		name="Western Garrison"
+		location=129
+		regiment=
+		{
+			name="1st Delicias Hussar"
+			type=hussar
+            home = 2144
+		}
+		regiment=
+		{
+			name="1st Rock Springs Artillery"
+			type=artillery
+            home = 110
+		}
+		regiment=
+		{
+			name="1st Fort Laramie Artillery"
+			type=artillery
+            home = 112
+		}
+		regiment=
+		{
+			name="1st Llano Estacado Artillery"
+			type=artillery
+            home = 135
+		}
+		regiment=
+		{
+			name="1st Fort Washita Infantry"
+			type=infantry
+            home = 131
+		}
+		regiment=
+		{
+			name="1st Fort Gibson Infantry"
+			type=infantry
+            home = 130
+		}
+		regiment=
+		{
+			name="1st Hugoton Infantry"
+			type=infantry
+            home = 128
+		}
+		regiment=
+		{
+			name="1st Fort Parker Infantry"
+			type=infantry
+            home = 134
+		}
+	}

@@ -1,6 +1,6 @@
-owner = ABB
-controller = ABB
-add_core = PRK
+owner = SIA
+controller = SIA
+add_core = SIA
 trade_goods = tropical_wood
 life_rating = 37
-colonial = 2
+

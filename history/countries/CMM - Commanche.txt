@@ -73,4 +73,4 @@ mechanized_mining = 1
 experimental_railroad = 1
 basic_chemistry = 1
 
-oob = "CDD_oob.txt"
+oob = "CMM_oob.txt"

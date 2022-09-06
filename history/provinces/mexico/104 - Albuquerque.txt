@@ -3,4 +3,3 @@ controller = CMM
 add_core = CMM
 trade_goods = fruit
 life_rating = 35
-colonial = 2

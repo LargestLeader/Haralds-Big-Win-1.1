@@ -94,6 +94,7 @@ political_decisions = {
 			add_accepted_culture = russian
 			add_accepted_culture = novgorodian
 			add_accepted_culture = ukrainian
+			add_accepted_culture = ingrian
 		}
 	}
 	russian_unification = {
@@ -168,18 +169,17 @@ political_decisions = {
 			set_country_flag = russian_moldovia
 		}
 	}
-	take_kazan = {
+	crush_kazan = {
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = take_kazan }
 		}
 		allow = {
 			owns = 1030
-			owns = 1034
-			owns - 1031
 		}
 		effect = {
 			KZN = { all_core = { add_core = RUS } }
+			set_country_flag = take_kazan 
 		}
 	}
 	fall_of_kazan = {
@@ -193,10 +193,40 @@ political_decisions = {
 		}
 		effect = { 
 			prestige = 20
-			KZN = { all_core = { remove_core = TAR } }
 			KZN = { all_core = { remove_core = KZN } }
 			add_accepted_culture = astrakhan_tatar
 			set_country_flag = fall_of_kazan
+		}
+	}
+	baltic_security = {
+		potential = {
+			tag = RUS
+			NOT = {has_country_flag = baltic_cores}
+		}
+		allow = {
+			owns = 360
+			owns = 1006
+		}
+		effect = {
+			SMG = { all_core = { add_core = THIS}}
+			CUR = { all_core = { add_core = THIS}}
+			EST = { all_core = { add_core = THIS}}
+			set_country_flag = baltic_cores
+		}
+	}
+	southern_security = {
+			potential = { 
+			tag = RUS
+			NOT = {has_country_flag = caucus_cores}
+		}
+		allow = {
+			owns = 1036
+		}
+		effect = {
+			CIR = { all_core = { add_core = THIS}}
+			GEO = { all_core = { add_core = THIS}}
+			AZB = { all_core = { add_core = THIS}}
+			set_country_flag = caucus_cores
 		}
 	}
 }

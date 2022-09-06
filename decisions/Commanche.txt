@@ -1,0 +1,49 @@
+political_decisions = {
+    kill_yokut = {
+        potential = {
+            tag = CMM
+            NOT = {has_country_flag = kill_yokut}
+        }
+        allow = {
+            CAL = {all_core = {owned_by = THIS}}
+        }
+        effect = {
+            CAL = {all_core = {remove_core = CAL }}
+            ABS = {all_core = {add_core = THIS}}
+            ASB = {all_core = {add_core = THIS}}
+            BCK = {all_core = {add_core = THIS}}
+            SSH = {all_core = {add_core = THIS}}
+            YKM = {all_core = {add_core = THIS}}
+            SSX = {all_core = {add_core = THIS}}
+            add_accepted_culture = dakota
+            add_country_flag = kill_yokut
+        }
+    }
+    eat_illinewek = {
+        potential = {
+            tag = CMM
+            all_core = {owned_by = THIS}
+            NOT = {has_country_flag = eat_illinewek}
+        }
+        allow = {
+            state_n_government = 1
+            owns = 149
+            owns = 146
+        }
+        effect = {
+            prestige = 10
+            LNP = { all_core = { add_core = CMM }}
+            SHE = { all_core = { add_core = CMM }}
+            IL = { all_core = { remove_core = ILL }}
+            MKG = { all_core = { add_core = CMM }}
+            YCH = { all_core = { add_core = CMM }}
+            YCH = { all_core = { remove_core = YCH}}
+            HRN = { all_core = { add_core = CMM }}
+            ILL = { all_core = { add_core = CMM }}
+            MIA = { all_core = { add_core = CMM }}
+            VGR = { all_core = { add_core = CMM }}
+            add_accepted_culture = illinois
+            set_country_flag = eat_illinewek
+        }
+    }
+}

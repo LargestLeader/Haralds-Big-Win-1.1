@@ -1,6 +1,6 @@
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = ALH
+controller = ALH
+add_core = ALH
 add_core = BHR
 add_core = ABB
 trade_goods = fruit

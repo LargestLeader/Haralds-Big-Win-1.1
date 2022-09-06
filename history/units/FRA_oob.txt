@@ -1,0 +1,371 @@
+army = {
+	name = "Garde Royale"
+	location = 425
+	regiment = {
+		name= "1.Garde Royale"
+		type = guard
+		home = 425
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = guard
+		home = 426
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = guard
+		home = 427
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = guard
+		home = 440
+	}
+}
+army = {
+	name = "1ère Armée"
+	location = 438
+	regiment = {
+		name= "1.1ère Division d'Infanterie"
+		type = infantry
+		home = 438
+	}
+
+	regiment = {
+		name= "2.1ère Division d'Infanterie"
+		type = infantry
+		home = 400
+	}
+
+	regiment = {
+		name= "3.1ère Division d'Infanterie"
+		type = infantry
+		home = 401
+	}
+
+	regiment = {
+		name= "1.2ème Division d'Infanterie"
+		type = infantry
+		home = 441
+	}
+
+	regiment = {
+		name= "2.2ème Division d'Infanterie"
+		type = infantry
+		home = 2570
+	}
+
+	regiment = {
+		name= "3.2ème Division d'Infanterie"
+		type = infantry
+		home = 404
+	}
+
+	regiment = {
+		name= "1.3ème Division d'Infanterie"
+		type = infantry
+		home = 402
+	}
+
+	regiment = {
+		name= "2.3ème Division d'Infanterie"
+		type = infantry
+		home = 403
+	}
+
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = artillery
+		home = 399
+	}
+}
+	
+
+army = {
+	name = "Force d'intervention Espagnole"
+	location = 458
+	regiment = {
+		name= "1.8ème Division d'Infanterie"
+		type = infantry
+		home = 455
+	}
+
+	regiment = {
+		name= "2.8ème Division d'Infanterie"
+		type = infantry
+		home = 457
+	}
+
+	regiment = {
+		name= "3.8ème Division d'Infanterie"
+		type = infantry
+		home = 473
+	}
+
+	regiment = {
+		name= "1.9ème Division d'Infanterie"
+		type = infantry
+		home = 456
+	}
+
+	regiment = {
+		name= "2.9ème Division d'Infanterie"
+		type = artillery
+		home = 470
+	}
+
+	regiment = {
+		name= "3.9ème Division d'Infanterie"
+		type = infantry
+		home = 434
+	}
+
+	regiment = {
+		name= "1.2ème Division de cavalerie"
+		type = cuirassier
+		home = 462
+	}
+
+	regiment = {
+		name= "2.2ème Division de cavalerie"
+		type = cuirassier
+		home = 463
+	}
+
+	regiment = {
+		name= "3.2ème Division de cavalerie"
+		type = cuirassier
+		home = 460
+	}
+
+}
+
+army = {
+	name = "Garnison du Sénégal"
+	location = 1784
+	regiment = {
+		name= "1.10ème Division d'Infanterie"
+		type = infantry
+		home = 411
+	}
+
+	regiment = {
+		name= "2.10ème Division d'Infanterie"
+		type = infantry
+		home = 407
+	}
+
+	regiment = {
+		name= "3.10ème Division d'Infanterie"
+		type = infantry
+		home = 444
+	}
+
+}
+
+army = {
+	name = "Garnison de Côte d'Ivoire"
+	location = 1894
+	regiment = {
+		name= "1.11ème Division d'Infanterie"
+		type = infantry
+		home = 467
+	}
+
+	regiment = {
+		name= "2.11ème Division d'Infanterie"
+		type = infantry
+		home = 454
+	}
+
+	regiment = {
+		name= "3.11ème Division d'Infanterie"
+		type = infantry
+		home = 428
+	}
+
+}
+
+navy = {
+	name = "Escadre du Nord"
+	location = 420
+	ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dix-huit Fructidor"
+		type = manowar
+	}
+
+	ship = {
+		name= "Wagram"
+		type = manowar
+	}
+
+	ship = {
+		name= "Trocadero "
+		type = manowar
+	}
+
+	ship = {
+		name= "Zélandais"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Austerlitz"
+		type = manowar
+	}
+
+	ship = {
+		name= "Magnifique"
+		type = manowar
+	}
+
+	ship = {
+		name= "République Française"
+		type = manowar
+	}
+
+	ship = {
+		name= "Conquérant"
+		type = manowar
+	}
+
+	ship = {
+		name= "Neptune"
+		type = manowar
+	}
+
+	ship = {
+		name= "Algerisas"
+		type = manowar
+	}
+
+	ship = {
+		name= "Nestor"
+		type = manowar
+	}
+
+	ship = {
+		name= "Duchesse de Berry"
+		type = frigate
+	}
+
+	ship = {
+		name= "Thétis"
+		type = frigate
+	}
+
+	ship = {
+		name= "Astrée"
+		type = frigate
+	}
+
+	ship = {
+		name= "Amazone"
+		type = frigate
+	}
+
+	ship = {
+		name= "Clorinde"
+		type = frigate
+	}
+
+	ship = {
+		name= "Maure"
+		type = frigate
+	}
+
+	ship = {
+		name= "Vestale"
+		type = frigate
+	}
+
+	ship = {
+		name= "Magicienne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Marie Thérese"
+		type = frigate
+	}
+
+	ship = {
+		name= "Venus"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sirène"
+		type = frigate
+	}
+
+	ship = {
+		name= "Atalante"
+		type = frigate
+	}
+
+	ship = {
+		name= "Surveillante"
+		type = frigate
+	}
+
+	ship = {
+		name= "Iphigénie"
+		type = frigate
+	}
+
+	ship = {
+		name= "Sultane"
+		type = frigate
+	}
+
+	ship = {
+		name= "1ère Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+}
+
+WUR = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+PAP = {
+    value = 100
+    level = 5
+    influence_value = 100
+}

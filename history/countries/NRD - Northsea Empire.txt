@@ -1,6 +1,5 @@
 capital = 281
 primary_culture = englisk
-culture = vinlander
 culture = australian
 culture = danish
 culture = norwegian

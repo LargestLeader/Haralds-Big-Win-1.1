@@ -1,12 +1,5 @@
 substate = {
 	first = NRD
-	second = CAN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = NRD
 	second = LIR
 	start_date = 1836.1.1
 	end_date = 1937.1.1

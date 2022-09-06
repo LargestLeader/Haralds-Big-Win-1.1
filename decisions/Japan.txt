@@ -17,13 +17,12 @@ political_decisions = {
         potential = {
             tag = JAP
             civilized = yes
-            658 = { is_core = JAP }
         }
         allow = {
             658 = { owned_by = JAP }
         }
         effect = {
-            658 = { add_core = JAP }
+            HAW ={ all_core = { add_core = JAP }}
         }
     }
 }

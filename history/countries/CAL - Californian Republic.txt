@@ -1,6 +1,5 @@
-capital = 84 # Sonoma
-primary_culture = new_scots
-culture = vinlander
+capital = 87 # Sonoma
+primary_culture = yokuts
 religion = protestant
 government = colonial_company
 plurality = 0.5
