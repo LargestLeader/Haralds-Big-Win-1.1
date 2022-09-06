@@ -43,6 +43,7 @@ political_decisions = {
             MIA = { all_core = { add_core = CMM }}
             VGR = { all_core = { add_core = CMM }}
             add_accepted_culture = illinois
+            add_accepted_culture = iroquoian
             set_country_flag = eat_illinewek
         }
     }
