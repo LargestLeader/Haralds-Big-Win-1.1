@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 trade_goods = precious_metal
 life_rating = 15
+=======
+trade_goods = precious_goods
+life_rating = 35
+>>>>>>> parent of 0167137 (Kill precious goods)
 
