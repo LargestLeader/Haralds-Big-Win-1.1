@@ -1,0 +1,140 @@
+army=
+	{
+		name="Kyiv Guard"
+		location=958
+		regiment=
+		{
+			name="1st Rovne Hussar"
+			type=hussar
+		}
+		regiment=
+		{
+			name="1st Vinnitsa Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Proskorov Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Gomel Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Tarnopol Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Stryi Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Pinsk Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Slutsk Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Lemberg Infantry"
+			type=infantry
+		}
+		regiment=
+        {
+			name="1st Brest-Litovsk Infantry"
+			type=infantry
+		}
+    }
+army=
+	{
+		name="Kursk Garrison"
+		location=1017
+		regiment=
+		{
+			name="1st Poltava Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Chernigov Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Cherkassy Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Zhitomir Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Korosten Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="2nd Brest-Litovsk Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Kovel Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Kyiv Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Proskorov Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="2nd Pinsk Infantry"
+			type=infantry
+		}
+	}
+	army=
+	{
+		name="Western Guard"
+		location=937
+		regiment=
+		{
+			name="2nd Korosten Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="2nd Cherkassy Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="2nd Kovel Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Mozyr Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="2nd Kyiv Infantry"
+			type=infantry
+		}
+	}
