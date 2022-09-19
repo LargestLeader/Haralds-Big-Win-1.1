@@ -1,0 +1,440 @@
+army=
+	{
+		name="Cairo Garrison"
+		location=1745
+		regiment=
+		{
+			name="1st Cairo Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="2nd Cairo Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Ziqaziq Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Dumyat Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Alexandria Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="2nd Alexandria Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Ziqaziq Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Mansura Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Giza Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Alexandria Infantry"
+			type=infantry
+		}
+	}
+	army=
+	{
+		name="Libya Garrison"
+		location=1734
+		regiment=
+		{
+			name="1st Tanta Cavalry"
+			type=cavalry
+		}
+		regiment=
+		{
+			name="1st Sirt Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Benghazi Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Cairo Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Assab Infantry"
+			type=infantry
+		}
+	}
+	army=
+	{
+		name="Timurid Border Watch"
+		location=901
+		regiment=
+		{
+			name="1st Tadmur Hussar"
+			type=hussar
+		}
+		regiment=
+		{
+			name="1st al-Suwaida' Hussar"
+			type=hussar
+		}
+		regiment=
+		{
+			name="1st Dimashq Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st al-Ladiqiyya Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Dimashq Infantry"
+			type=infantry
+		}
+	}
+	army=
+	{
+		name="Beghdilid Border Watch"
+		location=900
+		regiment=
+		{
+			name="1st Halab Hussar"
+			type=hussar
+		}
+		regiment=
+		{
+			name="1st al-Suwaida' Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st 'Aman Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Sinjar Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Halab Infantry"
+			type=infantry
+		}
+	}
+	army=
+	{
+		name="Upper Nile Patrol"
+		location=1766
+		regiment=
+		{
+			name="1st Asyut Cuirassier"
+			type=cuirassier
+		}
+		regiment=
+		{
+			name="1st Minya Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Hayya Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Fayyum Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Asyut Infantry"
+			type=infantry
+		}
+	}
+	navy=
+	{
+		name="Indian Ocean Fleet"
+		location=1875
+		ship=
+		{
+			name="1st Jiddah Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Tabuk Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Socotra Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Maldives Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="Ayman"
+			type=frigate
+		}
+		ship=
+		{
+			name="Bahir"
+			type=frigate
+		}
+		ship=
+		{
+			name="Fadil"
+			type=frigate
+		}
+		ship=
+		{
+			name="Fath"
+			type=frigate
+		}
+		ship=
+		{
+			name="Jawhar"
+			type=frigate
+		}
+		ship=
+		{
+			name="Masud"
+			type=frigate
+		}
+		ship=
+		{
+			name="Mamun"
+			type=frigate
+		}
+		ship=
+		{
+			name="Majid"
+			type=frigate
+		}
+		ship=
+		{
+			name="Mufid"
+			type=frigate
+		}
+		ship=
+		{
+			name="Muntasir"
+			type=frigate
+		}
+		ship=
+		{
+			name="Qudamat"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Diego Garcia Frigate"
+			type=frigate
+		}
+	}
+	navy=
+	{
+		name="Mediterranean Fleet"
+		location=1751
+		ship=
+		{
+			name="Mansura"
+			type=manowar
+		}
+		ship=
+		{
+			name="Dumyat"
+			type=manowar
+		}
+		ship=
+		{
+			id=
+			{
+				id=22795
+				type=4713
+			}
+			name="Al-Iskandariyya"
+			type=manowar
+		}
+		ship=
+		{
+			name="Al-Qahira"
+			type=manowar
+		}
+		ship=
+		{
+			name="Zahir"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Sidi Barrani Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="Zafir"
+			type=frigate
+		}
+		ship=
+		{
+			name="Mukhtar"
+			type=frigate
+		}
+		ship=
+		{
+			name="Wafiq"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Limassol Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="Akram"
+			type=frigate
+		}
+		ship=
+		{
+			name="Kamal"
+			type=frigate
+		}
+		ship=
+		{
+			name="Khalid"
+			type=frigate
+		}
+		ship=
+		{
+			name="Yusuf"
+			type=frigate
+		}
+		ship=
+		{
+			name="Firas"
+			type=frigate
+		}
+		ship=
+		{
+			name="Atif"
+			type=frigate
+		}
+		ship=
+		{
+			name="Ghalib"
+			type=frigate
+		}
+		ship=
+		{
+			name="Humam"
+			type=frigate
+		}
+		ship=
+		{
+			name="Jabbar"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Nicosia Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="1st Famagusta Frigate"
+			type=frigate
+		}
+		ship=
+		{
+			name="Fawwaz"
+			type=frigate
+		}
+		ship=
+		{
+			name="Hakim"
+			type=frigate
+		}
+		ship=
+		{
+			name="Tahir"
+			type=frigate
+		}
+		ship=
+		{
+			name="Sa'ad"
+			type=frigate
+		}
+		ship=
+		{
+			name="10th Alexandria Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="4th Alexandria Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="3rd Alexandria Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="2nd Alexandria Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Alexandria Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="1st Malta Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="2nd Malta Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="3rd Malta Steam Transport"
+			type=steam_transport
+		}
+		ship=
+		{
+			name="4th Malta Steam Transport"
+			type=steam_transport
+		}
+	}
