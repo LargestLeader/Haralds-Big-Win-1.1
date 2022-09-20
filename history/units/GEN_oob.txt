@@ -1,0 +1,158 @@
+army = {
+    name = "Army of Sardinia"
+    location = 765
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+        home = 765
+    }
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+        home = 765
+    }
+}
+
+army = {
+    name = "Army of Genova"
+    location = 724
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "2nd Infantry
+        type = infantry
+    }
+    regiment = {
+        name = "1st Hussars"
+        type = hussar
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+    }
+    regiment = {
+        name = "2nd Artillery"
+        type = artillery
+    }
+}
+
+navy = {
+    name = "Home Fleet"
+    location = 724
+    ship = {
+        name = "Lombardia"
+        type = manowar
+    }
+    ship = {
+        name = "Sant'Ambrogio"
+        type = manowar
+    }
+    ship = {
+        name = "Liguria"
+        type = manowar
+    }
+    ship = {
+        name = "Sforza"
+        type = frigate
+    }
+    ship = {
+        name = "Visconti"
+        type = frigate
+    }
+    ship = {
+        name = "Aquila"
+        type = frigate
+    }
+    ship = {
+        name = "Aurora"
+        type = frigate
+    }
+    ship = {
+        name = "Azzardoso"
+        type = frigate
+    }
+    ship = {
+        name = "Beroldo"
+        type = frigate
+    }
+    ship = {
+        name = "Condottiero"
+        type = frigate
+    }
+    ship = {
+        name = "Carloforte"
+        type = frigate
+    }
+    ship = {
+        name = "Colombo"
+        type = frigate
+    }
+}
+
+navy = {
+    name = "Sardinian Fleet"
+    location = 765
+    ship = {
+        name = "Falco"
+        type = manowar
+    }
+    ship = {
+        name = "Eridano"
+        type = frigate
+    }
+    ship = {
+        name = "Daino"
+        type = frigate
+    }
+    ship = {
+        name = "Euridice"
+        type = frigate
+    }
+    ship = {
+        name = "Favorita"
+        type = frigate
+    }
+    ship = {
+        name = "Nereide"
+        type = frigate
+    }
+    ship = {
+        name = "Patrona"
+        type = frigate
+    }
+}
+
+navy = {
+    name = "Transport Fleet"
+    location = 740
+    ship = {
+        name = "Serpente"
+        type = frigate
+    }
+    ship = {
+        name = 'Vigilante"
+        type = frigate
+    }
+    ship = {
+        name = "1st Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "2nd Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "3rd Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "4th Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "5th Transport"
+        type = clipper_transport
+    }
+}

@@ -1,0 +1,100 @@
+army = {
+    name = "Army of Naples"
+    location = 754
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "3rd Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "4th Infantry
+        type = infantry
+    }
+    regiment = {
+        name = "1st Hussars"
+        type = hussar
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+    }
+    regiment = {
+        name = "2nd Artillery"
+        type = artillery
+    }
+    regiment = {
+        name = "3rd Artillery"
+        type = artillery
+    }
+    regiment = {
+        name = "4th Artillery"
+        type = artillery
+    }
+    regiment = {
+        name = "5th Artillery"
+        type = artillery
+    }
+}
+
+army = {
+    name = "The Cuirassiers of Potenza"
+    location = 761
+    regiment = {
+        name = "The Cuirassiers of Potenza"
+        type = cuirassier
+        home = 761
+    }
+}
+
+navy = {
+    name = "Main Fleet"
+    location = 754
+    ship = {
+        name = "Sicilia"
+        type = manowar
+    }
+    ship = {
+        name = "Fulmine"
+        type = frigate
+    }
+    ship = {
+        name = "Lampo"
+        type = frigate
+    }
+    ship = {
+        name = "Freccia"
+        type = frigate
+    }
+    ship = {
+        name = "Dardo"
+        type = frigate
+    }
+}
+
+navy = {
+    name = "Transport Squadron"
+    location = 754
+    ship = {
+        name = "1st Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "2nd Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "3rd Transport"
+        ship = clipper_transport
+    }
+    ship = {
+        name = "4th Transport"
+        ship = clipper_transport
+    }
+}

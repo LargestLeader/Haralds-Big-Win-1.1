@@ -144,7 +144,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 46525
+		size = 45525
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 1000
 	}
 }
 #Alessandria (326000/79000 POPS)
@@ -313,7 +319,7 @@
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 10000
+		size = 9000
 	}
 
 	artisans = {
@@ -331,13 +337,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 3350
+		size = 5350
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 275925
+		size = 271925
 	}
 
 	clergymen = {
@@ -350,6 +356,12 @@
 		culture = north_italian
 		religion = jewish
 		size = 95
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 3000
 	}
 }
 #Bergamo (472000/118000 POPS)
@@ -375,13 +387,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1150
+		size = 3000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 76975
+		size = 75475
 	}
 }
 #Brescia (708000/177000 POPS)
@@ -1776,13 +1788,13 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 1000
+		size = 3000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 48875
+		size = 46875
 	}
 
 }
@@ -1883,13 +1895,13 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 2000
+		size = 7000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 202925
+		size = 197925
 	}
 }
 #Salerno (572000/143000 POPS)
@@ -1915,13 +1927,13 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 2000
+		size = 3000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 108940
+		size = 107940
 	}
 
 	farmers = {
@@ -1954,13 +1966,13 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 1500
+		size = 2500
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 98350
+		size = 97350
 	}
 }
 #Apulia Region (1424000)
@@ -2006,13 +2018,13 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 2000
+		size = 3000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 83070
+		size = 82070
 	}
 
 	farmers = {

@@ -1,0 +1,12 @@
+army = {
+    name = "Army of Bologna"
+    location = 741
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+    }
+}

@@ -1,0 +1,20 @@
+army = {
+    name = "Army of Torino"
+    location = 720
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "1st Hussars"
+        type = hussar
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+    }
+}

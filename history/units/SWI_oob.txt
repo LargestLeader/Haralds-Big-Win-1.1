@@ -1,0 +1,24 @@
+army = {
+    name = "The Golden Army"
+    location = 726
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "1st Hussars"
+        type = hussar
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+    }
+    regiment = {
+        name = "2nd Artillery"
+        type = artillery
+    }
+}
