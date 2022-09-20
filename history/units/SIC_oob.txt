@@ -49,7 +49,6 @@ army = {
     regiment = {
         name = "The Cuirassiers of Potenza"
         type = cuirassier
-        home = 761
     }
 }
 
