@@ -1969,7 +1969,7 @@
 	
 	farmers = {
 		culture = burgundian
-		religion = protestnat
+		religion = protestant
 		size = 30000
 	}
 
