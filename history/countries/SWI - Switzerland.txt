@@ -168,4 +168,3 @@ ruling_party = SWI_liberal
 #Inventions
 }
 
-oob = "SWI_oob.txt"
