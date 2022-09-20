@@ -1,5 +1,6 @@
-owner = SRI
-controller = SRI
+owner = ORA
+controller = ORA
+add_core = ORA
 add_core = SRI
 trade_goods = coffee
 life_rating = 33

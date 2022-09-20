@@ -3,15 +3,27 @@
 #Colombo (400000/100000 POPS)
 1321 = {
 	aristocrats = {
+		culture = boer
+		religion = protestant
+		size = 500
+	}
+
+	aristocrats = {
 		culture = sinhala
 		religion = theravada
 		size = 3900
 	}
 
 	bureaucrats = {
-		culture = sinhala
-		religion = theravada
+		culture = boer
+		religion = protestant
 		size = 150
+	}
+
+	officers = {
+		culture = boer
+		religion = protestant
+		size = 50
 	}
 
 	clergymen = {
@@ -20,22 +32,46 @@
 		size = 750
 	}
 
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 50
+	}
+
 	artisans = {
 		culture = sinhala
 		religion = theravada
 		size = 800
 	}
 
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 1500
+	}
+
 	soldiers = {
 		culture = sinhala
 		religion = theravada
-		size = 750
+		size = 3750
 	}
 
 	farmers = {
 		culture = sinhala
 		religion = theravada
-		size = 64650
+		size = 38650
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 1000
+	}
+
+	slaves = {
+		culture = sinhala
+		religion = theravada
+		size = 14000
 	}
 
 	aristocrats = {
@@ -221,15 +257,39 @@
 #Jaffna (288000/72000 POPS)
 1322 = {
 	aristocrats = {
-		culture = sinhala
-		religion = theravada
-		size = 500
+		culture = boer
+		religion = protestant
+		size = 100
+	}
+
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 700
 	}
 
 	clergymen = {
 		culture = sinhala
 		religion = theravada
+		size = 200
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
 		size = 500
+	}
+
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 800
 	}
 
 	artisans = {
@@ -247,45 +307,61 @@
 	farmers = {
 		culture = sinhala
 		religion = theravada
-		size = 42500
+		size = 30500
 	}
 
-	aristocrats = {
+	farmers = {
 		culture = tamil
 		religion = hindu
-		size = 250
+		size = 15000
 	}
 
-	clergymen = {
-		culture = tamil
-		religion = hindu
-		size = 250
+	slaves = {
+		culture = sinhala
+		religion = theravada
+		size = 15000
 	}
+
 
 	artisans = {
 		culture = tamil
 		religion = hindu
-		size = 2000
+		size = 3000
 	}
 
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size = 500
+		size = 2500
 	}
 
-	labourers = {
-		culture = tamil
-		religion = hindu
-		size = 21000
-	}
+
 }
 #Kandy (304000/76000 POPS)
 1323 = {
+
+	bureaucrats = {
+		culture = boer
+		religion = protestant
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = tamil
+		religion = hindu
+		size = 20
+	}
+
 	aristocrats = {
 		culture = sinhala
 		religion = theravada
-		size = 750
+		size = 250
+	}
+
+	aristocrats = {
+		culture = boer
+		religion = protestant
+		size = 500
 	}
 
 	clergymen = {
@@ -300,24 +376,54 @@
 		size = 4000
 	}
 
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 1000
+	}
+
 	soldiers = {
 		culture = sinhala
 		religion = theravada
-		size = 750
+		size = 2750
 	}
 
 	farmers = {
 		culture = sinhala
 		religion = theravada
-		size = 69250
+		size = 53750
+	}
+
+	slaves = {
+		culture = sinhala
+		religion = theravada
+		size = 10000
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = tamil
+		religion = hindu
+		size = 6000
 	}
 }
 #Trincomalee (208000/52000 POPS)
 1324 = {
+	bureaucrats = {
+		culture = tamil
+		religion = hindu
+		size = 70
+	}
+
 	aristocrats = {
-		culture = sinhala
-		religion = theravada
-		size = 250
+		culture = tamil
+		religion = hindu
+		size = 400
 	}
 
 	clergymen = {
@@ -332,6 +438,12 @@
 		size = 500
 	}
 
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 75
+	}
+
 	soldiers = {
 		culture = sinhala
 		religion = theravada
@@ -341,13 +453,19 @@
 	farmers = {
 		culture = sinhala
 		religion = theravada
-		size = 19825
+		size = 7000
+	}
+
+	slaves = {
+		culture = sinhala
+		religion = theravada
+		size = 2825
 	}
 
 	aristocrats = {
-		culture = tamil
-		religion = hindu
-		size = 250
+		culture = sinhala
+		religion = theravada
+		size = 100
 	}
 
 	clergymen = {
@@ -365,13 +483,13 @@
 	soldiers = {
 		culture = tamil
 		religion = hindu
-		size = 250
+		size = 2250
 	}
 
 	labourers = {
 		culture = tamil
 		religion = hindu
-		size = 22750
+		size = 31750
 	}
 
 	clergymen = {
