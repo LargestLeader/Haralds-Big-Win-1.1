@@ -1,0 +1,90 @@
+army = {
+    name = "Army of Oranje Ceylon"
+    location = 1321
+    regiment = {
+        name = "1st Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "2nd Infantry"
+        type = infantry
+    }
+    regiment = {
+        name = "1st Cavalry"
+        type = artillery
+    }
+    regiment = {
+        name = "1st Artillery"
+        type = artillery
+    }
+}
+
+navy = {
+    name = "Main Fleet"
+    location = 1321
+    ship = {
+        name = "Holland"
+        type = manowar
+    }
+    ship = {
+        name = "Vrystaat"
+        type = manowar
+    }
+    ship = {
+        name = "Eendrag"
+        type = frigate
+    }
+    ship = {
+        name = "Onoorwinlik"
+        type = frigate
+    }
+    ship = {
+        name = "Afrika"
+        type = frigate
+    }
+    ship = {
+        name = "Leeu"
+        type = frigate
+    }
+    ship = {
+        name = "Olifant"
+        type = frigate
+    }
+    ship = {
+        name = "Groot Trek"
+        type = frigate
+    }
+    ship = {
+        name = "Piet Retief"
+        type = frigate
+    }
+    ship = {
+        name = "Gerrit Maritz"
+        type = frigate
+    }
+    ship = {
+        name = "Andries Pretorius" 
+        type = frigate
+    }
+}
+
+navy = {
+    name = "Transport Squadron"
+    location = 1321
+    ship = {
+        name = "1st Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "2nd Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "3rd Transport"
+        type = clipper_transport
+    }
+    ship = {
+        name = "4th Transport"
+        type = clipper_transport
+    }
+}

@@ -138,13 +138,13 @@
 	soldiers = {
 		culture = south_german
 		religion = protestant
-		size = 1100
+		size = 3100
 	}
 
 	farmers = {
 		culture = south_german
 		religion = protestant
-		size = 18420
+		size = 16420
 	}
 
 	aristocrats = {
@@ -180,13 +180,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100
+		size = 3100
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 14550
+		size = 12550
 	}
 }
 #Bern (352000/88000 POPS)
@@ -242,13 +242,13 @@
 	soldiers = {
 		culture = south_german
 		religion = protestant
-		size = 1100
+		size = 3100
 	}
 
 	farmers = {
 		culture = south_german
 		religion = protestant
-		size = 85600
+		size = 83600
 	}
 }
 #Lucerne (204000/51000 POPS)
@@ -274,13 +274,13 @@
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100
+		size = 3200
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 47575
+		size = 45375
 	}
 
 }
@@ -320,13 +320,13 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size = 1100
+		size = 6300
 	}
 
 	farmers = {
 		culture = burgundian
 		religion = protestant
-		size = 40620
+		size = 38520
 	}
 
 	aristocrats = {
@@ -359,16 +359,11 @@
 		size = 3000
 	}
 
-	soldiers = {
-		culture = burgundian
-		religion = catholic
-		size = 1100
-	}
 
 	farmers = {
 		culture = burgundian
 		religion = catholic
-		size = 14530
+		size = 12530
 	}
 }
 #Neuchatel (56000/14000 POPS)
@@ -399,13 +394,13 @@
 	soldiers = {
 		culture = burgundian
 		religion = protestant
-		size = 150
+		size = 500
 	}
 
 	farmers = {
 		culture = burgundian
 		religion = protestant
-		size = 17225
+		size = 17000
 	}
 }
 #Sitten (72000/18000) POPS

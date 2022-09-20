@@ -14,7 +14,7 @@ army = {
         type = infantry
     }
     regiment = {
-        name = "4th Infantry
+        name = "4th Infantry"
         type = infantry
     }
     regiment = {

@@ -74,3 +74,4 @@ upper_house = {
 
 schools = army_tech_school
 
+oob = "SVY_oob.txt"
