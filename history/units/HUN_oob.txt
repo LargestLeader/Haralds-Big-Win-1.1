@@ -1,0 +1,155 @@
+army=
+	{
+		name="Pest Guard"
+		location=641
+		regiment=
+		{
+			name="1st Sopron Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="2nd Sopron Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="3rd Sopron Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Triszma Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Kremisza Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Gradec Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st KumanvᲠInfantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Celovec Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="2nd KumanvᲠInfantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="2nd Celovec Infantry"
+			type=infantry
+		}
+	}
+	army=
+	{
+		name="Transylvania Garrison"
+		location=657
+		regiment=
+		{
+			name="1st Oradea Cuirassier"
+			type=cuirassier
+		}
+		regiment=
+		{
+			name="1st Debrecen Cuirassier"
+			type=cuirassier
+		}
+		regiment=
+		{
+			name="1st KaposvᲠCuirassier"
+			type=cuirassier
+		}
+		regiment=
+		{
+			name="1st Ljubljana Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Brasso Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Resicab᮹a Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Debrecen Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Szeged Infantry"
+			type=infantry
+		}
+	}
+	army=
+	{
+		name="Bohemia Border Guard"
+		location=619
+		regiment=
+		{
+			name="1st Pest Hussar"
+			type=hussar
+		}
+		regiment=
+		{
+			name="1st Zalaegerszeg Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st P飳 Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st Koice Artillery"
+			type=artillery
+		}
+		regiment=
+		{
+			name="1st B飳 Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Vas Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="2nd Vas Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="3rd Vas Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="1st Bratislava Infantry"
+			type=infantry
+		}
+		regiment=
+		{
+			name="3rd KumanvᲠInfantry"
+			type=infantry
+		}
+	}

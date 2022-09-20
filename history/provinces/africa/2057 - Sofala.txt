@@ -2,6 +2,6 @@ owner = SFL
 controller = SFL
 add_core = SFL
 add_core = SWA
-trade_goods = precious_metal
+trade_goods = precious_goods
 life_rating = 35
 terrain = coastal_forest

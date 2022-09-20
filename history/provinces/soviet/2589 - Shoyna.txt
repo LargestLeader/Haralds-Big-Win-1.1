@@ -1,6 +1,7 @@
 owner = MUS
 controller = MUS
 add_core = MUS
+add_core = RUS
 trade_goods = fish
 terrain = small_island
 life_rating = 30

@@ -659,3 +659,8 @@ CAL = {
     level = 5
     influence_value = 100
 }
+UCA = {
+    value = 100
+    level = 5
+    influence_value = 100
+}

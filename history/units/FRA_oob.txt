@@ -369,3 +369,18 @@ PAP = {
     level = 5
     influence_value = 100
 }
+NIB = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+CLM = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+FDA = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
