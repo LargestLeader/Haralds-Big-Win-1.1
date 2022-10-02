@@ -138,3 +138,14 @@ army=
 			type=infantry
 		}
 	}
+
+MOL = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
+DON = {
+    value = 100
+    level = 5
+    influence_value = 100
+}
