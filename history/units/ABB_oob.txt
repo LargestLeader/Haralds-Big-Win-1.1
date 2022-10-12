@@ -6,51 +6,55 @@ army=
 		{
 			name="1st Cairo Artillery"
 			type=artillery
+			home = 1745
 		}
 		regiment=
 		{
 			name="2nd Cairo Artillery"
 			type=artillery
+			home = 1745
 		}
 		regiment=
 		{
 			name="1st Ziqaziq Artillery"
 			type=artillery
+			home = 1749
 		}
 		regiment=
 		{
 			name="1st Dumyat Artillery"
 			type=artillery
+			home = 1746
 		}
 		regiment=
 		{
 			name="1st Alexandria Artillery"
 			type=artillery
+			home = 1751
 		}
 		regiment=
 		{
 			name="2nd Alexandria Artillery"
 			type=artillery
+			home = 1751
 		}
 		regiment=
 		{
 			name="1st Ziqaziq Infantry"
 			type=infantry
+			home = 1749
 		}
 		regiment=
 		{
 			name="1st Mansura Infantry"
 			type=infantry
-		}
-		regiment=
-		{
-			name="1st Giza Infantry"
-			type=infantry
+			home = 1748
 		}
 		regiment=
 		{
 			name="1st Alexandria Infantry"
 			type=infantry
+			home = 1751
 		}
 	}
 	army=
@@ -61,26 +65,31 @@ army=
 		{
 			name="1st Tanta Cavalry"
 			type=cavalry
+			home = 1747
 		}
 		regiment=
 		{
 			name="1st Sirt Infantry"
 			type=infantry
+			home = 1735
 		}
 		regiment=
 		{
 			name="1st Benghazi Infantry"
 			type=infantry
+			home = 1735
 		}
 		regiment=
 		{
 			name="1st Cairo Infantry"
 			type=infantry
+			home = 1745
 		}
 		regiment=
 		{
 			name="1st Assab Infantry"
 			type=infantry
+			home = 1851
 		}
 	}
 	army=
@@ -91,26 +100,31 @@ army=
 		{
 			name="1st Tadmur Hussar"
 			type=hussar
+			home = 907
 		}
 		regiment=
 		{
 			name="1st al-Suwaida' Hussar"
 			type=hussar
+			home = 906
 		}
 		regiment=
 		{
 			name="1st Dimashq Artillery"
 			type=artillery
+			home = 902
 		}
 		regiment=
 		{
 			name="1st al-Ladiqiyya Infantry"
 			type=infantry
+			home = 905
 		}
 		regiment=
 		{
 			name="1st Dimashq Infantry"
 			type=infantry
+			home = 902
 		}
 	}
 	army=
@@ -121,26 +135,31 @@ army=
 		{
 			name="1st Halab Hussar"
 			type=hussar
+			home = 897
 		}
 		regiment=
 		{
 			name="1st al-Suwaida' Artillery"
 			type=artillery
+			home = 906
 		}
 		regiment=
 		{
 			name="1st 'Aman Artillery"
 			type=artillery
+			home = 908
 		}
 		regiment=
 		{
 			name="1st Sinjar Infantry"
 			type=infantry
+			home = 904
 		}
 		regiment=
 		{
 			name="1st Halab Infantry"
 			type=infantry
+			home = 897
 		}
 	}
 	army=
@@ -151,26 +170,31 @@ army=
 		{
 			name="1st Asyut Cuirassier"
 			type=cuirassier
+			home = 1762
 		}
 		regiment=
 		{
 			name="1st Minya Infantry"
 			type=infantry
+			home = 1764
 		}
 		regiment=
 		{
 			name="1st Hayya Infantry"
 			type=infantry
+			home = 1836
 		}
 		regiment=
 		{
 			name="1st Fayyum Infantry"
 			type=infantry
+			home = 1765
 		}
 		regiment=
 		{
 			name="1st Asyut Infantry"
 			type=infantry
+			home = 1762
 		}
 	}
 	navy=
