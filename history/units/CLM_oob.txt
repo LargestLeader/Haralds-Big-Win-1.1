@@ -1,0 +1,106 @@
+army=
+	{
+		name="Holy Guard"
+		location=2249
+		regiment=
+		{
+			name="1st Nou Tolosa Dragoon"
+			type=dragoon
+            home = 2254
+		}
+		regiment=
+		{
+			name="1st Tayrones Artillery"
+			type=artillery
+            home = 2255
+		}
+		regiment=
+		{
+			name="1st Koukoutes Artillery"
+			type=artillery
+            home = 2251
+		}
+		regiment=
+		{
+			name="1st Nou Tolosa Artillery"
+			type=artillery
+            home = 2254
+		}
+		regiment=
+		{
+			name="1st Mellionnec Artillery"
+			type=artillery
+            home = 2252
+		}
+		regiment=
+		{
+			name="1st Palestine Artillery"
+			type=artillery
+            home = 2250
+		}
+		regiment=
+		{
+			name="1st Uncha Infantry"
+			type=infantry
+            home = 2249
+		}
+		regiment=
+		{
+			name="1st Vallee d'Emeraude Infantry"
+			type=infantry
+            home = 2248
+		}
+		regiment=
+		{
+			name="1st Bogotes Infantry"
+			type=infantry
+            home = 2247
+		}
+		regiment=
+		{
+			name="2nd Bogotes Infantry"
+			type=infantry
+            home = 2247
+		}
+	}
+	army=
+	{
+		name="Knights of Joseph Smith"
+		location=2270
+		regiment=
+		{
+			name="1st Port du Francois Dragoon"
+			type=dragoon
+            home = 2269
+		}
+		regiment=
+		{
+			name="2nd Tayrones Artillery"
+			type=artillery
+            home = 2255
+		}
+		regiment=
+		{
+			name="1st Sant Daix Artillery"
+			type=artillery
+            home = 2268
+		}
+		regiment=
+		{
+			name="1st Nou Noned Artillery"
+			type=artillery
+            home = 2264
+		}
+		regiment=
+		{
+			name="1st Kalimes Artillery"
+			type=artillery
+            home = 2256
+		}
+		regiment=
+		{
+			name="1st Cumanes Artillery"
+			type=artillery
+            home = 2267
+		}
+	}

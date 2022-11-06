@@ -1,0 +1,171 @@
+army=
+	{
+		name="Home Guard"
+		location = 998
+		regiment=
+		{
+			name="1st Borodino Artillery"
+			type=artillery
+            home = 1009
+		}
+		regiment=
+		{
+			name="1st Moskva Artillery"
+			type=artillery
+            home = 1008
+		}
+		regiment=
+		{
+			name="1st Kaluga Artillery"
+			type=artillery
+            home = 1010
+		}
+		regiment=
+		{
+			name="1st Tula Artillery"
+			type=artillery
+            home = 1011
+		}
+		regiment=
+		{
+			name="1st Tver Infantry"
+			type=infantry
+            home = 998
+		}
+		regiment=
+		{
+			name="1st Yaroslavl Infantry"
+			type=infantry
+            home = 1001
+		}
+		regiment=
+		{
+			name="1st Rzhev Infantry"
+			type=infantry
+            home = 999
+		}
+		regiment=
+		{
+			name="1st Vologda Infantry"
+			type=infantry
+            home = 989
+		}
+		regiment=
+		{
+			name="1st Uglich Infantry"
+			type=infantry
+            home = 991
+		}
+	}
+	army=
+	{
+		name="Novgorod Garrison"
+		location = 1003
+		regiment=
+		{
+			name="1st Novgorod Cuirassier"
+			type=cuirassier
+            home = 1003
+		}
+		regiment=
+		{
+			name="1st Tver Artillery"
+			type=artillery
+            home = 998
+		}
+		regiment=
+		{
+			name="1st Vologda Artillery"
+			type=artillery
+            home = 989
+		}
+		regiment=
+		{
+			name="1st Uglich Artillery"
+			type=artillery
+            home = 991
+		}
+		regiment=
+		{
+			name="1st Borodino Infantry"
+			type=infantry
+            home = 1009
+		}
+		regiment=
+		{
+			name="1st Kaluga Infantry"
+			type=infantry
+            home = 1010
+		}
+		regiment=
+		{
+			name="1st Tula Infantry"
+			type=infantry
+            home = 1011
+		}
+	}
+	army=
+	{
+		name="Ruthenian Border Watch"
+		location=1015
+		regiment=
+		{
+			name="2nd Kaluga Artillery"
+			type=artillery
+            home = 1010
+		}
+		regiment=
+		{
+			name="1st Vyazma Artillery"
+			type=artillery
+            home = 1014
+		}
+		regiment=
+		{
+			name="2nd Borodino Artillery"
+			type=artillery
+            home = 1099
+		}
+		regiment=
+		{
+			name="1st Ryazan Artillery"
+			type=artillery
+            home = 1012
+		}
+		regiment=
+		{
+			name="1st Vladimir Artillery"
+			type=artillery
+            home = 1013
+		}
+		regiment=
+		{
+			name="2nd Tver Infantry"
+			type=infantry
+            home = 998
+		}
+		regiment=
+		{
+			name="2nd Yaroslavl Infantry"
+			type=infantry
+            home = 1001
+		}
+		regiment=
+		{
+			name="1st Belozersk Infantry"
+			type=infantry
+            home = 992
+		}
+		regiment=
+		{
+			name="2nd Vologda Infantry"
+			type=infantry
+            home = 989
+		}
+		regiment=
+		{
+			name="2nd Uglich Infantry"
+			type=infantry
+            home = 991
+		}
+	}

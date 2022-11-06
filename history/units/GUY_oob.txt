@@ -1,0 +1,118 @@
+army=
+	{
+		name="Army of al-Tufunawa"
+		location=2431
+		regiment=
+		{
+			name="1st Kanquwatam Hussar"
+			type=hussar
+            home = 2431
+		}
+		regiment=
+		{
+			name="1st Shoco Cuirassier"
+			type=cuirassier
+            home = 2430
+		}
+		regiment=
+		{
+			name="1st Qal'at al-Tufuyya Artillery"
+			type=artillery
+            home = 2410
+		}
+		regiment=
+		{
+			name="1st Mashaba Artillery"
+			type=artillery
+            home = 2415
+		}
+		regiment=
+		{
+			name="1st Cuiaba Artillery"
+			type=artillery
+            home = 2418
+		}
+		regiment=
+		{
+			name="1st Jezira Artillery"
+			type=artillery
+            home = 2414
+		}
+		regiment=
+		{
+			name="1st Kalifiyya Artillery"
+			type=artillery
+            home = 2241
+		}
+		regiment=
+		{
+			name="1st Siyara Infantry"
+			type=infantry
+            home = 2429
+		}
+		regiment=
+		{
+			name="1st Abu Khalid Infantry"
+			type=infantry
+            home = 2426
+		}
+		regiment=
+		{
+			name="1st Ndaqu Aqtr Infantry"
+			type=infantry
+            home = 2423
+		}
+	}
+	army=
+	{
+		name="Amazones Cavalry"
+		location=2424
+		regiment=
+		{
+			name="1st Shukuru Cuirassier"
+			type=cuirassier
+            home = 2433
+		}
+		regiment=
+		{
+			name="1st Kanquwatam Cuirassier"
+			type=cuirassier
+            home = 2431
+		}
+		regiment=
+		{
+			name="1st Barawuqa Cuirassier"
+			type=cuirassier
+            home = 2432
+		}
+		regiment=
+		{
+			name="1st Araqayu Cuirassier"
+			type=cuirassier
+            home = 2435
+		}
+		regiment=
+		{
+			name="2nd Ndaqu Aqtr Infantry"
+			type=infantry
+            home = 2423
+		}
+		regiment=
+		{
+			name="2nd Siyara Infantry"
+			type=infantry
+            home = 2429
+		}
+		regiment=
+		{
+			name="1st Kanquwatam Infantry"
+			type=infantry
+            home = 2431
+		}
+		regiment=
+		{
+			name="1st Barakhiwa Infantry"
+			type=infantry
+            home = 2428
+		}
+	}

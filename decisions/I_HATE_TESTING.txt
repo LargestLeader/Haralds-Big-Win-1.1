@@ -36,4 +36,21 @@ political_decisions = {
             }
         }
     }
+    CLM_operation = {
+        potential = {
+            tag = CLM
+            always = no
+        }
+        allow = {
+            tag = CLM
+        }
+        effect = {
+            any_owned = {
+                limit = {
+                    is_core = CLM
+                }
+                assimilate = yes
+            }
+        }
+    }
 }

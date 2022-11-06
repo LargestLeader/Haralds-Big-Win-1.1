@@ -1,0 +1,100 @@
+	army=
+	{
+		name="The Sultan's Guard"
+		location=2436
+		regiment=
+		{
+			name="1st Uberaba Hussar"
+			type=hussar
+            home = 2445
+		}
+		regiment=
+		{
+			name="1st Madkhal al-Balad Artillery"
+			type=artillery
+            home = 2436
+		}
+		regiment=
+		{
+			name="1st Itati Artillery"
+			type=artillery
+            home = 2356
+		}
+		regiment=
+		{
+			name="1st Chana Artillery"
+			type=artillery
+            home = 2349
+		}
+		regiment=
+		{
+			name="1st Ghanam Artillery"
+			type=artillery
+            home = 2351
+		}
+		regiment=
+		{
+			name="1st Hara'ith Artillery"
+			type=artillery
+            home = 2352
+		}
+		regiment=
+		{
+			name="1st Itapua Infantry"
+			type=infantry
+            home = 2341
+		}
+		regiment=
+		{
+			name="1st Ypane Infantry"
+			type=infantry
+            home = 2339
+		}
+		regiment=
+		{
+			name="2nd Itapua Infantry"
+			type=infantry
+            home = 2341
+		}
+		regiment=
+		{
+			name="2nd Ypane Infantry"
+			type=infantry
+            home = 2339
+		}
+	}
+	army=
+	{
+		name="Southern Rangers"
+		location=2344
+		regiment=
+		{
+			name="1st Hisn 'Ashir Hussar"
+			type=hussar
+            home = 2440
+		}
+		regiment=
+		{
+			name="1st Ghanam Cuirassier"
+			type=cuirassier
+            home = 2351
+		}
+		regiment=
+		{
+			name="1st Ypane Cuirassier"
+			type=cuirassier
+            home = 2339
+		}
+		regiment=
+		{
+			name="2nd Ypane Cuirassier"
+			type=cuirassier
+            home = 2339
+		}
+		regiment=
+		{
+			name="1st Apapucova Cuirassier"
+			type=cuirassier
+            home = 2435
+		}
+	}

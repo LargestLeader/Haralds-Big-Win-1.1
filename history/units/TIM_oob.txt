@@ -1,0 +1,147 @@
+army=
+	{
+		name="Army of the Shah"
+		location=1212
+		regiment=
+		{
+			name="1st Hamadan Cavalry"
+			type=cavalry
+            home = 1122
+		}
+		regiment=
+		{
+			name="1st Yazd Artillery"
+			type=artillery
+            home = 1130
+		}
+		regiment=
+		{
+			name="2nd Yazd Artillery"
+			type=artillery
+            home = 1130
+		}
+		regiment=
+		{
+			name="3rd Yazd Artillery"
+			type=artillery
+            home = 1130
+		}
+		regiment=
+		{
+			name="4th Yazd Artillery"
+			type=artillery
+            home = 1130
+		}
+		regiment=
+		{
+			name="1st Hamadan Infantry"
+			type=infantry
+            home = 1122
+		}
+		regiment=
+		{
+			name="1st Qazvin Infantry"
+			type=infantry
+            home = 1124
+		}
+		regiment=
+		{
+			name="1st Qom Infantry"
+			type=infantry
+            home = 1125
+		}
+		regiment=
+		{
+			name="1st Esfahan Infantry"
+			type=infantry
+            home = 1127
+		}
+		regiment=
+		{
+			name="2nd Esfahan Infantry"
+			type=infantry
+            home = 1127
+		}
+	}
+	army=
+	{
+		name="Baghdad Garrison"
+		location=926
+		regiment=
+		{
+			name="1st Khoramabad Cavalry"
+			type=cavalry
+            home = 1120
+		}
+		regiment=
+		{
+			name="2nd Hamadan Cavalry"
+			type=cavalry
+            home = 1122
+		}
+		regiment=
+		{
+			name="1st Tehran Cavalry"
+			type=cavalry
+            home = 1121
+		}
+		regiment=
+		{
+			name="1st Shiraz Artillery"
+			type=artillery
+            home = 1135
+		}
+		regiment=
+		{
+			name="1st Kermanshah Infantry"
+			type=infantry
+            home = 1119
+		}
+		regiment=
+		{
+			name="3rd Sanandaj Infantry"
+			type=infantry
+            home = 1117
+		}
+		regiment=
+		{
+			name="1st Sanandaj Infantry"
+			type=infantry
+            home = 1117
+		}
+		regiment=
+		{
+			name="2nd Sanandaj Infantry"
+			type=infantry
+            home = 1117
+		}
+	}
+	army=
+	{
+		name="Adaban Millitia"
+		location=1132
+		regiment=
+		{
+			name="1st Arak Infantry"
+			type=infantry
+            home = 1128
+		}
+		regiment=
+		{
+			name="2nd Hamadan Infantry"
+			type=infantry
+            home = 1122
+		}
+		regiment=
+		{
+			name="1st Amol Infantry"
+			type=infantry
+            home = 1115
+		}
+		regiment=
+		{
+			name="1st Astarabad Infantry"
+			type=infantry
+            home = 1116
+		}
+	}

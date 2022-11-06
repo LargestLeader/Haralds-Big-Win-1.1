@@ -1,6 +1,5 @@
 capital = 2247
 primary_culture = aquitan
-culture = chibcha
 religion = catholic
 government = colonial_company
 plurality = 25.0
@@ -53,7 +52,7 @@ upper_house = {
 	communist = 0
 }
 
-decision = CLM_1836_setup
+decision = CLM_operation
 set_country_flag = new_world_nation
 
 # Technologies
