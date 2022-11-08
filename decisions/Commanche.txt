@@ -2,7 +2,7 @@ political_decisions = {
     kill_yokut = {
         potential = {
             tag = CMM
-            NOT = {has_country_flag = kill_yokut}
+            NOT = { has_country_flag = kill_yokut }
         }
         allow = {
             CAL = {all_core = {owned_by = THIS}}
@@ -16,7 +16,7 @@ political_decisions = {
             YKM = {all_core = {add_core = THIS}}
             SSX = {all_core = {add_core = THIS}}
             add_accepted_culture = dakota
-            add_country_flag = kill_yokut
+            set_country_flag = kill_yokut
         }
     }
     eat_illinewek = {
@@ -43,7 +43,7 @@ political_decisions = {
             MIA = { all_core = { add_core = CMM }}
             VGR = { all_core = { add_core = CMM }}
             add_accepted_culture = illinois
-            add_accepted_culture = iroquoian
+            add_accepted_culture = iroquios
             set_country_flag = eat_illinewek
         }
     }

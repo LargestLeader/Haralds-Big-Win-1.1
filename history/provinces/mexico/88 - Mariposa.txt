@@ -5,4 +5,3 @@ add_core = CMM
 trade_goods = fruit
 terrain = new_world_semidesert
 life_rating = 30
-colonial = 2

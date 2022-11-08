@@ -4,5 +4,3 @@ add_core = CAL
 add_core = CMM
 trade_goods = timber
 life_rating = 20
-colonial = 1
-
