@@ -25,12 +25,13 @@ political_decisions = {
             }
         }
         effect = {
-            set_country_flag = BRA_MAPPIES
+            set_country_flag = BRZ_MAPPIES
             prestige = 15
-            PNB = { all_core = { add_core = BRA } }
+            PNB = { all_core = { add_core = BRZ } }
+            GUY = { all_core = { add_core = BRZ } }
             PNB = { all_core = { remove_core = PNB } }
             GUY = { all_core = { remove_core = GUY } }
-            change_tag = BRA
+            change_tag = BRZ
             add_accepted_culture = brazili
             add_accepted_culture = amazuni
         }
@@ -42,9 +43,7 @@ political_decisions = {
         }
         allow = {
             state_n_government = 1
-            any_owned = {
-                is_core = PNB
-                NOT = { is_core = GUY }
+            owns = 2436
             }
             effect = {
                 set_country_flag = GUY_cores
@@ -52,7 +51,6 @@ political_decisions = {
                     all_core = { add_core = GUY }
                 }
             }
-        }
     }
     PNB_map = {
         potential = {
@@ -61,14 +59,14 @@ political_decisions = {
         }
         allow = {
             state_n_government = 1
-            any_owned = {
-                is_core = GUY
-                NOT = { is_core = PNB }
+            owns = 2434
             }
-        }
-        effect = {
-            set_country_flag = PNB_cores
-            GUY = { all_core = { add_core = PNB } }
+            effect = {
+                set_country_flag = PNB_cores
+                GUY = {
+                    all_core = { add_core = PNB }
+                }
+            }
         }
     }
 }
