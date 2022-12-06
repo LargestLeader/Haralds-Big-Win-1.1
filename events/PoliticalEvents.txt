@@ -3634,3 +3634,21 @@ country_event = {
 		}
 	}
 }
+country_event = { 
+	id = 88888888
+	title = "The End of an Era"
+	desc = "Ha Ha no more funny name for you"
+	picture = "upper_house"
+
+	trigger = {
+		government = holy_order
+		vote_franschise = landed_voting
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "L"
+		government = holy_republic
+	}
+}

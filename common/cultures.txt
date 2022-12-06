@@ -8799,18 +8799,12 @@ neo_european_cultures = {
 	}
 	
 	aquitan = {
-		color = {94 177 229}
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Am�d�e Antoine Armand August Augustin
-		Charles Daniel Denis �douard Elie �ttiene Eug�ne F�licien F�lix Fernand
-		Fran�ois Fr�d�ric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-		Joseph Jules Julien Lazare L�opold Leroy Louis Lucien Matthieu Michel
-		Napol�on Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+		color = {237 237 140}
+		first_names = { Aaron Alma Ammon Amos Bart Beckett Braxton Brigham Bringham Cohyn Dallen Elijah Gideon Isaiah Jacob Jared John Joseph 
+		Layton Oakley Oliver Orson Porter Quentin Quincy Ronan Rudy Spencer Torin Tylan Umar Wallace Xacian Zoram }
 		
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou� de Lapeyr�re" Bou�t-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duch�ne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Esp�rey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaur�s Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle P�llissier Petain Vaillant }
+		last_names = { Young Benson Allred Beckstead Bennion Bradshaw Carr Feldsted Forbush Gardner Gubler Hansen Hardward Hatch Hymas Izatt Jacobsen Jenson 
+		Jorgensen Larsen Lauritzen Mecham Naegle Olsen Rigby Robison Romney Talbot Zollinger }
 	}
 }
 

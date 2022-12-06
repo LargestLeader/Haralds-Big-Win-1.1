@@ -8,6 +8,7 @@ literacy = 0.6
 civilized = no
 prestige = 20
 
+decision = FDA_operation
 
 # Political reforms
 slavery = no_slavery
