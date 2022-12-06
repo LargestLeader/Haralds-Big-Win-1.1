@@ -1,0 +1,74 @@
+political_decisions = {
+    BRA_map_out = {
+        potential = {
+            OR = {
+                tag = PNB
+                tag = GUY
+            }
+            OR = {
+                has_country_flag = PNB_cores
+                has_country_flag = GUY_cores
+            }
+            NOT = { has_country_flag = BRA_MAPPIES }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+            PNB = { 
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            GUY = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+        }
+        effect = {
+            set_country_flag = BRA_MAPPIES
+            prestige = 15
+            PNB = { all_core = { add_core = BRA } }
+            PNB = { all_core = { remove_core = PNB } }
+            GUY = { all_core = { remove_core = GUY } }
+            change_tag = BRA
+            add_accepted_culture = brazili
+            add_accepted_culture = amazuni
+        }
+    }
+    GUY_map = {
+        potential = {
+            tag = GUY
+            NOT = { has_country_flag = GUY_cores }
+        }
+        allow = {
+            state_n_government = 1
+            any_owned = {
+                is_core = PNB
+                NOT = { is_core = GUY }
+            }
+            effect = {
+                set_country_flag = GUY_cores
+                PNB = {
+                    all_core = { add_core = GUY }
+                }
+            }
+        }
+    }
+    PNB_map = {
+        potential = {
+            tag = PNB
+            NOT = { has_country_flag = PNB_cores }
+        }
+        allow = {
+            state_n_government = 1
+            any_owned = {
+                is_core = GUY
+                NOT = { is_core = PNB }
+            }
+        }
+        effect = {
+            set_country_flag = PNB_cores
+            GUY = { all_core = { add_core = PNB } }
+        }
+    }
+}
