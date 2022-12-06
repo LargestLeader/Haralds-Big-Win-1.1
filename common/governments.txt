@@ -184,7 +184,7 @@ holy_order = {
 
 	election = no
 	appoint_ruling_party = yes
-	flagType = fascist
+	flagType = monarchy
 }
 holy_republic = {
 	conservative = yes
