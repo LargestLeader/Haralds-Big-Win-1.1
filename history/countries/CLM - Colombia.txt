@@ -38,7 +38,7 @@ centralization = regionalism
 colonial_policy = settlement
 
 
-ruling_party = CLM_conservative
+ruling_party = bogotes_ward
 upper_house = {
 	fascist = 0
 	liberal = 0

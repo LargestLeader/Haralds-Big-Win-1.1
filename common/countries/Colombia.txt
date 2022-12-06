@@ -18,7 +18,7 @@ party = {
 }
 
 party = {
-	name = "Bogotes Ward"
+	name = "bogotes_ward"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
