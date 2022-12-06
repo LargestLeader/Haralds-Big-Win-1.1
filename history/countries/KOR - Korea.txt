@@ -56,8 +56,7 @@ govt_flag = {
 	flag = democracy
 }
 
-foreign_weapons = yes_foreign_weapons
-land_reform = yes_land_reform
+decision = KOR_operation
 
 # Technologies
 flintlock_rifles = 1

@@ -177,3 +177,22 @@ french_bourbon = {
 	duration = 48
 	appoint_ruling_party = yes
 }
+holy_order = {
+	conservative = yes
+	reactionary = yes
+	fascist = yes
+
+	election = no
+	appoint_ruling_party = yes
+	flagType = fascist
+}
+holy_republic = {
+	conservative = yes
+	reactionary = yes
+	fascist = yes
+	liberal = yes
+
+	election = yes
+	duration = 48
+	appoint_ruling_party = yes
+}

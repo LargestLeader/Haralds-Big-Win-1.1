@@ -1,10 +1,5 @@
 capital = 3517
 primary_culture = quechua
-culture = waywash_runasimi
-culture = yungay_runasimi
-culture = kichwa
-culture = aimara
-culture = pukina
 religion = inti
 government = absolute_monarchy
 plurality = 25.0
@@ -56,20 +51,21 @@ upper_house = {
 	communist = 0
 }
 
+decision = INC_operation
 
 #Unciv Reforms
 #research_reform = yes_education_reform #Universities 
 #research_reform = education_reform_two
 #firearms_production = yes_firearms_production
-admin_reform = yes_admin_reform
-#education_reform = yes_western_science #Basic Education
+#admin_reform = yes_admin_reform
+education_reform = yes_education_reform #Basic Education
 #education_reform = western_science_two
 #transport_improv = yes_transport_improv #Railroads
 #transport_improv = transport_improv_two
-industrial_construction = yes_industrial_construction #Machinery
+#industrial_construction = yes_industrial_construction #Machinery
 #industrial_construction = industrial_construction_two
 
-#foreign_training = yes_foreign_training #Training Methods
+foreign_training = yes_foreign_training #Training Methods
 #foreign_training = foreign_training_two
 foreign_weapons = yes_foreign_weapons #Foreign Weapons
 #foreign_weapons = foreign_weapons_two
@@ -79,15 +75,15 @@ military_constructions = yes_military_constructions #Fortification
 #foreign_officers = foreign_officers_two
 #army_schools = yes_army_schools #Army Training
 #army_schools = army_schools_two
-foreign_naval_officers = yes_foreign_naval_officers #Naval Officiers
+#foreign_naval_officers = yes_foreign_naval_officers #Naval Officiers
 #foreign_naval_officers = foreign_naval_officers_two
 #foreign_navies = yes_foreign_navies #Foreign Ships
 #foreign_navies = foreign_navies_two
 #naval_schools = yes_naval_schools #Naval Training
 #naval_schools = naval_schools_two
-western_shipyards = yes_western_shipyards #Shipyards
+#western_shipyards = yes_western_shipyards #Shipyards
 #western_shipyards = western_shipyards_two
-#foreign_artillery = yes_foreign_artillery #Artillery
+foreign_artillery = yes_foreign_artillery #Artillery
 #foreign_artillery = foreign_artillery_two
 
 #Unciv Technologies

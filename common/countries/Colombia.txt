@@ -3,7 +3,7 @@ colonial_company = { 228  237  55 }
 graphical_culture = SouthAmericanGC
 
 party = {
-	name = "CLM_anarcho_liberal"
+	name = "Jogeaux Ward"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -18,7 +18,7 @@ party = {
 }
 
 party = {
-	name = "CLM_conservative"
+	name = "Bogotes Ward"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -33,7 +33,7 @@ party = {
 }
 
 party = {
-	name = "CLM_liberal"
+	name = "Witoto Ward"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -48,7 +48,7 @@ party = {
 }
 
 party = {
-	name = "CLM_liberal_2"
+	name = "Kubeo Ward"
 	start_date = 1884.1.1
 	end_date = 1898.1.1
 
@@ -63,7 +63,7 @@ party = {
 }
 
 party = {
-	name = "CLM_reactionary"
+	name = "Cumaes Ward"
 	start_date = 1820.1.1
 	end_date = 2000.1.1
 
@@ -78,7 +78,7 @@ party = {
 }
 
 party = {
-	name = "CLM_socialist"
+	name = "Tayrones Ward"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -93,7 +93,7 @@ party = {
 }
 
 party = {
-	name = "CLM_communist"
+	name = "Pasto Ward"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -108,7 +108,7 @@ party = {
 }
 
 party = {
-	name = "CLM_fascist"
+	name = "Cayapa Ward"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 
@@ -124,30 +124,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Almirante Padilla" Buenaventura "Cartagena de Indias" Colombia "Cristóbal Colón" "Fco. de Paula Santander" "Gran Colombia" Independiente "Nueva Granada" "Simón Bolívar"
+		"Almirante Padilla" Buenaventura "Cartagena de Indias" Colombia "Cristï¿½bal Colï¿½n" "Fco. de Paula Santander" "Gran Colombia" Independiente "Nueva Granada" "Simï¿½n Bolï¿½var"
 	}
 	ironclad = {
-		Andrómeda Águila Casiopea Centauro Dragón Fénix Perseo Polaris Regulus Vela
+		Andrï¿½meda ï¿½guila Casiopea Centauro Dragï¿½n Fï¿½nix Perseo Polaris Regulus Vela
 	}
 	manowar = {
-		Aventina Confianza Emprendedora Espartana Fama "Gran Bolívar" Independencia Leona Marina Marte
+		Aventina Confianza Emprendedora Espartana Fama "Gran Bolï¿½var" Independencia Leona Marina Marte
 	}
 	cruiser = {
-		Bogotá Bolívar Cali Córdoba Cúcuta Cundinamarca Medellin Pasto Santander Sucre
+		Bogotï¿½ Bolï¿½var Cali Cï¿½rdoba Cï¿½cuta Cundinamarca Medellin Pasto Santander Sucre
 	}
 	frigate = {
-		Antioquía Caldas Cartagena Espartana "José Mª García y Toledo" "Juan Nepomuceno Eslava" Quitasueño República "Santa Marta" "Valle del Cauca"
+		Antioquï¿½a Caldas Cartagena Espartana "Josï¿½ Mï¿½ Garcï¿½a y Toledo" "Juan Nepomuceno Eslava" Quitasueï¿½o Repï¿½blica "Santa Marta" "Valle del Cauca"
 	}
 	monitor = {
-		Amazonas Andes Caribe "Ciénaga Grande" Meta "Nevado del Huila" Orinoquía Pacífico "San Juan" "Sierra Nevada" 
+		Amazonas Andes Caribe "Ciï¿½naga Grande" Meta "Nevado del Huila" Orinoquï¿½a Pacï¿½fico "San Juan" "Sierra Nevada" 
 	}
 	clipper_transport = {
-		Amenazante Arauca Auspicio Barranquilla Caquetá Catatumbo Chocó Estrella Florencia Guainía
-		Huila Indestructible "La Guajira" Leticia Manizales Montería Nariño Natividad Salvador Vaupés
+		Amenazante Arauca Auspicio Barranquilla Caquetï¿½ Catatumbo Chocï¿½ Estrella Florencia Guainï¿½a
+		Huila Indestructible "La Guajira" Leticia Manizales Monterï¿½a Nariï¿½o Natividad Salvador Vaupï¿½s
 	}
 	steam_transport = { 
-		Amenazante Arauca Auspicio Barranquilla Caquetá Catatumbo Chocó Estrella Florencia Guainía
-		Huila Indestructible "La Guajira" Leticia Manizales Montería Nariño Natividad Salvador Vaupés
+		Amenazante Arauca Auspicio Barranquilla Caquetï¿½ Catatumbo Chocï¿½ Estrella Florencia Guainï¿½a
+		Huila Indestructible "La Guajira" Leticia Manizales Monterï¿½a Nariï¿½o Natividad Salvador Vaupï¿½s
 	}
 	commerce_raider = {
 		"Antonia Manuela" Aventina Chitty Emprendedora Guaviare Magdalena Ornico Peacock Putumayo

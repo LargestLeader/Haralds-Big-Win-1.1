@@ -1,82 +1,82 @@
-#Caracas Region (332000)
+#Caracas Region (332000)catholic
 #Ruled by Venezuela 1836
 #Caracas (224000/56000 POPS)
 2264 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1125
 	}
 
 	bureaucrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 125
 	}
 
 	officers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 100
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 400
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 2050
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1100
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 40725
 	}
 
 	clergymen = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 550
 	}
 
 	soldiers = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 1100
 	}
 	
 	farmers = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 2400
 	}
 
 	slaves = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 29400
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 14000
 	}
 }
@@ -84,67 +84,67 @@
 2267 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 125
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 250
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1100
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 23575
 	}
 
 	clergymen = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	artisans = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	soldiers = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	farmers = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 600
 	}
 
 	slaves = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 20000
 	}
 	
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 10000
 	}
 }
@@ -152,67 +152,67 @@
 2268 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 225
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 75
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 450
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1100
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 8200
 	}
 
 	clergymen = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 100
 	}
 
 	soldiers = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	farmers = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 1425
 	}
 	
 	slaves = {
 		culture = mapoyo_tamanaku
-		religion = catholic
+		religion = mormon_real
 		size = 10000
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 14000
 	}
 }
@@ -220,67 +220,67 @@
 2269 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 200
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 75
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 450
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1100
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 7275
 	}
 
 	clergymen = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	artisans = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	soldiers = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 10
 	}
 	
 	slaves = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 15000
 	}
 	
 	slaves = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 6100
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 10100
 	}
 }
@@ -290,79 +290,79 @@
 2265 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	officers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 75
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 150
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 5575
 	}
 
 	clergymen = {
 		culture = nawaki
-		religion = catholic
+		religion = mormon_real
 		size = 20
 	}
 
 	artisans = {
 		culture = nawaki
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	soldiers = {
 		culture = nawaki
-		religion = catholic
+		religion = mormon_real
 		size = 10
 	}
 
 	farmers = {
 		culture = nawaki
-		religion = catholic
+		religion = mormon_real
 		size = 4520
 	}
 	
 	slaves = {
 		culture = nawaki
-		religion = catholic
+		religion = mormon_real
 		size = 8400
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 6000
 	}
 }
@@ -370,61 +370,61 @@
 2266 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 225
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 75
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 400
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 75
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 8225
 	}
 
 	clergymen = {
 		culture = otomac
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	artisans = {
 		culture = otomac
-		religion = catholic
+		religion = mormon_real
 		size = 100
 	}
 
 	soldiers = {
 		culture = otomac
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	farmers = {
 		culture = otomac
-		religion = catholic
+		religion = mormon_real
 		size = 2350
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 500
 	}
 }
@@ -432,85 +432,85 @@
 2274 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 175
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 250
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 4475
 	}
 
 	clergymen = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	soldiers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 10
 	}
 
 	farmers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 515
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 400
 	}
 
 	clergymen = {
 		culture = otomac
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	artisans = {
 		culture = otomac
-		religion = catholic
+		religion = mormon_real
 		size = 100
 	}
 
 	soldiers = {
 		culture = otomac
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	farmers = {
 		culture = otomac
-		religion = catholic
+		religion = mormon_real
 		size = 8850
 	}
 }
@@ -520,97 +520,97 @@
 2270 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 550
 	}
 
 	bureaucrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 150
 	}
 
 	officers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 125
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 200
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 700
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 150
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 22275
 	}
 
 	clergymen = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 500
 	}
 
 	soldiers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 100
 	}
 
 	farmers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 7350
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 2000
 	}
 
 	clergymen = {
 		culture = guajiro 
-		religion = catholic
+		religion = mormon_real
 		size = 10
 	}
 
 	artisans = {
 		culture = guajiro 
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	soldiers = {
 		culture = guajiro 
-		religion = catholic
+		religion = mormon_real
 		size = 10
 	}
 
 	farmers = {
 		culture = guajiro 
-		religion = catholic
+		religion = mormon_real
 		size = 19930
 	}
 }
@@ -618,85 +618,85 @@
 2271 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 650
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 275
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1350
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1100
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 3725
 	}
 
 	clergymen = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 200
 	}
 
 	soldiers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	farmers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 700
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 3100
 	}
 
 	clergymen = {
 		culture = timote
-		religion = inti
+		religion = mormon_real
 		size = 810
 	}
 
 	artisans = {
 		culture = timote
-		religion = inti
+		religion = mormon_real
 		size = 5050
 	}
 
 	soldiers = {
 		culture = timote
-		religion = inti
+		religion = mormon_real
 		size = 2010
 	}
 
 	farmers = {
 		culture = timote
-		religion = inti
+		religion = mormon_real
 		size = 55930
 	}
 }
@@ -704,61 +704,61 @@
 2272 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 325
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 125
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 500
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 100
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 22950
 	}
 
 	clergymen = {
 		culture = caquetio
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = caquetio
-		religion = catholic
+		religion = mormon_real
 		size = 200
 	}
 
 	soldiers = {
 		culture = caquetio
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	farmers = {
 		culture = caquetio
-		religion = catholic
+		religion = mormon_real
 		size = 27000
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 8100
 	}
 }
@@ -766,61 +766,61 @@
 2273 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 525
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 200
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1100
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 200
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 8075
 	}
 
 	clergymen = {
 		culture = caquetio
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = caquetio
-		religion = catholic
+		religion = mormon_real
 		size = 200
 	}
 
 	soldiers = {
 		culture = caquetio
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	farmers = {
 		culture = caquetio
-		religion = catholic
+		religion = mormon_real
 		size = 22700
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 11000
 	}
 }
@@ -830,67 +830,67 @@
 2275 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 175
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 50
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 250
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1050
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1475
 	}
 	
 	farmers = {
 		culture = otomac
-		religion = animist
+		religion = mormon_real
 		size = 2300
 	}
 
 	aristocrats = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 50
 	}
 
 	clergymen = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 75
 	}
 
 	artisans = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 150
 	}
 
 	soldiers = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 25
 	}
 
 	farmers = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 9700
 	}
 }
@@ -898,73 +898,73 @@
 2276 = {
 	aristocrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 550
 	}
 
 	bureaucrats = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	officers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 25
 	}
 
 	clergymen = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 225
 	}
 
 	artisans = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 1050
 	}
 
 	soldiers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 225
 	}
 
 	farmers = {
 		culture = aquitan
-		religion = catholic
+		religion = mormon_real
 		size = 18900
 	}
 
 	clergymen = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 275
 	}
 
 	artisans = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 1250
 	}
 
 	soldiers = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 1050
 	}
 
 	farmers = {
 		culture = warao
-		religion = catholic
+		religion = mormon_real
 		size = 46250
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = mormon_real
 		size = 11100
 	}
 }
@@ -973,61 +973,61 @@
 2277 = {
 	aristocrats = {
 		culture = pemon_panare
-		religion = animist
+		religion = mormon_real
 		size = 15
 	}
 
 	clergymen = {
 		culture = pemon_panare
-		religion = animist
+		religion = mormon_real
 		size = 25
 	}
 
 	artisans = {
 		culture = pemon_panare
-		religion = animist
+		religion = mormon_real
 		size = 50
 	}
 
 	soldiers = {
 		culture = pemon_panare
-		religion = animist
+		religion = mormon_real
 		size = 10
 	}
 
 	farmers = {
 		culture = pemon_panare
-		religion = animist
+		religion = mormon_real
 		size = 9900
 	}
 
 	aristocrats = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 50
 	}
 
 	clergymen = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 75
 	}
 
 	artisans = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 150
 	}
 
 	soldiers = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 25
 	}
 
 	farmers = {
 		culture = mapoyo_tamanaku
-		religion = animist
+		religion = mormon_real
 		size = 2700
 	}
 }
@@ -1035,109 +1035,109 @@
 2278 = {
 	clergymen = {
 		culture = piro
-		religion = animist
+		religion = mormon_real
 		size = 80
 	}
 
 	soldiers = {
 		culture = piro
-		religion = animist
+		religion = mormon_real
 		size = 400
 	}
 
 	farmers = {
 		culture = piro
-		religion = animist
+		religion = mormon_real
 		size = 17000
 	}
 	
 	clergymen = {
 		culture = arawan
-		religion = animist
+		religion = mormon_real
 		size = 8
 	}
 
 	soldiers = {
 		culture = arawan
-		religion = animist
+		religion = mormon_real
 		size = 40
 	}
 
 	farmers = {
 		culture = arawan
-		religion = animist
+		religion = mormon_real
 		size = 3000
 	}
 	
 	clergymen = {
 		culture = panoan
-		religion = animist
+		religion = mormon_real
 		size = 30
 	}
 
 	soldiers = {
 		culture = panoan
-		religion = animist
+		religion = mormon_real
 		size = 115
 	}
 
 	farmers = {
 		culture = panoan
-		religion = animist
+		religion = mormon_real
 		size = 5975
 	}
 	
 	aristocrats = {
 		culture = quechua
-		religion = inti
+		religion = mormon_real
 		size = 10
 	}
 	
 	clergymen = {
 		culture = quechua
-		religion = inti
+		religion = mormon_real
 		size = 25
 	}
 
 	artisans = {
 		culture = quechua
-		religion = inti
+		religion = mormon_real
 		size = 55
 	}
 
 	soldiers = {
 		culture = quechua
-		religion = inti
+		religion = mormon_real
 		size = 5
 	}
 
 	farmers = {
 		culture = quechua
-		religion = inti
+		religion = mormon_real
 		size = 4020
 	}
 	
 	farmers = {
 		culture = aimara
-		religion = inti
+		religion = mormon_real
 		size = 520
 	}
 	
 	farmers = {
 		culture = yanesha
-		religion = inti
+		religion = mormon_real
 		size = 820
 	}
 	
 	farmers = {
 		culture = cara
-		religion = inti
+		religion = mormon_real
 		size = 760
 	}
 	
 	farmers = {
 		culture = kanari
-		religion = inti
+		religion = mormon_real
 		size = 220
 	}
 

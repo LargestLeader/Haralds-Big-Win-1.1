@@ -2,11 +2,11 @@ capital = 136
 primary_culture = commanche
 religion = protestant
 government = democracy
-plurality = 0.05
-nationalvalue = nv_liberty
-literacy = 0.12  non_state_culture_literacy = 0.01  #literacy = 0.50
+plurality = 0.25
+nationalvalue = nv_order
+literacy = 0.18  non_state_culture_literacy = 0.01  #literacy = 0.50
 civilized = yes
-prestige = 7
+prestige = 20
 
 ruling_party = "Tribal Council"
 upper_house = {
@@ -18,6 +18,9 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+decision = CMM_operation
+
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed

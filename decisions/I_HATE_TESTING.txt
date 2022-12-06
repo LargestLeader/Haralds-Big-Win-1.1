@@ -53,4 +53,123 @@ political_decisions = {
             }
         }
     }
+    KOR_operation = {
+        potential = {
+            tag = KOR
+            always = no
+        }
+        allow = {
+            tag = KOR
+        }
+        effect = {
+            any_owned = {
+                limit = { is_core = KOR }
+                any_pop = {
+                    reduce_pop = 0.7
+                }
+            }
+        }
+    }
+    CLM_operation = {
+        potential = {
+            tag = CLM
+            always = no
+        }
+        allow = {
+            tag = CLM
+        }
+        effect = {
+            any_owned = {
+                limit = { is_core = CLM }
+                assimilate = yes
+                any_pop = {
+                    reduce_pop = 0.5  
+                }
+            }
+        }
+    }
+    INC_operation = {
+        potential = {
+            tag = INC
+            always = no
+        }
+        allow = { tag = INC }
+        effect = {
+            any_owned = {
+                limit = {
+                    is_core = INC
+                }
+                any_pop = {
+                    reduce_pop = 0.53
+                }
+            }
+            any_owned = {
+                limit = {
+                    any_pop = {
+                        NOT = {
+                            OR = {
+                                has_pop_culture = aimara
+                                has_pop_culture = chimu
+                                has_pop_culture = diaguita
+                            }
+                        }
+                    }
+                }
+                assimilate = yes
+            }
+        }
+    }
+    CMM_operation = {
+        potential = {
+            tag = CMM
+            always = no
+        }
+        allow = {
+            tag = CMM 
+        }
+        effect = {
+            any_owned = {
+                limit = {
+                    any_pop = {
+                        NOT = {
+                            OR = {
+                                has_pop_culture = illinois
+                                has_pop_culture = dakota
+                            }
+                        }
+                    }
+                }
+                assimilate = yes
+            }
+        }
+    }
+    FDA_operation = {
+        potential = {
+            tag = FDA
+            always = no
+        }
+        allow = { tag = FDA }
+        effect = {
+            any_owned = {
+                limit = { is_core = FDA }
+                assimilate = yes
+                any_pop = {
+                    reduce_pop = 0.4
+                }
+            }
+        }
+    }
+    UCA_operation = {
+        potential = {
+            tag = UCA
+            always = no
+        }
+        allow = { tag = UCA }
+        effect = {
+            any_owned = {
+                limit = { is_core = UCA }
+                assimilate = yes
+            }
+        }
+    }
 }
