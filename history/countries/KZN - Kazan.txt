@@ -1,4 +1,4 @@
-capital = 1030
+capital = 1036
 primary_culture = bulgar_tatar
 religion = sunni
 government = absolute_monarchy

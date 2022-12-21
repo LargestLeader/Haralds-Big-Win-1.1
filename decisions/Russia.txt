@@ -30,7 +30,7 @@ political_decisions = {
 			set_country_flag = annex_azov
 			prestige = 5
 			add_accepted_culture = crimean_tatar
-			DON = { annex_to = TIHS }
+			DON = { annex_to = THIS }
 			DON = { all_core = { add_core = THIS } }
 			DON = { all_core = { remove_core = DON } }
 			CRI = { all_core = { remove_core = CRI } }
