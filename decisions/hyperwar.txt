@@ -1,0 +1,43 @@
+political_decisions = {
+    triumph_of_the_shah = {
+        potential = {
+            tag = TIM
+            NOT = { has_country_flag = shahs_big_win }
+        }
+        allow = {
+            THIS = {all_core = {owned_by = THIS}}
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            SYR = {all_core = {add_core = THIS}}
+            HAL = {all_core = {add_core = THIS}}
+            ALH = {all_core = {add_core = THIS}}
+            HDJ = {all_core = {add_core = THIS}}
+            prestige = 100
+            add_accepted_culture = najdi_arabic
+            add_accepted_culture = levantine
+            set_country_flag = shahs_big_win
+
+        }
+    }
+    triumph_of_the_caliph = {
+            potential = {
+            tag = ABB
+            NOT = { has_country_flag = caliphs_big_win }
+        }
+        allow = {
+            THIS = {all_core = {owned_by = THIS}}
+            nationalism_n_imperialism = 1
+            }
+        effect = {
+            PER = {all_core = {add_core = THIS}}
+            add_accepted_culture = persian
+            prestige = 100
+            set_country_flag = caliphs_big_win
+        }
+    }
+
+
+
+
+}

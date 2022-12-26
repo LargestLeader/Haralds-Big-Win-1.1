@@ -1,5 +1,7 @@
 owner = ABB
 controller = ABB
 add_core = ABB
+add_core = TIM
+add_core = SYR
 trade_goods = grain
 life_rating = 10

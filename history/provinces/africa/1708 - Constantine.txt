@@ -1,6 +1,6 @@
 owner = TUN
 controller = TUN
 add_core = TUN
-add_core = ALD
+add_core = MOR
 trade_goods = iron
 life_rating = 35

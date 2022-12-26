@@ -52,25 +52,25 @@ upper_house = {
 	communist = 0
 }
 
-monetary_reform = yes_monetary_reform #Currency
+monetary_reform = no_monetary_reform #Currency
 #monetary_reform = monetary_reform_two
-research_reform = yes_education_reform #Universities 
+research_reform = no_education_reform #Universities 
 #research_reform = education_reform_two
 #firearms_production = yes_firearms_production #Steam Power
 #firearms_production = firearms_production_two
-land_reform = yes_land_reform #Land 
+land_reform = no_land_reform #Land 
 #land_reform = land_reform_two
-admin_reform = yes_admin_reform #Legislative
+admin_reform = no_admin_reform #Legislative
 #admin_reform = admin_reform_two
-#finance_reform = yes_finance_reform #Finance
+#finance_reform = no_finance_reform #Finance
 #finance_reform = finance_reform_two
-#education_reform = yes_western_science #Basic Education
+#education_reform = no_western_science #Basic Education
 #education_reform = western_science_two
-#transport_improv = yes_transport_improv #Railroads
+#transport_improv = no_transport_improv #Railroads
 #transport_improv = transport_improv_two
-#pre_indust = yes_pre_indust #Industrialisation
+#pre_indust = no_pre_indust #Industrialisation
 #pre_indust = pre_indust_two
-#industrial_construction = yes_industrial_construction #Machinery
+#industrial_construction = no_industrial_construction #Machinery
 #industrial_construction = industrial_construction_two
 
 foreign_training = yes_foreign_training #Training Methods

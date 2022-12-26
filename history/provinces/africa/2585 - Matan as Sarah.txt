@@ -1,4 +1,4 @@
-add_core = ABB
+
 terrain = oasis
 trade_goods = wool
 life_rating = 20

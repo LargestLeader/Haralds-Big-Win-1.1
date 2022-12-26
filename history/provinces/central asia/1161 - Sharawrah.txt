@@ -1,3 +1,6 @@
 trade_goods = wool
 life_rating = 20
 add_core = ABB
+owner = ALH
+controller = ALH
+add_core = ALH

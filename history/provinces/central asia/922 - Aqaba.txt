@@ -1,6 +1,7 @@
 owner = ABB
 controller = ABB
 add_core = ABB
+add_core = SYR
 trade_goods = wool
 life_rating = 15
 
