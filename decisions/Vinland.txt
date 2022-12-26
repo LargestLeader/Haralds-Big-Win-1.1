@@ -1,0 +1,15 @@
+political_decisions = {
+    accept_cree = {
+        potential = {
+            tag = CAN
+            NOT = {has_country_flag = creeaccepted}
+        }
+        allow = {
+            state_n_government = 1
+        }
+        effect = {
+            add_accepted_culture = cree
+            set_country_flag = creeaccepted
+        }
+    }
+}

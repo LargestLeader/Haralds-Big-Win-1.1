@@ -29,6 +29,24 @@ political_decisions = {
             set_country_flag = fall_of_nib
         }
     }
+    nen_larp_border = {
+        potential = {
+            tag = NEN
+            has_country_flag = nen_push_south
+            NOT = {has_country_flag = larpborder}
+        }
+        allow = {
+            THIS = {all_core = {owned_by = THIS}}
+        }
+        effect = {
+            NEN = { add_core = 237}
+            NEN = { add_core = 238}
+            NEN = { add_core = 239}
+            NEN = { add_core = 248}
+            NEN = { add_core = 249}
+            NEN = { add_core = 250}
+        }
+    }
     war_in_heaven_nen = {
         potential = {
             tag = NEN
@@ -48,14 +66,13 @@ political_decisions = {
             HRN = { all_core = { add_core = THIS }}
             MIA = { all_core = { add_core = THIS }}
             VGR = { all_core = { add_core = THIS }}
+            set_country_flag = final_war
+        }
+    }
+}
             ABS = {all_core = {add_core = THIS}}
             ASB = {all_core = {add_core = THIS}}
             BCK = {all_core = {add_core = THIS}}
             SSH = {all_core = {add_core = THIS}}
             YKM = {all_core = {add_core = THIS}}
             SSX = {all_core = {add_core = THIS}}
-            set_country_flag = final_war
-        }
-    }
-    triumph_over_the_natives
-}

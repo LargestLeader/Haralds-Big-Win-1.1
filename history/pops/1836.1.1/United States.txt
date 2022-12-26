@@ -4164,13 +4164,13 @@
 157 = {
 
 	soldiers = {
-		culture = ojibwe
+		culture = cree
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = ojibwe
+		culture = cree
 		religion = animist
 		size = 8000
 	}
@@ -4190,13 +4190,13 @@
 #Duluth (8000/2000 POPS)
 158 = {
     soldiers = {
-		culture = ojibwe
+		culture = cree
 		religion = animist
 		size = 1000
 	}
 	
 	farmers = {
-		culture = ojibwe
+		culture = cree
 		religion = animist
 		size = 3663
 	}
