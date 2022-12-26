@@ -2,5 +2,6 @@ owner = OIR
 controller = OIR
 add_core = OIR
 add_core = UYG
+add_core = CHI
 trade_goods = grain
 life_rating = 32

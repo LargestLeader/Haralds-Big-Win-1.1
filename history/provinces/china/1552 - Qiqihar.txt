@@ -1,7 +1,6 @@
 owner = OIR
 controller = OIR
 add_core = OIR
-add_core = MGL
-add_core = MCK
+add_core = CHI
 trade_goods = coal
 life_rating = 32

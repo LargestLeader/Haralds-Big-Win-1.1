@@ -17,12 +17,56 @@ political_decisions = {
         potential = {
             tag = JAP
             civilized = yes
+            NOT = {has_country_flag = core_hawaii}
         }
         allow = {
             658 = { owned_by = JAP }
         }
         effect = {
             HAW ={ all_core = { add_core = JAP }}
+            set_country_flag = core_hawaii
+        }
+    }
+    core_the_phillipines = {
+        potential = {
+            tag = JAP
+            civilized = yes
+            NOT = {has_country_flag = core_phi}
+        }
+        allow = {
+            owns = 1455
+            owns = 1460
+            owns = 1463
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            JAP = {add_core = 1455}
+            JAP = {add_core = 1456}
+            JAP = {add_core = 1458}
+            JAP = {add_core = 1459}
+            JAP = {add_core = 1457}
+            JAP = {add_core = 1460}
+            JAP = {add_core = 1461}
+            JAP = {add_core = 2565}
+            JAP = {add_core = 1462}
+            JAP = {add_core = 1463}
+            JAP = {add_core = 1464}
+            set_country_flag = core_phi
+        }
+    }
+    core_taiwan = {
+        potential = {
+            tag = JAP
+            NOT = {has_country_flag = coretaiwan}
+            civilized = yes
+        }
+        allow = {
+            owns = 2562
+            owns = 1485
+        }
+        effect = {
+            JAP = {add_core = 2562}
+            JAP = {add_core = 1485}
         }
     }
 }

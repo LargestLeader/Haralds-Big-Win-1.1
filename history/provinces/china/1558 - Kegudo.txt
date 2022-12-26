@@ -1,5 +1,6 @@
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = SHN
+controller = SHN
+add_core = SHN
+add_core = CHI
 trade_goods = grain
 life_rating = 32
