@@ -63,9 +63,9 @@ army=
             home = 2247
 		}
 	}
-	army=
+army=
 	{
-		name="Knights of Joseph Smith"
+		name="Knights of Jean Baudelaire"
 		location=2270
 		regiment=
 		{

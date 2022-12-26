@@ -830,4 +830,8 @@ the_fog = {
 	immigrant_attract = -0.015
 	icon = 20
 }
-
+mormon_time = {
+	immigrant_attract = 4
+	assimilation_rate = 100
+	icon = 8
+}

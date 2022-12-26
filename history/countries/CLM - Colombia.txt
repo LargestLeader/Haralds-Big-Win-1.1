@@ -85,11 +85,6 @@ nonstate_consciousness = 0
 
 oob = "CLM_oob.txt"
 
-1861.1.1 = {
-	oob = "/1861/CLM_oob.txt"
-}
-1861.1.1 = {
-
 plurality = 50
 literacy = 0.13
 non_state_culture_literacy = 0.05

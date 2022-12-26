@@ -1,6 +1,6 @@
-owner = PNB
-controller = PNB
-add_core = PNB
+owner = GUY
+controller = GUY
+add_core = GUY
 trade_goods = grain
 terrain = savanna
 life_rating = 30

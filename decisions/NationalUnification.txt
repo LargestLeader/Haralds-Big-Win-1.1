@@ -149,6 +149,7 @@ political_decisions = {
 					tag = ECU
 					tag = CLM
 					tag = VNZ
+					tag = SHN
 				}
 			}
 		}
@@ -321,71 +322,6 @@ political_decisions = {
 			}
 			prestige = 10
 			clr_global_flag = germany_has_renamed_elsass
-		}
-	}
-	
-	form_gran_colombia = {
-		potential = {
-			OR = {
-				tag = ECU
-				tag = CLM
-				tag = VNZ
-			}
-			NOT = {
-				exists = GCO
-			}
-		}	
-		allow = {
-			war = no
-			is_greater_power = yes
-			GCO = {
-				all_core = {
-					owner = {
-						OR = {
-							tag = THIS
-							in_sphere = THIS
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 10
-			any_country = {
-				limit = {
-					vassal_of = THIS
-				}
-				annex_to = THIS
-			}
-			any_country = {
-				limit = {
-					in_sphere = THIS
-				}
-				
-				any_owned = {
-					limit = {
-						is_core = GCO
-					}
-					secede_province = THIS
-				}
-
-			}
-			
-			2242 = { add_core = GCO } # Mahdia, prev VNZ core
-			
-			# some early claims we can roll with for future colombian lebensraum
-			2200 = { add_core = GCO }
-			2201 = { add_core = GCO }
-			2202 = { add_core = GCO }
-			2203 = { add_core = GCO }
-
-			change_tag = GCO
-		}
-		
-		ai_will_do = {
-			factor = 1
 		}
 	}	
 

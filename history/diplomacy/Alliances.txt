@@ -13,3 +13,10 @@ alliance = { #are you happy now tank? naples no longer gets "free" win (even tho
     start_date = 1836.1.1
     end_date - 1936.1.1
 }
+
+alliance = { #since the AI sucks and probably wont ally mormons to crush FRCA
+    first = CLM
+    second = FDA
+    start_date = 1836.1.1
+    end_date - 1936.1.1
+}

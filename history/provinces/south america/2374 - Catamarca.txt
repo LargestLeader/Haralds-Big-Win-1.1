@@ -1,3 +1,7 @@
+owner = INC
+controller = INC
+add_core = INC
 trade_goods = wool
 terrain = dry_forest
-life_rating = 32
+life_rating = 32
+

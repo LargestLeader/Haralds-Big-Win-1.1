@@ -1,0 +1,29 @@
+political_decisions = {
+    unite_china = {
+        potential = {
+            tag = SHN
+        }
+        allow = {
+            civilized = yes
+            CHI = {all_core = {owned_by = THIS}}
+        }
+        effect = {
+            change_tag = CHI
+            SHN = {all_core = {remove_core = SHN}}
+            prestige = 100
+        }
+    }
+    annex_tibet = {
+        potential {
+            tag = CHI
+            NOT = {has_country_flag = mao_time}
+        }
+        allow = {
+            TIB = {in_sphere = THIS}
+        }
+        effect = {
+            TIB = {annex_to = THIS}
+            set_country_flag = mao_time
+        }
+    }
+}

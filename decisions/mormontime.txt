@@ -1,0 +1,88 @@
+political_decisions = {
+    secure_our_borders ={
+        potential = {
+            tag = CLM
+            NOT = {has_country_flag = borderssecured}
+        }
+        allow = {
+            THIS = {all_core = {owned_by = THIS}}
+            state_n_government = 1
+        }
+        effect = {
+            prestige = 25
+            add_accepted_culture = central_american
+            set_country_flag = borderssecured
+        }
+    }
+    its_mormon_time = {
+        potential = {
+            tag = CLM
+            has_country_flag = borderssecured
+            NOT = {has_country_flag = mormon_time}
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            THIS = {add_core = 2404}
+            THIS = {add_core = 2281}
+            THIS = {add_core = 2280}
+            THIS = {add_core = 2282}
+            THIS = {add_core = 2279}
+            THIS = {add_core = 2284}
+            THIS = {add_core = 2283}
+            THIS = {add_core = 2288}
+            THIS = {add_core = 2287}
+            THIS = {add_core = 2289}
+            THIS = {add_core = 2286}
+            THIS = {add_core = 2407}
+            THIS = {add_core = 2549}
+            THIS = {add_core = 2291}
+            THIS = {add_core = 2292}
+            THIS = {add_core = 2290}
+            THIS = {add_core = 2294}
+            THIS = {add_core = 2298}
+            THIS = {add_core = 2293}
+            THIS = {add_core = 2300}
+            THIS = {add_core = 2296}
+            THIS = {add_core = 2295}
+            THIS = {add_core = 2297}
+            THIS = {add_core = 2299}
+            THIS = {add_core = 2302}
+            THIS = {add_core = 2301}
+            set_country_flag = mormon_time
+        }
+    }
+    we_did_it_patrick_we_saved_the_incans = {
+        potential = {
+            tag = CLM
+            has_country_flag = mormon_time
+            NOT = {has_country_flag = mormoner_time}
+        }
+        allow = {
+            THIS = {all_core = {owned_by = THIS}}
+        }
+        effect = {
+            INC = {all_core = {add_core = THIS}}
+            set_country_flag = mormoner_time
+        }
+    }
+    Deseret_time = {
+        potential = {
+            tag = CLM
+            has_country_flag = mormoner_time
+        }
+        allow = {
+            INC = {all_core = {owned_by = THIS}}
+        }
+        effect = {
+            change_tag = DES
+            prestige = 100
+            INC = {all_core = {add_core = DES}}
+            CLM = {all_core = {add_core = DES}}
+            INC = {all_core = {remove_core = INC}}
+            CLM = {all_core = {remove_core = CLM}}
+            country_event = 2100006
+        }
+    }
+}

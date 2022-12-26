@@ -37,8 +37,6 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = protestant_country
-
 # Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
@@ -87,9 +85,3 @@ upper_house = {
 }
 
 
-
-1861.1.1 = {
-# Technologies
-
-#Inventions
-}
