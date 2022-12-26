@@ -69,6 +69,7 @@ political_decisions = {
         allow = {
             revolution_n_counterrevolution = 1
             THIS = {all_core = {owned_by = THIS }}
+            NOT = {has_country_flag = commanche_big_win}
         }
         effect = {
            NEN = {all_core = {add_core = THIS}}

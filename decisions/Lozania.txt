@@ -45,6 +45,7 @@ political_decisions = {
             NEN = { add_core = 248}
             NEN = { add_core = 249}
             NEN = { add_core = 250}
+            set_country_flag = larpborder
         }
     }
     war_in_heaven_nen = {
@@ -69,10 +70,34 @@ political_decisions = {
             set_country_flag = final_war
         }
     }
+    triumph_over_the_natives = {
+        potential = {
+            tag = NEN
+            has_country_flag = final_war
+        }
+        allow = {
+            revolution_n_counterrevolution = 1
+            THIS = {all_core = {owned_by = THIS }}
+            NOT = {has_country_flag = boers_big_win}
+        }
+        effect = {
+            CMM = {all_core = {add_core = THIS}}
+            LNP = { all_core = { remove_core = LNP }}
+            SHE = { all_core = { remove_core = SHE }}
+            ILL = { all_core = { remove_core = ILL }}
+            MKG = { all_core = { remove_core = MKG }}
+            YCH = { all_core = { remove_core = YCH }}
+            HRN = { all_core = { remove_core = HRN }}
+            MIA = { all_core = { remove_core = MIA }}
+            VGR = { all_core = { remove_core = VGR }}
+            ABS = {all_core = {remove_core = ABS}}
+            ASB = {all_core = {remove_core = ASB}}
+            BCK = {all_core = {remove_core = BCK}}
+            SSH = {all_core = {remove_core = SSH}}
+            YKM = {all_core = {remove_core = YKM}}
+            SSX = {all_core = {remove_core = SSX}}
+            prestige = 100
+            set_country_flag = boers_big_win
+        }
+    }
 }
-            ABS = {all_core = {add_core = THIS}}
-            ASB = {all_core = {add_core = THIS}}
-            BCK = {all_core = {add_core = THIS}}
-            SSH = {all_core = {add_core = THIS}}
-            YKM = {all_core = {add_core = THIS}}
-            SSX = {all_core = {add_core = THIS}}
