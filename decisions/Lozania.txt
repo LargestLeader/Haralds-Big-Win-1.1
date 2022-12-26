@@ -24,10 +24,38 @@ political_decisions = {
         }
         effect = {
             prestige = 20
-            NIB = { all_core = { remove_core = NIB}}
             add_accepted_culture = iberiano
             add_accepted_culture = cajun
             set_country_flag = fall_of_nib
         }
     }
+    war_in_heaven_nen = {
+        potential = {
+            tag = NEN
+            has_country_flag = fall_of_nib
+            NOT = {has_country_flag = final_war}
+        }
+        allow = {
+            year = 1860
+            THIS = {all_core = { owned_by = THIS}}
+        }
+        effect = {
+            LNP = { all_core = { add_core = THIS }}
+            SHE = { all_core = { add_core = THIS }}
+            ILL = { all_core = { add_core = THIS }}
+            MKG = { all_core = { add_core = THIS }}
+            YCH = { all_core = { add_core = THIS }}
+            HRN = { all_core = { add_core = THIS }}
+            MIA = { all_core = { add_core = THIS }}
+            VGR = { all_core = { add_core = THIS }}
+            ABS = {all_core = {add_core = THIS}}
+            ASB = {all_core = {add_core = THIS}}
+            BCK = {all_core = {add_core = THIS}}
+            SSH = {all_core = {add_core = THIS}}
+            YKM = {all_core = {add_core = THIS}}
+            SSX = {all_core = {add_core = THIS}}
+            set_country_flag = final_war
+        }
+    }
+    triumph_over_the_natives
 }

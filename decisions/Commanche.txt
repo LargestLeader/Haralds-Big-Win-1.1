@@ -32,19 +32,63 @@ political_decisions = {
         }
         effect = {
             prestige = 10
-            LNP = { all_core = { add_core = CMM }}
-            SHE = { all_core = { add_core = CMM }}
-            IL = { all_core = { remove_core = ILL }}
-            MKG = { all_core = { add_core = CMM }}
-            YCH = { all_core = { add_core = CMM }}
-            YCH = { all_core = { remove_core = YCH}}
-            HRN = { all_core = { add_core = CMM }}
-            ILL = { all_core = { add_core = CMM }}
-            MIA = { all_core = { add_core = CMM }}
-            VGR = { all_core = { add_core = CMM }}
+            LNP = { all_core = { add_core = THIS }}
+            SHE = { all_core = { add_core = THIS }}
+            ILL = { all_core = { add_core = THIS }}
+            MKG = { all_core = { add_core = THIS }}
+            YCH = { all_core = { add_core = THIS }}
+            HRN = { all_core = { add_core = THIS }}
+            MIA = { all_core = { add_core = THIS }}
+            VGR = { all_core = { add_core = THIS }}
             add_accepted_culture = illinois
             add_accepted_culture = iroquios
             set_country_flag = eat_illinewek
+        }
+    }
+    war_in_heaven_cmm = {
+        potential = {
+            tag = CMM
+            has_country_flag = eat_illinewek
+            NOT = {has_country_flag = final_war}
+        }
+        allow = {
+            year = 1860
+            THIS = {all_core = { owned_by = THIS}}
+        }
+        effect = {
+            NIB = { all_core = { add_core = THIS }}
+            set_country_flag = final_war
+        }
+    }
+    triumph_over_the_colonizers = {
+        potential = {
+            tag = CMM
+            has_country_flag = eat_illinewek
+            NOT = {has_country_flag = commanche_big_win}
+        }
+        allow = {
+            revolution_n_counterrevolution = 1
+            THIS = {all_core = {owned_by = THIS }}
+        }
+        effect = {
+           NEN = {all_core = {add_core = THIS}}
+           prestige = 100
+           NIB = {all_core = {remove_core = NIB}}
+            LNP = { all_core = { remove_core = LNP }}
+            SHE = { all_core = { remove_core = SHE }}
+            ILL = { all_core = { remove_core = ILL }}
+            MKG = { all_core = { remove_core = MKG }}
+            YCH = { all_core = { remove_core = YCH }}
+            HRN = { all_core = { remove_core = HRN }}
+            MIA = { all_core = { remove_core = MIA }}
+            VGR = { all_core = { remove_core = VGR }}
+            ABS = {all_core = {remove_core = ABS}}
+            ASB = {all_core = {remove_core = ASB}}
+            BCK = {all_core = {remove_core = BCK}}
+            SSH = {all_core = {remove_core = SSH}}
+            YKM = {all_core = {remove_core = YKM}}
+            SSX = {all_core = {remove_core = SSX}}
+            set_country_flag = commanche_big_win 
         }
     }
 }
