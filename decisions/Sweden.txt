@@ -70,7 +70,6 @@ political_decisions = {
         }
         effect = {
             CUR = { all_core = { add_core = THIS}}
-            CUR = { all_core = { remove_core = CUR}}
             add_accepted_culture = courish
         }
     }
