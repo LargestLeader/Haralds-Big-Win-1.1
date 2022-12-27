@@ -89,6 +89,9 @@ political_decisions = {
             SSH = {all_core = {remove_core = SSH}}
             YKM = {all_core = {remove_core = YKM}}
             SSX = {all_core = {remove_core = SSX}}
+            change_tag = LSK 
+            LSK = {all_core = {add_core = CMM}}
+            CMM = {all_core = {remove_core = CMM}}
             set_country_flag = commanche_big_win 
         }
     }

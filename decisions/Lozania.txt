@@ -98,6 +98,9 @@ political_decisions = {
             SSX = {all_core = {remove_core = SSX}}
             prestige = 100
             set_country_flag = boers_big_win
+            change_tag = USA
+            NEN = {all_core = {add_core = USA}}
+            NEN = {all_core = {remove_core = NEN}}
         }
     }
 }

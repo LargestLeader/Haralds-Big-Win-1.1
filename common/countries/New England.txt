@@ -149,10 +149,12 @@ unit_names = {
 		
 	}
 	clipper_transport = {
-		
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
 	}
 	steam_transport = {
-		
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
 	}
 	commerce_raider = {
 		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence

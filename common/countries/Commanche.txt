@@ -1,6 +1,7 @@
 color = { 29  125  119 }
 graphical_culture = Generic
 
+
 party = {
 	name = "Tributary States Faction"
 	start_date = 1600.1.1
@@ -140,10 +141,14 @@ unit_names = {
 		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
 	}
 	clipper_transport = {
-		
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
 	}
 	steam_transport = {
-		
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
 	}
 	commerce_raider = {
 		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
