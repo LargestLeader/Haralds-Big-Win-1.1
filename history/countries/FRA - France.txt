@@ -2,10 +2,10 @@ capital = 425
 primary_culture = french
 religion = catholic
 government = absolute_monarchy
-plurality = 25
+plurality = 10
 nationalvalue = nv_order
-literacy = 0.60
-non_state_culture_literacy = 0.41
+literacy = 0.4
+non_state_culture_literacy = 0.4
 civilized = yes
 
 #GreaterPowers = prestige
@@ -66,14 +66,13 @@ enlightenment_thought = 1
 introspectionism = 1
 water_wheel_power = 1
 publishing_industry = 1
-experimental_railroad = 1
 basic_chemistry = 1
+experimental_railroad = 1
+mechanized_mining = 1
 stock_exchange = 1
 ad_hoc_money_bill_printing = 1
 market_structure = 1
 romanticism = 1
-interchangeable_parts = 1
-high_pressure_steam_engine = 1
 
 # Inventions
 #corvettes = yes

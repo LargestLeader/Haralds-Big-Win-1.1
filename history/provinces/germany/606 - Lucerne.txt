@@ -1,6 +1,5 @@
 owner = BRG
 controller = BRG
-add_core = BRG
 add_core = BRH
 add_core = WUR
 trade_goods = timber

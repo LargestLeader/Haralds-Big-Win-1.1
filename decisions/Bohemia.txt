@@ -32,8 +32,6 @@ political_decisions = {
         add_accepted_culture = sorbian
         add_accepted_culture = kashubian
         add_accepted_culture = pruthenian
-        change_tag = WSF
-
          }
     }
     eat_slovaks ={

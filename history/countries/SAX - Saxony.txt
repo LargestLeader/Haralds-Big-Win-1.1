@@ -7,6 +7,7 @@ government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_equality
 literacy = 0.8
+non_state_culture_literacy = 0.7
 civilized = yes
 prestige = 85
 
@@ -62,6 +63,8 @@ flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
 military_staff_system = 1
 army_command_principle = 1
+iron_muzzle_loaded_artillery = 1
+army_professionalism = 1
 post_nelsonian_thought = 1
 clipper_design = 1
 naval_design_bureaus = 1
@@ -80,6 +83,9 @@ guild_based_production = 1
 water_wheel_power = 1
 publishing_industry = 1
 basic_chemistry = 1
+experimental_railroad = 1
+mechanized_mining = 1
+mechanical_production = 1
 
 #Inventions
 
