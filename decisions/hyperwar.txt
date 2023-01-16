@@ -13,8 +13,6 @@ political_decisions = {
             HAL = {all_core = {add_core = THIS}}
             ALH = {all_core = {add_core = THIS}}
             HDJ = {all_core = {add_core = THIS}}
-            add_core = 1756
-            add_core = 1757
             prestige = 100
             add_accepted_culture = najdi_arabic
             add_accepted_culture = levantine
