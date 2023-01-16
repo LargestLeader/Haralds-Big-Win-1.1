@@ -1,6 +1,6 @@
 capital = 1236
-primary_culture = persian
-culture = hindi
+primary_culture = hindi
+culture = rajput
 culture = panjabi
 religion = sunni
 government = absolute_monarchy

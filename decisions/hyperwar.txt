@@ -16,6 +16,7 @@ political_decisions = {
             prestige = 100
             add_accepted_culture = najdi_arabic
             add_accepted_culture = levantine
+            add_accepted_culture = mashriqi
             set_country_flag = shahs_big_win
 
         }
@@ -32,6 +33,7 @@ political_decisions = {
         effect = {
             PER = {all_core = {add_core = THIS}}
             add_accepted_culture = persian
+            add_accepted_culture = mashriqi
             prestige = 100
             set_country_flag = caliphs_big_win
         }
