@@ -32,13 +32,13 @@
 		size = 3400
 	}
 
-	soldiers = {
+	farmers = {
 		culture = pashtun
 		religion = sunni
 		size = 3000
 	}
 
-	soldiers = {
+	farmers = {
 		culture = pashtun
 		religion = sunni
 		size = 3000
@@ -92,7 +92,7 @@
 		size = 2900
 	}
 
-	soldiers = {
+	farmers = {
 		culture = persian
 		religion = sunni
 		size = 1000
@@ -132,12 +132,6 @@
 		culture = persian
 		religion = sunni
 		size = 20000
-	}
-	
-	soldiers = {
-		culture = moghol
-		religion = sunni
-		size = 150
 	}
 
 	farmers = {
@@ -229,7 +223,7 @@
 		size = 400
 	}
 
-	soldiers = {
+	farmers = {
 		culture = chaghatay
 		religion = sunni
 		size = 3375
@@ -369,7 +363,7 @@
 		size = 30000
 	}
 
-	soldiers = {
+	farmers = {
 		culture = persian
 		religion = shiite
 		size = 4000
@@ -399,7 +393,7 @@
 		size = 28000
 	}
 
-	soldiers = {
+	farmers = {
 		culture = persian
 		religion = shiite
 		size = 4000
@@ -462,7 +456,7 @@
 		size = 850
 	}
 
-	soldiers = {
+	farmers = {
 		culture = pashtun
 		religion = sunni
 		size = 1000
@@ -522,22 +516,10 @@
 		size = 1700
 	}
 
-	soldiers = {
-		culture = persian
-		religion = sunni
-		size = 4525
-	}
-
 	farmers = {
 		culture = persian
 		religion = sunni
-		size = 33225
-	}
-
-	soldiers = {
-		culture = moghol
-		religion = sunni
-		size = 350
+		size = 4525
 	}
 
 	farmers = {
@@ -646,7 +628,7 @@
 		size = 3050
 	}
 
-	soldiers = {
+	farmers = {
 		culture = pashtun
 		religion = sunni
 		size = 5000
@@ -714,7 +696,7 @@
 		size = 2800
 	}
 
-	soldiers = {
+	farmers = {
 		culture = pashtun
 		religion = sunni
 		size = 2500
@@ -825,7 +807,7 @@
 		size = 30000
 	}
 	
-	soldiers = {
+	farmers = {
 		culture = ormuri
 		religion = sunni
 		size = 2000
@@ -853,12 +835,6 @@
 		culture = persian
 		religion = shiite
 		size = 650
-	}
-
-	soldiers = {
-		culture = persian
-		religion = shiite
-		size = 125
 	}
 
 	farmers = {

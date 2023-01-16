@@ -527,7 +527,7 @@
 		size = 1400
 	}
 
-	soldiers = {
+	farmers = {
 		culture = sorani
 		religion = sunni
 		size = 1650
@@ -555,12 +555,6 @@
 		culture = kurmanji
 		religion = sunni
 		size = 200
-	}
-
-	soldiers = {
-		culture = kurmanji
-		religion = sunni
-		size = 150
 	}
 
 	farmers = {
@@ -617,12 +611,6 @@
 		size = 10
 	}
 
-	soldiers = {
-		culture = turkish
-		religion = shiite
-		size = 60
-	}
-
 	farmers = {
 		culture = turkish
 		religion = shiite
@@ -675,12 +663,6 @@
 		culture = deylemi
 		religion = shiite
 		size = 100
-	}
-
-	soldiers = {
-		culture = deylemi
-		religion = shiite
-		size = 8
 	}
 
 	farmers = {
@@ -1208,12 +1190,6 @@
 		size = 2000
 	}
 
-	soldiers = {
-		culture = sorani
-		religion = sunni
-		size = 1000
-	}
-
 	farmers = {
 		culture = sorani
 		religion = sunni
@@ -1232,12 +1208,6 @@
 		size = 200
 	}
 
-	soldiers = {
-		culture = deylemi
-		religion = sunni
-		size = 100
-	}
-
 	farmers = {
 		culture = deylemi
 		religion = sunni
@@ -1254,12 +1224,6 @@
 		culture = kurdish
 		religion = sunni
 		size = 300
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = sunni
-		size = 200
 	}
 
 	farmers = {
@@ -1763,7 +1727,7 @@
 		size = 5900
 	}
 
-	soldiers = {
+	farmers = {
 		culture = persian
 		religion = sunni
 		size = 1100
@@ -1841,7 +1805,7 @@
 		size = 100
 	}
 
-	soldiers = {
+	farmers = {
 		culture = lurish
 		religion = sunni
 		size = 2100
@@ -1871,7 +1835,7 @@
 		size = 200
 	}
 
-	soldiers = {
+	farmers = {
 		culture = kurdish
 		religion = sunni
 		size = 3100
