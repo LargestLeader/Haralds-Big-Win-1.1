@@ -1,6 +1,5 @@
 owner = UCA
 controller = UCA
 add_core = UCA
-add_core = FDA
 trade_goods = fruit
 life_rating = 31

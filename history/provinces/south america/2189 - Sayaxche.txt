@@ -1,6 +1,5 @@
 owner = UCA
 controller = UCA
 add_core = UCA
-add_core = FDA
 trade_goods = timber
 life_rating = 35

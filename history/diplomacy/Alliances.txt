@@ -21,20 +21,6 @@ alliance = { #since the AI sucks and probably wont ally mormons to crush FRCA
 
 alliance = {
     first = SAX
-    second = WLL
-    end_date - 1936.1.1
-    start_date = 1836.1.1
-}
-
-alliance = {
-    first = SAX
-    second = LOR
-    end_date - 1936.1.1
-    start_date = 1836.1.1
-}
-
-alliance = {
-    first = SAX
     second = BRB
     end_date - 1936.1.1
     start_date = 1836.1.1

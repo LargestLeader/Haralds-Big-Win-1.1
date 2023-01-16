@@ -133,6 +133,10 @@ colonial_dry_spell = {
 	icon = 14
 }
 
+food_and_drug_administration = {
+	global_population_growth = 0.001
+}
+
 colonial_exploitation = {
 	farm_RGO_eff = 0.10
 	mine_RGO_eff = 0.10

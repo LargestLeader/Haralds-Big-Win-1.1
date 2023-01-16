@@ -1,0 +1,64 @@
+political_decisions = {
+    food_and_drug_administration = {
+        potential = {
+            tag = FDA
+            inorganic_chemistry = 1
+            NOT = { has_country_flag = FDA_established }
+        }
+        allow = {
+            inorganic_chemistry = 1
+        }
+        effect = {
+            add_country_modifier = {
+                name = food_and_drug_administration
+                duration = 36500
+            }
+            set_country_flag = FDA_established
+        }
+    }
+    victory_in_central_america = {
+        potential = {
+            tag = FDA
+            NOT = { has_country_flag = victoryius }
+        }
+        allow = {
+            state_n_government = 1
+            owns = 2191
+            owns = 2186
+        }
+        effect = {
+            2191 = { add_core = FDA }
+            2186 = { add_core = FDA }
+            2187 = { add_core = FDA }
+            2188 = { add_core = FDA }
+            2189 = { add_core = FDA }
+            2190 = { add_core = FDA }
+            2194 = { add_core = FDA }
+            2195 = { add_core = FDA }
+            2192 = { add_core = FDA }
+            2193 = { add_core = FDA }
+            2196 = { add_core = FDA }
+            set_country_flag = victoryius
+        }
+    }
+    battle_against_mormonism = {
+        potential = {
+            tag = FDA
+            has_country_flag = victoryius
+            NOT = { has_country_flag = bbb }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            2199 = { add_core = FDA }
+            2197 = { add_core = FDA }
+            2200 = { add_core = FDA }
+            2198 = { add_core = FDA }
+            2202 = { add_core = FDA }
+            2203 = { add_core = FDA }
+            2201 = { add_core = FDA }
+            set_country_flag = bbb
+        }
+    }
+}

@@ -4,7 +4,7 @@ religion = catholic
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.6
+literacy = 0.2
 civilized = yes
 prestige = 20
 

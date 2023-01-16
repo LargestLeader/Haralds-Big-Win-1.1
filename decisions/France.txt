@@ -28,7 +28,7 @@ political_decisions = {
         }
         allow = {
             OR = {
-				revolution_n_counterrevolution = 1
+				year = 1860
 				GER = { exists = yes }
 			}
         }
@@ -40,20 +40,21 @@ political_decisions = {
 			add_accepted_culture = burgundian
 		}
     }
-	french_nv_change = {
+	i_live_in_awe = {
 		potential = {
 			tag = FRA
-			NOT = { has_country_flag = french_nv_change }
+			NOT = { 404 = { is_core = FRA }}
 		}
 		allow = {
-			OR = {
-				GER = { exists = yes }
-				year = 1865
-			}
+			392 = { owned_by = FRA }
+			394 = { owned_by = FRA }
+			404 = { owned_by = FRA }
 		}
 		effect = {
-			nationalvalue = nv_equality
-			set_country_flag = french_nv_change
+			prestige = 5
+			392 = { add_core = FRA }
+		    394 = { add_core = FRA }
+			404 = { add_core = FRA }
 		}
 	}
 }

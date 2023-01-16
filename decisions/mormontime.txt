@@ -5,19 +5,57 @@ political_decisions = {
             NOT = {has_country_flag = borderssecured}
         }
         allow = {
-            THIS = {all_core = {owned_by = THIS}}
             state_n_government = 1
+            owns = 2200
+            owns = 2202
+            owns = 2204
         }
         effect = {
             prestige = 25
-            add_accepted_culture = central_american
             set_country_flag = borderssecured
+            2208 = { add_core = CLM }
+            2204 = { add_core = CLM }
+            1723 = { add_core = CLM }
+            2206 = { add_core = CLM }
+            2205 = { add_core = CLM }
+            2201 = { add_core = CLM }
+            2203 = { add_core = CLM }
+            2202 = { add_core = CLM }
+            2198 = { add_core = CLM }
+            2200 = { add_core = CLM }
+            2197 = { add_core = CLM }
+            2199 = { add_core = CLM }
+        }
+    }
+    shattered_retreat = {
+        potential = { 
+            tag = CLM
+            has_country_flag = borderssecured
+            NOT = { has_country_flag = crab_rave }
+            2187 = { is _core = FDA } 
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            2191 = { add_core = CLM }
+            2186 = { add_core = CLM }
+            2187 = { add_core = CLM }
+            2188 = { add_core = CLM }
+            2189 = { add_core = CLM }
+            2190 = { add_core = CLM }
+            2194 = { add_core = CLM }
+            2195 = { add_core = CLM }
+            2192 = { add_core = CLM }
+            2193 = { add_core = CLM }
+            2196 = { add_core = CLM }
+            set_country_flag = crab_rave
         }
     }
     its_mormon_time = {
         potential = {
             tag = CLM
-            has_country_flag = borderssecured
+            has_country_flag = crab_rave
             NOT = {has_country_flag = mormon_time}
         }
         allow = {
