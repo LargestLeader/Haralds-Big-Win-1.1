@@ -66,7 +66,7 @@ political_decisions = {
 			set_country_flag = push_tver
 		}
 	}
-	form_russia = {
+	form_russian_empire = {
 		potential = {
 			OR = {
 				AND = {
@@ -97,17 +97,15 @@ political_decisions = {
 			add_accepted_culture = ingrian
 		}
 	}
-	russian_unification = {
+	remove_other_russian_cores = {
 		potential = {
 			tag = RUS
-			NOT = {
-				has_country_flag = russian_unification
-			}
-			has_country_flag = baltic_cores
-			has_country_flag = fall_of_kazan
+			NOT = { has_country_flag = russian_unification }
 		}
 		allow = { 
 			RUS = { all_core = { owned_by = RUS } }
+			owns = 1102
+			owns = 994
 		}
 		effect = {
 			prestige = 10
@@ -118,42 +116,6 @@ political_decisions = {
 			URA = { all_core = { remove_core = URA } }
 			MNK = { all_core = { remove_core = MNK } }
 			set_country_flag - russian_unification
-		}
-	}
-	russia_crimea = {
-		potential = {
-			tag = RUS
-			967 = { is_core = DON }
-			NOT = { 
-				has_accepted_culture = crimean_tatar
-			}
-		}
-		allow = {
-			state_n_government = 1
-			DON = { all_core = { owned_by = THIS } }
-		}
-		effect = {
-			set_country_flag = russia_crimea
-			prestige = 5
-			add_accepted_culture = crimean_tatar
-			DON = { all_core = { add_core = THIS } }
-			DON = { all_core = { remove_core = DON } }
-			CRI = { all_core = { remove_core = CRI } }
-		}
-	}
-	russia_crimeaa = {
-		potential = {
-			tag = RUS 
-			NOT = {
-				967 = { is_core = DON }
-				accepted_culture = crimean_tatar
-			}
-		}
-		allow = {
-		}
-		effect = {
-			prestige = 5
-			add_accepted_culture = crimean_tatar
 		}
 	}
 	russian_moldovia = {
@@ -229,6 +191,26 @@ political_decisions = {
 			GEO = { all_core = { add_core = THIS}}
 			AZB = { all_core = { add_core = THIS}}
 			set_country_flag = caucus_cores
+		}
+	}
+	russia_core_crimea = {
+		potential = {
+			tag = RUS
+			NOT = { 
+				has_accepted_culture = crimean_tatar
+			}
+		}
+		allow = {
+			state_n_government = 1
+			DON = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			set_country_flag = russia_crimea
+			prestige = 5
+			add_accepted_culture = crimean_tatar
+			DON = { all_core = { add_core = THIS } }
+			DON = { all_core = { remove_core = DON } }
+			CRI = { all_core = { remove_core = CRI } }
 		}
 	}
 }

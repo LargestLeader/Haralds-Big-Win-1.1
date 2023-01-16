@@ -5,10 +5,8 @@ government = absolute_monarchy
 plurality = 30.0
 nationalvalue = nv_order
 literacy = 0.35
-non_state_culture_literacy = 0.01
+non_state_culture_literacy = 0.2
 civilized = yes
-
-set_country_flag = serfdom_not_abolished
 
 #GreaterPowers = prestige
 prestige = 80
