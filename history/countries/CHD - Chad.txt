@@ -1,8 +1,8 @@
 capital = 1818
-primary_culture = sara
+primary_culture = hausa
 culture = bedouin
 culture = teda
-culture = kanuri
+culture = hausa
 culture = baguirmi
 culture = fur
 culture = ubangian

@@ -1,8 +1,5 @@
 capital = 1911
-primary_culture = akan
-culture = guang
-culture = bia
-culture = ga_dangme
+primary_culture = hausa
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

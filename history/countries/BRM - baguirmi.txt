@@ -1,9 +1,5 @@
 capital = 1950
-primary_culture = sara
-culture = chadic_arabic
-culture = maba
-culture = kanuri
-culture = fulnio
+primary_culture = hausa
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

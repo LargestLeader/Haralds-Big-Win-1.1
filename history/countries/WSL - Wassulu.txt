@@ -1,6 +1,5 @@
 capital = 1882
-primary_culture = bambara
-culture = fulbe
+primary_culture = hausa
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

@@ -1,5 +1,5 @@
 capital = 1935
-primary_culture = ibo
+primary_culture = hausa
 culture = igboid
 religion = animist
 government = absolute_monarchy

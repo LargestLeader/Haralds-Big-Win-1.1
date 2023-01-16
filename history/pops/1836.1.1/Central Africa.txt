@@ -186,31 +186,31 @@
 	}
 	
 	aristocrats = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 900
 	}
@@ -284,31 +284,31 @@
 	}
 
 	aristocrats = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 2700
 	}
@@ -378,7 +378,7 @@
 	}
 	
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 2000
 	}

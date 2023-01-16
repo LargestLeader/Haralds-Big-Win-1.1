@@ -1,6 +1,5 @@
 capital = 1938
-primary_culture = mande
-culture = fulbe
+primary_culture = hausa
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

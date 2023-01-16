@@ -3,31 +3,31 @@
 #Grand Lahou (108000/27000 POPS)   
 1892 = {
 	aristocrats = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 1075
 	}
 
 	soldiers = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 9000
 	}
@@ -114,79 +114,79 @@
 1893 = {
 #lagoonic = Lagoonic Languages (placeholder)
 	aristocrats = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 8025
 	}
 
 	slaves = {
-		culture = lagoonic
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
 
 	aristocrats = {
-		culture = bakwe
+		culture = hausa
 		religion = animist
 		size = 725
 	}
 
 	clergymen = {
-		culture = bakwe
+		culture = hausa
 		religion = animist
 		size = 375
 	}
 
 	artisans = {
-		culture = bakwe
+		culture = hausa
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = bakwe
+		culture = hausa
 		religion = animist
 		size = 375
 	}
 
 	farmers = {
-		culture = bakwe
+		culture = hausa
 		religion = animist
 		size = 16000
 	}
 	
 	farmers = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 6025
 	}
 
 	slaves = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 10000
 	}
@@ -194,61 +194,61 @@
 #Grand Bassam (88000/22000 POPS)
 1894 = {
 	aristocrats = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 425
 	}
 
 	clergymen = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 10025
 	}
 	
 	aristocrats = {
-		culture = abure
+		culture = hausa
 		religion = animist
 		size = 425
 	}
 
 	clergymen = {
-		culture = abure
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = abure
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = abure
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 	
 	farmers = {
-		culture = abure
+		culture = hausa
 		religion = animist
 		size = 7025
 	}
@@ -262,37 +262,37 @@
 #Bouake (60000/15000 POPS)
 1895 = {
 	aristocrats = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 8925
 	}
 
 	slaves = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
@@ -330,73 +330,73 @@
 #Man (80000/20000 POPS)
 1896 = {
 	aristocrats = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 7300
 	}
 
 	aristocrats = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 425
 	}
 
 	clergymen = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 9025
 	}
 	
 	farmers = {
-		culture = bete
+		culture = hausa
 		religion = animist
 		size = 6025
 	}
 
 	slaves = {
-		culture = bete
+		culture = hausa
 		religion = animist
 		size = 5000
 	}
@@ -404,43 +404,43 @@
 #Akoupe (92000/23000 POPS)
 1897 = {
 	aristocrats = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 425
 	}
 
 	clergymen = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 15000
 	}
 	
 	farmers = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 3150
 	}
 
 	slaves = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
@@ -450,92 +450,92 @@
 #Kong (264000/66000 POPS)
 1898 = {
 	aristocrats = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 600
 	}
 
 	bureaucrats = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 345
 	}
 
 	officers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 1800
 	}
 
 	soldiers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 1105
 	}
 
 	farmers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 20000
 	}
 
 	aristocrats = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 525
 	}
 	
 	bureaucrats = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 10000
 	}
 	
 	farmers = {
-		culture = tagwana_djimini
+		culture = hausa
 		religion = animist
 		size = 35375
 	}
 
 
 	slaves = {
-		culture = bia
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
@@ -543,73 +543,73 @@
 #Bundoukou (216000/54000 POPS)
 1899 = {
 	aristocrats = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 600
 	}
 
 	clergymen = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 450
 	}
 
 	farmers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 5000
 	}
 
 	aristocrats = {
-		culture = kulango
+		culture = hausa
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = kulango
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = kulango
+		culture = hausa
 		religion = animist
 		size = 2050
 	}
 
 	soldiers = {
-		culture = kulango
+		culture = hausa
 		religion = animist
 		size = 1225
 	}
 
 	farmers = {
-		culture = kulango
+		culture = hausa
 		religion = animist
 		size = 35000
 	}
 	
 	farmers = {
-		culture = birifor_dagara
+		culture = hausa
 		religion = animist
 		size = 5125
 	}
 
 	slaves = {
-		culture = birifor_dagara
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
@@ -619,97 +619,97 @@
 #Odienne (288000/72000 POPS) #now part of Ivory Coast  
 1900 = {
 	aristocrats = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 450
 	}
 
 	artisans = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 1950
 	}
 
 	soldiers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 1200
 	}
 
 	farmers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 34500
 	}
 
 	aristocrats = {
-		culture = senari
+		culture = hausa
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = senari
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = senari
+		culture = hausa
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = senari
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = senari
+		culture = hausa
 		religion = sunni
 		size = 13725
 	}
 
 	aristocrats = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 8100
 	}
 
 	slaves = {
-		culture = senari
+		culture = hausa
 		religion = animist
 		size = 9000
 	}

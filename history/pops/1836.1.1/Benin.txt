@@ -3,109 +3,109 @@
 #Cotonou (544000/136000 POPS)
 1919 = {
 	aristocrats = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 1950
 	}
 
 	clergymen = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 4100
 	}
 
 	soldiers = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 59950
 	}
 
 	slaves = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
 
 	aristocrats = {
-		culture = phla_phera
+		culture = hausa
 		religion = animist
 		size = 550
 	}
 
 	clergymen = {
-		culture = phla_phera
+		culture = hausa
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = phla_phera
+		culture = hausa
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = phla_phera
+		culture = hausa
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = phla_phera
+		culture = hausa
 		religion = animist
 		size = 27350
 	}
 
 	slaves = {
-		culture = phla_phera
+		culture = hausa
 		religion = animist
 		size = 26000
 	}
 
 	aristocrats = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 3600
 	}
 
 	slaves = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
@@ -113,49 +113,49 @@
 #Abomey (480000/120000 POPS)
 1920 = {
 	aristocrats = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 2100
 	}
 
 	bureaucrats = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	officers = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 4250
 	}
 
 	soldiers = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
 
 	soldiers = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = fon
+		culture = hausa
 		religion = animist
 		size = 70000
 	}
@@ -191,37 +191,37 @@
 	}
 
 	aristocrats = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 7300
 	}
 
 	slaves = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
@@ -267,31 +267,31 @@
 #Nikki (48000/12000 POPS)
 1921 = {
 	aristocrats = {
-		culture = bariba
+		culture = hausa
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bariba
+		culture = hausa
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bariba
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = bariba
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = bariba
+		culture = hausa
 		religion = animist
 		size = 10700
 	}
@@ -303,73 +303,73 @@
 	}
 	
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 4700
 	}
 	
 	farmers = {
-		culture = gur
+		culture = hausa
 		religion = animist
 		size = 2700
 	}
 
 	slaves = {
-		culture = yoruba
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	aristocrats = {
-		culture = mande
+		culture = hausa
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = mande
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = hausa
 		religion = sunni
 		size = 375
 	}
 
 	soldiers = {
-		culture = mande
+		culture = hausa
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mande
+		culture = hausa
 		religion = sunni
 		size = 8250
 	}
@@ -377,31 +377,31 @@
 #Jugu (28000/7000 POPS)
 1922 = {
 	aristocrats = {
-		culture = biali_waarma
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = biali_waarma
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = biali_waarma
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = biali_waarma
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = biali_waarma
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
@@ -413,7 +413,7 @@
 	}
 	
 	farmers = {
-		culture = gur
+		culture = hausa
 		religion = animist
 		size = 575
 	}

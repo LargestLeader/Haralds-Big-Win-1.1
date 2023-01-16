@@ -1,5 +1,5 @@
 capital = 1928
-primary_culture = edo
+primary_culture = hausa
 culture = edoid
 religion = animist
 government = absolute_monarchy

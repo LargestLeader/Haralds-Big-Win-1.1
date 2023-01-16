@@ -1,7 +1,5 @@
 capital = 1937
-primary_culture = jukun
-culture = jukunoid
-culture = idoma_etulo
+primary_culture = hausa
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

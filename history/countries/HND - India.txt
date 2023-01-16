@@ -3,7 +3,6 @@ primary_culture = marathi
 culture = hindi
 culture = bihari
 culture = tamil
-culture = kanuri
 culture = rajput
 culture = bengali
 culture = panjabi

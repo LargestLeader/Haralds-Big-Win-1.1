@@ -1,8 +1,5 @@
 capital = 1948
-primary_culture = igala
-culture = nupe
-culture = gwari
-culture = ebira
+primary_culture = hausa
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

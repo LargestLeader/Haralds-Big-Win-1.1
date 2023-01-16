@@ -506,7 +506,7 @@
 	}
 	
 	slaves = {
-		culture = wolof
+		culture = hausa
 		religion = animist
 		size = 875
 	}
@@ -562,7 +562,7 @@
 	}
 	
 	slaves = {
-		culture = wolof
+		culture = hausa
 		religion = animist
 		size = 825
 	}

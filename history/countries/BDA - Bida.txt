@@ -1,6 +1,5 @@
 capital = 1948
 primary_culture = nupe
-culture = gwari
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

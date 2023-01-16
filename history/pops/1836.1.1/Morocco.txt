@@ -99,19 +99,19 @@
 	}
 	
 	slaves = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
 	
 	slaves = {
-		culture = western_nigritic
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
 	
 	slaves = {
-		culture = mossi
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
@@ -123,19 +123,19 @@
 	}
 	
 	slaves = {
-		culture = fulbe
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
 	
 	slaves = {
-		culture = wolof
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
 	
 	slaves = {
-		culture = mande
+		culture = hausa
 		religion = animist
 		size = 5000
 	}
@@ -363,13 +363,13 @@
 	}
 	
 	slaves = {
-		culture = wolof	
+		culture = hausa	
 		religion = animist
 		size = 1000
 	}
 	
 	slaves = {
-		culture = mande	
+		culture = hausa	
 		religion = animist
 		size = 1000
 	}
@@ -381,7 +381,7 @@
 	}
 	
 	slaves = {
-		culture = bambara	
+		culture = hausa	
 		religion = animist
 		size = 1000
 	}
@@ -535,13 +535,13 @@
 	}
 	
 	slaves = {
-		culture = mande
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
 	
 	slaves = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
@@ -685,7 +685,7 @@
 	}
 
 	slaves = {
-		culture = mande
+		culture = hausa
 		religion = animist
 		size = 500
 	}
@@ -1051,19 +1051,19 @@
 	}
 	
 	slaves = {
-		culture = wolof
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
 	
 	slaves = {
-		culture = mande
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
 	
 	slaves = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 8000
 	}
@@ -1081,7 +1081,7 @@
 	}
 	
 	slaves = {
-		culture = mossi
+		culture = hausa
 		religion = animist
 		size = 8000
 	}
@@ -1353,19 +1353,19 @@
 	}
 	
 	slaves = {
-		culture = mande
+		culture = hausa
 		religion = animist
 		size = 1000
 	}
 	
 	slaves = {
-		culture = mossi
+		culture = hausa
 		religion = animist
 		size = 1000
 	}
 	
 	slaves = {
-		culture = fulbe
+		culture = hausa
 		religion = animist
 		size = 1000
 	}

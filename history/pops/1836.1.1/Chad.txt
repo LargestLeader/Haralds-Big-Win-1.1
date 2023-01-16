@@ -4,43 +4,43 @@
 #Massenya (320000/80000 POPS)
 1818 = {
 	aristocrats = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 5000
 	}
@@ -94,37 +94,37 @@
 	}
 
 	aristocrats = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 1500
 	}
 
 	farmers = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 12000
 	}
 	
 	slaves = {
-		culture = masa
+		culture = hausa
 		religion = animist
 		size = 700
 	}
@@ -132,31 +132,31 @@
 #Moundou (48000/12000 POPS)
 1819 = {
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 1500
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 12000
 	}
@@ -192,49 +192,49 @@
 	}
 
 	aristocrats = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 600
 	}
 	
 	bureaucrats = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
 
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 5566
 	}
 	
 	farmers = {
-		culture = masa
+		culture = hausa
 		religion = animist
 		size = 6000
 	}
 	
 	farmers = {
-		culture = central_chadic
+		culture = hausa
 		religion = animist
 		size = 14000
 	}
@@ -254,37 +254,37 @@
 #Bongor (36000/9000 POPS)
 1820 = {
 	aristocrats = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 300
 	}
 	
 	bureaucrats = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 1000
 	}
 
 	soldiers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
 
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 20000
 	}
@@ -302,49 +302,49 @@
 	}
 
 	aristocrats = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 1000
 	}
 	
 	aristocrats = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = masa
+		culture = hausa
 		religion = sunni
 		size = 8000
 	}
@@ -510,7 +510,7 @@
 	}
 	
 	farmers = {
-		culture = masalit
+		culture = hausa
 		religion = sunni
 		size = 1000
 	}
@@ -538,43 +538,43 @@
 	}
 
 	aristocrats = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 2100
 	}
 
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 3000
 	}
 	
 	slaves = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 5000
 	}
@@ -672,7 +672,7 @@
 	}
 	
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = sunni
 		size = 8269
 	}
@@ -726,7 +726,7 @@
 	}
 	
 	farmers = {
-		culture = masalit
+		culture = hausa
 		religion = sunni
 		size = 9246
 	}
@@ -756,7 +756,7 @@
 	}
 	
 	slaves = {
-		culture = kanuri
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
@@ -802,43 +802,43 @@
 	}
 
 	aristocrats = {
-		culture = kanuri
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = kanuri
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = kanuri
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = kanuri
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = kanuri
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = kanuri
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = kanuri
+		culture = hausa
 		religion = sunni
 		size = 10000
 	}

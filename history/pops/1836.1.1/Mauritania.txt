@@ -51,7 +51,7 @@
 	}
 
 	slaves = {
-		culture = wolof
+		culture = hausa
 		religion = sunni
 		size = 3000
 	}
@@ -95,7 +95,7 @@
 	}
 
 	slaves = {
-		culture = wolof
+		culture = hausa
 		religion = sunni
 		size = 5000
 	}
@@ -146,31 +146,31 @@
 	}
 	
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 20
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 85
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 22
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 3325
 	}
 
 	slaves = {
-		culture = fulbe
+		culture = hausa
 		religion = animist
 		size = 6000
 	}
@@ -208,13 +208,13 @@
 	}
 	
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 475
 	}
 
 	slaves = {
-		culture = soninke
+		culture = hausa
 		religion = animist
 		size = 3000
 	}

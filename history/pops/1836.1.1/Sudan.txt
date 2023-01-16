@@ -1934,7 +1934,7 @@
 	}
 	
 	farmers = {
-		culture = sara
+		culture = hausa
 		religion = animist
 		size = 1000
 	}
@@ -2265,19 +2265,19 @@
 	}
 	
 	artisans = {
-		culture = masalit
+		culture = hausa
 		religion = sunni
 		size = 325
 	}
 
 	soldiers = {
-		culture = masalit
+		culture = hausa
 		religion = sunni
 		size = 450
 	}
 
 	farmers = {
-		culture = masalit
+		culture = hausa
 		religion = sunni
 		size = 20000
 	}

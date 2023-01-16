@@ -1,9 +1,5 @@
 capital = 1965
 primary_culture = ubangian
-culture = azande
-culture = sara
-culture = fur
-culture = fulbe
 religion = animist
 government = democracy
 plurality = 0.0

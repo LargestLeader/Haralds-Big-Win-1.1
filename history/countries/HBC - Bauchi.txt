@@ -1,6 +1,5 @@
 capital = 1948
 primary_culture = hausa
-culture = west_chadic
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

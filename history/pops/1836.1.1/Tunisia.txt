@@ -87,7 +87,7 @@
 	}
 	
 	slaves = {
-		culture = kanuri
+		culture = hausa
 		religion = animist
 		size = 1500
 	}
@@ -285,7 +285,7 @@
 	}
 	
 	slaves = {
-		culture = kanuri
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
@@ -397,7 +397,7 @@
 	}
 
 	slaves = {
-		culture = kanuri
+		culture = hausa
 		religion = animist
 		size = 4000
 	}

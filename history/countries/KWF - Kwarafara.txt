@@ -1,5 +1,5 @@
 capital = 1943
-primary_culture = jukun
+primary_culture = hausa
 culture = jukunoid
 religion = animist
 government = absolute_monarchy

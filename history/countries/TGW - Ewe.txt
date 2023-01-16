@@ -1,10 +1,5 @@
 capital = 1920
-primary_culture = ewe
-culture = phla_phera
-culture = gen
-culture = adja
-culture = fon
-culture = ife_ede
+primary_culture = hausa
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

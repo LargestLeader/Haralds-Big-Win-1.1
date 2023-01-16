@@ -3,97 +3,97 @@
 #Freetown (400000/100000 POPS) 
 1884 = {
 	aristocrats = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 675
 	}
 	
 	officers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 32125
 	}
 
 	aristocrats = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 875
 	}
 	
 	officers = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 80
 	}
 
 	artisans = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 2050
 	}
 
 	farmers = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 28275
 	}
 	
 	clergymen = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 12000
 	}
@@ -156,61 +156,61 @@
 #Bo (352000/88000 POPS) 
 1886 = {
 	aristocrats = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 1875
 	}
 
 	soldiers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 475
 	}
 
 	farmers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 46650
 	}
 
 	aristocrats = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 800
 	}
 
 	clergymen = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 425
 	}
 
 	farmers = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 27675
 	}
@@ -226,31 +226,31 @@
 #Falaba (384000/96000 POPS) #now part of Sierra Leone 
 1885 = {
 	aristocrats = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 925
 	}
 
 	clergymen = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 475
 	}
 
 	farmers = {
-		culture = temne
+		culture = hausa
 		religion = sunni
 		size = 46600
 	}
@@ -322,13 +322,13 @@
 	}
 	
 	slaves = {
-		culture = susu
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
 	
 	slaves = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 4000
 	}

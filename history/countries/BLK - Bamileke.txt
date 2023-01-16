@@ -1,5 +1,5 @@
 capital = 1960
-primary_culture = bamileke
+primary_culture = hausa
 culture = grassfield_minor
 culture = east_kwa
 religion = animist

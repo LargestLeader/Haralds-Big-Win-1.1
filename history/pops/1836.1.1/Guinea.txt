@@ -3,61 +3,61 @@
 #Boffa (192000/48000 POPS) #now part of Guinea
 1879 = {
 	aristocrats = {
-		culture = susu
+		culture = hausa
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = susu
+		culture = hausa
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = susu
+		culture = hausa
 		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
-		culture = susu
+		culture = hausa
 		religion = sunni
 		size = 2700
 	}
 
 	farmers = {
-		culture = susu
+		culture = hausa
 		religion = sunni
 		size = 30000
 	}
 	
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 900
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 700
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 12000
 	}
@@ -123,7 +123,7 @@
 	}
 
 	slaves = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 6000
 	}
@@ -133,43 +133,43 @@
 #Timbo (540000/135000 POPS)  
 1880 = {
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 1750
 	}
 
 	bureaucrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 375
 	}
 
 	officers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 1575
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 1150
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 86400
 	}
@@ -199,61 +199,61 @@
 	}
 	
 	aristocrats = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 18
 	}
 
 	clergymen = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 97
 	}
 
 	artisans = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 48
 	}
 
 	soldiers = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = temne
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
 
 	aristocrats = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 180
 	}
 
 	clergymen = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 205
 	}
 
 	artisans = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
@@ -303,97 +303,97 @@
 #Dinguiraye (272000/68000 POPS)  
 1881 = {
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 565
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 1165
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 1015
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 18900
 	}
 
 	aristocrats = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 565
 	}
 
 	officers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 115
 	}
 
 	clergymen = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 2300
 	}
 
 	farmers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 28225
 	}
 
 	aristocrats = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = bambara
+		culture = hausa
 		religion = animist
 		size = 8250
 	}
@@ -409,61 +409,61 @@
 #Kankan (236000/59000 POPS)  
 1882 = {
 	aristocrats = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 390
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 115
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = hausa
 		religion = sunni
 		size = 9450
 	}
 
 	aristocrats = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 715
 	}
 
 	clergymen = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 1875
 	}
 
 	soldiers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 1025
 	}
 
 	farmers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 36090
 	}
@@ -508,31 +508,31 @@
 #Beyla (184000/46000 POPS)  
 1883 = {
 	aristocrats = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 800
 	}
 
 	clergymen = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 425
 	}
 
 	farmers = {
-		culture = bambara
+		culture = hausa
 		religion = sunni
 		size = 8000
 	}
@@ -544,37 +544,37 @@
 	}
 
 	aristocrats = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = animist
 		size = 10000
 	}
 	
 	farmers = {
-		culture = mano_dan
+		culture = hausa
 		religion = animist
 		size = 9000
 	}

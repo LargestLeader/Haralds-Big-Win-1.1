@@ -1,6 +1,5 @@
 capital = 1948
 primary_culture = hausa
-culture = bedouin
 religion = sunni
 government = absolute_monarchy
 plurality = 5.0

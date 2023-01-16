@@ -1,5 +1,5 @@
 capital = 1553
-primary_culture = gur
+primary_culture = hausa
 religion = gelugpa
 government = absolute_monarchy
 plurality = 0.0

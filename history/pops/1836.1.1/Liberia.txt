@@ -3,97 +3,97 @@
 #Monrovia (252000/63000 POPS) 
 1887 = {
 	farmers = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 2775
 	}
 
 	aristocrats = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 875
 	}
 
 	clergymen = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 2350
 	}
 
 	soldiers = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 450
 	}
 
 	farmers = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 34000
 	}
 
 	aristocrats = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 12225
 	}
 	
 	aristocrats = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = vai_kono
+		culture = hausa
 		religion = animist
 		size = 5625
 	}
@@ -101,55 +101,55 @@
 #Harper (204000/51000 POPS) 
 1888 = {
 	artisans = {
-		culture = klao
+		culture = hausa
 		religion = animist
 		size = 1900
 	}
 
 	soldiers = {
-		culture = klao
+		culture = hausa
 		religion = animist
 		size = 375
 	}
 
 	farmers = {
-		culture = klao
+		culture = hausa
 		religion = animist
 		size = 25600
 	}
 	
 	farmers = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 5000
 	}
 
 	aristocrats = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 650
 	}
 
 	soldiers = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 15850
 	}
@@ -158,61 +158,61 @@
 #Bopulu (124000/31000 POPS) 
 1889 = {
 	aristocrats = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 475
 	}
 
 	clergymen = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 1250
 	}
 
 	soldiers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 32775
 	}
 
 	aristocrats = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = gola
+		culture = hausa
 		religion = animist
 		size = 30000
 	}
@@ -250,91 +250,91 @@
 #Gbarnga (132000/33000 POPS) 
 1890 = {
 	aristocrats = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = southwestern_mande
+		culture = hausa
 		religion = sunni
 		size = 30000
 	}
 	
 	aristocrats = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = mano_dan
+		culture = hausa
 		religion = sunni
 		size = 35025
 	}
 	
 	aristocrats = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 425
 	}
 
 	clergymen = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = bassa
+		culture = hausa
 		religion = animist
 		size = 15025
 	}
@@ -342,55 +342,55 @@
 #Zwedru (168000/42000 POPS) 
 1891 = {
 	aristocrats = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 425
 	}
 
 	soldiers = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 5975
 	}
 
 	farmers = {
-		culture = wee
+		culture = hausa
 		religion = animist
 		size = 10000
 	}
 	
 	aristocrats = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 425
 	}
 
 	soldiers = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 5975
 	}
 
 	farmers = {
-		culture = grebo
+		culture = hausa
 		religion = animist
 		size = 19000
 	}
 	
 	farmers = {
-		culture = klao
+		culture = hausa
 		religion = animist
 		size = 3300
 	}

@@ -1,5 +1,5 @@
 capital = 1273
-primary_culture = kanuri
+primary_culture = hausa
 culture = hindi
 religion = hindu
 government = absolute_monarchy
