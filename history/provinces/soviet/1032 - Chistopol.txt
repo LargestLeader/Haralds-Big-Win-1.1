@@ -3,5 +3,5 @@ controller = KZN
 add_core = RUS
 add_core = KZN
  
-trade_goods = timber
+trade_goods = sulphur
 life_rating = 35

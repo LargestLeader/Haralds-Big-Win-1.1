@@ -3,5 +3,5 @@ controller = MNK
 add_core = SMG
 add_core = RUS
 add_core = MNK
-trade_goods = grain
+trade_goods = iron
 life_rating = 35
