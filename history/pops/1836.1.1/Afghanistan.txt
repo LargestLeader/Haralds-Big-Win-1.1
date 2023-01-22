@@ -141,13 +141,13 @@
 	}
 
 	slaves = {
-		culture = panjabi
+		culture = rajput
 		religion = sikh
 		size = 4500
 	}
 
 	slaves = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 7500
 	}
@@ -206,31 +206,31 @@
 	}
 
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 388
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 3375
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 12000
 	}
@@ -280,37 +280,37 @@
 #Herat (324000/81000 POPS)
 1212 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 25
 	}
 	
 	bureaucrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 850
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 4650
 	}
@@ -529,7 +529,7 @@
 	}
 
 	slaves = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 2500
 	}
@@ -769,7 +769,7 @@
 	}
 
 	slaves = {
-		culture = panjabi
+		culture = rajput
 		religion = sikh
 		size = 1700
 	}
@@ -848,43 +848,43 @@
 #Faizabad (340000/85000 POPS)
 1210 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 350
 	}
 	
 	officers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 512
 	}
@@ -962,7 +962,7 @@
 	}
 	
 	farmers = {
-		culture = shugni
+		culture = turkmen
 		religion = shiite
 		size = 7050
 	}
@@ -979,127 +979,127 @@
 #Kunduz
 2591 = {
 	artisans = {
-		culture = baluchi
+		culture = icelandic
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = icelandic
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = icelandic
 		religion = sunni
 		size = 412
 	}
 
 	aristocrats = {
-		culture = persian
+		culture = icelandic
 		religion = shiite
 		size = 150
 	}
 
 	clergymen = {
-		culture = persian
+		culture = icelandic
 		religion = shiite
 		size = 88
 	}
 
 	artisans = {
-		culture = persian
+		culture = icelandic
 		religion = shiite
 		size = 900
 	}
 
 	soldiers = {
-		culture = persian
+		culture = icelandic
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = persian
+		culture = icelandic
 		religion = shiite
 		size = 1587
 	}
 
 	aristocrats = {
-		culture = persian
+		culture = icelandic
 		religion = sunni
 		size = 850
 	}
 
 	clergymen = {
-		culture = persian
+		culture = icelandic
 		religion = sunni
 		size = 488
 	}
 
 	artisans = {
-		culture = persian
+		culture = icelandic
 		religion = sunni
 		size = 5500
 	}
 
 	soldiers = {
-		culture = persian
+		culture = icelandic
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = persian
+		culture = icelandic
 		religion = sunni
 		size = 24162
 	}
 	
 	soldiers = {
-		culture = moghol
+		culture = icelandic
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = moghol
+		culture = icelandic
 		religion = sunni
 		size = 502
 	}
 
 	slaves = {
-		culture = baluchi
+		culture = icelandic
 		religion = sunni
 		size = 2000
 	}
 	
 	aristocrats = {
-		culture = chaghatay
+		culture = icelandic
 		religion = sunni
 		size = 700
 	}
 	
 	clergymen = {
-		culture = chaghatay
+		culture = icelandic
 		religion = sunni
 		size = 650
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = icelandic
 		religion = sunni
 		size = 2200
 	}
 	
 	artisans = {
-		culture = chaghatay
+		culture = icelandic
 		religion = sunni
 		size = 3000
 	}
 	
 	farmers = {
-		culture = chaghatay
+		culture = icelandic
 		religion = sunni
 		size = 10000
 	}

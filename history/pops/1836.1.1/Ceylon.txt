@@ -9,7 +9,7 @@
 	}
 
 	aristocrats = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 3900
 	}
@@ -27,7 +27,7 @@
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 750
 	}
@@ -39,7 +39,7 @@
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 800
 	}
@@ -51,13 +51,13 @@
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 3750
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 38650
 	}
@@ -69,7 +69,7 @@
 	}
 
 	slaves = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 14000
 	}
@@ -111,49 +111,49 @@
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = tamil
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = tamil
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = tamil
 		religion = catholic
 		size = 50
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = tamil
 		religion = catholic
 		size = 6400
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 25
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 750
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 1200
 	}
@@ -219,37 +219,37 @@
 	}
 
 	aristocrats = {
-		culture = marathi
+		culture = telegu
 		religion = hindu
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = marathi
+		culture = telegu
 		religion = hindu
 		size = 50
 	}
 
 	clergymen = {
-		culture = marathi
+		culture = telegu
 		religion = hindu
 		size = 50
 	}
 
 	artisans = {
-		culture = marathi
+		culture = telegu
 		religion = hindu
 		size = 1100
 	}
 
 	soldiers = {
-		culture = marathi
+		culture = telegu
 		religion = hindu
 		size = 100
 	}
 
 	farmers = {
-		culture = marathi
+		culture = telegu
 		religion = hindu
 		size = 675
 	}
@@ -269,7 +269,7 @@
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 200
 	}
@@ -293,19 +293,19 @@
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 4000
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 500
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 20500
 	}
@@ -317,7 +317,7 @@
 	}
 
 	slaves = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 5000
 	}
@@ -353,7 +353,7 @@
 	}
 
 	aristocrats = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 250
 	}
@@ -365,13 +365,13 @@
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 750
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 4000
 	}
@@ -383,19 +383,19 @@
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 2750
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 53750
 	}
 
 	slaves = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 10000
 	}
@@ -427,13 +427,13 @@
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 225
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 500
 	}
@@ -445,25 +445,25 @@
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 200
 	}
 
 	farmers = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 7000
 	}
 
 	slaves = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 2825
 	}
 
 	aristocrats = {
-		culture = sinhala
+		culture = tamil
 		religion = theravada
 		size = 100
 	}
@@ -493,49 +493,49 @@
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 25
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 250
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 700
 	}
 
 	clergymen = {
-		culture = sinhala
+		culture = tamil
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = sinhala
+		culture = tamil
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = sinhala
+		culture = tamil
 		religion = catholic
 		size = 25
 	}
 
 	labourers = {
-		culture = sinhala
+		culture = tamil
 		religion = catholic
 		size = 1475
 	}

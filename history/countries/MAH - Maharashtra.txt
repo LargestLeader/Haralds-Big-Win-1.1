@@ -1,5 +1,5 @@
 capital = 1301
-primary_culture = marathi
+primary_culture = telegu
 culture = sindi
 culture = kannada
 religion = hindu

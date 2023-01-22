@@ -1,39 +1,39 @@
 #Khwarazm Region (380000) #see Kazakhstan.txt and Turkmenistan.txt for balance of region 
 #under the rule of Khiva in 1836  
-#Khiva (200000/50000 POPS) #now part of chaghatayistan  
+#Khiva (200000/50000 POPS) #now part of turkmenistan  
 1191 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1150
 	}
 
 	bureaucrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	officers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1200
 	}
 	
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 2800
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 35050
 	}
@@ -51,37 +51,37 @@
 	}
 	
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 9300
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 9700
 	}
@@ -91,31 +91,31 @@
 #Nukus (180000/45000 POPS)
 1192 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 225
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1150
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 3000
 	}
 	
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 10325
 	}
@@ -133,61 +133,61 @@
 	}
 
 	aristocrats = {
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size = 275
 	}
 
 	clergymen = {
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = kazak
+		culture = turkmen
 		religion = sunni
 		size = 13900
 	}
 
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 4175
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 3650
 	}
@@ -203,31 +203,31 @@
 #Tashkent (224000/56000 POPS)   
 1195 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 950
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 4300
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 20000
 	}
@@ -245,31 +245,31 @@
 	}
 
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 425
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 850
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 8000
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 950
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 13450
 	}
@@ -283,43 +283,43 @@
 #Kokand (300000/75000 POPS)   
 1202 = {
 	aristocrats = {
-	    culture = chaghatay
+	    culture = turkmen
 		religion = sunni
 		size = 900
 	}
 
 	bureaucrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 550
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 3050
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 575
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 17000
 	}
@@ -337,31 +337,31 @@
 	}
 
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1150
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 9800
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1150
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 15000
 	}
@@ -384,43 +384,43 @@
 #Bukhara (868000/217000 POPS)   
 1198 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 225
 	}
 
 	officers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 275
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1000
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 4300
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 5000
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 22000
 	}
@@ -432,31 +432,31 @@
 	}
 
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 2275
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 2125
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 17700
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1125
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 46775
 	}
@@ -495,31 +495,31 @@
 #Samarkand (544000/136000 POPS)   
 1199 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1250
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1250
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 3700
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 3000
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 40000
 	}
@@ -531,31 +531,31 @@
 	}
 
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1050
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 2050
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 23300
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1050
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 42600
 	}
@@ -569,61 +569,61 @@
 #Qarshi (280000/70000 POPS)   
 1200 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 525
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 6425
 	}
 
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 625
 	}
 
 	clergymen = {
-	    culture = persian
+	    culture = turkmen
 		religion = sunni
 		size = 800
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 6500
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 20075
 	}
@@ -633,37 +633,37 @@
 29 = {
 	
 	clergymen = {
-		culture = kirgiz
+		culture = dakota
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = dakota
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = dakota
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = dakota
 		religion = sunni
 		size = 3000
 	}
 	
 	soldiers = {
-		culture = kazak
+		culture = dakota
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = kazak
+		culture = dakota
 		religion = sunni
 		size = 2000
 	}

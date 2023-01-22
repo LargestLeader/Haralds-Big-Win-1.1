@@ -1,5 +1,5 @@
 capital = 1274
-primary_culture = marathi
+primary_culture = telegu
 culture = hindi
 religion = hindu
 government = colonial_company

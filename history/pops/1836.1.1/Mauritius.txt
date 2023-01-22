@@ -89,7 +89,7 @@
 #Diego Garcia (700/175 POPS) 
 2128 = {
 	farmers = {
-		culture = sinhala
+		culture = tamil
 		religion = hindu
 		size = 175
 	}

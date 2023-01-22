@@ -1252,25 +1252,25 @@
 	}
 
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 30
 	}
 
 	artisans = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 2445
 	}
@@ -1428,13 +1428,13 @@
 	}
 
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 790
 	}
@@ -1480,13 +1480,13 @@
 	}
 
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 670
 	}
@@ -1506,13 +1506,13 @@
 	}
 
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 740
 	}
@@ -1520,25 +1520,25 @@
 #Izhma (2000/500 POPS)
 2699 = {
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = orthodox
 		size = 5
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = orthodox
 		size = 15
 	}
 
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 345
 	}
@@ -5842,25 +5842,25 @@
 	}
 	
 	clergymen = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 2750
 	}
@@ -6032,7 +6032,7 @@
 	}
 	
 	farmers = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 3200
 	}
@@ -6085,37 +6085,37 @@
 	}
 
 	aristocrats = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = sunni
 		size = 825
 	}
 	
 	farmers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 5000
 	}
@@ -6154,37 +6154,37 @@
 	}
 
 	aristocrats = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 1400
 	}
 	
 	farmers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 1400
 	}
@@ -6198,25 +6198,25 @@
 	}
 
 	clergymen = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
@@ -6225,31 +6225,31 @@
 2646 = {
 
 	aristocrats = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
@@ -6258,55 +6258,55 @@
 2683 = {
 
 	clergymen = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 200
 	}
 
 	aristocrats = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
@@ -6350,7 +6350,7 @@
 	}
 	
 	farmers = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 8450
 	}
@@ -6358,13 +6358,13 @@
 #Verkniy Ufaley (1200/300 POPS)
 2690 = {
 	clergymen = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 195
 	}
@@ -6374,37 +6374,37 @@
 2691 = {
 
 	farmers = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 2400
 	}
 
 	aristocrats = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 3500
 	}
@@ -6412,67 +6412,67 @@
 #Kostino (2000/500 POPS)
 2692 = {
 	aristocrats = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 325
 	}
 	
 	aristocrats = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 40
 	}
 
 	soldiers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 55
 	}
 
 	farmers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 525
 	}
 	
 	farmers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 125
 	}
@@ -6524,19 +6524,19 @@
 	}
 	
 	aristocrats = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 	
 	clergymen = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 	
 	farmers = {
-		culture = mansi
+		culture = sibir_tatar
 		religion = animist
 		size = 4300
 	}
@@ -6544,31 +6544,31 @@
 #Yar Sale (1000/250 POPS)
 2684 = {
 	aristocrats = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 225
 	}
@@ -6576,37 +6576,37 @@
 #Aksarka (2200/550 POPS)
 2682 = {
 	aristocrats = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = khanty
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
 	
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
@@ -6632,31 +6632,31 @@
 #Napalkovo (1000/250 POPS)
 2659 = {
 	aristocrats = {
-		culture = enets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = enets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = enets
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = enets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = enets
+		culture = sibir_tatar
 		religion = animist
 		size = 225
 	}
@@ -6664,31 +6664,31 @@
 #Nyda (1000/250 POPS)
 2613 = {
 	aristocrats = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 225
 	}
@@ -6696,31 +6696,31 @@
 #Krasnoselkup (2200/550 POPS)
 2615 = {
 	aristocrats = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = nenets
+		culture = sibir_tatar
 		religion = animist
 		size = 900
 	}
@@ -6732,43 +6732,43 @@
 1063 = {
 
 	aristocrats = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 
 	bureaucrats = {
-	    culture = selkup
+	    culture = sibir_tatar
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 2000
 	}
 	
 	farmers = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 1775
 	}
@@ -6835,37 +6835,37 @@
 2698 = {
 
 	clergymen = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 800
 	}
 	
 	farmers = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 400
 	}
 	
 	farmers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 800
 	}
@@ -6874,31 +6874,31 @@
 1067 = {
 
 	clergymen = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 1000
 	}
 
 	aristocrats = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 	
 	farmers = {
-		culture = shor
+		culture = sibir_tatar
 		religion = animist
 		size = 5000
 	}
 	
 	farmers = {
-		culture = kirgiz
+		culture = sibir_tatar
 		religion = sunni
 		size = 2400
 	}
@@ -6906,55 +6906,55 @@
 #Ulala (36000/9000 POPS)
 1068 = {
 	clergymen = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 2775
 	}
 
 	aristocrats = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = altai
+		culture = sibir_tatar
 		religion = animist
 		size = 5475
 	}
@@ -6965,61 +6965,61 @@
 2648 = {
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 9300
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 4695
 	}
 	
 	farmers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 600
 	}
@@ -7028,55 +7028,55 @@
 1069 = {
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 900
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 475
 	}
@@ -7085,55 +7085,55 @@
 2695 = {
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 900
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 475
 	}
@@ -7142,55 +7142,55 @@
 2650 = {
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 30
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 1350
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 475
 	}
@@ -7198,31 +7198,31 @@
 #Zhigansk (4000/1000 POPS)
 2649 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 900
 	}
@@ -7231,55 +7231,55 @@
 2672 = {
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 45
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 2255
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 710
 	}
@@ -7289,37 +7289,37 @@
 #Dudinka (1000/250 POPS)
 2680 = {
 	aristocrats = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 	
 	farmers = {
-		culture = nganasan
+		culture = sibir_tatar
 		religion = animist
 		size = 125
 	}
@@ -7327,43 +7327,43 @@
 #Svetlogorsk (2000/500 POPS)
 2657 = {
 	aristocrats = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	soldiers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 200
 	}
 	
 	farmers = {
-		culture = nganasan
+		culture = sibir_tatar
 		religion = animist
 		size = 130
 	}
 	
 	farmers = {
-		culture = enets
+		culture = sibir_tatar
 		religion = animist
 		size = 80
 	}
@@ -7421,37 +7421,37 @@
 #Kha-tanga (1000/250 POPS)
 2654 = {
 	aristocrats = {
-		culture = nganasan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = nganasan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = nganasan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = nganasan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = nganasan
+		culture = sibir_tatar
 		religion = animist
 		size = 200
 	}
 	
 	farmers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
@@ -7460,55 +7460,55 @@
 2674 = {
 
 	clergymen = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 1000
 	}
 
 	aristocrats = {
-		culture = khaka
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = khaka
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = khaka
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = khaka
+		culture = sibir_tatar
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = khaka
+		culture = sibir_tatar
 		religion = animist
 		size = 8000
 	}
@@ -7516,31 +7516,31 @@
 #Saskylah (1000/250 POPS)
 2653 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -7548,55 +7548,55 @@
 #Udachniy (2000/500 POPS)
 2651 = {
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 180
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 275
 	}
@@ -7604,61 +7604,61 @@
 #Yekonda (2000/500 POPS)
 2675 = {
 	aristocrats = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 325
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 135
 	}
@@ -7666,31 +7666,31 @@
 #Tura (1000/250 POPS)
 2655 = {
 	aristocrats = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 225
 	}
@@ -7698,37 +7698,37 @@
 #Uchami (2000/500 POPS)
 2693 = {
 	aristocrats = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 40
 	}
 
 	farmers = {
-		culture = dolgan
+		culture = sibir_tatar
 		religion = animist
 		size = 310
 	}
 	
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 80
 	}
@@ -7738,37 +7738,37 @@
 #Verkhoyansk (2000/500 POPS)
 2668 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 275
 	}
 	
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 600
 	}
@@ -7776,31 +7776,31 @@
 #Ust Nera (2000/500 POPS)
 2642 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 450
 	}
@@ -7808,37 +7808,37 @@
 #Honuu (1000/250 POPS)
 2643 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 	
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 180
 	}
@@ -7846,37 +7846,37 @@
 #Abiy (2000/500 POPS)
 2619 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
 	
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
@@ -7884,37 +7884,37 @@
 #Chokurdakh (1000/250 POPS)
 2665 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 160
 	}
 	
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
@@ -7924,31 +7924,31 @@
 #Olenyok (1000/250 POPS)
 2673 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 220
 	}
@@ -7956,37 +7956,37 @@
 #Bulun (1000/250 POPS)
 2667 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 60
 	}
 	
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 170
 	}
@@ -7995,31 +7995,31 @@
 2670 = {
 	
 	aristocrats = {
-		culture = mongol
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 325
 	}
 
 	clergymen = {
-		culture = mongol
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 175
 	}
 
 	artisans = {
-		culture = mongol
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 850
 	}
 
 	soldiers = {
-		culture = mongol
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 175
 	}
 
 	farmers = {
-		culture = mongol
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 26000
 	}
@@ -8027,31 +8027,31 @@
 #Kular (1000/250 POPS)
 2652 = {
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8060,37 +8060,37 @@
 2671 = {
 	
 	aristocrats = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 35
 	}
 
 	clergymen = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 55
 	}
 
 	artisans = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 285
 	}
 
 	soldiers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 715
 	}
 
 	farmers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 8500
 	}	
 	
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
@@ -8100,37 +8100,37 @@
 #Srednokolymsk (1000/250 POPS)
 2621 = {
 	aristocrats = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 4
 	}
 
 	clergymen = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 8
 	}
 
 	artisans = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 14
 	}
 
 	soldiers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 340
 	}
 
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 110
 	}
@@ -8139,31 +8139,31 @@
 #Syasir (1000/250 POPS)
 2620 = {
 	aristocrats = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8171,31 +8171,31 @@
 #Beryezovka (1000/250 POPS)
 2660 = {
 	aristocrats = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8205,31 +8205,31 @@
 #Aldan (1000/250 POPS)
 2696 = {
 	aristocrats = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8237,37 +8237,37 @@
 #Chernomin (1000/250 POPS)
 1080 = {
 	aristocrats = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 360
 	}
 
 	farmers = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 1230
 	}
 	
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 6230
 	}
@@ -8276,37 +8276,37 @@
 #Olyekminsk (6000/1500 POPS)
 2644 = {
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 200
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 2000
 	}
@@ -8314,61 +8314,61 @@
 #Chilchi (4000/1000 POPS)
 2645 = {
 	aristocrats = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 450
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 450
 	}
@@ -8378,31 +8378,31 @@
 #Okhotsk (4000/1000 POPS)
 1072 = {
 	aristocrats = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8410,31 +8410,31 @@
 #Ayan (3000/750 POPS)
 2641 = {
 	aristocrats = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 450
 	}
@@ -8443,31 +8443,31 @@
 #Susuman (2000/500 POPS)
 2639 = {
 	aristocrats = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8475,31 +8475,31 @@
 #Ola (2000/500 POPS)
 2618 = {
 	aristocrats = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8509,25 +8509,25 @@
 #Petropavlovsk (4000/1000 POPS)
 1074 = {
 	clergymen = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 140
 	}
@@ -8535,31 +8535,31 @@
 #Omsukchan (1000/250 POPS)
 2638 = {
 	aristocrats = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8567,31 +8567,31 @@
 #Kamenskoye (1000/250 POPS)
 2663 = {
 	aristocrats = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8599,31 +8599,31 @@
 #Korf/Tilichiki (1000/250 POPS)
 2616 = {
 	aristocrats = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8631,31 +8631,31 @@
 #Palana/Ossora (1000/250 POPS)
 2633 = {
 	aristocrats = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = kamchatkan
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -8663,37 +8663,37 @@
 #Yevensk (2000/500 POPS) => Gizhiga
 1073 = {
 	aristocrats = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = even
+		culture = sibir_tatar
 		religion = animist
 		size = 40
 	}
@@ -8703,37 +8703,37 @@
 #Rassvet (1000/250 POPS)
 2634 = {
 	aristocrats = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 	
 	farmers = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 130
 	}
@@ -8741,37 +8741,37 @@
 #Novo Mariinsk (2000/500 POPS) #inuit = chukchi   }
 2637 = {
 	aristocrats = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 9
 	}
 
 	clergymen = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 35
 	}
 
 	soldiers = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 11
 	}
 
 	farmers = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 400
 	}
 	
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 280
 	}
@@ -8780,31 +8780,31 @@
 #Pevek (600/150 POPS) #inuit = chukchi  }
 2666 = {
 	aristocrats = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 4
 	}
 
 	soldiers = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 135
 	}
@@ -8812,31 +8812,31 @@
 #Nizhnekolymsk (600/150 POPS)
 2661 = {
 	aristocrats = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 4
 	}
 
 	soldiers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 135
 	}
@@ -8844,37 +8844,37 @@
 #Markovo (600/150 POPS)
 2622 = {
 	aristocrats = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 4
 	}
 
 	soldiers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yukaghir
+		culture = sibir_tatar
 		religion = animist
 		size = 80
 	}
 	
 	farmers = {
-		culture = chukotkan
+		culture = sibir_tatar
 		religion = animist
 		size = 55
 	}
@@ -8885,73 +8885,73 @@
 1077 = {
 	
 	aristocrats = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 625
 	}
 
 	officers = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = chulym
+		culture = sibir_tatar
 		religion = animist
 		size = 3750
 	}
 
 	aristocrats = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 4125
 	}
 	
 	farmers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
@@ -8959,37 +8959,37 @@
 #Bryanka (2000/500 POPS) => Yeniseysk
 1070 = {
 	aristocrats = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 250
 	}
 	
 	farmers = {
-		culture = selkup
+		culture = sibir_tatar
 		religion = animist
 		size = 200
 	}
@@ -8998,19 +8998,19 @@
 2701 = {
 
 	farmers = {
-		culture = yeniseic
+		culture = sibir_tatar
 		religion = animist
 		size = 330
 	}
 	
 	farmers = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 240
 	}
 	
 	farmers = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 60
 	}
@@ -9018,31 +9018,31 @@
 #Tayimba (1000/250 POPS)
 2656 = {
 	aristocrats = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -9050,108 +9050,108 @@
 #Bratsk (2000/500 POPS) => Nizhneudinsk
 1076 = {
 	farmers = {
-		culture = tofa
+		culture = sibir_tatar
 		religion = animist
 		size = 350
 	}
 	
 	aristocrats = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 525
 	}
 
 	farmers = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 1450
 	}
 }
 #Irkutsk Region (292000)
 #under the rule of Russia in 1836
-#Irkutsk (289000/72250 POPS) #Mongol = Buryat  
+#Irkutsk (289000/72250 POPS) #Mongol = sibir_tatar  
 1075 = {
 
 	aristocrats = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 75
 	}
 
 	clergymen = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 125
 	}
 
 	artisans = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 300
 	}
 
 	soldiers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 125
 	}
 
 	farmers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 5575
 	}
 	
 	farmers = {
-		culture = tuvan
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 1375
 	}
 
 	aristocrats = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 4230
 	}
@@ -9159,31 +9159,31 @@
 #Vanavara (1000/250 POPS)
 2694 = {
 	aristocrats = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 230
 	}
@@ -9192,67 +9192,67 @@
 2677 = {
 
     aristocrats = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 15
 	}
 
 	clergymen = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 35
 	}
 
 	artisans = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 285
 	}
 
 	soldiers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 515
 	}
 
 	farmers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 7000
 	}
 	
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5000
 	}
 
 	aristocrats = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = sayan
+		culture = sibir_tatar
 		religion = animist
 		size = 300
 	}
@@ -9261,159 +9261,159 @@
 2676 = {
 
     aristocrats = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 15
 	}
 
 	clergymen = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 35
 	}
 
 	artisans = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 285
 	}
 
 	soldiers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 515
 	}
 
 	farmers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 4000
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 2
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 30
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 3230
 	}
 }
 #Chita Region (472000)
 #under the rule of Russia in 1836
-#Chita (216000/54000 POPS) #Mongol = Buryat  
+#Chita (216000/54000 POPS) #Mongol = sibir_tatar  
 1078 = {
 
 	aristocrats = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 325
 	}
 
 	clergymen = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 175
 	}
 
 	artisans = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 850
 	}
 
 	soldiers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 175
 	}
 
 	farmers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 8500
 	}
 	
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 5000
 	}
 }
-#Nerchinsk (160000/40000 POPS) #Mongol = Buryat   
+#Nerchinsk (160000/40000 POPS) #Mongol = sibir_tatar   
 1079 = {
 
 	aristocrats = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 175
 	}
 
 	clergymen = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 75
 	}
 
 	artisans = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 50
 	}
 
 	soldiers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 100
 	}
 
 	farmers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 800
 	}
 
 	aristocrats = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 900
 	}
@@ -9422,43 +9422,43 @@
 #Yaksa (52000/13000 POPS)
 1081 = {
 	aristocrats = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 25
 	}
 
 	clergymen = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 100
 	}
 
 	artisans = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 550
 	}
 
 	soldiers = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 125
 	}
 	
 	farmers = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 575
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 10000
 	}
@@ -9496,37 +9496,37 @@
 #Magdagachi (44000/11000 POPS)
 2697 = {
 	aristocrats = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 100
 	}
 	
 	farmers = {
-		culture = daur
+		culture = manchu
 		religion = animist
 		size = 2200
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 6000
 	}
@@ -9620,13 +9620,13 @@
 	}
 
 	farmers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 130
 	}
 
 	slaves = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 325
 	}
@@ -9659,13 +9659,13 @@
 	}
 
 	farmers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 125
 	}
 
 	slaves = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 500
 	}
@@ -9698,13 +9698,13 @@
 	}
 
 	farmers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 200
 	}
 
 	slaves = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 800
 	}
@@ -9713,25 +9713,25 @@
 1085 = {
 
 	clergymen = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 500
 	}
 
 	artisans = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 2000
 	}
 
 	soldiers = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 1200
 	}
 
 	farmers = {
-		culture = daur
+		culture = manchu
 		religion = gelugpa
 		size = 6375
 	}
@@ -9743,13 +9743,13 @@
 	}
 
 	farmers = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 200
 	}
 
 	slaves = {
-		culture = evenki
+		culture = sibir_tatar
 		religion = animist
 		size = 925
 	}
@@ -9782,13 +9782,13 @@
 	}
 
 	farmers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 700
 	}
@@ -9799,31 +9799,31 @@
 #Pogobi (4100/1025 POPS)
 1086 = {
 	aristocrats = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = siberian
+		culture = sibir_tatar
 		religion = animist
 		size = 440
 	}

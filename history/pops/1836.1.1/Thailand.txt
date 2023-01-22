@@ -51,73 +51,73 @@
 	}
 	
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 23025
 	}
 	
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 20000
 	}
 
 	slaves = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 30000
 	}
 
 	aristocrats = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	officers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 25
 	}
 
 	clergymen = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 325
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 8000
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 2000
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 2000
 	}
 
 	soldiers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 575
 	}
 
 	farmers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 11875
 	}
@@ -155,19 +155,19 @@
 	}
 	
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 50600
 	}
 
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 40600
 	}
 	
 	slaves = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 8000
 	}
@@ -206,49 +206,49 @@
 	}
 	
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 5000
 	}
 	
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 7300
 	}
 
 	slaves = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 3000
 	}
 
 	aristocrats = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 25
 	}
 
 	clergymen = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 1250
 	}
 
 	soldiers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 25
 	}
 
 	farmers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 1650
 	}
@@ -286,49 +286,49 @@
 	}
 	
 	clergymen = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 50
 	}
 
 	artisans = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 1000
 	}
 
 	soldiers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 100
 	}
 	
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 4000
 	}
 	
 	clergymen = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 100
 	}
 
 	artisans = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 700
 	}
 
 	soldiers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 500
 	}
 	
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 11900
 	}
@@ -366,19 +366,19 @@
 	}
 	
 	clergymen = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 75
 	}
 
 	artisans = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 500
 	}
 	
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 5775
 	}
@@ -390,25 +390,25 @@
 	}
 	
 	clergymen = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 200
 	}
 
 	artisans = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 700
 	}
 
 	soldiers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 600
 	}
 
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 14000
 	}
@@ -416,37 +416,37 @@
 #Prachin Buri (164000/41000 POPS)
 1351 = {
 	aristocrats = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 75
 	}
 
 	clergymen = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 100
 	}
 
 	artisans = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 400
 	}
 
 	soldiers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 500
 	}
 
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 7725
 	}
 
 	slaves = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 1100
 	}
@@ -482,37 +482,37 @@
 	}
 	
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 2000
 	}
 
 	aristocrats = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 100
 	}
 
 	clergymen = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 2000
 	}
 
 	soldiers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 100
 	}
 
 	farmers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 6725
 	}
@@ -564,7 +564,7 @@
 	}
 	
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 3000
 	}
@@ -594,31 +594,31 @@
 	}
 
 	aristocrats = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 75
 	}
 
 	clergymen = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 1100
 	}
 
 	soldiers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	farmers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 3825
 	}
@@ -692,37 +692,37 @@
 	}
 	
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 10000
 	}
 
 	aristocrats = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 125
 	}
 
 	clergymen = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 75
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 1500
 	}
 
 	soldiers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 75
 	}
 
 	farmers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 5225
 	}
@@ -760,7 +760,7 @@
 	}
 	
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 8800
 	}
@@ -790,31 +790,31 @@
 	}
 
 	aristocrats = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 75
 	}
 
 	clergymen = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 1275
 	}
 
 	soldiers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	slaves = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 3550
 	}
@@ -854,43 +854,43 @@
 #Chiang Mai (332000/83000 POPS)
 1355 = {
 	aristocrats = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 125
 	}
 
 	officers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 75
 	}
 
 	clergymen = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 125
 	}
 
 	artisans = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 1000
 	}
 
 	soldiers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 325
 	}
 
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 15000
 	}
@@ -920,67 +920,67 @@
 	}
 
 	aristocrats = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 125
 	}
 
 	clergymen = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 50
 	}
 
 	artisans = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 250
 	}
 
 	soldiers = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 325
 	}
 
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 6250
 	}
 	
 	aristocrats = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 325
 	}
 
 	clergymen = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 250
 	}
 
 	artisans = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 1050
 	}
 
 	soldiers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 525
 	}
 
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 16250
 	}
 
 	slaves = {
-		culture = karen
+		culture = burmese
 		religion = theravada
 		size = 7000
 	}
@@ -988,31 +988,31 @@
 #Nan (268000/67000 POPS)
 2572 = {
 	aristocrats = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 400
 	}
 
 	clergymen = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 225
 	}
 
 	artisans = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 1100
 	}
 
 	soldiers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 225
 	}
 
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 20050
 	}
@@ -1048,37 +1048,37 @@
 	}
 	
 	farmers = {
-		culture = shan
+		culture = burmese
 		religion = theravada
 		size = 2075
 	}
 
 	aristocrats = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 375
 	}
 
 	clergymen = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 200
 	}
 
 	artisans = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 1100
 	}
 
 	soldiers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 225
 	}
 
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 20200
 	}
@@ -1192,37 +1192,37 @@
 	}
 	
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 1950
 	}
 	
 	aristocrats = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 125
 	}
 
 	clergymen = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 100
 	}
 
 	artisans = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 700
 	}
 
 	soldiers = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 250
 	}
 
 	farmers = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 5000
 	}
@@ -1352,31 +1352,31 @@
 	}
 
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 3150
 	}
 	
 	clergymen = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 750
 	}
 
 	soldiers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	farmers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 2150
 	}
@@ -1422,25 +1422,25 @@
 	}
 
 	clergymen = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 650
 	}
 
 	soldiers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 25
 	}
 
 	farmers = {
-		culture = yue
+		culture = beifaren
 		religion = mahayana
 		size = 1275
 	}

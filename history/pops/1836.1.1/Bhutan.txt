@@ -75,7 +75,7 @@
 	}
 
 	slaves = {
-		culture = assamese
+		culture = bengali
 		religion = hindu
 		size = 7000
 	}

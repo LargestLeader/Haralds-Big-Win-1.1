@@ -3,25 +3,25 @@
 #Godthab (4220/1055 POPS)
 251 = {
 	bureaucrats = {
-		culture = danish
+		culture = icelandic
 		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = danish
+		culture = icelandic
 		religion = protestant
 		size = 23
 	}
 
 	artisans = {
-		culture = danish
+		culture = icelandic
 		religion = protestant
 		size = 23
 	}
 
 	farmers = {
-		culture = inuit
+		culture = icelandic
 		religion = protestant
 		size = 1400
 	}
@@ -30,7 +30,7 @@
 #Egedesminde (816/204 POPS)
 2636 = {
 	farmers = {
-		culture = inuit
+		culture = icelandic
 		religion = protestant
 		size = 505
 	}

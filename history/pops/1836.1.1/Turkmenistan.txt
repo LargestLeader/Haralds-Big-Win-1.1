@@ -1,33 +1,33 @@
-#Khwarazm Region (40000) #see chaghatayistan.txt and Kazakhstan.txt for balance of region 
+#Khwarazm Region (40000) #see turkmenistan.txt and Kazakhstan.txt for balance of region 
 #under the rule of Khiva in 1836  
 #Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
 1196 = {
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 3500
 	}
 	
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 200
 	}
@@ -45,31 +45,31 @@
 	}
 	
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 1250
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 4825
 	}
@@ -134,25 +134,25 @@
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 25
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 1200
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 7750
 	}
@@ -190,13 +190,13 @@
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 200
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 100
 	}
@@ -205,31 +205,31 @@
 #Chardzhou (132000/33000 POPS)   
 1206 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 2025
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 12000
 	}
@@ -247,25 +247,25 @@
 	}
 	
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 400
 	}
 	
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 225
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1000
 	}
 	
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 8825
 	}
@@ -304,73 +304,73 @@
 	}
 	
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 180
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 4700
 	}
 	
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 850
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 5400
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 275
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 25425
 	}
 	
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 15
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 25
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 140
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 75
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = shiite
 		size = 9425
 	}

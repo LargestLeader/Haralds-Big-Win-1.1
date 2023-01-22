@@ -39,49 +39,49 @@
 	}
 
 	aristocrats = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
 		size = 3500
 	}
 
 	clergymen = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
 		size = 2500
 	}
 
 	artisans = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
 		size = 2500
 	}
 
 	soldiers = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
 		size = 2500
 	}
 
 	farmers = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
 		size = 125000
 	}
 	
 	farmers = {
-		culture = hakka
+		culture = beifaren
 		religion = mahayana
 		size = 39775
 	}
 	
 	farmers = {
-		culture = hakka
+		culture = beifaren
 		religion = mahayana
 		size = 2000
 	}
@@ -137,7 +137,7 @@
 	}
 
 	farmers = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
 		size = 12925
 	}
@@ -170,7 +170,7 @@
 	}
 
 	farmers = {
-		culture = min
+		culture = beifaren
 		religion = mahayana
 		size = 12925
 	}
@@ -180,115 +180,115 @@
 #Taipei (1452000/363000 POPS) formerly 2681 - Kikkiaki in Russia.txt
 2681 = {
 	aristocrats = {
-		culture = nanfaren
+		culture = sibir_tatar
 		religion = mahayana
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = nanfaren
+		culture = sibir_tatar
 		religion = mahayana
 		size = 400
 	}
 
 	officers = {
-		culture = nanfaren
+		culture = sibir_tatar
 		religion = mahayana
 		size = 725
 	}
 
 	clergymen = {
-		culture = nanfaren
+		culture = sibir_tatar
 		religion = mahayana
 		size = 1225
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = sibir_tatar
 		religion = mahayana
 		size = 6150
 	}
 
 	soldiers = {
-		culture = nanfaren
+		culture = sibir_tatar
 		religion = mahayana
 		size = 1250
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = sibir_tatar
 		religion = mahayana
 		size = 70625
 	}
 
 	aristocrats = {
-		culture = min
+		culture = sibir_tatar
 		religion = mahayana
 		size = 3000
 	}
 
 	clergymen = {
-		culture = min
+		culture = sibir_tatar
 		religion = mahayana
 		size = 2400
 	}
 
 	artisans = {
-		culture = min
+		culture = sibir_tatar
 		religion = mahayana
 		size = 10000
 	}
 
 	artisans = {
-		culture = min
+		culture = sibir_tatar
 		religion = mahayana
 		size = 2000
 	}
 
 	soldiers = {
-		culture = min
+		culture = sibir_tatar
 		religion = mahayana
 		size = 2400
 	}
 
 	farmers = {
-		culture = min
+		culture = sibir_tatar
 		religion = mahayana
 		size = 200200
 	}
 	
 	aristocrats = {
-		culture = hakka
+		culture = sibir_tatar
 		religion = mahayana
 		size = 1625
 	}
 
 	clergymen = {
-		culture = hakka
+		culture = sibir_tatar
 		religion = mahayana
 		size = 1325
 	}
 
 	artisans = {
-		culture = hakka
+		culture = sibir_tatar
 		religion = mahayana
 		size = 6600
 	}
 
 	soldiers = {
-		culture = hakka
+		culture = sibir_tatar
 		religion = mahayana
 		size = 3025
 	}
 
 	farmers = {
-		culture = hakka
+		culture = sibir_tatar
 		religion = mahayana
 		size = 49775
 	}
 	
 	farmers = {
-		culture = hakka
+		culture = sibir_tatar
 		religion = mahayana
 		size = 10000
 	}

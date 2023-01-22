@@ -866,85 +866,85 @@
 2590 = {
 
 	aristocrats = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 15
 	}
 
 	bureaucrats = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 15
 	}
 	
 	clergymen = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 60
 	}
 
 	artisans = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 450
 	}
 	
 	farmers = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 1200
 	}
 
 	clergymen = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 45
 	}
 
 	artisans = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 10
 	}
 
 	artisans = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = maghrebi
+		culture = sibir_tatar
 		religion = sunni
 		size = 400
 	}

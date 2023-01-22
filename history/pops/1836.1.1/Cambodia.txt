@@ -51,7 +51,7 @@
 	}
 	
 	farmers = {
-		culture = pear
+		culture = khmer
 		religion = theravada
 		size = 20000
 	}
@@ -111,7 +111,7 @@
 	}
 
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = mahayana
 		size = 2675
 	}
@@ -149,7 +149,7 @@
 	}
 	
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = theravada
 		size = 3000
 	}
@@ -197,13 +197,13 @@
 	}
 
 	farmers = {
-		culture = pear
+		culture = khmer
 		religion = mahayana
 		size = 15475
 	}
 
 	slaves = {
-		culture = pear
+		culture = khmer
 		religion = mahayana
 		size = 3000
 	}
@@ -241,31 +241,31 @@
 	}
 
 	aristocrats = {
-		culture = bahnar
+		culture = vietnamese
 		religion = mahayana
 		size = 50
 	}
 
 	clergymen = {
-		culture = bahnar
+		culture = vietnamese
 		religion = mahayana
 		size = 50
 	}
 
 	artisans = {
-		culture = bahnar
+		culture = vietnamese
 		religion = mahayana
 		size = 125
 	}
 
 	soldiers = {
-		culture = bahnar
+		culture = vietnamese
 		religion = mahayana
 		size = 725
 	}
 
 	farmers = {
-		culture = bahnar
+		culture = vietnamese
 		religion = mahayana
 		size =  10050
 	}
@@ -352,7 +352,7 @@
 	}
 	
 	farmers = {
-		culture = pear
+		culture = khmer
 		religion = theravada
 		size = 9425
 	}

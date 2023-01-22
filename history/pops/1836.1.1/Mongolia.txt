@@ -45,13 +45,13 @@
 	}
 	
 	soldiers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 2000
 	}
 
 	farmers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 18350
 	}
@@ -87,7 +87,7 @@
 	}
 	
 	slaves = {
-		culture = uighur
+		culture = oirat
 		religion = sunni
 		size = 6000
 	}
@@ -125,7 +125,7 @@
 	}
 	
 	slaves = {
-		culture = uighur
+		culture = oirat
 		religion = sunni
 		size = 5000
 	}
@@ -163,43 +163,43 @@
 	}
 	
 	soldiers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 1000
 	}
 
 	farmers = {
-		culture = buryat
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 8000
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 25
 	}
 
 	slaves = {
-		culture = yakut
+		culture = sibir_tatar
 		religion = animist
 		size = 3000
 	}
@@ -237,7 +237,7 @@
 	}
 	
 	slaves = {
-		culture = uighur
+		culture = oirat
 		religion = sunni
 		size = 2000
 	}
@@ -341,7 +341,7 @@
 	}
 	
 	farmers = {
-		culture = tuvan
+		culture = sibir_tatar
 		religion = gelugpa
 		size = 4125
 	}
@@ -429,7 +429,7 @@
 #Kyzyl (32000/8000 POPS)   
 1469 = {
 	aristocrats = {
-		culture = tuvan
+		culture = sibir_tatar
 		religion = animist
 		size = 150
 	}
@@ -441,31 +441,31 @@
 	}
 
 	clergymen = {
-		culture = tuvan
+		culture = sibir_tatar
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = tuvan
+		culture = sibir_tatar
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = tuvan
+		culture = sibir_tatar
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = tuvan
+		culture = sibir_tatar
 		religion = animist
 		size = 7300
 	}
 	
 	slaves = {
-		culture = tuvan
+		culture = sibir_tatar
 		religion = animist
 		size = 1000
 	}

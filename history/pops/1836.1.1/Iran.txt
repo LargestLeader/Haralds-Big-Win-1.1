@@ -2438,7 +2438,7 @@
 	}
 
 	slaves = {
-		culture = marathi
+		culture = telegu
 		religion = hindu
 		size = 500
 	}
@@ -3454,7 +3454,7 @@
 	}
 
 	slaves = {
-		culture = panjabi
+		culture = rajput
 		religion = sikh
 		size = 2000
 	}
@@ -5134,37 +5134,37 @@
 #Hormuz (2000/500 POPS)
 1071 = {
 	clergymen = {
-		culture = persian
+		culture = sibir_tatar
 		religion = sunni
 		size = 10
 	}
 
 	artisans = {
-		culture = persian
+		culture = sibir_tatar
 		religion = sunni
 		size = 25
 	}
 
 	soldiers = {
-		culture = persian
+		culture = sibir_tatar
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = persian
+		culture = sibir_tatar
 		religion = sunni
 		size = 625
 	}
 	
 	farmers = {
-		culture = bashkardi
+		culture = sibir_tatar
 		religion = sunni
 		size = 425
 	}
 	
 	farmers = {
-		culture = najdi_arabic
+		culture = sibir_tatar
 		religion = sunni
 		size = 225
 	}

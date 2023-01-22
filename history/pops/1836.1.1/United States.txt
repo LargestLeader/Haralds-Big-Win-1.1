@@ -4,19 +4,19 @@
 1 = {
 
 	aristocrats = {
-		culture = tlingit
+		culture = cree
 		religion = animist
 		size = 50
 	}
 	
 	aristocrats = {
-		culture = tlingit
+		culture = cree
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = tlingit
+		culture = cree
 		religion = animist
 		size = 9800
 	}
@@ -25,7 +25,7 @@
 2 = {
 
 	farmers = {
-		culture = tlingit
+		culture = cree
 		religion = animist
 		size = 4040
 	}
@@ -34,91 +34,91 @@
 3 = {
 
 	aristocrats = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 50
 	}
     
 	clergymen = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 23
 	}
 
 	soldiers = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 10050
 	}
 	
 	aristocrats = {
-		culture = maiduan
+		culture = cree
 		religion = animist
 		size = 850
 	}
 
 	clergymen = {
-		culture = maiduan
+		culture = cree
 		religion = animist
 		size = 650
 	}
 
 	artisans = {
-		culture = maiduan
+		culture = cree
 		religion = animist
 		size = 823
 	}
 
 	soldiers = {
-		culture = maiduan
+		culture = cree
 		religion = animist
 		size = 2025
 	}
 	
 	farmers = {
-		culture = maiduan
+		culture = cree
 		religion = animist
 		size = 40400
 	}
 	
 	aristocrats = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 123
 	}
 
 	soldiers = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 1025
 	}
 	
 	farmers = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 20400
 	}
@@ -127,19 +127,19 @@
 4 = {
 
 	farmers = {
-		culture = eyak
+		culture = cree
 		religion = animist
 		size = 1500
 	}
 	
 	farmers = {
-		culture = denaina
+		culture = cree
 		religion = animist
 		size = 1500
 	}
 	
 	farmers = {
-		culture = ahtna
+		culture = cree
 		religion = animist
 		size = 3000
 	}
@@ -148,7 +148,7 @@
 5 = {
 
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 1400
 	}
@@ -163,13 +163,13 @@
 2599 = {
 
 	farmers = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 500
 	}
 	
 	farmers = {
-		culture = koyukon
+		culture = cree
 		religion = animist
 		size = 800
 	}
@@ -178,7 +178,7 @@
 2630 = {
 
 	farmers = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 1200
 	}
@@ -187,13 +187,13 @@
 2631 = {
 	
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 1800
 	}
 
 	farmers = {
-		culture = koyukon
+		culture = cree
 		religion = animist
 		size = 1200
 	}
@@ -234,7 +234,7 @@
 	}
 	
 	farmers = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 10000
 	}
@@ -340,25 +340,25 @@
 	}
 	
 	aristocrats = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 100
 	}
 	
 	clergymen = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 275
 	}
 
 	soldiers = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 15900
 	}
@@ -1325,13 +1325,13 @@
 	}
 	
 	farmers = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 10900
 	}
 	
 	farmers = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 5950
 	}
@@ -2910,37 +2910,37 @@
 43 = {
 
 	clergymen = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 20
 	}
 	
 	aristocrats = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 800
 	}
 
 	farmers = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 12750
 	}
 
 	soldiers = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 2100
 	}
 
 	farmers = {
-		culture = commanche
+		culture = cree
 		religion = animist
 		size = 14000
 	}
@@ -10639,31 +10639,31 @@
 2662 = {
 
     aristocrats = {
-		culture = commanche
+		culture = sibir_tatar
 		religion = animist
 		size = 1150
 	}
     
 	clergymen = {
-		culture = commanche
+		culture = sibir_tatar
 		religion = animist
 		size = 1125
 	}
 
 	artisans = {
-		culture = commanche
+		culture = sibir_tatar
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = commanche
+		culture = sibir_tatar
 		religion = animist
 		size = 1025
 	}
 	
 	farmers = {
-		culture = commanche
+		culture = sibir_tatar
 		religion = animist
 		size = 118400
 	}

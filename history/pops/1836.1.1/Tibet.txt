@@ -45,25 +45,25 @@
 	}
 
 	clergymen = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 150
 	}
 
 	artisans = {
-		culture = kham
+		culture = u_tsang
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 150
 	}
 
 	farmers = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 21950
 	}
@@ -71,31 +71,31 @@
 #Chamdo (624000/156000 POPS)
 1588 = {
 	aristocrats = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 2750
 	}
 
 	clergymen = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 1450
 	}
 
 	artisans = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 2000
 	}
 
 	soldiers = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 1400
 	}
 
 	farmers = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 7740
 	}
@@ -213,7 +213,7 @@
 	}
 	
 	farmers = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 10000
 	}
@@ -327,43 +327,43 @@
 	}
 	
 	artisans = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 4600
 	}
 	
 	farmers = {
-		culture = kham
+		culture = u_tsang
 		religion = gelugpa
 		size = 7010
 	}
 
 	aristocrats = {
-		culture = kachin
+		culture = burmese
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = kachin
+		culture = burmese
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = kachin
+		culture = burmese
 		religion = animist
 		size = 1950
 	}
 
 	soldiers = {
-		culture = kachin
+		culture = burmese
 		religion = animist
 		size = 350
 	}
 
 	farmers = {
-		culture = kachin
+		culture = burmese
 		religion = animist
 		size = 3555
 	}

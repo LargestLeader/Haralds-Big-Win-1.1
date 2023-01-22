@@ -1,5 +1,5 @@
 capital = 1227
-primary_culture = panjabi
+primary_culture = rajput
 religion = sikh
 government = colonial_company
 plurality = 0.0

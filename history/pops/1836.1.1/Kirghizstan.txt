@@ -3,37 +3,37 @@
 #Bishkek (236000/59000 POPS) #now part of Kirghizstan   
 1189 = {
 	aristocrats = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 800
 	}
 
 	clergymen = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 425
 	}
 
 	artisans = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 7000
 	}
 
 	farmers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 20000
 	}
 	
 	farmers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = animist
 		size = 3775
 	}
@@ -101,67 +101,67 @@
 #Naryn (56000/14000 POPS) #now part of Kirghizstan    
 1190 = {
 	aristocrats = {
-		culture = uighur
+		culture = oirat
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = uighur
+		culture = oirat
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = uighur
+		culture = oirat
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = uighur
+		culture = oirat
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = uighur
+		culture = oirat
 		religion = sunni
 		size = 5775
 	}
 
 	aristocrats = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 3050
 	}
 
 	farmers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 7600
 	}
 	
 	farmers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = animist
 		size = 10000
 	}
@@ -172,85 +172,85 @@
 #Osh (112000/28000 POPS) #Now part of Kirghizstan   
 1203 = {
 	aristocrats = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = chaghatay
+		culture = turkmen
 		religion = sunni
 		size = 13200
 	}
 
 	aristocrats = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = qara_kirgiz
+		culture = kirgiz
 		religion = sunni
 		size = 5000
 	}
 	
 	aristocrats = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1350
 	}
 
 	soldiers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = persian
+		culture = turkmen
 		religion = sunni
 		size = 3550
 	}

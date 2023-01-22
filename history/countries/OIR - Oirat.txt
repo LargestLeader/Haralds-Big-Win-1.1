@@ -1,8 +1,8 @@
 capital = 1468
 primary_culture = oirat
 culture = mongol
-culture = buryat
-culture = ordos
+culture = sibir_tatar
+culture = manchu
 religion = gelugpa
 government = absolute_monarchy
 plurality = 0.0

@@ -2556,25 +2556,25 @@
 #Sondrio - former Amga (6000/1500 POPS)
 2669 = {
 	clergymen = {
-		culture = north_italian
+		culture = sibir_tatar
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = sibir_tatar
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = sibir_tatar
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = sibir_tatar
 		religion = catholic
 		size = 30000
 	}

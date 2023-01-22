@@ -148,103 +148,103 @@
 45 = {
 	
 	aristocrats = {
-		culture = maghrebi
+		culture = cree
 		religion = sunni
 		size = 100
 	}
 	
 	clergymen = {
-		culture = maghrebi
+		culture = cree
 		religion = sunni
 		size = 225
 	}
 
 	artisans = {
-		culture = maghrebi
+		culture = cree
 		religion = sunni
 		size = 6055
 	}
 	
 	farmers = {
-		culture = maghrebi
+		culture = cree
 		religion = sunni
 		size = 40500
 	}
 	
 	clergymen = {
-		culture = north_german
+		culture = cree
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = north_german
+		culture = cree
 		religion = protestant
 		size = 655
 	}
 	
 	farmers = {
-		culture = north_german
+		culture = cree
 		religion = protestant
 		size = 4500
 	}
 	
 	clergymen = {
-		culture = french
+		culture = cree
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = french
+		culture = cree
 		religion = catholic
 		size = 1055
 	}
 	
 	farmers = {
-		culture = french
+		culture = cree
 		religion = catholic
 		size = 10500
 	}
 	
 	clergymen = {
-		culture = taino
+		culture = cree
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = taino
+		culture = cree
 		religion = sunni
 		size = 655
 	}
 	
 	farmers = {
-		culture = taino
+		culture = cree
 		religion = sunni
 		size = 15200
 	}
 	
 	artisans = {
-		culture = kreol
+		culture = cree
 		religion = sunni
 		size = 550
 	}
 
 	farmers = {
-		culture = kreol
+		culture = cree
 		religion = sunni
 		size = 12000
 	}
 	
 	artisans = {
-		culture = macoris
+		culture = cree
 		religion = sunni
 		size = 355
 	}
 	
 	farmers = {
-		culture = macoris
+		culture = cree
 		religion = sunni
 		size = 6500
 	}

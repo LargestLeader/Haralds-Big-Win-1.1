@@ -1,5 +1,5 @@
 capital = 1292
-primary_culture = gujarati
+primary_culture = rajput
 religion = sunni
 government = colonial_company
 plurality = 0.0

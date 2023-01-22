@@ -1,45 +1,45 @@
 #Laos Region (700000) 
 #under the rule of Luang Prabang in 1836  
-#Luang Prabang (240000/60000 POPS) #miao = hmong/montagnard  
+#Luang Prabang (240000/60000 POPS) #miao = vietnamese/montagnard  
 1356 = {
 	aristocrats = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 800
 	}
 
 	bureaucrats = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 75
 	}
 
 	officers = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 300
 	}
 
 	artisans = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 1000
 	}
 
 	soldiers = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 700
 	}
 
 	farmers = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 13000
 	}
@@ -51,37 +51,37 @@
 	}
 
 	clergymen = {
-		culture = hmong
+		culture = vietnamese
 		religion = theravada
 		size = 125
 	}
 
 	artisans = {
-		culture = hmong
+		culture = vietnamese
 		religion = theravada
 		size = 1150
 	}
 
 	soldiers = {
-		culture = hmong
+		culture = vietnamese
 		religion = theravada
 		size = 400
 	}
 
 	farmers = {
-		culture = hmong
+		culture = vietnamese
 		religion = theravada
 		size = 11000
 	}
 	
 	farmers = {
-		culture = lue
+		culture = lao
 		religion = animist
 		size = 7000
 	}
 	
 	farmers = {
-		culture = tai
+		culture = vietnamese
 		religion = theravada
 		size = 6940
 	}
@@ -125,43 +125,43 @@
 #Vientiane (88000/22000 POPS)   
 1357 = {
 	aristocrats = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 250
 	}
 
 	clergymen = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 150
 	}
 
 	artisans = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 750
 	}
 
 	soldiers = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 150
 	}
 
 	farmers = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 5500
 	}
 	
 	farmers = {
-		culture = hmong
+		culture = vietnamese
 		religion = theravada
 		size = 4000
 	}
 	
 	farmers = {
-		culture = tai
+		culture = vietnamese
 		religion = theravada
 		size = 5200
 	}
@@ -235,31 +235,31 @@
 	}
 
 	aristocrats = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 100
 	}
 
 	clergymen = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 50
 	}
 
 	artisans = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 250
 	}
 
 	soldiers = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 50
 	}
 
 	farmers = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 9550
 	}
@@ -297,43 +297,43 @@
 	}
 	
 	farmers = {
-		culture = bahnar
+		culture = vietnamese
 		religion = theravada
 		size = 10096
 	}
 
 	aristocrats = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 325
 	}
 
 	clergymen = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 175
 	}
 
 	artisans = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 900
 	}
 
 	soldiers = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 175
 	}
 
 	farmers = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 12425
 	}
 
 	slaves = {
-		culture = katu
+		culture = lao
 		religion = theravada
 		size = 5000
 	}
@@ -372,7 +372,7 @@
 	}
 	
 	farmers = {
-		culture = lawa
+		culture = lavonic
 		religion = hindu
 		size = 1000
 	}
@@ -384,61 +384,61 @@
 	}
 	
 	farmers = {
-		culture = paulang_wa
+		culture = burmese
 		religion = animist
 		size = 1300
 	}
 	
 	farmers = {
-		culture = lue
+		culture = lao
 		religion = animist
 		size = 2000
 	}
     
 	farmers = {
-		culture = thai
+		culture = lavonic
 		religion = animist
 		size = 1000
 	}
 	
 	aristocrats = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 125
 	}
 
 	clergymen = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 75
 	}
 
 	artisans = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 350
 	}
 
 	soldiers = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 75
 	}
 
 	farmers = {
-		culture = khmu
+		culture = lao
 		religion = theravada
 		size = 3500
 	}
 	
 	farmers = {
-		culture = hmong
+		culture = vietnamese
 		religion = theravada
 		size = 500
 	}
 	
 	farmers = {
-		culture = tai
+		culture = vietnamese
 		religion = animist
 		size = 1375
 	}
@@ -476,19 +476,19 @@
 	}
 	
 	artisans = {
-		culture = bahnar
+		culture = vietnamese
 		religion = theravada
 		size = 750
 	}
 
 	soldiers = {
-		culture = bahnar
+		culture = vietnamese
 		religion = theravada
 		size = 125
 	}
 
 	farmers = {
-		culture = bahnar
+		culture = vietnamese
 		religion = theravada
 		size = 5700
 	}

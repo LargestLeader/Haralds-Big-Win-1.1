@@ -421,43 +421,43 @@
 #Khasab - Former Oyotuni/Chokurdakh
 2664 = {
 	aristocrats = {
-		culture = kumzari
+		culture = sibir_tatar
 		religion = shiite
 		size = 5
 	}
 
 	clergymen = {
-		culture = kumzari
+		culture = sibir_tatar
 		religion = shiite
 		size = 5
 	}
 
 	artisans = {
-		culture = kumzari
+		culture = sibir_tatar
 		religion = shiite
 		size = 10
 	}
 
 	soldiers = {
-		culture = kumzari
+		culture = sibir_tatar
 		religion = shiite
 		size = 100
 	}
 	
 	farmers = {
-		culture = persian
+		culture = sibir_tatar
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = kumzari
+		culture = sibir_tatar
 		religion = shiite
 		size = 530
 	}
 	
 	farmers = {
-		culture = najdi_arabic
+		culture = sibir_tatar
 		religion = sunni
 		size = 430
 	}
@@ -466,49 +466,49 @@
 #Gwadar - Ziryanka (1000/250 POPS)
 2640 = {
 	aristocrats = {
-		culture = persian
+		culture = sibir_tatar
 		religion = shiite
 		size = 5
 	}
 
 	clergymen = {
-		culture = persian
+		culture = sibir_tatar
 		religion = shiite
 		size = 25
 	}
 
 	artisans = {
-		culture = persian
+		culture = sibir_tatar
 		religion = shiite
 		size = 225
 	}
 
 	soldiers = {
-		culture = persian
+		culture = sibir_tatar
 		religion = shiite
 		size = 100
 	}
 
 	farmers = {
-		culture = persian
+		culture = sibir_tatar
 		religion = shiite
 		size = 100
 	}
 	
 	farmers = {
-		culture = baluchi
+		culture = sibir_tatar
 		religion = sunni
 		size = 600
 	}
 	
 	slaves = {
-		culture = forest_bantu
+		culture = sibir_tatar
 		religion = animist
 		size = 100
 	}
 	
 	farmers = {
-		culture = persian
+		culture = sibir_tatar
 		religion = shiite
 		size = 450
 	}

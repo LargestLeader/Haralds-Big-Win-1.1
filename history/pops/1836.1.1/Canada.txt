@@ -3,43 +3,43 @@
 #Whitehorse (4000/1000 POPS)
 6 = {
 	aristocrats = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 3000
 	}
 	
 	farmers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 500
 	}
 	
 	farmers = {
-		culture = kutchin_han
+		culture = cree
 		religion = animist
 		size = 100
 	}
@@ -47,37 +47,37 @@
 #Dawson (4000/1000 POPS)
 7 = {
 	aristocrats = {
-		culture = kutchin_han
+		culture = cree
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = kutchin_han
+		culture = cree
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = kutchin_han
+		culture = cree
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = kutchin_han
+		culture = cree
 		religion = animist
 		size = 30
 	}
 
 	farmers = {
-		culture = kutchin_han
+		culture = cree
 		religion = animist
 		size = 6500
 	}
 	
 	farmers = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 1500
 	}
@@ -85,37 +85,37 @@
 #Ross River (4000/1000 POPS)
 8 = {
 	aristocrats = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = tanana_tutchone
+		culture = cree
 		religion = animist
 		size = 1600
 	}
 	
 	farmers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 2000
 	}
@@ -155,13 +155,13 @@
 	}
 
 	soldiers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 30
 	}
 
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 2880
 	}
@@ -169,31 +169,31 @@
 #Inuvik (4000/1000 POPS)
 10 = {
 	aristocrats = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 3600
 	}
@@ -231,7 +231,7 @@
 	}
 
 	farmers = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 600
 	}
@@ -269,7 +269,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 1200
 	}
@@ -307,7 +307,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 2000
 	}
@@ -315,31 +315,31 @@
 #Fort Liard (1600/400 POPS)
 2598 = {
 	aristocrats = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 35
 	}
 
 	artisans = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 70
 	}
 
 	soldiers = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 4800
 	}
@@ -373,19 +373,19 @@
 	}
 	
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = catholic
 		size = 500
 	}
 	
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 3000
 	}
@@ -426,37 +426,37 @@
 	}
 	
 	clergymen = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 310
 	}
 
 	artisans = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 2010
 	}
 	
 	farmers = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 38460
 	}
 	
 	clergymen = {
-		culture = ntlakapmuk
+		culture = cree
 		religion = animist
 		size = 80
 	}
 
 	artisans = {
-		culture = ntlakapmuk
+		culture = cree
 		religion = animist
 		size = 10
 	}
 	
 	farmers = {
-		culture = ntlakapmuk
+		culture = cree
 		religion = animist
 		size = 4460
 	}
@@ -465,49 +465,49 @@
 #Vancouver Island (8000/2000 POPS)
 14 = {
 	clergymen = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 310
 	}
 
 	artisans = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 310
 	}
 
 	soldiers = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 510
 	}
 
 	farmers = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 18130
 	}
 	
 	clergymen = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 210
 	}
 
 	artisans = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 210
 	}
 
 	soldiers = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 510
 	}
 
 	farmers = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 11130
 	}
@@ -515,61 +515,61 @@
 #Prince Rupert (8000/2000 POPS)
 15 = {
 	clergymen = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 3
 	}
 
 	soldiers = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 3
 	}
 
 	farmers = {
-		culture = wakashan
+		culture = cree
 		religion = animist
 		size = 8115
 	}  
 	
 	farmers = {
-		culture = lillooet
+		culture = cree
 		religion = animist
 		size = 7115
 	}  
 	
 	farmers = {
-		culture = dakelh_witsuwiten
+		culture = cree
 		religion = animist
 		size = 1115
 	}
 	
 	farmers = {
-		culture = chilcotin_nicola
+		culture = cree
 		religion = animist
 		size = 6115
 	}
 	
 	farmers = {
-		culture = nuxalk
+		culture = cree
 		religion = animist
 		size = 7115
 	}
 	
 	farmers = {
-		culture = tsimshian
+		culture = cree
 		religion = animist
 		size = 7115
 	}
 	
 	farmers = {
-		culture = halkomelem
+		culture = cree
 		religion = animist
 		size = 1115
 	}
@@ -578,49 +578,49 @@
 16 = {
 
 	clergymen = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 31
 	}
 
 	artisans = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 13
 	}
 
 	soldiers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 13
 	}
 	
 	farmers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 4010
 	}
 	
 	clergymen = {
-		culture = dakelh_witsuwiten
+		culture = cree
 		religion = animist
 		size = 31
 	}
 
 	artisans = {
-		culture = dakelh_witsuwiten
+		culture = cree
 		religion = animist
 		size = 13
 	}
 
 	soldiers = {
-		culture = dakelh_witsuwiten
+		culture = cree
 		religion = animist
 		size = 13
 	}
 
 	farmers = {
-		culture = dakelh_witsuwiten
+		culture = cree
 		religion = animist
 		size = 10990
 	}
@@ -628,25 +628,25 @@
 #Atlin (4000/1000 POPS)
 17 = {
 	clergymen = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 3
 	}
 
 	artisans = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 3
 	}
 
 	soldiers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 3
 	}
 	
 	farmers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 4010
 	}
@@ -658,7 +658,7 @@
 	}
 
 	farmers = {
-		culture = tlingit
+		culture = cree
 		religion = animist
 		size = 500
 	}
@@ -666,31 +666,31 @@
 #Fort St John (2400/600 POPS)
 18 = {
 	aristocrats = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 30
 	}
 
 	soldiers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 2020
 	}
@@ -698,31 +698,31 @@
 #Prince George (8000/2000 POPS)
 19 = {
 	clergymen = {
-		culture = shuswap
+		culture = cree
 		religion = animist
 		size = 55
 	}
 
 	artisans = {
-		culture = shuswap
+		culture = cree
 		religion = animist
 		size = 55
 	}
 
 	soldiers = {
-		culture = shuswap
+		culture = cree
 		religion = animist
 		size = 55
 	}
 	
 	farmers = {
-		culture = shuswap
+		culture = cree
 		religion = animist
 		size = 18015
 	}
 
 	farmers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 1950
 	}
@@ -730,73 +730,73 @@
 #Kelowna (8000/2000 POPS)
 20 = {
 	clergymen = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 35
 	}
 
 	artisans = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 205
 	}
 
 	farmers = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 4950
 	}
 	
 	clergymen = {
-		culture = chilcotin_nicola
+		culture = cree
 		religion = animist
 		size = 35
 	}
 
 	artisans = {
-		culture = chilcotin_nicola
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = chilcotin_nicola
+		culture = cree
 		religion = animist
 		size = 205
 	}
 
 	farmers = {
-		culture = chilcotin_nicola
+		culture = cree
 		religion = animist
 		size = 8950
 	}
 	
 	clergymen = {
-		culture = ntlakapmuk
+		culture = cree
 		religion = animist
 		size = 35
 	}
 
 	artisans = {
-		culture = ntlakapmuk
+		culture = cree
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = ntlakapmuk
+		culture = cree
 		religion = animist
 		size = 205
 	}
 
 	farmers = {
-		culture = ntlakapmuk
+		culture = cree
 		religion = animist
 		size = 8950
 	}
@@ -805,37 +805,37 @@
 21 = {
 
 	clergymen = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 15
 	}
 
 	soldiers = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 115
 	}
 	
 	farmers = {
-		culture = nsilxcin
+		culture = cree
 		religion = animist
 		size = 1115
 	}
 	
 	clergymen = {
-		culture = ktunaxa
+		culture = cree
 		religion = animist
 		size = 65
 	}
 
 	soldiers = {
-		culture = ktunaxa
+		culture = cree
 		religion = animist
 		size = 905
 	}
 
 	farmers = {
-		culture = ktunaxa
+		culture = cree
 		religion = animist
 		size = 11950
 	}
@@ -844,37 +844,37 @@
 #Fort Nelson (1600/400 POPS)
 2629 = {
 	aristocrats = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 20
 	}
 
 	soldiers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 1200
 	}
 	
 	farmers = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 200
 	}
@@ -908,25 +908,25 @@
 	}
 	
 	clergymen = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 15
 	}
 
 	soldiers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 605
 	}
 	
 	farmers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 3000
 	}
@@ -997,31 +997,31 @@
 24 = {
 
 	aristocrats = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 225
 	}
 
 	soldiers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 1005
 	}
 	
 	farmers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 7445
 	}
 
 	farmers = {
-		culture = arapahoan
+		culture = dakota
 		religion = animist
 		size = 2615
 	}
@@ -1029,31 +1029,31 @@
 #Banff (4000/1000 POPS)
 25 = {
 	farmers = {
-		culture = tsuutina
+		culture = dakota
 		religion = animist
 		size = 1500
 	}
 	
 	clergymen = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 55
 	}
 
 	artisans = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 55
 	}
 
 	soldiers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 1005
 	}
 
 	farmers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 6700
 	}
@@ -1062,43 +1062,43 @@
 26 = {
 
 	clergymen = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 705
 	}
 	
 	farmers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 3015
 	}
 	
 	clergymen = {
-		culture = tsuutina
+		culture = dakota
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = tsuutina
+		culture = dakota
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = tsuutina
+		culture = dakota
 		religion = animist
 		size = 5
 	}
@@ -1136,49 +1136,49 @@
 #Edmonton - Denwood (8000/2000 POPS)
 27 = {  
 	aristocrats = {
-		culture = sahaptian
+		culture = dakota
 		religion = animist
 		size = 4005
 	}
 	
 	clergymen = {
-		culture = sahaptian
+		culture = dakota
 		religion = animist
 		size = 2005
 	}
 
 	artisans = {
-		culture = sahaptian
+		culture = dakota
 		religion = animist
 		size = 3005
 	}
 	
 	officers = {
-		culture = sahaptian
+		culture = dakota
 		religion = animist
 		size = 55
 	}
 
 	soldiers = {
-		culture = sahaptian
+		culture = dakota
 		religion = animist
 		size = 3005
 	}
 	
 	farmers = {
-		culture = sahaptian
+		culture = dakota
 		religion = animist
 		size = 65015
 	}
 
 	farmers = {
-		culture = chinook
+		culture = dakota
 		religion = animist
 		size = 14000
 	}
 
 	farmers = {
-		culture = molola
+		culture = dakota
 		religion = animist
 		size = 7185
 	}
@@ -1211,49 +1211,49 @@
 	}
 	
 	clergymen = {
-		culture = tsuutina
+		culture = dakota
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = tsuutina
+		culture = dakota
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = tsuutina
+		culture = dakota
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = tsuutina
+		culture = dakota
 		religion = animist
 		size = 3000
 	}
 	
 	clergymen = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 665
 	}
@@ -1292,13 +1292,13 @@
 	}
 	
 	farmers = {
-		culture = cordillera
+		culture = cree
 		religion = animist
 		size = 800
 	}
 	
 	farmers = {
-		culture = slavey
+		culture = cree
 		religion = animist
 		size = 600
 	}
@@ -1502,25 +1502,25 @@
 35 = {
 
 	aristocrats = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 25
 	}
 	
 	farmers = {
-		culture = siksika
+		culture = dakota
 		religion = animist
 		size = 4500
 	}
@@ -2436,7 +2436,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 4600
 	}
@@ -2444,31 +2444,31 @@
 #Port Harrison (2400/600 POPS)
 2626 = {
 	aristocrats = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 40
 	}
 
 	soldiers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 2400
 	}
@@ -2537,7 +2537,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 760
 	}
@@ -3482,7 +3482,7 @@
 	}
 	
 	farmers = {
-		culture = inuit
+		culture = cree
 		religion = animist
 		size = 1800
 	}
