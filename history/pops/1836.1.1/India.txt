@@ -16,49 +16,49 @@
 	}
 
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1200
 	}
 
 	bureaucrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1200
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1000
 	}
 	
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 2500
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 58250
 	}
@@ -138,19 +138,19 @@
 #Quetta (124000/31000 POPS)
 1219 = {
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 325
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3000
 	}
@@ -162,7 +162,7 @@
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3000
 	}
@@ -180,7 +180,7 @@
 	}
 	
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 6000
 	}
@@ -263,31 +263,31 @@
 	}
 	
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 5
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 5
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 10
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 10
 	}
 	
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 100
 	}

@@ -1,6 +1,6 @@
 #Bayrut Region (52000)  #see Lebanon.txt for balance of region
 #under the rule of Egypt in 1836
-#Acre (52000/13000 POPS) #now part of Israel-Palestine  mashriqi-animist = druze 
+#Acre (52000/13000 POPS) #now part of Israel-Palestine  levantine-animist = druze 
 916 = {
 	aristocrats = {
 		culture = levantine
@@ -33,19 +33,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 25
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 100
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 1875
 	}
@@ -87,19 +87,19 @@
 	}
 	
 	clergymen = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 25
 	}
 
 	artisans = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 50
 	}
 
 	farmers = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 925
 	}
@@ -169,19 +169,19 @@
 	}
 	
 	clergymen = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 50
 	}
 
 	artisans = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 875
 	}
 
 	farmers = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 1175
 	}
@@ -305,19 +305,19 @@
 	}
 
 	clergymen = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 25
 	}
 
 	artisans = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 300
 	}
 
 	farmers = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 1675
 	}
@@ -325,43 +325,43 @@
 #Gaza (44000/11000 POPS) - now Al-Raqqa
 920 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 1250
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 11400
 	}
 	
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 3125
 	}
 
 	farmers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 1400
 	}
@@ -427,37 +427,37 @@
 	}
 	
 	clergymen = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 20
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 50
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 350
 	}
 	
 	clergymen = {
-		culture = mashriqi
+		culture = levantine
 		religion = orthodox
 		size = 30
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = levantine
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = levantine
 		religion = orthodox
 		size = 1000
 	}
@@ -465,31 +465,31 @@
 #Beersheba (36000/9000 POPS)
 921 = {
 	aristocrats = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 6425
 	}

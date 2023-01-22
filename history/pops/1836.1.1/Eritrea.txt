@@ -125,7 +125,7 @@
 	}
 	
 	farmers = {
-		culture = yemeni_arabic
+		culture = najdi_arabic
 		religion = sunni
 		size = 1375
 	}

@@ -2605,19 +2605,19 @@
 	}
 	
 	clergymen = {
-		culture = laz
+		culture = georgian
 		religion = shiite
 		size = 150
 	}
 
 	artisans = {
-		culture = laz
+		culture = georgian
 		religion = shiite
 		size = 50
 	}
 	
 	farmers = {
-		culture = laz
+		culture = georgian
 		religion = shiite
 		size = 19025
 	}
@@ -4527,31 +4527,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 1700
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 375
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 28150
 	}

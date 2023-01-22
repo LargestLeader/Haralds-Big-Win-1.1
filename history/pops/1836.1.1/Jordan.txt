@@ -63,19 +63,19 @@
 	}
 	
 	clergymen = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 20
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 30
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 200
 	}
@@ -155,55 +155,55 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 15
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 35
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 825
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 810
 	}
 	
 	clergymen = {
-		culture = bedouin
+		culture = levantine
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = levantine
 		religion = orthodox
 		size = 100
 	}
 	
 	soldiers = {
-		culture = bedouin
+		culture = levantine
 		religion = sunni
 		size = 225
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = levantine
 		religion = orthodox
 		size = 300
 	}
@@ -213,31 +213,31 @@
 #Azraq (12000/3000 POPS) #now part of Jordan 
 910 = {
 	aristocrats = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 5
 	}
 
 	clergymen = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 5
 	}
 
 	artisans = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 25
 	}
 
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 960
 	}
@@ -245,73 +245,73 @@
 #Sakaka (28000/7000 POPS) #now part of Ha'il
 911 = {
 	aristocrats = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 3025
 	}
 
 	farmers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 19750
 	}
 
 	aristocrats = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = shiite
 		size = 15
 	}
 
 	clergymen = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = shiite
 		size = 5
 	}
 
 	artisans = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = shiite
 		size = 20
 	}
 
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = shiite
 		size = 550
 	}
 
 	farmers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = shiite
 		size = 375
 	}
 
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = coptic
 		size = 150
 	}
 
 	farmers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = coptic
 		size = 175
 	}
@@ -321,43 +321,43 @@
 #Aqaba (20000/5000 POPS) #now part of Ha'il 
 922 = {
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = shiite
 		size = 100
 	}
 
 	aristocrats = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 1025
 	}
 
 	farmers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 2775
 	}

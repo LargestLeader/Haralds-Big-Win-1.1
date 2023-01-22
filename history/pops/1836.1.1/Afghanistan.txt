@@ -3,61 +3,61 @@
 #Kabul (996000/249000 POPS)
 1209 = {
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1050
 	}
 
 	bureaucrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 625
 	}
 
 	officers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 425
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1075
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3400
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 40025
 	}
@@ -248,31 +248,31 @@
 	}
 
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 88
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1162
 	}
@@ -316,25 +316,25 @@
 	}
 
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 238
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 8000
 	}
@@ -430,7 +430,7 @@
 	}
 
 	slaves = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 6500
 	}
@@ -439,31 +439,31 @@
 #Bamyan (412000/103000 POPS)
 1213 = {
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 325
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 850
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 4650
 	}
@@ -567,37 +567,37 @@
 	}
 
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 30
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 9500
 	}
 	
 	slaves = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 2000
 	}
@@ -611,31 +611,31 @@
 #Kandahar (368000/92000 POPS)
 1215 = {
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 538
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 3050
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 5000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 35000
 	}
@@ -679,31 +679,31 @@
 #Jalalabad (268000/67000 POPS)
 1216 = {
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 1300
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 2800
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 2500
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 21000
 	}
@@ -778,31 +778,31 @@
 #Ghazni (324000/81000 POPS)
 1217 = {
 	aristocrats = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 800
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 2500
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 30000
 	}
@@ -979,19 +979,19 @@
 #Kunduz
 2591 = {
 	artisans = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 412
 	}
@@ -1069,7 +1069,7 @@
 	}
 
 	slaves = {
-		culture = pashtun
+		culture = baluchi
 		religion = sunni
 		size = 2000
 	}

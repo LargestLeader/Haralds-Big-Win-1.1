@@ -860,7 +860,7 @@
 	}
 
 	slaves = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 4550
 	}
@@ -4351,7 +4351,7 @@
 	}
 
 	slaves = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 1100
 	}
@@ -4632,7 +4632,7 @@
 	}
 
 	slaves = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 4325
 	}
@@ -4855,31 +4855,31 @@
 #Qoban (136000/34000 POPS)
 1048 = {
 	aristocrats = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 30
 	}
 
 	artisans = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 90
 	}
 
 	soldiers = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 325
 	}
 
 	farmers = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 6125
 	}
@@ -4890,25 +4890,25 @@
 #Shapsug (60000/15000 POPS)
 1049 = {
 	clergymen = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 25  
 	}
 
 	artisans = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 20 
 	}
 
 	soldiers = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 875  
 	}
@@ -4997,97 +4997,97 @@
 #Nalchik (188000/47000 POPS)
 1050 = {
 	aristocrats = {
-		culture = kabardian
+		culture = circassian
 		religion = orthodox
 		size = 50
 	}
 	
 	officers = {
-		culture = kabardian
+		culture = circassian
 		religion = orthodox
 		size = 10
 	}
 
 	clergymen = {
-		culture = kabardian
+		culture = circassian
 		religion = orthodox
 		size = 55
 	}
 
 	artisans = {
-		culture = kabardian
+		culture = circassian
 		religion = orthodox
 		size = 150
 	}
 	
 	soldiers = {
-		culture = kabardian
+		culture = circassian
 		religion = orthodox
 		size = 600
 	}
 	
 	farmers = {
-		culture = kabardian
+		culture = circassian
 		religion = orthodox
 		size = 1050
 	}
 	
 	aristocrats = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 30
 	}
 	
 	officers = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 5
 	}
 
 	clergymen = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 50
 	}
 	
 	soldiers = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 40
 	}
 	
 	farmers = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 650
 	}
 	
 	aristocrats = {
-		culture = kabardian
+		culture = circassian
 		religion = animist
 		size = 170
 	}
 
 	officers = {
-		culture = kabardian
+		culture = circassian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = kabardian
+		culture = circassian
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = kabardian
+		culture = circassian
 		religion = animist
 		size = 650
 	}
@@ -5105,43 +5105,43 @@
 	}
 
 	soldiers = {
-		culture = kabardian
+		culture = circassian
 		religion = animist
 		size = 1150
 	}
 
 	farmers = {
-		culture = kabardian
+		culture = circassian
 		religion = animist
 		size = 23775
 	}
 
 	aristocrats = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 15
 	}
 
 	clergymen = {
-		culture = scythian
+		culture = circassian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = scythian
+		culture = circassian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = scythian
+		culture = circassian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = scythian
+		culture = circassian
 		religion = animist
 		size = 900
 	}
@@ -5230,19 +5230,19 @@
 	}
 	
 	artisans = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 10
 	}
 
 	soldiers = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = nogay_tatar
+		culture = circassian
 		religion = sunni
 		size = 6175
 	}
@@ -5328,37 +5328,37 @@
 	}
 
 	aristocrats = {
-		culture = tat
+		culture = azeri
 		religion = sunni
 		size = 900
 	}
 
 	officers = {
-		culture = tat
+		culture = azeri
 		religion = sunni
 		size = 150
 	}
 	
 	clergymen = {
-		culture = tat
+		culture = azeri
 		religion = sunni
 		size = 1100
 	}
 
 	artisans = {
-		culture = tat
+		culture = azeri
 		religion = sunni
 		size = 2300
 	}
 
 	soldiers = {
-		culture = tat
+		culture = azeri
 		religion = sunni
 		size = 3500
 	}
 	
 	farmers = {
-		culture = tat
+		culture = azeri
 		religion = sunni
 		size = 10000
 	}
@@ -5402,31 +5402,31 @@
 #Gunib (164000/41000 POPS)
 1053 = {	
 	aristocrats = {
-		culture = avar
+		culture = circassian
 		religion = sunni
 		size = 30
 	}
 
 	clergymen = {
-		culture = avar
+		culture = circassian
 		religion = sunni
 		size = 30
 	}
 
 	artisans = {
-		culture = avar
+		culture = circassian
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = avar
+		culture = circassian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = avar
+		culture = circassian
 		religion = sunni
 		size = 8000
 	}
@@ -5444,25 +5444,25 @@
 	}
 
 	clergymen = {
-		culture = avar
+		culture = circassian
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = avar
+		culture = circassian
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = avar
+		culture = circassian
 		religion = animist
 		size = 3350
 	}
 
 	farmers = {
-		culture = avar
+		culture = circassian
 		religion = animist
 		size = 23200
 	}
@@ -5521,31 +5521,31 @@
 	}
 
 	aristocrats = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 200
 	}
 
 	clergymen = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 400
 	}
 
 	artisans = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 400
 	}
 
 	soldiers = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 2000
 	}
 
 	farmers = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 25000
 	}
@@ -5565,55 +5565,55 @@
 #Grozny (68000/17000 POPS)
 1055 = {
 	aristocrats = {
-		culture = chechen
+		culture = circassian
 		religion = sunni
 		size = 325
 	}
 
 	clergymen = {
-		culture = chechen
+		culture = circassian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = chechen
+		culture = circassian
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = chechen
+		culture = circassian
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = chechen
+		culture = circassian
 		religion = sunni
 		size = 20000
 	}
 	
 	clergymen = {
-		culture = chechen
+		culture = circassian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = chechen
+		culture = circassian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = chechen
+		culture = circassian
 		religion = animist
 		size = 7000
 	}
 
 	farmers = {
-		culture = chechen
+		culture = circassian
 		religion = animist
 		size = 87000
 	}
@@ -5635,55 +5635,55 @@
 #Pyatigorsk (136000/34000 POPS)
 1056 = {
 	aristocrats = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 375
 	}
 
 	clergymen = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 550
 	}
 
 	officers = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 700
 	}
 
 	soldiers = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 6350
 	}
 
 	farmers = {
-		culture = scythian
+		culture = circassian
 		religion = orthodox
 		size = 18875
 	}
 	
 	aristocrats = {
-		culture = scythian
+		culture = circassian
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = scythian
+		culture = circassian
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = scythian
+		culture = circassian
 		religion = sunni
 		size = 10
 	}
@@ -5725,31 +5725,31 @@
 	}
 	
 	soldiers = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 1000
 	}
 	
 	clergymen = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = kabardian
+		culture = circassian
 		religion = sunni
 		size = 100
 	}
 	
 	soldiers = {
-		culture = kabardian
+		culture = circassian
 		religion = animist
 		size = 3000
 	}
 	
 	farmers = {
-		culture = kabardian
+		culture = circassian
 		religion = animist
 		size = 5875
 	}

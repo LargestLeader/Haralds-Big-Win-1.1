@@ -148,19 +148,19 @@
 	}
 
 	clergymen = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 100
 	}
 
 	artisans = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 3300
 	}
 	
 	farmers = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 700
 	}
@@ -242,25 +242,25 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 800
 	}
 	
 	farmers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 2500
 	}
@@ -272,19 +272,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 100
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 550
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 4350
 	}
@@ -366,19 +366,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 1000
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 4325
 	}
@@ -402,13 +402,13 @@
 	}
 
 	clergymen = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 50
 	}
 
 	artisans = {
-		culture = judeo_arabic
+		culture = levantine
 		religion = jewish
 		size = 1950
 	}
@@ -483,19 +483,19 @@
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 25
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 100
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 2000
 	}
@@ -521,73 +521,73 @@
 #Hama (108000/27000 POPS)
 904 = {
 	aristocrats = {
-		culture = sorani
+		culture = levantine
 		religion = yazidi
 		size = 100
 	}
 
 	clergymen = {
-		culture = sorani
+		culture = levantine
 		religion = yazidi
 		size = 20
 	}
 
 	artisans = {
-		culture = sorani
+		culture = levantine
 		religion = yazidi
 		size = 100
 	}
 
 	soldiers = {
-		culture = sorani
+		culture = levantine
 		religion = yazidi
 		size = 1075
 	}
 
 	farmers = {
-		culture = sorani
+		culture = levantine
 		religion = yazidi
 		size = 7075
 	}
 
 	clergymen = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 50
 	}
 
 	artisans = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 150
 	}
 
 	farmers = {
-		culture = assyrian
+		culture = levantine
 		religion = coptic
 		size = 5175
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 100
 	}
 	
 	soldiers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 2475
 	}
@@ -753,7 +753,7 @@
 	}
 	
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 1100
 	}
@@ -805,37 +805,37 @@
 	}
 	
 	farmers = {
-		culture = mashriqi
+		culture = levantine
 		religion = sunni
 		size = 970
 	}
 
 	aristocrats = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = najdi_arabic
+		culture = levantine
 		religion = sunni
 		size = 7475
 	}
