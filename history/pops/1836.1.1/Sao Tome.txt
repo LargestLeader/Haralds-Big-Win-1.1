@@ -1,71 +1,64 @@
 #Sao Tome e Principe (16000)
-#Under Portuguese Rule 1836
+#Under Finnish Rule 1836
 #Sao Tome (16000/4000 POPS)
 1954 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 20
-	}
+    aristocrats = {
+        culture = finnish
+        religion = protestant
+        size = 30
+    }
 
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 5
-	}
+    clergymen = {
+        culture = finnish
+        religion = protestant
+        size = 7
+    }
 
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 5
-	}
+    bureaucrats = {
+        culture = finnish
+        religion = protestant
+        size = 7
+    }
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 5
-	}
+    artisans = {
+        culture = finnish
+        religion = protestant
+        size = 7
+    }
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 5
-	}
-	
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 500
-	}
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 7
+    }
 
-	clergymen = {
-		culture = kreol
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = hausa
+        religion = protestant
+        size = 50
+    }
 
-	artisans = {
-		culture = kreol
-		religion = protestant
-		size = 200
-	}
+    artisans = {
+        culture = hausa
+        religion = protestant
+        size = 200
+    }
 
-	soldiers = {
-		culture = kreol
-		religion = protestant
-		size = 100
-	}
+    soldiers = {
+        culture = hausa
+        religion = protestant
+        size = 100
+    }
 
-	farmers = {
-		culture = kreol
-		religion = protestant
-		size = 2550
-	}
+    farmers = {
+        culture = hausa
+        religion = protestant
+        size = 550
+    }
 
-	slaves = {
-		culture = fang
-		religion = animist
-		size = 950
-	}
-
+    slaves = {
+        culture = hausa
+        religion = protestant
+        size = 3450
+    }
 }

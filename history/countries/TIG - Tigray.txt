@@ -1,8 +1,5 @@
 capital = 1857
-primary_culture = tigray
-culture = amhara
-culture = cushitic
-culture = nilotic
+primary_culture = amhara
 religion = coptic
 government = absolute_monarchy
 plurality = 0.0

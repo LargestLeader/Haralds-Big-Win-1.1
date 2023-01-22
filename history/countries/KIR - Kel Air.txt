@@ -1,6 +1,5 @@
 capital = 1742
 primary_culture = tuareg
-culture = chadic_arabic
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

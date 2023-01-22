@@ -3,63 +3,135 @@
 #Luanda (164000/41000 POPS)
 1999 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = portuguese
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 500
+		culture = portuguese
+		religion = catholic
+		size = 550
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 100
+		culture = portuguese
+		religion = catholic
+		size = 50
 	}
 
 	aristocrats = {
-		culture = kimbundu
+		culture = bakongo
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = bakongo
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bakongo
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = bakongo
+		religion = catholic
+		size = 11550
+	}
+
+	aristocrats = {
+		culture = bakongo
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
-		size = 100
+		size = 550
 	}
 
 	soldiers = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
-		size = 4600
+		size = 5200
 	}
 
 	slaves = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
-		size = 2000
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 7600
+	}
+
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 3000
 	}
 }
 #uncolonized in 1836
@@ -67,31 +139,31 @@
 2001 = {
 	aristocrats = {
 		culture = bakongo
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = sunni
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = bakongo
-		religion = sunni
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
 		culture = bakongo
-		religion = sunni
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = bakongo
-		religion = sunni
+		religion = catholic
 		size = 7350
 	}
 
@@ -122,13 +194,7 @@
 	farmers = {
 		culture = bakongo
 		religion = animist
-		size = 18950
-	}
-	
-	farmers = {
-		culture = holu
-		religion = animist
-		size = 4000
+		size = 12450
 	}
 
 	slaves = {
@@ -138,37 +204,37 @@
 	}
 
 	aristocrats = {
-		culture = yaka
-		religion = animist
-		size = 20
-	}
-
-	clergymen = {
-		culture = yaka
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 200
 	}
 
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 700
+	}
+
 	soldiers = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
-		size = 3250
+		size = 13250
 	}
 
 	slaves = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 3500
 	}
@@ -176,37 +242,37 @@
 #Quibala (120000/30000 POPS)
 2002 = {
 	aristocrats = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
-		size = 2300
+		size = 300
 	}
 
 	farmers = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
-		size = 59950
+		size = 21950
 	}
 
 	slaves = {
-		culture = kimbundu
+		culture = bakongo
 		religion = animist
 		size = 6000
 	}
@@ -249,7 +315,7 @@
 	slaves = {
 		culture = bakongo
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 
 	aristocrats = {
@@ -285,103 +351,129 @@
 }
 
 #Angola - Mbundu (440000)
-#Uncolonized in 1836
+#Brand new Norwegian colony in 1836
 #Benguela (116000/29000 POPS)
 2003 = {
+
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 30
+		culture = norwegian
+		religion = protestant
+		size = 5
+	}
+	
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant
+		size = 10
 	}
 	
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 30
+		culture = norwegian
+		religion = protestant
+		size = 50
 	}
-
-	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 500
-	}
-
+	
 	farmers = {
-		culture = maghrebi
-		religion = sunni
+		culture = norwegian
+		religion = protestant
 		size = 100
+	}
+	
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 300
 	}
 
 	clergymen = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
-		size = 30
+		size = 300
 	}
 
 	artisans = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
-		size = 50
+		size = 1500
 	}
 
 	soldiers = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
-		size = 330
+		size = 300
 	}
 
 	farmers = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
-		size = 4000
+		size = 20800
 	}
 
 	slaves = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 5800
 	}
 }
 #Mocamedes (116000/29000 POPS)
 2004 = {
+
 	aristocrats = {
-		culture = ovimbundu
+		culture = norwegian
+		religion = protestant
+		size = 5
+	}
+	
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant
+		size = 10
+	}
+	
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 50
+	}
+	
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 100
+	}
+	
+	aristocrats = {
+		culture = bakongo
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 600
 	}
 
 	artisans = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 21250
 	}
-	
-	farmers = {
-		culture = herero
-		religion = animist
-		size = 1250
-	}
 
 	slaves = {
-		culture = kxa_khoi
+		culture = bakongo
 		religion = animist
 		size = 5800
 	}
@@ -389,39 +481,39 @@
 #Huambo (208000/52000 POPS)
 2005 = {
 	aristocrats = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 600
 	}
 
 	clergymen = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 2600
 	}
 
 	soldiers = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
-		size = 6600
+		size = 600
 	}
 
 	farmers = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
-		size = 50650
+		size = 36650
 	}
 
 	slaves = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 
 }
@@ -430,43 +522,37 @@
 #Kuito (148000/37000 POPS)
 2006 = {
 	aristocrats = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 1800
 	}
 
 	soldiers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
-		size = 1400
+		size = 400
 	}
 
 	farmers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
-		size = 25000
-	}
-	
-	farmers = {
-		culture = ovimbundu
-		religion = animist
-		size = 700
+		size = 26700
 	}
 
 	slaves = {
-		culture = ovimbundu
+		culture = bakongo
 		religion = animist
 		size = 7500
 	}
@@ -474,79 +560,73 @@
 #Mavinga (80000/20000 POPS)
 2007 = {
 	aristocrats = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 2400
 	}
 
 	slaves = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 1350
 	}
 
 	aristocrats = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 175
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
-		size = 10000
-	}
-	
-	farmers = {
-		culture = khoisan
-		religion = animist
-		size = 1450
+		size = 11450
 	}
 
 	slaves = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 3200
 	}
@@ -554,73 +634,73 @@
 #Ondjiva (36000/9000 POPS)
 2008 = {
 	aristocrats = {
-		culture = ovambo
+		culture = bakongo
 		religion = animist
 		size = 30
 	}
 
 	clergymen = {
-		culture = ovambo
+		culture = bakongo
 		religion = animist
 		size = 60
 	}
 
 	artisans = {
-		culture = ovambo
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = ovambo
+		culture = bakongo
 		religion = animist
 		size = 30
 	}
 
 	farmers = {
-		culture = ovambo
+		culture = bakongo
 		religion = animist
-		size = 4205
+		size = 2205
 	}
 
 	slaves = {
-		culture = ovambo
+		culture = bakongo
 		religion = animist
 		size = 600
 	}
 
 	aristocrats = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 4275
 	}
 
 	slaves = {
-		culture = kxa_khoi
+		culture = bakongo
 		religion = animist
 		size = 1250
 	}
@@ -631,73 +711,73 @@
 #Malanje (44000/11000 POPS)
 2009 = {
 	aristocrats = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 4350
 	}
 
 	slaves = {
-		culture = holu
+		culture = bakongo
 		religion = animist
 		size = 1200
 	}
 
 	aristocrats = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 30
 	}
 
 	clergymen = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 60
 	}
 
 	artisans = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 60
 	}
 
 	farmers = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 2175
 	}
 
 	slaves = {
-		culture = yaka
+		culture = bakongo
 		religion = animist
 		size = 600
 	}
@@ -741,73 +821,73 @@
 #Saurimo (112000/28000 POPS)
 2010 = {
 	aristocrats = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 1250
 	}
 
 	soldiers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
-		size = 1250
+		size = 250
 	}
 
 	farmers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
-		size = 13000
+		size = 14000
 	}
 
 	slaves = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 8000
 	}
 
 	aristocrats = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
-		size = 850
+		size = 50
 	}
 
 	farmers = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
-		size = 5050
+		size = 2850
 	}
 
 	slaves = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 800
 	}
@@ -815,73 +895,73 @@
 #Kubanda (76000/19000 POPS)
 2011 = {
 	aristocrats = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
-		size = 2125
+		size = 8125
 	}
 
 	slaves = {
-		culture = lunda
+		culture = bakongo
 		religion = animist
 		size = 4700
 	}
 
 	aristocrats = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
-		size = 1050
+		size = 50
 	}
 
 	farmers = {
-		culture = chokwe
+		culture = bakongo
 		religion = animist
-		size = 19600
+		size = 3600
 	}
 
 	slaves = {
-		culture = kavango
+		culture = bakongo
 		religion = animist
 		size = 1100
 	}

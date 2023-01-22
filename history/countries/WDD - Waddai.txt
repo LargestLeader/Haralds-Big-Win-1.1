@@ -1,5 +1,5 @@
 capital = 1808
-primary_culture = chadic_arabic
+primary_culture = hausa
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

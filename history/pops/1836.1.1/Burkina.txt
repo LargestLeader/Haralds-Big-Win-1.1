@@ -41,61 +41,13 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 30000
-	}
-	
-	aristocrats = {
-		culture = bissa
-		religion = sunni
-		size = 200
+		size = 66825
 	}
 
-	clergymen = {
-		culture = bissa
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = bissa
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = bissa
-		religion = sunni
-		size = 1150
-	}
-
-	farmers = {
-		culture = bissa
-		religion = sunni
-		size = 15000
-	}
-	
-	farmers = {
-		culture = gurunsi
-		religion = animist
-		size = 21825
-	}
-
-	slaves = {
-		culture = gurunsi
-		religion = animist
-		size = 18000
-	}
-	
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 8000
-	}
-	
-	slaves = {
-		culture = bwa
-		religion = animist
-		size = 6000
+		size = 32000
 	}
 }
 #Wahiguya (332000/83000 POPS)
@@ -127,243 +79,87 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 19500
-	}
-	
-	slaves = {
-		culture = bwa
-		religion = animist
-		size = 7000
-	}
-	
-	slaves = {
-		culture = hausa
-		religion = animist
-		size = 3000
+		size = 26525
 	}
 
 	slaves = {
-		culture = koromfe
-		religion = animist
-		size = 8000
-	}
-	
-	aristocrats = {
 		culture = hausa
 		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = animist
-		size = 125
-	}
-
-	artisans = {
-		culture = hausa
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = animist
-		size = 500
-	}
-
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 10000
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 500
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 6525
-	}
-	
-	aristocrats = {
-		culture = tuareg
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = tuareg
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = tuareg
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = tuareg
-		religion = sunni
-		size = 500
-	}
-
-	farmers = {
-		culture = tuareg
-		religion = sunni
-		size = 1025
+		size = 11000
 	}
 
 	aristocrats = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 650
 	}
 
 	clergymen = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 325
 	}
 
 	artisans = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 1650
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 325
 	}
 
 	farmers = {
 		culture = hausa
-		religion = sunni
-		size = 10050
+		religion = animist
+		size = 30050
+	}
+
+	slaves = {
+		culture = hausa
+		religion = animist
+		size = 8000
 	}
 }
 #Dori (268000/67000 POPS)
 1903 = {
 	aristocrats = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 650
 	}
 
 	clergymen = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 350
 	}
 
 	artisans = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 1350
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 1350
 	}
 
 	farmers = {
 		culture = hausa
-		religion = sunni
-		size = 4000
+		religion = animist
+		size = 15300
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 8000
-	}
-	
-	aristocrats = {
-		culture = tuareg
-		religion = sunni
-		size = 60
-	}
-
-	clergymen = {
-		culture = tuareg
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = tuareg
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = tuareg
-		religion = sunni
-		size = 350
-	}
-
-	farmers = {
-		culture = tuareg
-		religion = sunni
-		size = 3300
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 350
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 350
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 5000
+		size = 3000
 	}
 
 	aristocrats = {
@@ -393,17 +189,11 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 20000
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 10950
+		size = 30950
 	}
 
 	slaves = {
-		culture = koromfe
+		culture = hausa
 		religion = animist
 		size = 12000
 	}
@@ -437,19 +227,19 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 8000
+		size = 12750
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 950
+		size = 7000
 	}
 
 	aristocrats = {
 		culture = hausa
 		religion = sunni
-		size = 150
+		size = 550
 	}
 
 	clergymen = {
@@ -473,7 +263,7 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 2700
+		size = 19700
 	}
 }
 #Worodugu Region (320000)
@@ -481,113 +271,77 @@
 #Bobo Dioulasso (140000/35000 POPS)
 1905 = {
 	aristocrats = {
-		culture = kaboro
+		culture = hausa
 		religion = sunni
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = kaboro
+		culture = hausa
 		religion = sunni
 		size = 25
 	}
 
 	officers = {
-		culture = kaboro
+		culture = hausa
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = kaboro
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kaboro
+		culture = hausa
 		religion = sunni
 		size = 125
 	}
 
 	soldiers = {
-		culture = kaboro
+		culture = hausa
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = kaboro
+		culture = hausa
 		religion = sunni
-		size = 6650
+		size = 1650
 	}
 
 	aristocrats = {
-		culture = bobo
+		culture = hausa
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = bobo
+		culture = hausa
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = bobo
+		culture = hausa
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = bobo
+		culture = hausa
 		religion = sunni
-		size = 1250
+		size = 250
 	}
 
 	farmers = {
-		culture = bobo
+		culture = hausa
 		religion = sunni
-		size = 5000
-	}
-	
-	farmers = {
-		culture = samogo
-		religion = sunni
-		size = 3550
+		size = 19550
 	}
 
-	aristocrats = {
-		culture = doghose_gan
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = doghose_gan
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = doghose_gan
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = doghose_gan
-		religion = animist
-		size = 1075
-	}
-
-	farmers = {
-		culture = doghose_gan
-		religion = animist
-		size = 8000
-	}
-	
 	aristocrats = {
 		culture = hausa
 		religion = animist
@@ -609,19 +363,19 @@
 	soldiers = {
 		culture = hausa
 		religion = animist
-		size = 1075
+		size = 75
 	}
 
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 13375
+		size = 6375
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Orodaro (360000/90000 POPS)
@@ -687,151 +441,69 @@
 	}
 
 	aristocrats = {
-		culture = bobo
+		culture = hausa
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = bobo
+		culture = hausa
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = bobo
+		culture = hausa
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = bobo
+		culture = hausa
 		religion = animist
 		size = 400
 	}
 
 	farmers = {
-		culture = bobo
+		culture = hausa
 		religion = animist
-		size = 20450
-	}
-	
-	farmers = {
-		culture = siamou
-		religion = animist
-		size = 6000
-	}
-	
-	farmers = {
-		culture = samogo
-		religion = animist
-		size = 10000
+		size = 36450
 	}
 
 	aristocrats = {
-		culture = dogoso_khe
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = dogoso_khe
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = dogoso_khe
+		culture = hausa
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = dogoso_khe
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = dogoso_khe
+		culture = hausa
 		religion = animist
 		size = 12750
 	}
-	
-	slaves = {
-		culture = hausa
-		religion = animist
-		size = 6000
-	}
 
 	slaves = {
-		culture = kaboro
-		religion = animist
-		size = 6000
-	}
-
-}
-
-#Sokode (24000/6000 POPS)  
-1918 = {
-	aristocrats = {
 		culture = hausa
 		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = hausa
-		religion = animist
-		size = 1000
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 14600
-	}
-
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 400
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 7200
+		size = 12000
 	}
 
 }

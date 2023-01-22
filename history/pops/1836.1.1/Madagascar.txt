@@ -449,31 +449,31 @@
 #Mahajanga (188000/47000 POPS)
 2121 = {
 	aristocrats = {
-		culture = swahili #african_minor
+		culture = amhara #african_minor
 		religion = sunni
 		size = 525
 	}
 
 	clergymen = {
-		culture = swahili #african_minor
+		culture = amhara #african_minor
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = swahili #african_minor
+		culture = amhara #african_minor
 		religion = sunni
 		size = 6100
 	}
 
 	soldiers = {
-		culture = swahili #african_minor
+		culture = amhara #african_minor
 		religion = sunni
 		size = 3275
 	}
 
 	farmers = {
-		culture = swahili #african_minor
+		culture = amhara #african_minor
 		religion = sunni
 		size = 4275
 	}

@@ -3,79 +3,49 @@
 #Douala (328000/82000 POPS)
 1956 = {
 	aristocrats = {
-		culture = sawabantu
+		culture = hausa
 		religion = animist
-		size = 1000
+		size = 1625
 	}
 
-	officers = {
-		culture = sawabantu
+	bureaucrats = {
+		culture = hausa
 		religion = animist
 		size = 50
 	}
 
-	clergymen = {
-		culture = sawabantu
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = sawabantu
-		religion = animist
-		size = 1000
-	}
-
-	soldiers = {
-		culture = sawabantu
-		religion = animist
-		size = 825
-	}
-
-	farmers = {
-		culture = sawabantu
-		religion = animist
-		size = 40000
-	}
-	
-	aristocrats = {
-		culture = basaa
-		religion = animist
-		size = 675
-	}
-
 	officers = {
-		culture = basaa
+		culture = hausa
 		religion = animist
-		size = 100
+		size = 150
 	}
 
 	clergymen = {
-		culture = basaa
+		culture = hausa
 		religion = animist
-		size = 625
+		size = 825
 	}
 
 	artisans = {
-		culture = basaa
+		culture = hausa
 		religion = animist
-		size = 2300
+		size = 3300
 	}
 
 	soldiers = {
-		culture = basaa
+		culture = hausa
 		religion = animist
 		size = 825
 	}
 
 	farmers = {
-		culture = basaa
+		culture = hausa
 		religion = animist
-		size = 31225
+		size = 61225
 	}
 
 	slaves = {
-		culture = basaa
+		culture = hausa
 		religion = animist
 		size = 14000
 	}
@@ -83,43 +53,37 @@
 #Buea (224000/56000 POPS)
 1957 = {
 	aristocrats = {
-		culture = oroko
+		culture = hausa
 		religion = animist
 		size = 1075
 	}
 
 	clergymen = {
-		culture = oroko
+		culture = hausa
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = oroko
+		culture = hausa
 		religion = animist
 		size = 2250
 	}
 
 	soldiers = {
-		culture = oroko
+		culture = hausa
 		religion = animist
 		size = 550
 	}
 
 	farmers = {
-		culture = oroko
-		religion = animist
-		size = 30000
-	}
-	
-	farmers = {
 		culture = hausa
 		religion = animist
-		size = 9575
+		size = 39575
 	}
 
 	slaves = {
-		culture = sawabantu
+		culture = hausa
 		religion = animist
 		size = 12000
 	}
@@ -127,81 +91,75 @@
 #Kribi (176000/44000 POPS)
 1958 = {
 	aristocrats = {
-		culture = kogo
+		culture = hausa
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
-		culture = kogo
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = kogo
+		culture = hausa
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = kogo
+		culture = hausa
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = kogo
+		culture = hausa
 		religion = animist
-		size = 18000
-	}
-	
-	farmers = {
-		culture = makaa_njem
-		religion = animist
-		size = 2925
+		size = 20925
 	}
 
 	slaves = {
-		culture = makaa_njem
+		culture = hausa
 		religion = animist
 		size = 3000
 	}
 
 	aristocrats = {
-		culture = sawabantu
+		culture = hausa
 		religion = animist
 		size = 325
 	}
 
 	clergymen = {
-		culture = sawabantu
+		culture = hausa
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = sawabantu
+		culture = hausa
 		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = sawabantu
+		culture = hausa
 		religion = animist
 		size = 175
 	}
 
 	farmers = {
-		culture = sawabantu
+		culture = hausa
 		religion = animist
 		size = 11600
 	}
 
 	slaves = {
-		culture = basaa
+		culture = hausa
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Sanaga-Kadei Region (940000)
@@ -209,85 +167,73 @@
 #Yaounde (344000/86000 POPS)
 1959 = {
 	aristocrats = {
-		culture = mbam
+		culture = hausa
 		religion = animist
 		size = 525
 	}
 
 	clergymen = {
-		culture = mbam
+		culture = hausa
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = mbam
+		culture = hausa
 		religion = animist
 		size = 1125
 	}
 
 	soldiers = {
-		culture = mbam
+		culture = hausa
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = mbam
+		culture = hausa
 		religion = animist
 		size = 16800
 	}
 
 	slaves = {
-		culture = fang
+		culture = hausa
 		religion = animist
 		size = 9000
 	}
 
 	aristocrats = {
-		culture = fang
+		culture = hausa
 		religion = animist
 		size = 1150
 	}
 
 	clergymen = {
-		culture = fang
+		culture = hausa
 		religion = animist
 		size = 575
 	}
 
 	artisans = {
-		culture = fang
+		culture = hausa
 		religion = animist
 		size = 2325
 	}
 
 	soldiers = {
-		culture = fang
+		culture = hausa
 		religion = animist
 		size = 600
 	}
 
 	farmers = {
-		culture = fang
+		culture = hausa
 		religion = animist
-		size = 20000
-	}
-	
-	farmers = {
-		culture = basaa
-		religion = animist
-		size = 10350
-	}
-	
-	farmers = {
-		culture = makaa_njem
-		religion = animist
-		size = 9000
+		size = 39350
 	}
 
 	slaves = {
-		culture = makaa_njem
+		culture = hausa
 		religion = animist
 		size = 14000
 	}
@@ -297,7 +243,7 @@
 	aristocrats = {
 		culture = hausa
 		religion = animist
-		size = 575
+		size = 1375
 	}
 
 	clergymen = {
@@ -309,175 +255,147 @@
 	artisans = {
 		culture = hausa
 		religion = animist
-		size = 775
+		size = 2775
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = animist
-		size = 2000
+		size = 700
 	}
 
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 9000
-	}
-	
-	farmers = {
-		culture = ubangian
-		religion = animist
-		size = 7000
-	}
-	
-	farmers = {
-		culture = bebe
-		religion = animist
-		size = 3000
-	}
-	
-	farmers = {
-		culture = grassfield_minor
-		religion = animist
-		size = 7000
-	}
-	
-	artisans = {
-		culture = east_kwa
-		religion = animist
-		size = 75
-	}
-
-	soldiers = {
-		culture = east_kwa
-		religion = animist
-		size = 500
-	}
-	
-	farmers = {
-		culture = east_kwa
-		religion = animist
-		size = 9000
-	}
-	
-	artisans = {
-		culture = mambilo
-		religion = animist
-		size = 75
-	}
-
-	soldiers = {
-		culture = mambilo
-		religion = animist
-		size = 500
-	}
-	
-	farmers = {
-		culture = mambilo
-		religion = animist
-		size = 10000
-	}
-	
-	farmers = {
-		culture = oroko
-		religion = sunni
-		size = 8000
-	}
-	
-	farmers = {
-		culture = mbo
-		religion = animist
-		size = 7450
-	}
-	
-	slaves = {
-		culture = basaa
-		religion = animist
-		size = 6000
+		size = 44450
 	}
 
 	slaves = {
-		culture = mbam
+		culture = hausa
 		religion = animist
-		size = 6000
+		size = 19000
 	}
 }
-
 #Bertoua (320000/80000 POPS)
 1962 = {
 	aristocrats = {
-		culture = makaa_njem
+		culture = hausa
 		religion = animist
 		size = 1225
 	}
 
 	clergymen = {
-		culture = makaa_njem
+		culture = hausa
 		religion = animist
 		size = 625
 	}
 
 	artisans = {
-		culture = makaa_njem
+		culture = hausa
 		religion = animist
 		size = 2500
 	}
 
 	soldiers = {
-		culture = makaa_njem
+		culture = hausa
 		religion = animist
 		size = 625
 	}
 
 	farmers = {
-		culture = makaa_njem
+		culture = hausa
 		religion = animist
 		size = 34025
 	}
 
 	slaves = {
-		culture = fang
+		culture = hausa
 		religion = animist
 		size = 17000
 	}
 
 	aristocrats = {
-		culture = ubangian
+		culture = hausa
 		religion = animist
 		size = 325
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = hausa
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = hausa
 		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = hausa
 		religion = animist
 		size = 175
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = hausa
 		religion = animist
 		size = 10600
 	}
 
 	slaves = {
-		culture = ubangian
+		culture = hausa
 		religion = animist
 		size = 6000
 	}
 }
+#Kwararafa Region (372000) #see Nigeria.txt for balance of region   
+#uncolonized in 1836
+#Bamenda (372000/93000 POPS) #now part of Cameroun
+1961 = {
+	aristocrats = {
+		culture = hausa
+		religion = animist
+		size = 1850
+	}
 
+	clergymen = {
+		culture = hausa
+		religion = animist
+		size = 950
+	}
+
+	artisans = {
+		culture = hausa
+		religion = animist
+		size = 3725
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = animist
+		size = 950
+	}
+
+	farmers = {
+		culture = hausa
+		religion = animist
+		size = 40575
+	}
+	
+	farmers = {
+		culture = hausa
+		religion = animist
+		size = 23575
+	}	
+
+	slaves = {
+		culture = hausa
+		religion = animist
+		size = 22000
+	}
+}
 #Adamawa Region (268000) #see Nigeria.txt for balance of region   
 #under the rule of Sokoto 1836
 #Ngaoundere (160000/40000 POPS) #now part of Cameroun
@@ -485,7 +403,7 @@
 	aristocrats = {
 		culture = hausa
 		religion = sunni
-		size = 500
+		size = 550
 	}
 
 	bureaucrats = {
@@ -525,43 +443,37 @@
 	}
 
 	aristocrats = {
-		culture = mbum_day
+		culture = hausa
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = mbum_day
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = mbum_day
+		culture = hausa
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = mbum_day
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = mbum_day
+		culture = hausa
 		religion = animist
 		size = 12850
 	}
-	
-	farmers = {
-		culture = duru
-		religion = animist
-		size = 4850
-	}
 
 	slaves = {
-		culture = daka
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
@@ -590,13 +502,13 @@
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 2400
+		size = 400
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 25400
+		size = 21400
 	}
 
 	aristocrats = {
@@ -620,67 +532,79 @@
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 2200
+		size = 200
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 28600
+		size = 14600
 	}
 
 	aristocrats = {
-		culture = baguirmi
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 18300
+	}
+
+	aristocrats = {
+		culture = hausa
 		religion = animist
 		size = 700
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = hausa
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = baguirmi
+		culture = hausa
 		religion = animist
 		size = 1800
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = hausa
 		religion = animist
 		size = 400
 	}
 
-	slaves = {
-		culture = baguirmi
-		religion = animist
-		size = 3100
-	}
-	
-	slaves = {
-		culture = ubangian
-		religion = animist
-		size = 5000
-	}
-	
 	farmers = {
 		culture = hausa
-		religion = sunni
-		size = 5000
+		religion = animist
+		size = 33100
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 6000
-	}
-	
-	slaves = {
-		culture = hausa
-		religion = animist
-		size = 6000
+		size = 12000
 	}
 
 }

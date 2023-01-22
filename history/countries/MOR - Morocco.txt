@@ -1,9 +1,5 @@
 capital = 1690
 primary_culture = maghrebi
-culture = maures
-culture = saharan_arabic
-culture = algaravian
-culture = siqilli
 religion = sunni
 government = absolute_monarchy
 plurality = 5.0

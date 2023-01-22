@@ -293,25 +293,25 @@
 	}
 
 	clergymen = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 910
 	}

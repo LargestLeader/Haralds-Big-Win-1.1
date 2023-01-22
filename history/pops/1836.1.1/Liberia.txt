@@ -2,9 +2,51 @@
 #under the rule of Liberia in 1836
 #Monrovia (252000/63000 POPS) 
 1887 = {
+	aristocrats = {
+		culture = afro_american
+		religion = protestant
+		size = 550
+	}
+	
+	bureaucrats = {
+		culture = afro_american
+		religion = protestant
+		size = 200
+	}
+
+	officers = {
+		culture = afro_american
+		religion = protestant
+		size = 10
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 75
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 810
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 300
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = protestant
+		size = 1100
+	}
+
 	farmers = {
 		culture = hausa
-		religion = animist
+		religion = protestant
 		size = 2775
 	}
 
@@ -35,49 +77,49 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 34000
+		size = 40875
 	}
 
 	aristocrats = {
 		culture = hausa
-		religion = animist
+		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = hausa
-		religion = animist
-		size = 100
+		religion = sunni
+		size = 75
 	}
 
 	artisans = {
 		culture = hausa
-		religion = animist
+		religion = sunni
 		size = 450
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = animist
+		religion = sunni
 		size = 100
 	}
 
 	farmers = {
 		culture = hausa
-		religion = animist
-		size = 12225
+		religion = sunni
+		size = 8225
 	}
-	
+
 	aristocrats = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 75
 	}
 
 	clergymen = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 50
 	}
 
 	artisans = {
@@ -89,20 +131,32 @@
 	soldiers = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 50
 	}
 
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 5625
+		size = 3625
 	}
 }
 #Harper (204000/51000 POPS) 
 1888 = {
+	aristocrats = {
+		culture = afro_american
+		religion = protestant
+		size = 750
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 375
+	}
+
 	artisans = {
 		culture = hausa
-		religion = animist
+		religion = protestant
 		size = 1900
 	}
 
@@ -115,18 +169,12 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 25600
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 5000
+		size = 34600
 	}
 
 	aristocrats = {
 		culture = hausa
-		religion = animist
+		religion = protestant
 		size = 250
 	}
 
@@ -151,7 +199,7 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 15850
+		size = 11850
 	}
 }
 #uncolonized in 1836
@@ -184,7 +232,7 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 32775
+		size = 22775
 	}
 
 	aristocrats = {
@@ -196,7 +244,7 @@
 	clergymen = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 50
 	}
 
 	artisans = {
@@ -208,41 +256,11 @@
 	soldiers = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 75
 	}
 
 	farmers = {
 		culture = hausa
-		religion = animist
-		size = 30000
-	}
-	
-	aristocrats = {
-		culture = kru
-		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = kru
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = kru
-		religion = animist
-		size = 30
-	}
-
-	soldiers = {
-		culture = kru
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = kru
 		religion = animist
 		size = 5475
 	}
@@ -276,39 +294,9 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 30000
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 200
+		size = 10025
 	}
 
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 550
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 35025
-	}
-	
 	aristocrats = {
 		culture = hausa
 		religion = animist
@@ -336,7 +324,7 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 15025
+		size = 20025
 	}
 }
 #Zwedru (168000/42000 POPS) 
@@ -347,6 +335,18 @@
 		size = 425
 	}
 
+	clergymen = {
+		culture = afro_american
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = animist
+		size = 1150
+	}
+
 	soldiers = {
 		culture = hausa
 		religion = animist
@@ -356,43 +356,37 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 5975
+		size = 20975
 	}
 
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 10000
-	}
-	
 	aristocrats = {
-		culture = hausa
+		culture = afro_american
 		religion = animist
-		size = 425
+		size = 350
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = animist
+		size = 950
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = afro_american
 		religion = animist
-		size = 250
+		size = 200
 	}
 
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 5975
-	}
-
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 19000
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 3300
+		size = 17300
 	}
 
 }

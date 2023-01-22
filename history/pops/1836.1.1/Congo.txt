@@ -3,67 +3,38 @@
 #Nkuna (400000/100000 POPS)
 1977 = {
 	aristocrats = {
-		culture = teke
-		religion = animist
-		size = 1500
-	}
-
-	clergymen = {
-		culture = teke
-		religion = animist
-		size = 1000
-	}
-
-	artisans = {
-		culture = teke
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = teke
-		religion = animist
-		size = 1000
-	}
-
-	farmers = {
-		culture = teke
-		religion = animist
-		size = 60000
-	}
-	
-	aristocrats = {
 		culture = bakongo
 		religion = animist
-		size = 250
+		size = 1750
 	}
 
 	clergymen = {
 		culture = bakongo
 		religion = animist
-		size = 100
+		size = 1100
 	}
 
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 1000
+		size = 4000
 	}
 
 	soldiers = {
 		culture = bakongo
 		religion = animist
-		size = 1000
+		size= 1100
+
 	}
 
 	farmers = {
 		culture = bakongo
 		religion = animist
-		size = 12250
+		size = 72250
 	}
 
 	slaves = {
-		culture = teke
+		culture = bakongo
 		religion = animist
 		size = 20000
 	}
@@ -71,93 +42,40 @@
 #Madingou (160000/40000 POPS)
 1978 = {
 	aristocrats = {
-		culture = teke
-		religion = animist
-		size = 700
-	}
-
-	clergymen = {
-		culture = teke
-		religion = animist
-		size = 495
-	}
-
-	artisans = {
-		culture = teke
-		religion = animist
-		size = 1700
-	}
-
-	soldiers = {
-		culture = teke
-		religion = animist
-		size = 500
-	}
-
-	farmers = {
-		culture = teke
-		religion = animist
-		size = 20000
-	}
-	
-	farmers = {
-		culture = njebi
-		religion = animist
-		size = 2000
-	}
-	
-	farmers = {
-		culture = sira
-		religion = animist
-		size = 4000
-	}
-	
-	aristocrats = {
 		culture = bakongo
 		religion = animist
-		size = 50
+		size = 750
 	}
 
 	clergymen = {
 		culture = bakongo
 		religion = animist
-		size = 5
+		size = 550
 	}
 
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = bakongo
-		religion = animist
-		size = 500
-	}
-	
-	artisans = {
-		culture = suundi
-		religion = animist
-		size = 100
+		size = 1750
 	}
 
 	soldiers = {
-		culture = suundi
+		culture = bakongo
 		religion = animist
-		size = 500
+		size= 550
+
 	}
 
 	farmers = {
-		culture = suundi
+		culture = bakongo
 		religion = animist
-		size = 1000
+		size = 26500
 	}
 
 	slaves = {
-		culture = suundi
+		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 }
 #Loango (320000/80000 POPS)
@@ -189,7 +107,8 @@
 	soldiers = {
 		culture = bakongo
 		religion = animist
-		size = 1000
+		size= 1100
+
 	}
 
 	farmers = {
@@ -199,7 +118,7 @@
 	}
 
 	slaves = {
-		culture = teke
+		culture = bakongo
 		religion = animist
 		size = 20000
 	}
@@ -208,112 +127,67 @@
 #Djambala (28000/7000 POPS)
 1980 = {
 	aristocrats = {
-		culture = teke
+		culture = bakongo
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = teke
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = teke
+		culture = bakongo
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = teke
+		culture = bakongo
 		religion = animist
-		size = 75
+		size= 75
+
 	}
 
 	farmers = {
-		culture = teke
+		culture = bakongo
 		religion = animist
-		size = 4000
-	}
-	
-	farmers = {
-		culture = mbere
-		religion = animist
-		size = 2375
+		size = 6375
 	}
 }
 #Impfondo (32000/8000 POPS)
 1981 = {
 	aristocrats = {
-		culture = mbosi
+		culture = bakongo
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = mbosi
+		culture = bakongo
 		religion = animist
-		size = 100
+		size = 75
 	}
 
 	artisans = {
-		culture = mbosi
+		culture = bakongo
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = mbosi
+		culture = bakongo
 		religion = animist
-		size = 100
+		size= 75
+
 	}
 
 	farmers = {
-		culture = mbosi
+		culture = bakongo
 		religion = animist
-		size = 2000
+		size = 7300
 	}
-	
-	farmers = {
-		culture = likuba
-		religion = animist
-		size = 1000
-	}
-	
-	farmers = {
-		culture = aka
-		religion = animist
-		size = 1000
-	}
-	
-	farmers = {
-		culture = akwa
-		religion = animist
-		size = 300
-	}
-	
-	farmers = {
-		culture = mboko
-		religion = animist
-		size = 300
-	}
-	
-	farmers = {
-		culture = bangi
-		religion = animist
-		size = 200
-	}
-	
-	farmers = {
-		culture = makaa_njem
-		religion = animist
-		size = 2500
-	}
-	
-	slaves = {
-		culture = ubangian
-		religion = animist
-		size = 500
-	}
+
 }

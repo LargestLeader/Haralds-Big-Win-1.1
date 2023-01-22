@@ -4757,25 +4757,25 @@
 #Alegrete (64000/16000 POPS)
 2467 = {
 	clergymen = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = sunni
 		size = 225
 	}
 
 	soldiers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = sunni
 		size = 725
 	}
 	
 	farmers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = sunni
 		size = 10000
 	}
 	
 	farmers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = animist
 		size = 6000
 	}

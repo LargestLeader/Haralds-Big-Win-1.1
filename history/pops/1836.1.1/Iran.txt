@@ -183,7 +183,7 @@
 	}
 	
 	slaves = {
-		culture = swahili
+		culture = amhara
 		religion = animist
 		size = 2000
 	}
@@ -2402,7 +2402,7 @@
 	}
 	
 	slaves = {
-		culture = swahili
+		culture = amhara
 		religion = animist
 		size = 1500
 	}
@@ -4186,13 +4186,13 @@
 	}
 
 	slaves = {
-		culture = swahili #african_minor
+		culture = amhara #african_minor
 		religion = animist
 		size = 1500
 	}
 
 	slaves = {
-		culture = oromo
+		culture = amhara
 		religion = animist
 		size = 1000
 	}
@@ -4760,7 +4760,7 @@
 	}
 
 	slaves = {
-		culture = swahili
+		culture = amhara
 		religion = animist
 		size = 1000
 	}
@@ -4778,7 +4778,7 @@
 	}
 	
 	slaves = {
-		culture = oromo
+		culture = amhara
 		religion = animist
 		size = 1000
 	}

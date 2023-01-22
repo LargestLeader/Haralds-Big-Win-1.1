@@ -33,31 +33,31 @@
 	}
 
 	aristocrats = {
-		culture = gen
+		culture = hausa
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = gen
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = gen
+		culture = hausa
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = gen
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = gen
+		culture = hausa
 		religion = animist
 		size = 11825
 	}
@@ -101,61 +101,61 @@
 	}
 
 	aristocrats = {
-		culture = adja
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = adja
+		culture = hausa
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = adja
+		culture = hausa
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = adja
+		culture = hausa
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = adja
+		culture = hausa
 		religion = animist
 		size = 6375
 	}
 
 	aristocrats = {
-		culture = ife_ede
+		culture = hausa
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = ife_ede
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = ife_ede
+		culture = hausa
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = ife_ede
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = ife_ede
+		culture = hausa
 		religion = animist
 		size = 8125
 	}
@@ -165,4 +165,67 @@
 		religion = animist
 		size = 2000
 	}
+}
+#Sokode (24000/6000 POPS)  
+1918 = {
+	aristocrats = {
+		culture = hausa
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = hausa
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = hausa
+		religion = animist
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 1800
+	}
+
 }

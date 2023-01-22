@@ -3,61 +3,61 @@
 #Al Aiyun (12000/3000 POPS)  aguia el-Hamra
 1773 = {
 	aristocrats = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 100
 	}
 
 	aristocrats = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 3800
 	}
@@ -65,61 +65,61 @@
 #Dahkla (8000/2000 POPS)  
 1774 = {
 	aristocrats = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 300
 	}
 
 	aristocrats = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = maures
+		culture = maghrebi
 		religion = sunni
 		size = 300
 	}

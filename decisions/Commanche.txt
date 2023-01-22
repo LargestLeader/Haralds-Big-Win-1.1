@@ -16,6 +16,7 @@ political_decisions = {
             YKM = {all_core = {add_core = THIS}}
             SSX = {all_core = {add_core = THIS}}
             add_accepted_culture = dakota
+            add_accepted_culture = yokuts
             set_country_flag = kill_yokut
         }
     }

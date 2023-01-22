@@ -2464,7 +2464,7 @@ arab = {
 	is_overseas = no
 	unit = MoroccoGC
 	misri = {
-		color = {0 100 40}
+		color = {239 245 66}
 		first_names = { 
 			Abdullah Abdulhamid Abdulkerim Ahmet Ali Bekir Cemal Enver Fevzi Fuat Halil 
 			Hasan Ibrahim Iskender Ismet Izzet Kamil Kazim Kemal 
@@ -2691,7 +2691,7 @@ arab = {
 			}
 		}
 	maghrebi = {
-		color = {0 65 20}
+		color = {245 36 17}
 		first_names = { 
 			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
 			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
@@ -9508,7 +9508,7 @@ saharan_group = {
 		last_names = { al-Kanemi Sayfawa Dalatumi Lefiami Kingibe Imam Gana
 		}
 	}
-	zaghawa = {
+	misri = {
 		color = {150 100 130}
 		first_names = { Muhammad al-Amin Umar Mustapha Ahmad Dunama Ibrahim Ali Waziri Mamane
 		}
@@ -11134,7 +11134,7 @@ bantu_f_group = {
 		last_names = { "Ma Nombo" "Ma N'Sangou" N'Gombi Matou Mvemba Lukeni Mpanzu Nimi Nsindi
 		}
 	  }
-	  rangi = {
+	  swahili = {
 		color = {130 155 40}
 		first_names = { Poaty Loembe M'voudoukousala Pratt N'Gangue M'voumbe Mfutila Kivuzi Nteve Kenje
 		}

@@ -1,5 +1,5 @@
 capital = 1725
-primary_culture = tunesian_arabic
+primary_culture = maghrebi
 culture = libi
 culture = algerian_arabic
 religion = sunni

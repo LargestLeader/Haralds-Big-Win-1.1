@@ -3,111 +3,63 @@
 #Bissau (32000/8000 POPS)
 1877 = {
 	aristocrats = {
-		culture = jaad
-		religion = animist
-		size = 100
+		culture = portuguese
+		religion = catholic
+		size = 10
 	}
-	
-	officers = {
-		culture = jaad
-		religion = animist
-		size = 100
-	}
-	
+
 	clergymen = {
-		culture = jaad
-		religion = animist
-		size = 100
+		culture = portuguese
+		religion = catholic
+		size = 15
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 5
 	}
 
 	artisans = {
-		culture = jaad
-		religion = animist
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 20
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = hausa
+		religion = catholic
 		size = 375
 	}
 
 	soldiers = {
-		culture = jaad
-		religion = animist
-		size = 100
+		culture = hausa
+		religion = catholic
+		size = 75
 	}
 
 	farmers = {
-		culture = jaad
-		religion = animist
-		size = 5300
+		culture = hausa
+		religion = catholic
+		size = 5500
 	}
 
 	slaves = {
 		culture = hausa
-		religion = animist
+		religion = catholic
 		size = 2000
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = animist
-		size = 300
-	}
-	
-	officers = {
-		culture = hausa
-		religion = animist
-		size = 100
-	}
-	
-	clergymen = {
-		culture = hausa
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = animist
-		size = 1000
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = animist
-		size = 1000
-	}
-
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 10048
-	}
-	
-	aristocrats = {
-		culture = nalu
-		religion = animist
-		size = 30
-	}
-	
-	clergymen = {
-		culture = nalu
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = nalu
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nalu
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = nalu
-		religion = animist
-		size = 4000
 	}
 }
 #under the rule of Gabu in 1836
@@ -115,81 +67,44 @@
 1878 = {
 	aristocrats = {
 		culture = hausa
-		religion = sunni
-		size = 500
-	}
-	
-	bureaucrats = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 1000
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 3768
-	}
-	
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 400
 	}
 	
 	bureaucrats = {
 		culture = hausa
-		religion = sunni
-		size = 100
+		religion = animist
+		size = 150
 	}
 
 	clergymen = {
 		culture = hausa
-		religion = sunni
-		size = 100
+		religion = animist
+		size = 400
 	}
 
 	artisans = {
 		culture = hausa
-		religion = sunni
-		size = 1000
+		religion = animist
+		size = 2000
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 1200
 	}
 
 	farmers = {
 		culture = hausa
-		religion = sunni
-		size = 11129
+		religion = animist
+		size = 28000
 	}
 
 	slaves = {
-		culture = jaad
+		culture = hausa
 		religion = animist
-		size = 2000
+		size = 6000
 	}
 
 }

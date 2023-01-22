@@ -1,167 +1,94 @@
 #Senegambia.txt includes modern Senegal and Gambia
 #Senegambia Region (444000)
-#uncolonized in 1836/ruled by Damel of hausa
+#Finns have trade post and fort in 1836/ruled by Damel of Wolof
 #Dakar (8000/2000 POPS)
 1783 = {
 	aristocrats = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 250
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 550
 	}
 
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 100
-	}
-	
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
+		size = 1100
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 250
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 7800
+		size = 18000
 	}
-	
-	farmers = {
-		culture = cangin
-		religion = sunni
-		size = 2800
-	}
-	
 }
 #Linguere (216000/54000 POPS)
 1786 = {
 	aristocrats = {
 		culture = hausa
 		religion = sunni
-		size = 550
+		size = 1100
 	}
 
 	clergymen = {
 		culture = hausa
 		religion = sunni
-		size = 225
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 1075
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 2750
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 16500
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
 		size = 550
 	}
 
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 225
-	}
-
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 1075
+		size = 2150
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 3750
+		size = 1300
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 35500
+		size = 41000
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 4000
-	}
-	
-	slaves = {
-		culture = hausa
-		religion = animist
-		size = 4000
+		size = 8000
 	}
 }
 #Diourbel (88000/22000 POPS)
 1787 = {
 	aristocrats = {
-		culture = serer
+		culture = hausa
 		religion = sunni
-		size = 40
+		size = 400
 	}
 
 	clergymen = {
-		culture = serer
-		religion = sunni
-		size = 20
-	}
-
-	artisans = {
-		culture = serer
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = serer
-		religion = sunni
-		size = 250
-	}
-
-	farmers = {
-		culture = serer
-		religion = sunni
-		size = 3250
-	}
-	
-	aristocrats = {
 		culture = hausa
 		religion = sunni
 		size = 200
 	}
 
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 500
+		size = 900
 	}
 
 	soldiers = {
@@ -173,37 +100,7 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 9000
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 160
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 80
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 1250
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 7000
+		size = 16250
 	}
 
 	slaves = {
@@ -216,32 +113,33 @@
 1788 = {
 	aristocrats = {
 		culture = hausa
-		religion = sunni
-		size = 500
+		religion = animist
+		size = 550
 	}
 
 	clergymen = {
 		culture = hausa
-		religion = sunni
-		size = 100
+		religion = animist
+		size = 300
 	}
 
-	clergymen = {
+	artisans = {
 		culture = hausa
-		religion = sunni
-		size = 100
+		religion = animist
+		size = 1350
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = sunni
-		size = 2000
+		religion = animist
+		size = 1100
 	}
+
 
 	farmers = {
 		culture = hausa
-		religion = sunni
-		size = 1000
+		religion = animist
+		size = 18350
 	}
 
 	slaves = {
@@ -249,36 +147,6 @@
 		religion = animist
 		size = 8000
 	}
-	
-	aristocrats = {
-		culture = serer
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = serer
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = serer
-		religion = sunni
-		size = 650
-	}
-
-	soldiers = {
-		culture = serer
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = serer
-		religion = sunni
-		size = 14000
-	}
 
 	aristocrats = {
 		culture = hausa
@@ -301,13 +169,13 @@
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 1100
+		size = 100
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 19400
+		size = 9400
 	}
 }
 #Mboul (144000/36000 POPS)
@@ -339,7 +207,7 @@
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 150
+		size = 1450
 	}
 
 	soldiers = {
@@ -351,180 +219,83 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 20300
-	}
-	
-	clergymen = {
-		culture = serer
-		religion = sunni
-		size = 350
-	}
-
-	artisans = {
-		culture = serer
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = serer
-		religion = sunni
-		size = 1400
-	}
-
-	farmers = {
-		culture = serer
-		religion = sunni
-		size = 15000
-	}
-	
-	clergymen = {
-		culture = cangin
-		religion = sunni
-		size = 350
-	}
-
-	artisans = {
-		culture = cangin
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = cangin
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
-		culture = cangin
-		religion = sunni
-		size = 10000
-	}
-	
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 800
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 6000
+		size = 18000
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 7000
+		size = 14000
 	}
 }
-#uncolonized/French have trade post in 1836 - stfu
+#Neapolitans have trade post in 1836
 #Saint-Louis (24000/6000 POPS)
 1784 = {
 	aristocrats = {
-		culture = tuzzungiyya
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = tuzzungiyya
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = tuzzungiyya
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = tuzzungiyya
-		religion = sunni
-		size = 1000
-	}
-	
-	aristocrats = {
 		culture = hausa
 		religion = sunni
-		size = 50
+		size = 550
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 750
 	}
 
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 150
+		size = 1500
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 250
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 2200
+		size = 27000
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 1100
+		size = 11000
 	}
 
 	aristocrats = {
 		culture = hausa
 		religion = sunni
-		size = 50
+		size = 550
 	}
 
 	clergymen = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 750
 	}
 
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 150
+		size = 1500
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 100
-	}
-	
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
+		size = 250
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 700
+		size = 17000
 	}
-	
 }
 #uncolonized/British have trade post in 1836
 #Banjul (108000/27000 POPS) #now part of Gambia
@@ -532,25 +303,19 @@
 	aristocrats = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 350
 	}
 
-	officers = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-	
 	clergymen = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 500
+		size = 950
 	}
 
 	soldiers = {
@@ -562,163 +327,37 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 12446
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	officers = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-	
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 5021
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	officers = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-	
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 2000
-	}
-	
-	clergymen = {
-		culture = serer
-		religion = sunni
-		size = 10
-	}
-
-	artisans = {
-		culture = serer
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = serer
-		religion = sunni
-		size = 20
-	}
-
-	farmers = {
-		culture = serer
-		religion = sunni
-		size = 834
+		size = 17300
 	}
 
 	aristocrats = {
 		culture = hausa
 		religion = animist
-		size = 100
-	}
-	
-	officers = {
-		culture = hausa
-		religion = animist
-		size = 100
+		size = 150
 	}
 
 	clergymen = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 75
 	}
 
 	artisans = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 400
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 75
 	}
 
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 1850
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni 	
-		size = 549
+		size = 7275
 	}
 }
 #Futa Region (328000)
@@ -758,49 +397,19 @@
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 4700
+		size = 1700
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 61000
+		size = 64000
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 12000
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 700
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 1000
+		size = 15000
 	}
 }
 #Matam (216000/54000 POPS)
@@ -834,77 +443,11 @@
 		religion = sunni
 		size = 34000
 	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 175
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 325
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 2000
-	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 2500
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 175
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 325
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 8000
-	}
-	
-	slaves = {
-		culture = hausa
-		religion = animist
-		size = 4500
+		size = 15000
 	}
 }
 #Bakel (140000/35000 POPS)
@@ -930,79 +473,43 @@
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 1300
+		size = 300
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 3650
+		size = 21650
 	}
-	
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 16000
-	}
-	
-	farmers = {
+
+	clergymen = {
 		culture = hausa
 		religion = animist
-		size = 10000
-	}
-	
-	clergymen = {
-		culture = tenda
-		religion = sunni
-		size = 30
-	}
-
-	artisans = {
-		culture = tenda
-		religion = sunni
-		size = 5
-	}
-
-	soldiers = {
-		culture = tenda
-		religion = sunni
 		size = 50
 	}
-	
-	farmers = {
-		culture = tenda
-		religion = animist
-		size = 1000
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
 
 	artisans = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = sunni
-		size = 100
+		religion = animist
+		size = 75
 	}
 
 	farmers = {
 		culture = hausa
-		religion = sunni
-		size = 6575
+		religion = animist
+		size = 5575
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 8000
+		size = 5500
 	}
 }
 #Casamance Region (224000) #see Guinea Bissau.txt and Guinea.txt for balance of Region
@@ -1011,208 +518,76 @@
 1792 = {
 	aristocrats = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 1150
 	}
 
 	clergymen = {
 		culture = hausa
-		religion = sunni
-		size = 100
+		religion = animist
+		size = 600
 	}
-	
+
 	artisans = {
 		culture = hausa
-		religion = sunni
-		size = 500
+		religion = animist
+		size = 2400
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 1100
 	}
 
 	farmers = {
 		culture = hausa
-		religion = sunni
-		size = 11625
-	}
-	
-	aristocrats = {
-		culture = hausa
 		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = animist
-		size = 100
-	}
-	
-	artisans = {
-		culture = hausa
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = animist
-		size = 300
-	}
-
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 40000
-	}
-	
-	aristocrats = {
-		culture = nyum
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = nyum
-		religion = animist
-		size = 100
-	}
-	
-	artisans = {
-		culture = nyum
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = nyum
-		religion = animist
-		size = 300
-	}
-
-	farmers = {
-		culture = nyum
-		religion = animist
-		size = 10000
+		size = 40750
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 13475
+		size = 14000
 	}
 }
 #Velingara (104000/26000 POPS
 1793 = {
 	aristocrats = {
 		culture = hausa
-		religion = sunni
-		size = 500
+		religion = animist
+		size = 550
 	}
 
 	clergymen = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 250
 	}
 
 	artisans = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 275
 	}
 
 	farmers = {
 		culture = hausa
-		religion = sunni
+		religion = animist
 		size = 19925
 	}
-	
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 925
-	}
-	
-	aristocrats = {
-		culture = jaad
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = jaad
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = jaad
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = jaad
-		religion = animist
-		size = 275
-	}
-
-	farmers = {
-		culture = jaad
-		religion = animist
-		size = 1200
-	}
-	
-	aristocrats = {
-		culture = tenda
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-	    culture = tenda
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = tenda
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = tenda
-		religion = animist
-		size = 275
-	}
-
-	farmers = {
-		culture = tenda
-		religion = animist
-		size = 1925
-	}
-	
-	slaves = {
-		culture = tenda
-		religion = animist
-		size = 3000
-	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 1000
+		size = 4000
 	}
 
 }

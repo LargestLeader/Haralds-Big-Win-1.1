@@ -1,14 +1,8 @@
 capital = 1745
 primary_culture = misri
-culture = mamluki
 culture = levantine
-culture = saidi_arabic
 culture = najdi_arabic
-culture = yemeni_arabic
-culture = hejazi_arabic
-culture = yunani
-culture = bedouin
-culture = janubi
+culture = libi
 religion = sunni
 government = absolute_monarchy
 plurality = 25.0

@@ -80,31 +80,31 @@
 1724 = {
 
 	aristocrats = {
-		culture = norn
+		culture = maghrebi
 		religion = protestant
 		size = 40
 	}
 
 	clergymen = {
-		culture = norn
+		culture = maghrebi
 		religion = protestant
 		size = 225
 	}
 
 	soldiers = {
-		culture = norn
+		culture = maghrebi
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = norn
+		culture = maghrebi
 		religion = protestant
 		size = 1000
 	}
 
 	farmers = {
-		culture = norn
+		culture = maghrebi
 		religion = protestant
 		size = 5860
 	}

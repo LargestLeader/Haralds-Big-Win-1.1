@@ -1,314 +1,190 @@
 #Ubangi-Shari Region (228000)
 #uncolonized in 1836
-#Linyati (16000/4000 POPS)
-2081 = {
-	aristocrats = {
-		culture = banda
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = banda
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = banda
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = banda
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = banda
-		religion = sunni
-		size = 700
-	}
-
-	aristocrats = {
-		culture = banda
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = banda
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = banda
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = banda
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = banda
-		religion = animist
-		size = 6900
-	}
-}
-
 #Bangui (104000/26000 POPS)
 1965 = {
 	aristocrats = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 1300
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
-		size = 10000
-	}
-	
-	farmers = {
-		culture = ngbaka
-		religion = animist
-		size = 9000
-	}
-	
-	farmers = {
-		culture = mbati
-		religion = animist
-		size = 4675
+		size = 23675
 	}
 }
 #Nola (40000/10000 POPS)
 1966 = {
 	aristocrats = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
-		size = 9000
+		size = 9125
 	}
-	
-	farmers = {
-		culture = makaa_njem
-		religion = animist
-		size = 125
-	}
-	
-	slaves = {
-		culture = makaa_njem
-		religion = animist
-		size = 500
-	}
-	
 }
 #uncolonized in 1836/under influence of Baguirmi
 #Bouar (28000/7000 POPS)
 1967 = {
 	aristocrats = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = ubangian
+		culture = bakongo
 		religion = animist
 		size = 6375
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 900
 	}
 }
 #Bossangoa (56000/14000 POPS)
 1968 = {
 	aristocrats = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = banda
+		culture = bakongo
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = banda
+		culture = bakongo
 		religion = animist
-		size = 4000
-	}
-	
-	farmers = {
-		culture = ubangian
-		religion = animist
-		size = 6125
+		size = 9125
 	}
 
 	aristocrats = {
-		culture = baguirmi
+		culture = bakongo
 		religion = sunni
-		size = 100
+		size = 10
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = bakongo
 		religion = sunni
-		size = 100
+		size = 25
 	}
 
 	artisans = {
-		culture = baguirmi
+		culture = bakongo
 		religion = sunni
-		size = 100
+		size = 50
 	}
 
 	soldiers = {
-		culture = baguirmi
+		culture = bakongo
 		religion = sunni
-		size = 100
+		size = 15
 	}
 
 	farmers = {
-		culture = baguirmi
+		culture = bakongo
 		religion = sunni
 		size = 900
 	}
 
 	aristocrats = {
-		culture = hausa
+		culture = bakongo
 		religion = animist
-		size = 100
+		size = 50
 	}
 
 	clergymen = {
-		culture = hausa
+		culture = bakongo
 		religion = animist
-		size = 100
+		size = 75
 	}
 
 	artisans = {
-		culture = hausa
+		culture = bakongo
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = hausa
+		culture = bakongo
 		religion = animist
-		size = 100
+		size = 25
 	}
 
 	farmers = {
-		culture = hausa
+		culture = bakongo
 		religion = animist
 		size = 2700
 	}
@@ -318,218 +194,188 @@
 #Zemio (44000/11000 POPS)
 1969 = {
 	aristocrats = {
-		culture = azande
+		culture = bakongo
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = azande
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = azande
+		culture = bakongo
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = azande
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = azande
+		culture = bakongo
 		religion = animist
 		size = 5475
 	}
 
 	aristocrats = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = banda
+		culture = bakongo
 		religion = animist
-		size = 2000
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 2000
+		size = 4575
 	}
 }
 #Bangassou (56000/14000 POPS)
 1970 = {
 	aristocrats = {
-		culture = banda
-		religion = sunni
-		size = 100
+		culture = bakongo
+		religion = animist
+		size = 10
 	}
 
 	clergymen = {
-		culture = banda
-		religion = sunni
-		size = 100
+		culture = bakongo
+		religion = animist
+		size = 25
 	}
 
 	artisans = {
-		culture = banda
-		religion = sunni
-		size = 100
+		culture = bakongo
+		religion = animist
+		size = 50
 	}
 
 	soldiers = {
-		culture = banda
-		religion = sunni
-		size = 100
+		culture = bakongo
+		religion = animist
+		size = 15
 	}
 
 	farmers = {
-		culture = banda
-		religion = sunni
+		culture = bakongo
+		religion = animist
 		size = 900
 	}
 
 	aristocrats = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 650
 	}
 
 	soldiers = {
-		culture = banda
+		culture = bakongo
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = banda
+		culture = bakongo
 		religion = animist
-		size = 8875
-	}
-	
-	farmers = {
-		culture = azande
-		religion = animist
-		size = 3000
-	}
-	
-	farmers = {
-		culture = ngbandi
-		religion = animist
-		size = 4875
+		size = 11875
 	}
 }
-#Dar Runga
+#uncolonized in 1836/under influence of Wadai
 #Ndele (28000/7000 POPS)
 1971 = {
 	aristocrats = {
-		culture = baguirmi
+		culture = bakongo
 		religion = sunni
-		size = 100
+		size = 10
 	}
 
 	clergymen = {
-		culture = baguirmi
+		culture = bakongo
 		religion = sunni
-		size = 100
+		size = 25
 	}
 
 	artisans = {
-		culture = baguirmi
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = baguirmi
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = baguirmi
-		religion = sunni
-		size = 2900
-	}
-
-	aristocrats = {
-		culture = banda
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = banda
+		culture = bakongo
 		religion = sunni
 		size = 50
 	}
 
-	artisans = {
-		culture = banda
+	soldiers = {
+		culture = bakongo
 		religion = sunni
+		size = 15
+	}
+
+	farmers = {
+		culture = bakongo
+		religion = sunni
+		size = 900
+	}
+
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = banda
-		religion = sunni
-		size = 1075
+		culture = bakongo
+		religion = animist
+		size = 75
 	}
 
 	farmers = {
-		culture = banda
-		religion = sunni
-		size = 200
-	}
-	
-	farmers = {
-		culture = banda
+		culture = bakongo
 		religion = animist
-		size = 1200
-	}
-	
-	slaves = {
-		culture = banda
-		religion = animist
-		size = 4000
+		size = 5475
 	}
 
 }

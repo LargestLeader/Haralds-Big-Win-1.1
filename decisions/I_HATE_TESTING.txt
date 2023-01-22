@@ -53,6 +53,23 @@ political_decisions = {
             }
         }
     }
+    CAL_operation = {
+        potential = {
+            tag = CAL
+            always = no
+        }
+        allow = {
+            tag = CAL
+        }
+        effect = {
+            any_owned = {
+                limit = {
+                    is_core = CAL
+                }
+                assimilate = yes
+            }
+        }
+    }
     KOR_operation = {
         potential = {
             tag = KOR
@@ -70,52 +87,21 @@ political_decisions = {
             }
         }
     }
-    CLM_operation = {
-        potential = {
-            tag = CLM
-            always = no
-        }
-        allow = {
-            tag = CLM
-        }
-        effect = {
-            any_owned = {
-                limit = { is_core = CLM }
-                assimilate = yes
-                any_pop = {
-                    reduce_pop = 0.5  
-                }
-            }
-        }
-    }
     INC_operation = {
         potential = {
             tag = INC
             always = no
         }
-        allow = { tag = INC }
+        allow = {
+            tag = INC
+        }
         effect = {
             any_owned = {
-                limit = {
-                    is_core = INC
-                }
-                any_pop = {
-                    reduce_pop = 0.53
-                }
-            }
-            any_owned = {
-                limit = {
-                    any_pop = {
-                        NOT = {
-                            OR = {
-                                has_pop_culture = aimara
-                                has_pop_culture = chimu
-                                has_pop_culture = diaguita
-                            }
-                        }
-                    }
-                }
+                limit = { is_core = INC }
                 assimilate = yes
+                any_pop = {
+                    reduce_pop = 0.5  
+                }
             }
         }
     }

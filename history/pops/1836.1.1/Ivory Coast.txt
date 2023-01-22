@@ -5,7 +5,7 @@
 	aristocrats = {
 		culture = hausa
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	clergymen = {
@@ -29,90 +29,17 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 9000
-	}
-	
-	aristocrats = {
-		culture = ebrie
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = ebrie
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = ebrie
-		religion = animist
-		size = 275
-	}
-
-	soldiers = {
-		culture = ebrie
-		religion = animist
-		size = 275
-	}
-
-	farmers = {
-		culture = ebrie
-		religion = animist
-		size = 5000
-	}
-	
-	aristocrats = {
-		culture = krobu
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = krobu
-		religion = animist
-		size = 27
-	}
-
-	artisans = {
-		culture = krobu
-		religion = animist
-		size = 175
-	}
-
-	soldiers = {
-		culture = krobu
-		religion = animist
-		size = 275
-	}
-
-	farmers = {
-		culture = krobu
-		religion = animist
-		size = 2000
-	}
-	
-	farmers = {
-		culture = aizi
-		religion = animist
-		size = 1000
-	}
-	
-	farmers = {
-		culture = dida
-		religion = animist
-		size = 2875
+		size = 19875
 	}
 
 	slaves = {
-		culture = dida
+		culture = hausa
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Sassandra (282000/47000 POPS)
 1893 = {
-#lagoonic = Lagoonic Languages (placeholder)
 	aristocrats = {
 		culture = hausa
 		religion = animist
@@ -128,7 +55,7 @@
 	artisans = {
 		culture = hausa
 		religion = animist
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
@@ -176,19 +103,13 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 16000
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 6025
+		size = 22025
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 10000
+		size = 11000
 	}
 }
 #Grand Bassam (88000/22000 POPS)
@@ -220,41 +141,11 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 10025
-	}
-	
-	aristocrats = {
-		culture = hausa
-		religion = animist
-		size = 425
-	}
-
-	clergymen = {
-		culture = hausa
-		religion = animist
-		size = 225
-	}
-
-	artisans = {
-		culture = hausa
-		religion = animist
-		size = 1100
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = animist
-		size = 225
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 7025
+		size = 16025
 	}
 
 	slaves = {
-		culture = mbatu
+		culture = hausa
 		religion = animist
 		size = 4000
 	}
@@ -298,31 +189,31 @@
 	}
 
 	aristocrats = {
-		culture = nwa_beng
+		culture = hausa
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = nwa_beng
+		culture = hausa
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = nwa_beng
+		culture = hausa
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = nwa_beng
+		culture = hausa
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = nwa_beng
+		culture = hausa
 		religion = sunni
 		size = 2700
 	}
@@ -386,19 +277,13 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 9025
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 6025
+		size = 15025
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 5000
+		size = 5500
 	}
 }
 #Akoupe (92000/23000 POPS)
@@ -430,13 +315,7 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 15000
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 3150
+		size = 18150
 	}
 
 	slaves = {
@@ -524,20 +403,13 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 10000
+		size = 27375
 	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 35375
-	}
-
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 4000
+		size = 12000
 	}
 }
 #Bundoukou (216000/54000 POPS)
@@ -557,19 +429,19 @@
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 650
+		size = 1650
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 450
+		size = 1450
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 5000
+		size = 20000
 	}
 
 	aristocrats = {
@@ -587,31 +459,25 @@
 	artisans = {
 		culture = hausa
 		religion = animist
-		size = 2050
+		size = 1050
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = animist
-		size = 1225
+		size = 225
 	}
 
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 35000
-	}
-	
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 5125
+		size = 19125
 	}
 
 	slaves = {
 		culture = hausa
 		religion = animist
-		size = 3000
+		size = 9000
 	}
 }
 #Bure Region (340000) #see Mali.txt and Guinea.txt for balance of Region

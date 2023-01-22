@@ -45,7 +45,7 @@
 	}
 	
 	slaves = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 20825
 	}
@@ -119,7 +119,7 @@
 	}
 	
 	farmers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = sunni
 		size = 5000
 	}
@@ -151,25 +151,25 @@
 	}
 	
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 250
 	}
 	
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 900
 	}
 	
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 7000
 	}
@@ -219,25 +219,25 @@
 	}
 	
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = sunni
 		size = 100
 	}
 	
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = sunni
 		size = 4000
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = sunni
 		size = 16700
 	}
@@ -287,25 +287,25 @@
 	}
 	
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = sunni
 		size = 25
 	}
 	
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = sunni
 		size = 8700
 	}
@@ -332,25 +332,25 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 	
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 900
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 10200
 	}
@@ -376,25 +376,25 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 	
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 900
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 10800
 	}
@@ -420,19 +420,19 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 380
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 25800
 	}
@@ -496,7 +496,7 @@
 	}
 
 	slaves = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 5000
 	}
@@ -534,13 +534,13 @@
 	}
 
 	clergymen = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = sunni
 		size = 7300
 	}
@@ -610,7 +610,7 @@
 	}
 
 	farmers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = sunni
 		size = 6000
 	}
@@ -706,73 +706,73 @@
 #Santa Esperitu (8000/2000 POPS)
 2361 = {
 	aristocrats = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 825
 	}
 
 	farmers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 8000
 	}
 	
 	aristocrats = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = animist
 		size = 825
 	}
 
 	farmers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = animist
 		size = 5000
 	}
 	
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 7000
 	}
@@ -780,61 +780,61 @@
 #Reconquista (56000/14000 POPS)
 2362 = {
 	aristocrats = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 1150
 	}
 
 	farmers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 4000
 	} 
 	
 	aristocrats = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	officers = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 80
 	}
 	
 	clergymen = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 175
 	}
 
 	soldiers = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 1450
 	}
 
 	farmers = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 14000
 	} 
@@ -842,25 +842,25 @@
 #Rosario (8000/2000 POPS)
 2363 = {
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 80
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 6900
 	}
@@ -890,7 +890,7 @@
 	}
 	
 	farmers = {
-		culture = charruan_minor
+		culture = mapuche
 		religion = animist
 		size = 2200
 	}
@@ -900,49 +900,49 @@
 #Resistencia (16000/4000 POPS)
 2364 = {
 	aristocrats = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = abipon
+		culture = mapuche
 		religion = animist
 		size = 10800
 	}
 
 	bureaucrats = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 8
 	}
 
 	clergymen = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 92
 	}
 
 	soldiers = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 4800
 	}
@@ -950,43 +950,43 @@
 #Villa Angela (16000/4000 POPS)
 2365 = {
 	aristocrats = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 10800
 	}
 
 	clergymen = {
-		culture = vilela
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = vilela
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = vilela
+		culture = mapuche
 		religion = animist
 		size = 3600
 	}
@@ -1075,25 +1075,25 @@
 	}
 	
 	aristocrats = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 650
 	}
 
 	farmers = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 3150
 	}
@@ -1103,61 +1103,61 @@
 #Santa Rosa - Former Bechar (20000/5000 POPS)
 1714 = {
     aristocrats = {
-		culture = quechua
+		culture = maghrebi
 		religion = inti
 		size = 75
 	}
 
 	bureaucrats = {
-		culture = quechua
+		culture = maghrebi
 		religion = inti
 		size = 15
 	}
 
 	officers = {
-		culture = quechua
+		culture = maghrebi
 		religion = inti
 		size = 10
 	}
 
 	clergymen = {
-		culture = quechua
+		culture = maghrebi
 		religion = inti
 		size = 50
 	}
 
 	artisans = {
-		culture = quechua
+		culture = maghrebi
 		religion = inti
 		size = 1000
 	}
 
 	soldiers = {
-		culture = quechua
+		culture = maghrebi
 		religion = inti
 		size = 50
 	}
 
 	farmers = {
-		culture = quechua
+		culture = maghrebi
 		religion = inti
 		size = 5400
 	}
 	
 	farmers = {
-		culture = pukina
+		culture = maghrebi
 		religion = inti
 		size = 16000
 	}
 	
 	artisans = {
-		culture = aimara
+		culture = maghrebi
 		religion = inti
 		size = 1000
 	}
 	
 	farmers = {
-		culture = aimara
+		culture = maghrebi
 		religion = inti
 		size = 15000
 	}
@@ -1414,7 +1414,7 @@
 	}
 	
 	farmers = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 400
 	}
@@ -1466,7 +1466,7 @@
 	}
 
 	farmers = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 2000
 	}
@@ -1474,49 +1474,49 @@
 #Catamarca (12000/3000 POPS)
 2374 = {
 	aristocrats = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 28000
 	}
 	
 	aristocrats = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 14000
 	}
@@ -1558,43 +1558,43 @@
 #Santiago del Estero (16000/4000 POPS)
 2376 = {
 	aristocrats = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 40
 	}
 
 	officers = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 40
 	}
 
 	clergymen = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 2200
 	}
 
 	farmers = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 7000
 	}
 	
 	farmers = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 3020
 	}
@@ -1602,49 +1602,49 @@
 #Anatuya (16000/4000 POPS)
 2377 = {
 	clergymen = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = lule
+		culture = mapuche
 		religion = animist
 		size = 3600
 	}
 
 	aristocrats = {
-		culture = vilela
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = vilela
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = vilela
+		culture = mapuche
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = vilela
+		culture = mapuche
 		religion = animist
 		size = 7000
 	}
 	
 	farmers = {
-		culture = wichi
+		culture = mapuche
 		religion = animist
 		size = 2800
 	}
@@ -1652,49 +1652,49 @@
 #Mailin (8000/2000 POPS)
 2378 = {
 	aristocrats = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 1025
 	}
 
 	farmers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 4500
 	}
 	
 	aristocrats = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 1025
 	}
 
 	farmers = {
-		culture = tonocote
+		culture = mapuche
 		religion = animist
 		size = 3300
 	}
@@ -1704,73 +1704,73 @@
 #Cordoba de Argentina (84000/21000 POPS)
 2379 = {
 	aristocrats = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 425
 	}
 
 	bureaucrats = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 40
 	}
 
 	officers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 1000
 	}
 
 	soldiers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 5000
 	}
 
 	farmers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 36300
 	}
 	
 	aristocrats = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 125
 	}
 	
 	clergymen = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 6300
 	}
@@ -1778,49 +1778,49 @@
 #Villa Nueva (8000/2000 POPS)
 2380 = {
 	aristocrats = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 1125
 	}
 
 	farmers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 3400
 	}
 	
 	aristocrats = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 1125
 	}
 
 	farmers = {
-		culture = sanaviron
+		culture = mapuche
 		religion = animist
 		size = 5400
 	}
@@ -1828,73 +1828,73 @@
 #Rio Cuarto (8000/2000 POPS)
 2381 = {
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 40
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 6400
 	}
 	
 	aristocrats = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 80
 	}
 
 	clergymen = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 2500
 	}
 	
 	aristocrats = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 260
 	}
 
 	soldiers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 6500
 	}
@@ -1902,25 +1902,25 @@
 #San Luis (8000/2000 POPS)
 2383 = {
 	aristocrats = {
-		culture = huarpe
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = huarpe
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = huarpe
+		culture = mapuche
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = huarpe
+		culture = mapuche
 		religion = animist
 		size = 7200
 	}
@@ -1947,25 +1947,25 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 900
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 10800
 	}
@@ -1973,61 +1973,61 @@
 #Mercedes (8000/2000 POPS)
 2384 = {
 	clergymen = {
-		culture = pewenche
+		culture = mapuche
 		religion = inti
 		size = 100
 	}
 
 	soldiers = {
-		culture = pewenche
+		culture = mapuche
 		religion = inti
 		size = 500
 	}
 
 	farmers = {
-		culture = pewenche
+		culture = mapuche
 		religion = inti
 		size = 9600
 	}
 	
 	clergymen = {
-		culture = chiquiyan
+		culture = mapuche
 		religion = inti
 		size = 100
 	}
 
 	soldiers = {
-		culture = chiquiyan
+		culture = mapuche
 		religion = inti
 		size = 500
 	}
 
 	farmers = {
-		culture = chiquiyan
+		culture = mapuche
 		religion = inti
 		size = 6100
 	}
 
 	aristocrats = {
-		culture = huarpe
+		culture = mapuche
 		religion = inti
 		size = 40
 	}
 
 	clergymen = {
-		culture = huarpe
+		culture = mapuche
 		religion = inti
 		size = 100
 	}
 
 	soldiers = {
-		culture = huarpe
+		culture = mapuche
 		religion = inti
 		size = 500
 	}
 
 	farmers = {
-		culture = huarpe
+		culture = mapuche
 		religion = inti
 		size = 3000
 	}
@@ -2073,7 +2073,7 @@
 	}
 
 	farmers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 2800
 	}
@@ -2081,25 +2081,25 @@
 #Santa Rita (8000/2000 POPS)
 2386 = {
 	aristocrats = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 825
 	}
 
 	farmers = {
-		culture = comechingon
+		culture = mapuche
 		religion = animist
 		size = 9000
 	}
@@ -2131,7 +2131,7 @@
 	}
 
 	farmers = {
-		culture = huarpe
+		culture = mapuche
 		religion = inti
 		size = 8000
 	}
@@ -2191,31 +2191,31 @@
 	}
 
 	farmers = {
-		culture = huarpe
+		culture = mapuche
 		religion = inti
 		size = 7000
 	}
 
 	aristocrats = {
-		culture = chiquiyan
+		culture = mapuche
 		religion = inti
 		size = 50
 	}
 
 	clergymen = {
-		culture = chiquiyan
+		culture = mapuche
 		religion = inti
 		size = 75
 	}
 
 	soldiers = {
-		culture = chiquiyan
+		culture = mapuche
 		religion = inti
 		size = 200
 	}
 
 	farmers = {
-		culture = chiquiyan
+		culture = mapuche
 		religion = inti
 		size = 2060
 	}
@@ -2223,31 +2223,31 @@
 #San Rafael (8000/2000 POPS)
 2390 = {
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-	    culture = patagonian
+	    culture = mapuche
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 4000
 	}
 	
 	farmers = {
-		culture = huarpe
+		culture = mapuche
 		religion = animist
 		size = 3600
 	}
@@ -2256,43 +2256,43 @@
 #Neuquen (12000/3000 POPS)
 2391 = {
 	clergymen = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 900
 	}
 
 	aristocrats = {
-		culture = pewenche
+		culture = mapuche
 		religion = inti
 		size = 25
 	}
 
 	clergymen = {
-		culture = pewenche
+		culture = mapuche
 		religion = inti
 		size = 50
 	}
 
 	soldiers = {
-		culture = pewenche
+		culture = mapuche
 		religion = inti
 		size = 125
 	}
 
 	farmers = {
-		culture = pewenche
+		culture = mapuche
 		religion = inti
 		size = 3400
 	}
@@ -2302,25 +2302,25 @@
 #Viedma (12000/3000 POPS)
 2392 = {
 	aristocrats = {
-		culture = pwelche
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = pwelche
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = pwelche
+		culture = mapuche
 		religion = animist
 		size = 700
 	}
 
 	farmers = {
-		culture = pwelche
+		culture = mapuche
 		religion = animist
 		size = 10800
 	}
@@ -2328,25 +2328,25 @@
 #Telen (12000/3000 POPS)
 2393 = {
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 160
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 1000
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 10600
 	}
@@ -2378,43 +2378,43 @@
 #Bariloche (16000/4000 POPS)
 2394 = {
 	clergymen = {
-		culture = pewenche
+		culture = mapuche
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = pewenche
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = pewenche
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	aristocrats = {
-		culture = pwelche
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = pwelche
+		culture = mapuche
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = pwelche
+		culture = mapuche
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = pwelche
+		culture = mapuche
 		religion = animist
 		size = 4275
 	}
@@ -2422,25 +2422,25 @@
 #Curaco (12000/3000 POPS)
 2395 = {
 	aristocrats = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 700
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = mapuche
 		religion = animist
 		size = 10800
 	}
@@ -2450,25 +2450,25 @@
 #Rawson (4000/1000 POPS)
 2396 = {
 	aristocrats = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 30
 	}
 
 	clergymen = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 80
 	}
 
 	soldiers = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 230
 	}
 
 	farmers = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 3000
 	}
@@ -2476,25 +2476,25 @@
 #Esquel (4000/1000 POPS)
 2397 = {
 	aristocrats = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 30
 	}
 
 	clergymen = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 195
 	}
 
 	farmers = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 2700
 	}
@@ -2502,49 +2502,49 @@
 #Puerto Deseado (4000/1000 POPS)
 2398 = {
     aristocrats = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 30
 	}
 
 	clergymen = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 195
 	}
 
 	farmers = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 2700
 	}
 	
 	aristocrats = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 65
 	}
 
 	farmers = {
-		culture = teushen
+		culture = mapuche
 		religion = animist
 		size = 900
 	}
@@ -2552,25 +2552,25 @@
 #Rio Gallegos (4000/1000 POPS)
 2399 = {
     aristocrats = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 40
 	}
 
 	clergymen = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 260
 	}
 
 	farmers = {
-		culture = tehuelche
+		culture = mapuche
 		religion = animist
 		size = 3600
 	}
@@ -2578,49 +2578,49 @@
 #Rio Grande (4000/1000 POPS)
 2400 = {
 	aristocrats = {
-		culture = ona
+		culture = mapuche
 		religion = animist
 		size = 30
 	}
 
 	clergymen = {
-		culture = ona
+		culture = mapuche
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = ona
+		culture = mapuche
 		religion = animist
 		size = 195
 	}
 
 	farmers = {
-		culture = ona
+		culture = mapuche
 		religion = animist
 		size = 2700
 	}
 	
 	aristocrats = {
-		culture = haush
+		culture = mapuche
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = haush
+		culture = mapuche
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = haush
+		culture = mapuche
 		religion = animist
 		size = 65
 	}
 
 	farmers = {
-		culture = haush
+		culture = mapuche
 		religion = animist
 		size = 900
 	}

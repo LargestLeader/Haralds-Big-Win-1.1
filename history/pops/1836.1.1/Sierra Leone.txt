@@ -2,22 +2,34 @@
 #uncolonized in 1836/Britain has trade post in 1836
 #Freetown (400000/100000 POPS) 
 1884 = {
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 250
+	}
+
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 4700
+	}
+
 	aristocrats = {
 		culture = hausa
 		religion = sunni
 		size = 675
 	}
-	
-	officers = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
 
 	clergymen = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 350
 	}
 
 	artisans = {
@@ -35,7 +47,7 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 32125
+		size = 31975
 	}
 
 	aristocrats = {
@@ -43,113 +55,59 @@
 		religion = sunni
 		size = 875
 	}
-	
-	officers = {
-		culture = hausa
-		religion = sunni
-		size = 100
-	}
 
 	clergymen = {
 		culture = hausa
 		religion = sunni
-		size = 80
+		size = 450
 	}
 
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 1500
+		size = 2300
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 2050
-	}
-
-	farmers = {
-		culture = hausa
-		religion = sunni
-		size = 28275
-	}
-	
-	clergymen = {
-		culture = hausa
-		religion = animist
-		size = 20
-	}
-
-	artisans = {
-		culture = hausa
-		religion = animist
-		size = 800
-	}
-
-	soldiers = {
-		culture = hausa
-		religion = animist
-		size = 1000
-	}
-
-	farmers = {
-		culture = hausa
-		religion = animist
-		size = 12000
-	}
-	
-	clergymen = {
-		culture = sherbo
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = sherbo
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = sherbo
-		religion = animist
 		size = 450
 	}
 
 	farmers = {
-		culture = sherbo
-		religion = animist
-		size = 11275
+		culture = hausa
+		religion = sunni
+		size = 42025
 	}
 
 	aristocrats = {
-		culture = bom
+		culture = hausa
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = bom
+		culture = hausa
 		religion = animist
-		size = 100
+		size = 150
 	}
 
 	artisans = {
-		culture = bom
+		culture = hausa
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = bom
+		culture = hausa
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = bom
+		culture = hausa
 		religion = animist
-		size = 8800
+		size = 12750
 	}
 }
 #uncolonized in 1836
@@ -164,7 +122,7 @@
 	clergymen = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 475
 	}
 
 	artisans = {
@@ -182,7 +140,7 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 46650
+		size = 36275
 	}
 
 	aristocrats = {
@@ -194,7 +152,7 @@
 	clergymen = {
 		culture = hausa
 		religion = animist
-		size = 100
+		size = 400
 	}
 
 	artisans = {
@@ -212,11 +170,11 @@
 	farmers = {
 		culture = hausa
 		religion = animist
-		size = 27675
+		size = 37375
 	}
 
 	slaves = {
-		culture = kissi
+		culture = hausa
 		religion = animist
 		size = 7000
 	}
@@ -234,7 +192,7 @@
 	clergymen = {
 		culture = hausa
 		religion = sunni
-		size = 100
+		size = 475
 	}
 
 	artisans = {
@@ -252,85 +210,73 @@
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 46600
+		size = 36225
 	}
 
 	aristocrats = {
-		culture = limba
+		culture = hausa
 		religion = sunni
 		size = 800
 	}
 
 	clergymen = {
-		culture = limba
+		culture = hausa
 		religion = sunni
-		size = 100
+		size = 400
 	}
 
 	artisans = {
-		culture = limba
+		culture = hausa
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = limba
+		culture = hausa
 		religion = sunni
 		size = 425
 	}
 
 	farmers = {
-		culture = limba
+		culture = hausa
 		religion = sunni
-		size = 17025
+		size = 31725
 	}
 
 	aristocrats = {
-		culture = dyula
+		culture = hausa
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = dyula
+		culture = hausa
 		religion = animist
-		size = 100
+		size = 75
 	}
 
 	artisans = {
-		culture = dyula
+		culture = hausa
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = dyula
+		culture = hausa
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = dyula
+		culture = hausa
 		religion = animist
-		size = 12300
+		size = 7300
 	}
 
 	slaves = {
-		culture = yalunka
-		religion = animist
-		size = 5000
-	}
-	
-	slaves = {
 		culture = hausa
 		religion = animist
-		size = 4000
-	}
-	
-	slaves = {
-		culture = hausa
-		religion = animist
-		size = 4000
+		size = 13000
 	}
 
 }

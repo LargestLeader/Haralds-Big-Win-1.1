@@ -405,7 +405,7 @@
 	}
 
 	slaves = {
-		culture = swahili 
+		culture = amhara 
 		religion = animist
 		size = 1000
 	}
@@ -468,7 +468,7 @@
 	}
 
 	slaves = {
-		culture = swahili
+		culture = amhara
 		religion = animist
 		size = 1000
 	}

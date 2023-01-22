@@ -1,6 +1,5 @@
 capital = 1848
-primary_culture = tigrinya
-culture = tigray
+primary_culture = amhara
 religion = coptic
 government = absolute_monarchy
 plurality = 5.0
