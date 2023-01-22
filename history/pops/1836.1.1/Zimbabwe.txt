@@ -225,31 +225,31 @@
 	}
 
 	aristocrats = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 815
 	}
 
 	farmers = {
-		culture = sena
+		culture = zulu
 		religion = animist
 		size = 5800
 	}
