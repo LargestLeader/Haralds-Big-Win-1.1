@@ -1,7 +1,9 @@
 owner = EIC
 controller = EIC
 add_core = HYD
+add_core = HND
 add_core = MYS
+add_core = HND
 add_core = KRN
 add_core = HND
 trade_goods = cotton

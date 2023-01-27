@@ -1,7 +1,9 @@
 owner = NAG
 controller = NAG
 add_core = NAG
+add_core = HND
 add_core = MAH
 add_core = MYS
+add_core = HND
 trade_goods = fruit
 life_rating = 32

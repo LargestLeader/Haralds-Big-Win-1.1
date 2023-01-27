@@ -1,0 +1,56 @@
+political_decisions = {
+    form_india = {
+        potential = {
+            NOT = { exists = HND }
+            OR = {
+                primary_culture = rajput
+                primary_culture = bengali
+                primary_culture = telegu
+                primary_culture = tamil
+                primary_culture = hindi
+            }
+        }
+        allow = {
+            civilized = yes
+            war = no
+            HND = { 
+                all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+        }
+        effect = {
+            prestige = 25
+            change_tag = HND
+            add_accepted_culture = rajput
+            add_accepted_culture = bengali
+            add_accepted_culture = telegu
+            add_accepted_culture = tamil
+            add_accepted_culture = hindi
+            any_country = {
+                limit = {
+                    in_sphere = THIS
+                    OR = {
+                        primary_culture = rajput
+                        primary_culture = bengali
+                        primary_culture = telegu
+                        primary_culture = tamil
+                        primary_culture = hindi
+                        tag = MYS
+                        tag = HYD
+                        tag = TRA
+                    }
+                    NOT = {
+						tag = THIS
+					}
+                }
+                country_event = { id=11101 days=0 }
+            }
+        }
+    }
+}
