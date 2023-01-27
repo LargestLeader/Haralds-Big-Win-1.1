@@ -38,6 +38,7 @@ political_decisions = {
             2192 = { add_core = FDA }
             2193 = { add_core = FDA }
             2196 = { add_core = FDA }
+            add_accepted_culture = central_american
             set_country_flag = victoryius
         }
     }

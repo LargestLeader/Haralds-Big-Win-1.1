@@ -25,6 +25,7 @@ political_decisions = {
             2200 = { add_core = CLM }
             2197 = { add_core = CLM }
             2199 = { add_core = CLM }
+            add_accepted_culture = central_american
         }
     }
     shattered_retreat = {
@@ -32,7 +33,6 @@ political_decisions = {
             tag = CLM
             has_country_flag = borderssecured
             NOT = { has_country_flag = crab_rave }
-            2187 = { is _core = FDA } 
         }
         allow = {
             nationalism_n_imperialism = 1
@@ -50,6 +50,7 @@ political_decisions = {
             2193 = { add_core = CLM }
             2196 = { add_core = CLM }
             set_country_flag = crab_rave
+            
         }
     }
     its_mormon_time = {
