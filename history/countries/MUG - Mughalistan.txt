@@ -50,8 +50,10 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
+flintlock_rifles = 1
+foreign_weapons = yes_foreign_weapons
 
 
 set_country_flag = sunni_country
-
+oob = "MUG_oob.txt"
 # Technologies

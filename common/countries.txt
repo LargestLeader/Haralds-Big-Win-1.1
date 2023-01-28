@@ -399,7 +399,8 @@ UMN	    = "countries/Uman.txt"
 GZA	    = "countries/Gazaria.txt"
 
 CRP = "countries/Carpathian Union.txt"
-BRH - "countries/Bruhgundy.txt"
+BRH = "countries/Bruhgundy.txt"
+YUA = "countries/Yuan.txt" 
 
 ##HFM New Nations
 SCL		= "countries/Schaumburg-Lippe.txt"

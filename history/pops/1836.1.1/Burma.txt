@@ -1251,31 +1251,31 @@
 1345 = {
 
 	aristocrats = {
-		culture = rohingya
+		culture = bengali
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = rohingya
+		culture = bengali
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = rohingya
+		culture = bengali
 		religion = sunni
 		size = 2750
 	}
 
 	soldiers = {
-		culture = rohingya
+		culture = bengali
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = rohingya 
+		culture = bengali 
 		religion = sunni
 		size = 14875
 	}
@@ -1329,13 +1329,13 @@
 	}
 
 	clergymen = {
-		culture = rohingya
+		culture = bengali
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = rohingya
+		culture = bengali
 		religion = sunni
 		size = 1950
 	}

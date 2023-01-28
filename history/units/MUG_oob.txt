@@ -1,0 +1,100 @@
+army=
+	{
+		name="The Delhi Garrison"
+		location=1236
+		regiment=
+		{
+			name="1st Agra Cavalry"
+			type=cavalry
+            home = 1240
+		}
+		regiment=
+		{
+			name="2nd Agra Cavalry"
+			type=cavalry
+            home = 1240
+		}
+		regiment=
+		{
+			name="3rd Agra Cavalry"
+			type=cavalry
+            home = 1240
+		}
+		regiment=
+		{
+			name="Cannons of the Sultan"
+			type=artillery
+            home = 1241
+		}
+		regiment=
+		{
+			name="1st Lucknow Cavalry"
+			type=cavalry
+            home = 1242
+		}
+		regiment=
+		{
+			name="1st Delhi Infantry"
+			type=infantry
+            home = 1236
+		}
+		regiment=
+		{
+			name="2nd Delhi Infantry"
+			type=infantry
+            home = 1236
+		}
+		regiment=
+		{
+			name="1st Panipat Infantry"
+			type=infantry
+            home = 1237
+		}
+		regiment=
+		{
+			name="2nd Panipat Infantry"
+			type=infantry
+            home = 1237
+		}
+		regiment=
+		{
+			name="1st Cawnpore Infantry"
+			type=infantry
+            home = 1241
+		}
+	}
+	army=
+	{
+		name="Central India Garrison"
+		location=1273
+		regiment=
+		{
+			name="1st Allahabad Cavalry"
+			type=cavalry
+            home = 1243
+		}
+		regiment=
+		{
+			name="2nd Cawnpore Infantry"
+			type=infantry
+            home = 1241
+		}
+		regiment=
+		{
+			name="1st Lucknow Infantry"
+			type=infantry
+            home = 1242
+		}
+		regiment=
+		{
+			name="1st Agra Infantry"
+			type=infantry
+            home = 1240
+		}
+		regiment=
+		{
+			name="2nd Agra Infantry"
+			type=infantry
+            home = 1240
+		}
+	}

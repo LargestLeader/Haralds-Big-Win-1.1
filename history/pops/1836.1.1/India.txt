@@ -3724,31 +3724,31 @@
 	}
 	
 	aristocrats = {
-		culture = rohingya 
+		culture = bengali 
 		religion = sunni
 		size = 2000
 	}
 
 	clergymen = {
-		culture = rohingya 
+		culture = bengali 
 		religion = sunni
 		size = 2000
 	}
 	
 	artisans = {
-		culture = rohingya 
+		culture = bengali 
 		religion = sunni
 		size = 10000
 	}
 
 	soldiers = {
-		culture = rohingya 
+		culture = bengali 
 		religion = sunni
 		size = 3000
 	}
 
 	farmers = {
-		culture = rohingya 
+		culture = bengali 
 		religion = sunni
 		size = 243000
 	}
