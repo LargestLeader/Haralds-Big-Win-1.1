@@ -5,19 +5,19 @@
 	aristocrats = {
 		culture = levantine
 		religion = sunni
-		size = 75
+		size = 175
 	}
 
 	clergymen = {
 		culture = levantine
 		religion = sunni
-		size = 50
+		size = 100
 	}
 
 	artisans = {
 		culture = levantine
 		religion = sunni
-		size = 250
+		size = 450
 	}
 
 	soldiers = {
@@ -29,79 +29,79 @@
 	farmers = {
 		culture = levantine
 		religion = sunni
-		size = 4575
+		size = 10575
 	}
 
 	clergymen = {
 		culture = levantine
 		religion = coptic
-		size = 25
+		size = 55
 	}
 
 	artisans = {
 		culture = levantine
 		religion = coptic
-		size = 100
-	}
-
-	farmers = {
-		culture = levantine
-		religion = coptic
-		size = 1875
-	}
-
-	clergymen = {
-		culture = levantine
-		religion = druze
-		size = 50
-	}
-
-	artisans = {
-		culture = levantine
-		religion = druze
 		size = 200
 	}
 
 	farmers = {
 		culture = levantine
-		religion = druze
-		size = 3750
+		religion = coptic
+		size = 3875
 	}
 
 	clergymen = {
 		culture = levantine
-		religion = shiite
-		size = 50
+		religion = druze
+		size = 100
 	}
 
 	artisans = {
+		culture = levantine
+		religion = druze
+		size = 400
+	}
+
+	farmers = {
+		culture = levantine
+		religion = druze
+		size = 7750
+	}
+
+	clergymen = {
 		culture = levantine
 		religion = shiite
 		size = 100
 	}
 
+	artisans = {
+		culture = levantine
+		religion = shiite
+		size = 200
+	}
+
 	farmers = {
 		culture = levantine
 		religion = shiite
-		size = 1850
+		size = 2850
 	}
 	
 	clergymen = {
 		culture = levantine
 		religion = jewish
-		size = 25
+		size = 55
 	}
 
 	artisans = {
 		culture = levantine
 		religion = jewish
-		size = 50
+		size = 150
 	}
 
 	farmers = {
 		culture = levantine
 		religion = jewish
-		size = 925
+		size = 1925
 	}
 }
 #Palestine Region (236000)  #see Jordan.txt for balance of region
@@ -111,79 +111,79 @@
 	aristocrats = {
 		culture = levantine
 		religion = sunni
-		size = 200
+		size = 2000
 	}
 
 	bureaucrats = {
 		culture = levantine
 		religion = sunni
-		size = 50
+		size = 500
 	}
 
 	officers = {
 		culture = levantine
 		religion = sunni
-		size = 75
+		size = 750
 	}
 
 	clergymen = {
 		culture = levantine
 		religion = sunni
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = levantine
 		religion = sunni
-		size = 2300
+		size = 23000
 	}
 
 	soldiers = {
 		culture = levantine
 		religion = sunni
-		size = 175
+		size = 1750
 	}
 
 	farmers = {
 		culture = levantine
 		religion = sunni
-		size = 8100
+		size = 81000
 	}
 
 	clergymen = {
 		culture = levantine
 		religion = coptic
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = levantine
 		religion = coptic
-		size = 825
+		size = 8250
 	}
 
 	farmers = {
 		culture = levantine
 		religion = coptic
-		size = 3100
+		size = 31000
 	}
 	
 	clergymen = {
 		culture = levantine
 		religion = jewish
-		size = 50
+		size = 500
 	}
 
 	artisans = {
 		culture = levantine
 		religion = jewish
-		size = 875
+		size = 8750
 	}
 
 	farmers = {
 		culture = levantine
 		religion = jewish
-		size = 1175
+		size = 11750
 	}
 }
 #Nablus (44000/11000 POPS)

@@ -1,0 +1,18 @@
+political_decisions = {
+    no_more_scilians = {
+        potential = {
+            tag = ITA
+            NOT = { has_accepted_culture = greek }
+        }
+        allow = {
+            year = 1860
+            owns = 759
+            owns = 763
+            owns = 762
+            owns = 764
+        }
+        effect = {
+            add_accepted_culture = greek
+        }
+    }
+}

@@ -1,7 +1,6 @@
 owner = OMA
 controller = OMA
 add_core = OMA
-add_core = ABB
 add_core = ABU
 trade_goods = grain
 terrain = mountain

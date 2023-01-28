@@ -37,12 +37,6 @@
 		religion = sunni
 		size = 35050
 	}
-	
-	soldiers = {
-		culture = turkmen
-		religion = sunni
-		size = 1200
-	}
 
 	farmers = {
 		culture = turkmen
@@ -107,12 +101,6 @@
 		religion = sunni
 		size = 1150
 	}
-
-	soldiers = {
-		culture = turkmen
-		religion = sunni
-		size = 3000
-	}
 	
 	farmers = {
 		culture = turkmen
@@ -123,7 +111,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 1000
+		size = 500
 	}
 
 	farmers = {
@@ -219,13 +207,7 @@
 		religion = sunni
 		size = 4300
 	}
-
-	soldiers = {
-		culture = turkmen
-		religion = sunni
-		size = 1000
-	}
-
+	
 	farmers = {
 		culture = turkmen
 		religion = sunni
@@ -416,7 +398,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 5000
+		size = 2000
 	}
 
 	farmers = {
@@ -452,7 +434,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 1125
+		size = 525
 	}
 
 	farmers = {
@@ -515,7 +497,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 3000
+		size = 1500
 	}
 
 	farmers = {
@@ -546,12 +528,6 @@
 		culture = turkmen
 		religion = sunni
 		size = 23300
-	}
-
-	soldiers = {
-		culture = turkmen
-		religion = sunni
-		size = 1050
 	}
 
 	farmers = {
@@ -619,7 +595,7 @@
 	soldiers = {
 		culture = turkmen
 		religion = sunni
-		size = 1100
+		size = 500
 	}
 
 	farmers = {

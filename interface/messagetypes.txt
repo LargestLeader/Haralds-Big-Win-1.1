@@ -1,0 +1,4751 @@
+file_version=5
+WEGAINCB=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+REVOLTALLIANCE=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WAR_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WAR_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=yes
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WAR_OTHER_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+WARGOAL_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WARGOAL_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=yes
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WARGOAL_OTHER_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+SIEGEOVER=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_combat"
+}
+}
+SIEGEUS=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+}
+SIEGEUSREBEL=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_combat"
+}
+}
+SIEGETHEM=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_combat"
+}
+}
+SIEGETHEMREBEL=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_combat"
+}
+}
+COLONY_SUCCESS=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+}
+COLONY_FAIL=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+}
+COLONY_ABORT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_province"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+}
+SOCREFORM=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+SOCREFORM_BAD=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+POLREFORM=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+POLREFORM_BAD=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+ECONOMICREFORM=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+ECONOMICREFORM_BAD=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+MILITARYREFORM=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+MILITARYREFORM_BAD=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+SETPARTY=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+UPPERHOUSE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+ELECTIONSTART=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+ELECTIONDONE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+BREAKCOUNTRY=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+BREAKCOUNTRYOTHER=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+ANNEX=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+PEACE_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+PEACE_WE_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+PEACE_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+PEACE_THEY_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+PEACE_OTHER_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+PEACE_OTHER_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+PARTISANS=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+}
+TRANSFEREDSUBUNIT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+}
+WE_MOBILIZE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+}
+OTHER_MOBILIZE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+}
+WE_DEMOBILIZE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+}
+OTHER_DEMOBILIZE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+}
+BUILDING_DONE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_province"
+}
+}
+WEDEFECT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_province"
+}
+}
+THEYDEFECT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_province"
+}
+}
+OTHERDEFECT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_province"
+}
+}
+EVENTHAPPENOTHER=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+EVENTHAPPENOTHEROPTION=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+MAJOREVENTHAPPENOTHER=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+MAJOREVENTHAPPENOTHEROPTION=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_events"
+}
+}
+EVENTHAPPENUS=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+INVENTION=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+TECH_ONCE=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+TRIGMOD=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+TRIGMODLOST=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+DISBAND=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+}
+LEADERDIED=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+}
+ATTACKTHEM=
+{
+default=
+{
+	log=no
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=no
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+}
+ATTACKTHEMREBEL=
+{
+default=
+{
+	log=no
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=no
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_combat"
+}
+}
+ATTACKUS=
+{
+default=
+{
+	log=no
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=no
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+}
+ATTACKUSREBEL=
+{
+default=
+{
+	log=no
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=no
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_combat"
+}
+}
+LANDBATTLEOVER=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+}
+NAVALBATTLEOVER=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+}
+CHATMESSAGE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+}
+ALLYTAKEOVER=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+ALLYTAKEOVERWE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+INDEPENDANCE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+SHIPSUNK=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+}
+PROVINCELOST=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_combat"
+}
+}
+NAVALATTACKTHEM=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+}
+NAVALATTACKUS=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_combat"
+}
+}
+UNITARRIVED=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_units"
+}
+}
+DECISIONOTHER=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_events"
+}
+}
+DECISIONUS=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+WE_NO_LONGER_GREAT_POWER=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=yes
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+THEY_NO_LONGER_GREAT_POWER=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+WE_BECAME_GREAT_POWER=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WARSUBSIDIES_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WARSUBSIDIES_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WARSUBSIDIES_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+CANCEL_WARSUBSIDIES_THEY_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCEL_WARSUBSIDIES_WE_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+CANCEL_WARSUBSIDIES_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+ASKMILITARYACCESS_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ASKMILITARYACCESS_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ASKMILITARYACCESS_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+ASKMILITARYACCESS_THEY_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ASKMILITARYACCESS_WE_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ASKMILITARYACCESS_OTHER_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELASKMILITARYACCESS_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELASKMILITARYACCESS_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELASKMILITARYACCESS_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+GIVEMILITARYACCESS_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+GIVEMILITARYACCESS_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+GIVEMILITARYACCESS_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+GIVEMILITARYACCESS_THEY_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+GIVEMILITARYACCESS_WE_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+GIVEMILITARYACCESS_OTHER_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELGIVEMILITARYACCESS_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ALLIANCE_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ALLIANCE_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ALLIANCE_OTHER_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+ALLIANCE_THEY_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ALLIANCE_WE_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ALLIANCE_OTHER_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELALLIANCE_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELALLIANCE_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CANCELALLIANCE_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+CALLALLY_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CALLALLY_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CALLALLY_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+CALLALLY_THEY_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CALLALLY_WE_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CALLALLY_OTHER_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+DISCREDIT_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+DISCREDIT_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+DISCREDIT_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+EXPELADVISORS_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+EXPELADVISORS_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+EXPELADVISORS_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+BANEMBASSY_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BANEMBASSY_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BANEMBASSY_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+INCREASEOPINION_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+INCREASEOPINION_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+INCREASEOPINION_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+DECREASEOPINION_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+DECREASEOPINION_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+DECREASEOPINION_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+ADDTOSPHERE_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ADDTOSPHERE_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+ADDTOSPHERE_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+REMOVEFROMSPHERE_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+REMOVEFROMSPHERE_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+REMOVEFROMSPHERE_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+INCREASERELATION_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+INCREASERELATION_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+INCREASERELATION_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+DECREASERELATION_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+DECREASERELATION_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+DECREASERELATION_OTHER_ACCEPT=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WETARGET_DISCREDIT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WETARGET_EXPELADVISORS=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WETARGET_BANEMBASSY=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WETARGET_DECREASEOPINION=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+WETARGET_REMOVEFROMSPHERE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+INTERVENTION_OUR_SIDE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+INTERVENTION_THEIR_SIDE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+INTERVENTION_OTHER_SIDE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_diplomacy"
+}
+}
+WE_INTERVENED=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BANKRUPTCY=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=yes
+	icon=no
+	categories="cat_other"
+}
+}
+THEY_BANKRUPTCY=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_other"
+}
+}
+GUNBOAT_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+GUNBOAT_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+GUNBOAT_OTHER_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+NEW_PARTY_AVAIL=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_other"
+}
+}
+PARTY_UNAVAIL=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_other"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=yes
+	categories="cat_other"
+}
+}
+GW_DISCOVERED=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=yes
+	icon=no
+	categories="cat_events"
+}
+}
+WAR_GAIN_GW_STATUS=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_events"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+WAR_LOST_GW_STATUS=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=yes
+	categories="cat_events"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_events"
+}
+}
+OUR_CB_DETECTED=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CB_TOWARDS_US_DETECTED=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+OTHERS_CB_DETECTED=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CB_JUSTIFY_NO_LONGER_VALID=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+INVESTED_IN_US=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_OFFER_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_OFFER_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_OFFER_OTHER_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_OFFER_THEY_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_OFFER_WE_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_OFFER_OTHER_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BACK_CRISIS_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BACK_CRISIS_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BACK_CRISIS_OTHER_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BACK_CRISIS_THEY_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BACK_CRISIS_WE_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+BACK_CRISIS_OTHER_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_BACK_DOWN_WE_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_BACK_DOWN_WE_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_BACK_DOWN_THEY_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_BACK_DOWN_THEY_DECLINE=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_BACK_DOWN_OTHER_ACCEPT=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_BACK_DOWN_OTHER_DECLINE=
+{
+default=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=no
+	onmap=no
+	popup=no
+	idle=no
+	option=yes
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_NO_SIDE_PICKED=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_BECAME_WAR=
+{
+default=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=no
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_STARTED=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}
+CRISIS_NOBODY_BACKED=
+{
+default=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+interesting=
+{
+	log=yes
+	onmap=yes
+	popup=yes
+	idle=no
+	option=no
+	pausepopup=no
+	icon=no
+	categories="cat_diplomacy"
+}
+}

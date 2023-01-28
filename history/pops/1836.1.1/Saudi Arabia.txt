@@ -5,79 +5,79 @@
 	aristocrats = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 400
+		size = 1200
 	}
 
 	bureaucrats = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 100
+		size = 300
 	}
 
 	officers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 125
+		size = 325
 	}
 
 	clergymen = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 375
+		size = 975
 	}
 
 	artisans = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 6500
-	}
-
-	soldiers = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 1000
-	}
-
-	farmers = {
 		culture = najdi_arabic
 		religion = sunni
 		size = 18500
 	}
 
-	aristocrats = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 400
-	}
-
-	clergymen = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 1100
-	}
-
 	soldiers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 250
+		size = 3000
 	}
 
 	farmers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 20125
+		size = 56500
+	}
+
+	aristocrats = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 1200
+	}
+
+	clergymen = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 3300
+	}
+
+	soldiers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 650
+	}
+
+	farmers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 60125
 	}
 
 	slaves = {
 		culture = najdi_arabic
 		religion = animist
-		size = 2000
+		size = 6000
 	}
 }
 #Jidda (100000/25000 POPS)
@@ -85,13 +85,81 @@
 	aristocrats = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 350
+		size = 950
 	}
 
 	clergymen = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 175
+		size = 475
+	}
+
+	artisans = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 13500
+	}
+
+	soldiers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 61025
+	}
+
+	aristocrats = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 275
+	}
+
+	artisans = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 9625
+	}
+
+	slaves = {
+		culture = najdi_arabic
+		religion = animist
+		size = 9000
+	}
+}
+#Medina (80000/20000 POPS)
+1153 = {
+	aristocrats = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = najdi_arabic
+		religion = sunni
+		size = 450
 	}
 
 	artisans = {
@@ -103,117 +171,49 @@
 	soldiers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 1000
+		size = 3000
 	}
 
 	farmers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 21025
+		size = 36100
 	}
 
 	aristocrats = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 50
+		size = 275
 	}
 
 	clergymen = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 75
+		size = 275
 	}
 
 	artisans = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	soldiers = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 3625
-	}
-
-	slaves = {
-		culture = najdi_arabic
-		religion = animist
-		size = 3000
-	}
-}
-#Medina (80000/20000 POPS)
-1153 = {
-	aristocrats = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
 		culture = najdi_arabic
 		religion = sunni
 		size = 150
 	}
 
-	artisans = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 1500
-	}
-
-	soldiers = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 1000
-	}
-
 	farmers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 12100
-	}
-
-	aristocrats = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = najdi_arabic
-		religion = sunni
-		size = 3600
+		size = 12200
 	}
 
 	slaves = {
 		culture = najdi_arabic
 		religion = animist
-		size = 2000
+		size = 6000
 	}
 }
 #Tabuk (8000/2000 POPS)
@@ -221,37 +221,37 @@
 	aristocrats = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 25
+		size = 125
 	}
 
 	clergymen = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 25
+		size = 125
 	}
 
 	artisans = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 100
+		size = 300
 	}
 
 	soldiers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 25
+		size = 125
 	}
 
 	farmers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 1000
+		size = 3000
 	}
 	
 	farmers = {
 		culture = najdi_arabic
 		religion = sunni
-		size = 825
+		size = 1825
 	}
 }
 #Abha (56000/14000 POPS)

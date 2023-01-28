@@ -2,7 +2,6 @@ owner = ABB
 controller = ABB
 add_core = ABB
 add_core = SYR
-add_core = TIM
 trade_goods = tobacco
 life_rating = 35
 terrain = hills

@@ -1,6 +1,5 @@
 owner = OMA
 controller = OMA
 add_core = OMA
-add_core = ABB
 trade_goods = grain
 life_rating = 20

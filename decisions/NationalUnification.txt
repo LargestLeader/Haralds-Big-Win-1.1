@@ -216,6 +216,7 @@ political_decisions = {
 			add_accepted_culture = north_italian
 			add_accepted_culture = south_italian
 			add_accepted_culture = venetian
+			add_accepted_culture = sardinian
 			capital = 749
 			VEN = { all_core = { add_core = ITA}}
 		}

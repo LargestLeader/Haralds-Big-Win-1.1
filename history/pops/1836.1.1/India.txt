@@ -84,12 +84,6 @@
 		size = 2000
 	}
 
-	soldiers = {
-		culture = kashmiri
-		religion = sunni
-		size = 3000
-	}
-
 	farmers = {
 		culture = kashmiri
 		religion = sunni
@@ -158,17 +152,11 @@
 	soldiers = {
 		culture = baluchi
 		religion = sunni
-		size = 3000
+		size = 1000
 	}
 
 	soldiers = {
 		culture = baluchi
-		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = ormuri
 		religion = sunni
 		size = 1000
 	}
