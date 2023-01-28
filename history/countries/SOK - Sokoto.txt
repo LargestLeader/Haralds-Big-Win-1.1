@@ -37,15 +37,6 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 foreign_training = yes_foreign_training #Training Methods
-#foreign_training = foreign_training_two
-foreign_weapons = yes_foreign_weapons #Foreign Weapons
-#foreign_weapons = foreign_weapons_two
-military_constructions = yes_military_constructions #Fortification
-#military_constructions = military_constructions_two
-foreign_officers = yes_foreign_officers #Officier Training
-#foreign_officers = foreign_officers_two
-army_schools = yes_army_schools #Army Training
-#army_schools = army_schools_two
 
 ruling_party = SOK_conservative
 upper_house = {
@@ -60,16 +51,6 @@ upper_house = {
 
 set_country_flag = sunni_country
 
-# Technologies
-flintlock_rifles = 1
-#muzzle_loaded_rifles = 1
-post_napoleonic_thought = 1
-#strategic_mobility = 1
-#military_staff_system = 1
-#military_plans = 1
-army_command_principle = 1
-#army_professionalism = 1
-# Inventions
 
 # Starting Consciousness
 consciousness = 0

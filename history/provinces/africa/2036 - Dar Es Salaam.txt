@@ -1,5 +1,6 @@
-owner = KLW
-controller = KLW
+owner = SWE
+controller = SWE
+colonial = 2
 add_core = KLW
 add_core = SWA
 trade_goods = fish

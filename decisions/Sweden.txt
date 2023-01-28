@@ -96,4 +96,24 @@ political_decisions = {
             set_country_flag = take_down_harald
         }
     }
+    swedigasgar = {
+        potential = {
+            tag = SWE
+            NOT = { has_country_flag = swedigasgar }
+        }
+        allow = {
+            state_n_government = 1
+            MAD = {
+                civilized = no
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                }
+            }
+        }
+        effect = {
+            MAD = { annex_to = SWE }
+            set_country_flag = swedigasgar
+        }
+    }
 }

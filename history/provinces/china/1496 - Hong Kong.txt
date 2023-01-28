@@ -1,5 +1,5 @@
-owner = SHN
-controller = SHN
+owner = ABB
+controller = ABB
 add_core = CHI
 add_core = SHN
 trade_goods = tea

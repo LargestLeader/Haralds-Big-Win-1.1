@@ -1,6 +1,6 @@
-owner = MBS
-controller = MBS
-add_core = MBS
+owner = GEL
+controller = GEL
+add_core = GEL
 add_core = SWA
 add_core = SOM
 trade_goods = cattle

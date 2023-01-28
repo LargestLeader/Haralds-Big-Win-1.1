@@ -50,6 +50,9 @@ political_decisions = {
                     is_core = CLM
                 }
                 assimilate = yes
+                any_pop = {
+                    reduce_pop = 0.5
+                }
             }
         }
     }
@@ -155,6 +158,21 @@ political_decisions = {
             any_owned = {
                 limit = { is_core = UCA }
                 assimilate = yes
+            }
+        }
+    }
+    NO_MORE_CANADA = {
+        potential = {
+            tag = CAN
+            always = no
+        }
+        allow = { tag = CAN }
+        effect = {
+            any_owned = {
+                limit = { is_core = CAN }
+                any_pop = {
+                    reduce_pop = 0.4
+                }
             }
         }
     }

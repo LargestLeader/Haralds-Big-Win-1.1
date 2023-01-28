@@ -1,7 +1,5 @@
 capital = 1283
-primary_culture = persian
-culture = hindi
-culture = telegu
+primary_culture = telegu
 religion = shiite
 government = absolute_monarchy
 plurality = 0.0
@@ -52,12 +50,7 @@ upper_house = {
 }
 
 set_country_flag = sunni_country
-foreign_artillery = yes_foreign_artillery
-foreign_weapons = yes_foreign_weapons
 
-# Technologies
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
 
 # Inventions
 

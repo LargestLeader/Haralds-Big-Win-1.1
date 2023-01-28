@@ -188,12 +188,6 @@
 		size = 400
 	}
 
-	craftsmen = {
-		culture = scottish
-		religion = protestant
-		size = 8000
-	}
-
 	artisans = {
 		culture = british
 		religion = protestant
@@ -224,11 +218,6 @@
 		size = 100
 	}
 
-	craftsmen = {
-		culture = scottish
-		religion = catholic
-		size = 1500
-	}
 
 	artisans = {
 		culture = scottish
@@ -309,7 +298,7 @@
 	craftsmen = {
 		culture = scottish
 		religion = protestant
-		size = 25000
+		size = 20000
 	}
 
 	artisans = {
@@ -357,7 +346,7 @@
 	craftsmen = {
 		culture = scottish
 		religion = catholic
-		size = 20000
+		size = 10000
 	}
 }
 #Dumfries (168000/42000 POPS) 
@@ -650,7 +639,7 @@
 	craftsmen = {
 		culture = englisk
 		religion = protestant
-		size = 30000
+		size = 15000
 	}
 
 	artisans = {
@@ -748,7 +737,7 @@
 	craftsmen = {
 		culture = englisk
 		religion = protestant
-		size = 22500
+		size = 15500
 	}
 
 	artisans = {
@@ -862,7 +851,7 @@
 	craftsmen = {
 		culture = englisk
 		religion = protestant
-		size = 10000
+		size = 3000
 	}
 	artisans = {
 		culture = englisk
@@ -1011,7 +1000,7 @@
 	craftsmen = {
 		culture = englisk
 		religion = protestant
-		size = 25000
+		size = 15000
 	}
 	officers = {
 		culture = englisk
@@ -1098,7 +1087,7 @@
 	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 16000
+		size = 6000
 	}
 
 	artisans = {
@@ -1245,12 +1234,6 @@
 		size = 1100
 	}
 
-	craftsmen = {
-		culture = british
-		religion = protestant
-		size = 3500
-	}
-
 	artisans = {
 		culture = british
 		religion = protestant
@@ -1312,7 +1295,7 @@
 	craftsmen = {
 		culture = englisk
 		religion = protestant
-		size = 5000
+		size = 2000
 	}
 
 	artisans = {
@@ -1676,7 +1659,7 @@
 	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 12000
+		size = 6000
 	}
 
 	artisans = {
@@ -1726,7 +1709,7 @@
 	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 12000
+		size = 6000
 	}
 
 	soldiers = {
@@ -1769,7 +1752,7 @@
 	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 12000
+		size = 10000
 	}
 
 	labourers = {
@@ -1861,7 +1844,7 @@
 	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 11600
+		size = 8600
 	}
 	
 	artisans = {

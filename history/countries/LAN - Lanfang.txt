@@ -52,7 +52,7 @@ upper_house = {
 }
 
 govt_flag = {
-	government = colonial_company
+	government = absolute_monarchy
 	flag = democracy
 	
 	government = dominion

@@ -1,7 +1,7 @@
 capital = 101
 primary_culture = mexicain
 religion = catholic
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.1
 nationalvalue = nv_liberty
 literacy = 0.50

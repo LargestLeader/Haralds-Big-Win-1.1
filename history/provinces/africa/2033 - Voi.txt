@@ -1,5 +1,6 @@
-owner = MBS
-controller = MBS
+owner = SWE
+controller = SWE
+colonial = 2
 add_core = MBS
 add_core = SWA
 trade_goods = grain

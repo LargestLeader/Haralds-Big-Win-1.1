@@ -42,7 +42,7 @@ political_parties = underground_parties
 
 
 govt_flag = {
-	government = colonial_company
+	government = absolute_monarchy
 	flag = theocracy
 }
 

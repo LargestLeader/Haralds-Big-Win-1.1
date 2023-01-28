@@ -1,5 +1,5 @@
-owner = AGC
-controller = AGC
+owner = SWE
+controller = SWE
 add_core = AGC
 add_core = SWA
 trade_goods = grain

@@ -41,9 +41,6 @@ political_decisions = {
                         primary_culture = telegu
                         primary_culture = tamil
                         primary_culture = hindi
-                        tag = MYS
-                        tag = HYD
-                        tag = TRA
                     }
                     NOT = {
 						tag = THIS

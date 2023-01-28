@@ -621,7 +621,6 @@ categories =  {
 		farm_rgo_eff = -0.4
 		mine_rgo_size = 0.0
 		mine_rgo_eff = -0.2
-		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
 		attrition = 2
@@ -2889,7 +2888,6 @@ categories =  {
 		farm_rgo_eff = 0.0
 		mine_rgo_size = -0.5
 		mine_rgo_eff = 0.0
-		min_build_naval_base = 4
 		supply_limit = 10
 	}
 	
@@ -3024,7 +3022,6 @@ categories =  {
 		mine_rgo_size = -0.0
 		mine_rgo_eff = -0.2
 		
-		min_build_naval_base = 1
 		min_build_railroad = 4
 		min_build_fort = 1
 		combat_width = -0.20
@@ -3253,7 +3250,6 @@ categories =  {
 		mine_rgo_size = -0.0
 		mine_rgo_eff = -0.2
 		
-		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
                 immigrant_attract = -1.5
@@ -3313,7 +3309,6 @@ categories =  {
         farm_rgo_eff = -0.3
         mine_rgo_size = 0.1
         mine_rgo_eff = 0.0
-        min_build_naval_base = 1
         min_build_railroad = 3
         #immigrant_attract = -1.5
         supply_limit = 2
@@ -3369,7 +3364,6 @@ categories =  {
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
 		
-		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
 		
@@ -3387,7 +3381,6 @@ categories =  {
 		mine_rgo_size = 0.1
 		mine_rgo_eff = 0.0
 		supply_limit = 2
-		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
 		immigrant_attract = -0.15
@@ -3519,7 +3512,6 @@ categories =  {
 		mine_rgo_eff = -0.2
 		
 		immigrant_attract = -1.5
-		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
 		combat_width = -0.20
@@ -3532,7 +3524,6 @@ categories =  {
 		farm_rgo_eff = -0.4
 		mine_rgo_size = -10.0
 		mine_rgo_eff = -0.2
-		min_build_naval_base = 4
 		min_build_railroad = 4
 		min_build_fort = 1
 		attrition = 2

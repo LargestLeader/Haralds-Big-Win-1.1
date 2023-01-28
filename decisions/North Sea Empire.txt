@@ -2,15 +2,20 @@ political_decisions = {
 	annex_lordship_of_ireland = {
 		potential = {
 			tag = NRD
-			LIR = { vassal_of = THIS }
 			NOT = { has_country_flag = annex_ireland }
 			}
 		allow = {
 			IRE = {
 				all_core = {
-						owned_by = LIR
+					OR = {
+						owned_by = THIS
+						owner = {
+							tag = IRE
+							vassal_of = THIS
+						}
 					}
 				}
+			}
 			state_n_government = 1
 		}
 		effect = {

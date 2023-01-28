@@ -1,5 +1,5 @@
-owner = LIR
-controller = LIR
+owner = IRE
+controller = IRE
 add_core = IRE
 trade_goods = iron
 life_rating = 35

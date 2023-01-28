@@ -1,5 +1,6 @@
-owner = SFL
-controller = SFL
+owner = SWE
+controller = SWE
+colonial = 2
 add_core = SFL
 add_core = SWA
 trade_goods = grain

@@ -1,5 +1,5 @@
-owner = NAG
-controller = NAG
+owner = FRA
+controller = FRA
 add_core = NAG
 add_core = HND
 add_core = MAH

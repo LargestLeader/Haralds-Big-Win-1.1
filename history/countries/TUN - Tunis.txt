@@ -51,16 +51,6 @@ colonial_policy = no_colonies
 #pre_indust = yes_pre_indust
 #industrial_construction = yes_industrial_construction
 
-foreign_training = yes_foreign_training
-foreign_weapons = yes_foreign_weapons
-military_constructions = yes_military_constructions
-#foreign_officers = yes_foreign_officers
-army_schools = yes_army_schools
-foreign_naval_officers = yes_foreign_naval_officers
-naval_schools = yes_naval_schools
-foreign_navies = yes_foreign_navies
-western_shipyards = yes_western_shipyards
-foreign_artillery = yes_foreign_artillery
 
 ruling_party = TUN_conservative
 upper_house = {
@@ -75,9 +65,7 @@ upper_house = {
 
 set_country_flag = sunni_country
 
-# Technologies
-flintlock_rifles = 1
-
+# TechnolS
 # Inventions
 
 # Starting Consciousness

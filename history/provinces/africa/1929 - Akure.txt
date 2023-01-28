@@ -1,5 +1,5 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = BEN
+controller = BEN
+add_core = BEN
 trade_goods = tropical_wood
 life_rating = 35

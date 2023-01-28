@@ -6,7 +6,7 @@ culture = khuzi
 culture = persian
 
 religion = sunni
-government = colonial_company
+government = absolute_monarchy
 plurality = 15.0
 nationalvalue = nv_order
 literacy = 0.2

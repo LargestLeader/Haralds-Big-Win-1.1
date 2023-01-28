@@ -1,5 +1,6 @@
-owner = AGC
-controller = AGC
+owner = SWE
+controller = SWE
+colonial = 2
 add_core = AGC
 add_core = SWA
 trade_goods = tobacco

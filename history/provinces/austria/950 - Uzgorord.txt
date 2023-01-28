@@ -1,6 +1,5 @@
 owner = HUN
 controller = HUN
 add_core = HUN
-add_core = RUS
 trade_goods = coal
 life_rating = 35

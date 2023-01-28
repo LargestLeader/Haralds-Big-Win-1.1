@@ -1,5 +1,6 @@
-owner = SHO
-controller = SHO
+owner = SWE
+controller = SWE
+colonial = 2
 add_core = SHO
 add_core = NGN
 trade_goods = grain

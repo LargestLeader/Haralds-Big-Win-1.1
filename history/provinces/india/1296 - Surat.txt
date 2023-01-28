@@ -1,6 +1,6 @@
-owner = SIN
-controller = SIN
-add_core = SIN
+owner = GJR
+controller = GJR
+add_core = GJR
 add_core = HND
 trade_goods = grain
 life_rating = 32

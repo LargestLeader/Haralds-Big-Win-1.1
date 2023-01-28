@@ -224,44 +224,6 @@ political_decisions = {
 		}
 	}
 	
-	concede_finland = {
-		potential = {
-			tag = SWE
-			NOT = {
-				has_country_flag = Conceded_Finland
-			}
-		}
-		
-		allow = {
-			NOT = {
-				prestige = 40
-			}
-			average_consciousness = 4
-		}
-		
-		effect = {
-			RUS_336 = {
-				remove_core = SWE
-			}
-			RUS_340 = {
-				remove_core = SWE
-			}
-			prestige = 10
-			any_pop = {
-				militancy = -1
-			}
-			set_country_flag = Conceded_Finland
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					average_militancy = 4
-				}
-			}
-		}
-	}
 	
 	reichsland_elsass = {
 		potential = {

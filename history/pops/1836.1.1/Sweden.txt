@@ -212,7 +212,11 @@
 		religion = protestant
 		size = 500
 	}
-
+	craftsmen = {
+		culture = swedish 
+		religion = protestant
+		size = 20100
+	}
 	clergymen = {
 		culture = swedish
 		religion = protestant
@@ -222,13 +226,13 @@
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -240,7 +244,7 @@
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 3000
+		size = 9000
 	}
 
 	soldiers = {
@@ -252,7 +256,7 @@
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 65250
+		size = 85250
 	}
 }
 #Falun (144000/36000 POPS)
@@ -374,6 +378,11 @@
 		religion = protestant
 		size = 60750
 	}
+		craftsmen = {
+		culture = swedish 
+		religion = protestant
+		size = 5100
+	}
 }
 #Vasteras (212000/53000 POPS)
 326 = {
@@ -405,6 +414,11 @@
 		culture = swedish
 		religion = protestant
 		size = 50750
+	}
+		craftsmen = {
+		culture = swedish 
+		religion = protestant
+		size = 10100
 	}
 }
 #Orebro (127000/31750 POPS)

@@ -1,5 +1,6 @@
-owner = ZAN
-controller = ZAN
+owner = SWE
+controller = SWE
+colonial = 2
 add_core = ZAN
 add_core = SWA
 trade_goods = precious_metal

@@ -1,7 +1,7 @@
 capital = 87 # Sonoma
 primary_culture = yokuts
 religion = protestant
-government = colonial_company
+government = democracy
 plurality = 0.5
 nationalvalue = nv_liberty
 literacy = 0.50

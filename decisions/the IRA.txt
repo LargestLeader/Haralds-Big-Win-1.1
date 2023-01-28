@@ -1,0 +1,16 @@
+political_decisions = {
+    celtic_union = {
+        potential = {
+            tag = IRE
+            NOT = { has_country_flag = big_ire }
+        }
+        allow = {
+            SCO = { all_core = { owned_by = THIS }}
+        }
+        effect = {
+            add_accepted_culture = scottish
+            SCO = { all_core = { add_core = THIS }}
+            set_country_flag = big_ire
+        }
+    }
+}

@@ -1,5 +1,6 @@
-owner = GAZ
-controller = GAZ
+owner = SWE
+controller = SWE
+colonial = 2
 add_core = GAZ
 add_core = NGN
 trade_goods = cattle

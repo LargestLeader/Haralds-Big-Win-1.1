@@ -1,7 +1,7 @@
 capital = 953
 primary_culture = ukrainian
 religion = orthodox
-government = colonial_company
+government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_liberty
 literacy = 0.6
