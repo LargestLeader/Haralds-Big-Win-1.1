@@ -64,6 +64,7 @@ political_decisions = {
                 tag = SWE
             }
             358 = { is_core = CUR }
+            NOT = { has_accepted_culture = courish }
         }
         allow = {
             CUR = { all_core = { owned_by = THIS}}
