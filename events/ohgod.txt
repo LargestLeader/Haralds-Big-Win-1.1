@@ -1,0 +1,46 @@
+country_event = {
+    id = 8151769
+    title = "The French demand compensation"
+    desc = "The French are demanding their natural borders after probably helping you form germany"
+    is_triggered_only = yes
+    option = {
+        name = "Hugbox time yippie"
+        BRB = {all_core = {add_core = FRA}}
+        LIG = {all_core = {add_core = FRA}}
+        NET = {all_core = {add_core = FRA}}
+        RHI = {all_core = {add_core = FRA}}
+        LBG = {all_core = {add_core = FRA}}
+        LOR = {all_core = {add_core = FRA}}
+        all_core = {
+            limit = { is_core = FRA }
+            remove_core = THIS
+        }
+        RHI = {all_core = {add_core = THIS}}
+        LUX = {all_core = {add_core = THIS}}
+        GER = {add_core = 571}
+        GER = {add_core = 409}
+        GER = {add_core = 410}
+        any_owned = {
+            limit = {is_core = FRA}
+            secede_province = FRA
+        }
+        FRA = {add_accepted_culture = dutch}
+        
+    }
+    option = {
+        name = "I HATE THE FRENCH I HATE THE FRENCH"
+        BRB = {all_core = {add_core = FRA}}
+        LIG = {all_core = {add_core = FRA}}
+        NET = {all_core = {add_core = FRA}}
+        RHI = {all_core = {add_core = FRA}}
+        LBG = {all_core = {add_core = FRA}}
+        LOR = {all_core = {add_core = FRA}}
+        FRA = {add_accepted_culture = dutch}
+        GER = {add_accepted_culture = dutch}
+        relation = {
+				who = FRA
+				value = -200
+			}
+    }
+
+}

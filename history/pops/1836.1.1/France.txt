@@ -244,14 +244,9 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 102875
+		size = 32875
 	}
 
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 13075
-	}
 }
 
 #Ardennes Region (1116000)
@@ -291,12 +286,6 @@
 		culture = french
 		religion = catholic
 		size = 1500
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 40000
 	}
 	
 	farmers = {
@@ -1105,13 +1094,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 110000
-	}
-	
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 20000
+		size = 41000
 	}
 	
 	aristocrats = {
@@ -1154,12 +1137,6 @@
 		culture = french
 		religion = catholic
 		size = 200
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 16550
 	}
 }
 #Evreux (424000/106000 POPS)
@@ -1662,13 +1639,13 @@
 	craftsmen = {
 		culture = french
 		religion = catholic
-		size = 13500
+		size = 7500
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 55400
+		size = 5540
 	}
 
 	soldiers = {
@@ -1680,7 +1657,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 222200
+		size = 100000
 	}
 
 	clergymen = {
@@ -1916,17 +1893,11 @@
 		religion = catholic
 		size = 1500
 	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 27575
-	}
 	
 	farmers = {
 		culture = occitan
 		religion = catholic
-		size = 100000
+		size = 50000
 	}
 }
 #Macon (536000/134000 POPS)
@@ -2630,17 +2601,11 @@
 		religion = catholic
 		size = 1350
 	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 11000
-	}
 	
 	farmers = {
 		culture = occitan
 		religion = catholic
-		size = 111000
+		size = 51000
 	}
 }
 #Tulle (788000/197000 POPS)
@@ -2679,12 +2644,6 @@
 		culture = occitan
 		religion = catholic
 		size = 3500
-	}
-	
-	farmers = {
-		culture = occitan
-		religion = catholic
-		size = 70000
 	}
 	
 	farmers = {
@@ -2749,7 +2708,7 @@
 	farmers = {
 		culture = occitan
 		religion = catholic
-		size = 156200
+		size = 15200
 	}
 	
 }
@@ -3195,7 +3154,7 @@
 	farmers = {
 		culture = gascon
 		religion = catholic
-		size = 90300
+		size = 30300
 	}
 }
 #Montauban (584000/146000 POPS)
@@ -3225,15 +3184,9 @@
 	}
 
 	farmers = {
-		culture = french
-		religion = catholic
-		size = 14150
-	}
-
-	farmers = {
 		culture = occitan
 		religion = catholic
-		size = 120400
+		size = 40400
 	}
 }
 #Foix (348000/87000 POPS)

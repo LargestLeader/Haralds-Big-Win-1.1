@@ -1,6 +1,7 @@
 owner = WUR
 controller = WUR
 add_core = WUR
+add_core = SGF
 add_core = GER
 add_core = BRH
 trade_goods = cattle

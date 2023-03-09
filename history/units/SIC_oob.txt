@@ -53,21 +53,16 @@ leader = {
 army = {
 	name = "Esercito delle Due Sicilia"
 	location = 754
-	regiment = {
-		name= "1. Fanteria di Linea - Re e Regina"
-		type = infantry
-		home = 754
-	}
 
 	regiment = {
 		name= "2. Fanteria di Linea - Duca di Calabria"
-		type = infantry
+		type = artillery
 		home = 757
 	}
 
 	regiment = {
 		name= "3. Fanteria di Linea - Duca di Noto"
-		type = infantry
+		type = artillery
 		home = 755
 	}
 
@@ -79,19 +74,19 @@ army = {
 
 	regiment = {
 		name= "1. Cavalleria di Linea"
-		type = cuirassier
+		type = artillery
 		home = 754
 	}
 
 	regiment = {
 		name= "2. Cavalleria di Linea"
-		type = cuirassier
+		type = artillery
 		home = 753
 	}
 
 	regiment = {
 		name= "3. Cavalleria di Linea"
-		type = cuirassier
+		type = hussar
 		home = 756
 	}
 
@@ -100,6 +95,12 @@ army = {
 army = {
 	name = "Guardia Reale"
 	location = 757
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = hussar
+		home = 754
+	}
+
 	regiment = {
 		name= "1. Guardia Reale"
 		type = guard
@@ -120,19 +121,19 @@ army = {
 
 	regiment = {
 		name= "1. Truppe Svizzere"
-		type = infantry
+		type = artillery
 		home = 755
 	}
 
 	regiment = {
 		name= "2. Truppe Svizzere"
-		type = infantry
+		type = artillery
 		home = 766
 	}
 
 	regiment = {
 		name= "3. Truppe Svizzere"
-		type = infantry
+		type = artillery
 		home = 765
 	}
 

@@ -78,6 +78,21 @@ LUX = {
     level = 5
     influence_value = 100
 }
+FRI = {
+    value = 100
+    level = 3
+    influence_value = 25
+}
+BRB = {
+    value = 100
+    level = 3
+    influence_value = 25
+}
+LIG = {
+    value = 100
+    level = 3
+    influence_value = 25
+}
 army = {
     name = "1st Army of Saxony"
     location = 580

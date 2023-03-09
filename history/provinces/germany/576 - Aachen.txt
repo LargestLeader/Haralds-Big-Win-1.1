@@ -1,6 +1,6 @@
-owner = AAC
-controller = AAC
-add_core = AAC
+owner = RHI
+controller = RHI
+add_core = RHI
 add_core = GER
 trade_goods = coal
 life_rating = 50

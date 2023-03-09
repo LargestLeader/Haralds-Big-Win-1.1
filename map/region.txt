@@ -605,11 +605,9 @@ LUX_397 = { 397 396 398 } #correct
 
 BEL_394 = { 394 392 395 404 } #correct
 
-BEL_387 = { 387 390 391 } #correct
+BEL_387 = { 387 390 391 379 381 380 } #correct
 
-NET_375 = { 375 376 377 } #correct
-
-NET_379 = { 378 379 381 380 } #correct
+NET_375 = { 375 376 377 378 } #correct
 
 NET_385 = { 385 383 543 533 } #correct
 

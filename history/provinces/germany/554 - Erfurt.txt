@@ -1,6 +1,6 @@
-owner = ERF
-controller = ERF
-add_core = ERF
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = GER
 trade_goods = dye
 life_rating = 48

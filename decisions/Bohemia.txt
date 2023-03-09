@@ -30,7 +30,6 @@ political_decisions = {
         add_accepted_culture = czech
         add_accepted_culture = polish
         add_accepted_culture = sorbian
-        add_accepted_culture = kashubian
         add_accepted_culture = pruthenian
          }
     }

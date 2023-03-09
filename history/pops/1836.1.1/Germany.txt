@@ -1769,7 +1769,7 @@
 	bureaucrats = {
 		culture = swiss_german
 		religion = protestant
-		size = 70 
+		size = 250 
 	}
 
 	officers = {
@@ -2283,13 +2283,13 @@
 	soldiers = {
 		culture = swiss_german
 		religion = protestant
-		size = 475
+		size = 4750
 	}
 
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 1550
+		size = 24000
 	}
 
 	clergymen = {
@@ -3414,6 +3414,12 @@
 		size = 200 
 	}
 
+	bureaucrats = {
+		culture = north_german
+		religion = catholic
+		size = 250
+	}
+
 	clergymen = {
 		culture = swiss_german
 		religion = catholic
@@ -4482,6 +4488,12 @@
 		culture = south_german
 		religion = catholic
 		size = 750 
+	}
+
+	bureaucrats = {
+		culture = swiss_german
+		religion = catholic
+		size = 3050 
 	}
 
 	clergymen = {

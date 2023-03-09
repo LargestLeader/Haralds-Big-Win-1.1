@@ -1,5 +1,5 @@
-owner = DON
-controller = DON
+owner = RTH
+controller = RTH
 add_core = DON
  
 trade_goods = coal

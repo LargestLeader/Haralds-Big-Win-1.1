@@ -363,6 +363,12 @@
 		size = 50
 	}
 
+	bureaucrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 3000
+	}
+
 	clergymen = {
 		culture = ukrainian
 		religion = orthodox
@@ -1914,7 +1920,7 @@
 	}
 
 	clergymen = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 100
 	}
@@ -1926,7 +1932,7 @@
 	}
 
 	farmers = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 8000
 	}
@@ -1962,19 +1968,19 @@
 	}
 	
 	artisans = {
-		culture = ingrian
+		culture = novgorodian
 		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
-		culture = ingrian
+		culture = novgorodian
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = ingrian
+		culture = novgorodian
 		religion = catholic
 		size = 14925
 	}
@@ -2033,31 +2039,31 @@
 #Luga (132000/33000 POPS)
 996 = {
 	aristocrats = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 400
 	}
 
 	clergymen = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 1000
 	}
 
 	soldiers = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 2000
 	}
 
 	farmers = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 30000
 	}
@@ -2131,31 +2137,31 @@
 	}
 
 	clergymen = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 100
 	}
 	
 	farmers = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 27800
 	}
 
 	farmers = {
-		culture = ingrian
+		culture = novgorodian
 		religion = orthodox
 		size = 7700 
 	}

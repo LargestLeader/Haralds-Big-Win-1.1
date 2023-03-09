@@ -2,7 +2,7 @@ political_decisions = {
     hgram_lifestyle = {
         potential = {
             tag = ABB
-            NOT = { has_accepted_culture = turkish }
+            NOT = { accepted_culture = turkish }
         }
         allow = {
             owns = 889
@@ -16,7 +16,7 @@ political_decisions = {
     azer = {
         potential = {
             tag = TIM
-            NOT = { has_accepted_culture = azeri }
+            NOT = { accepted_culture = azeri }
         }
         allow = {
             owns = 1102

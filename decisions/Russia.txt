@@ -1,5 +1,5 @@
 political_decisions = {
-	annex_azov_host = {
+	integrate_azov_host = {
 		potential = {
 			OR = {
 				AND = {
@@ -20,7 +20,7 @@ political_decisions = {
 				}
 				CRI = {
 					all_core = {
-						owned_by = RTH
+						owned_by = THIS
 					}
 				}
 			}

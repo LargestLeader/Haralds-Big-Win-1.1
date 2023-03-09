@@ -1247,7 +1247,7 @@
 	bureaucrats = {
 		culture = ukrainian
 		religion = orthodox
-		size = 25
+		size = 2500
 	}
 
 	artisans = {
@@ -1415,7 +1415,7 @@
 	bureaucrats = {
 		culture = ukrainian
 		religion = orthodox
-		size = 250
+		size = 2500
 	}
 
 	officers = {
@@ -2111,25 +2111,25 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 25
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 200
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 825
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 750
 	}
@@ -2233,25 +2233,25 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 25
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 400
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 25
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 1550
 	}
@@ -2391,19 +2391,19 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 395
 	}
@@ -2519,19 +2519,19 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 310
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 3050
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 2390
 	}
@@ -2637,25 +2637,25 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 75
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 1500
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 75
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 5850
 	}
@@ -2747,25 +2747,25 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 125
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 1000
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 150
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 725
 	}
@@ -2833,25 +2833,25 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 50
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 1500
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 75
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 1375
 	}
@@ -2931,25 +2931,25 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 50
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 1500
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 75
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 2375
 	}
@@ -3046,37 +3046,37 @@
 	}
 	
 	aristocrats = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	officers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 750
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 2150
 	}
@@ -3128,19 +3128,19 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 200
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 540
 	}
@@ -3220,25 +3220,25 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 350
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 175
 	}
@@ -3276,19 +3276,19 @@
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 200
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 540
 	}
@@ -3368,25 +3368,25 @@
 	}
 	
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 50
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 750
 	}
 
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 25
 	}
 
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 1675
 	}
@@ -3492,37 +3492,37 @@
 	}
 	
 	aristocrats = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 	
 	officers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	clergymen = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 
 	artisans = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 140
 	}
 	
 	soldiers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}
 	
 	farmers = {
-		culture = karaim
+		culture = ukrainian
 		religion = jewish
 		size = 100
 	}

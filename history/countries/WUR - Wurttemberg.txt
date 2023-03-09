@@ -87,4 +87,6 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
+set_country_flag = is_swabia
+
 oob = "WUR_oob.txt"
