@@ -22,7 +22,7 @@ political_decisions = {
 			set_country_flag = annex_ireland
 			prestige = 5
 			add_accepted_culture = irish
-			LIR = { annex_to = THIS }
+			IRE = { annex_to = THIS }
 			IRE = { all_core = { add_core = THIS } }
 		}
 	}

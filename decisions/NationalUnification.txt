@@ -200,6 +200,40 @@ political_decisions = {
 			
 			NOT = {
 				exists = ITA
+				tag = VEN
+			}
+		}
+		
+		allow = {
+			owns = 729
+			owns = 749
+			owns = 754
+			owns = 741
+		}
+		
+		effect = {
+			prestige = 30
+			change_tag = ITA
+			add_accepted_culture = north_italian
+			add_accepted_culture = south_italian
+			add_accepted_culture = venetian
+			add_accepted_culture = sardinian
+			capital = 749
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	venice_form_italy = {
+		news = yes
+		news_desc_long = "form_italy_NEWS_LONG"
+		news_desc_medium = "form_italy_NEWS_MEDIUM"
+		news_desc_short = "form_italy_NEWS_SHORT"
+		potential = {
+			is_culture_group = italian
+			NOT = {
+				exists = ITA
 			}
 		}
 		
@@ -288,7 +322,7 @@ political_decisions = {
 		}
 	}	
 
-	form_yugoslavia = {
+	form_balkary = {
 		potential = {
 			is_culture_group = south_slavic
 			NOT = { exists = YUG }

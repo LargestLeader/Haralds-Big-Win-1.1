@@ -1,18 +1,14 @@
 political_decisions = {
-    no_more_scilians = {
+    cruade_for_malta = {
         potential = {
             tag = ITA
-            NOT = { has_accepted_culture = greek }
         }
         allow = {
-            year = 1860
-            owns = 759
-            owns = 763
-            owns = 762
-            owns = 764
+            nationalism_n_imperialism = 1
         }
         effect = {
-            add_accepted_culture = greek
+            add_accepted_culture = maltese
+            ITA = {add_core = 854}
         }
     }
 }

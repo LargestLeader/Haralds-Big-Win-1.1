@@ -839,3 +839,7 @@ mormon_time = {
 	assimilation_rate = 100
 	icon = 8
 }
+
+recently_demoted = {
+icon = 8
+}

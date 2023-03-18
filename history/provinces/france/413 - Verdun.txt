@@ -3,5 +3,6 @@ controller = LOR
 add_core = LOR
 add_core = FRA
 add_core = GER
-trade_goods = grain
+trade_goods = coal
+terrain = plains
 life_rating = 35

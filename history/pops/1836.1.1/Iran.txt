@@ -4376,31 +4376,31 @@
 	}
 	
 	aristocrats = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 5
 	}
 
 	artisans = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 35
 	}
 
 	soldiers = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 275
 	}
 
 	farmers = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 3375
 	}

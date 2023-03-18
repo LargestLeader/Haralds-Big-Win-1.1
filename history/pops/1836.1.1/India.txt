@@ -162,7 +162,7 @@
 	}
 
 	farmers = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 3000
 	}
@@ -281,31 +281,31 @@
 	}
 	
 	aristocrats = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 5
 	}
 
 	clergymen = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 5
 	}
 
 	artisans = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 10
 	}
 
 	soldiers = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 10
 	}
 	
 	farmers = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 500
 	}
@@ -387,7 +387,7 @@
 	}
 	
 	farmers = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 11925
 	}
@@ -444,7 +444,7 @@
 	}
 	
 	farmers = {
-		culture = brahui
+		culture = baluchi
 		religion = sunni
 		size = 2800
 	}

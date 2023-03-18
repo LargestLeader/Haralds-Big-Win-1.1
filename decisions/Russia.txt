@@ -85,8 +85,12 @@ political_decisions = {
 		allow = {
 			nationalism_n_imperialism = 1
 			war = no
-			MUS = { all_core = { owned_by = THIS } }
-			RTH = { all_core = { owned_by = THIS } }
+			owns = 958
+			owns = 998
+			OR = {
+				RTH = {exists = no}
+				MUS = {exists = no}
+			}
 		}
 		effect = {
 			prestige = 20

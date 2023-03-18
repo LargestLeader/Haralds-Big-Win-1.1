@@ -32,14 +32,14 @@ SVA_ADJ;Svan;;;;;;;;;;;;x
 SVA;Svaneti;;;;;;;;;;;;x
 SLS_colonial_company;Schlesien;;;;;;;;;;;;;x,
 SLS_dominion;Schlesien;;;;;;;;;;;;;x,
-PML_colonial_company;Westpreußen;;;;;;;;;;;;;x,
-PML_dominion;Westpreußen;;;;;;;;;;;;;x,
+PML_colonial_company;Westpreuï¿½en;;;;;;;;;;;;;x,
+PML_dominion;Westpreuï¿½en;;;;;;;;;;;;;x,
 PZN_colonial_company;Posen;;;;;;;;;;;;;x,
 PZN_dominion;Posen;;;;;;;;;;;;;x,
 POL_colonial_company;Generalgouvernement;;;;;;;;;;;;;x,
 POL_dominion;Generalgouvernement;;;;;;;;;;;;;x,
-BOH_colonial_company;Protektorat Böhmen-Mähren;;;;;;;;;;;;;x,
-BOH_dominion;Böhmen-Mähren;;;;;;;;;;;;;x,
+BOH_colonial_company;Protektorat Bï¿½hmen-Mï¿½hren;;;;;;;;;;;;;x,
+BOH_dominion;Bï¿½hmen-Mï¿½hren;;;;;;;;;;;;;x,
 SCH_colonial_company;Slesvig;;;;;;;;;;;;;x,
 SCH_dominion;Slesvig;;;;;;;;;;;;;x,
 HOL_colonial_company;Holsten;;;;;;;;;;;;;x,
@@ -56,8 +56,8 @@ AUS_conservative_3;Bach's Faction;Faction de Bach;Bach's Faction;;Facci? de Bach
 AUS_conservative_4;The Iron Ring;Iron Ring;The Iron Ring;;El Anillo de Hierro;;;;;;;;;x;;;;
 AUS_socialist_2;Socialists;Socialistes;Socialists;;Socialistas;;;;;;;;;x;;;;
 AUS_reactionary_2;Christlichsoziale Partei;Radicaux allemands;German Radicals;;Radicales alemanes;;;;;;;;;x;;;;
-AUS_conservative_5;Sozialdemokratische Partei Österreichs;Conservateurs;Conservatives;;Conservadores;;;;;;;;;x;;;;
-AUS_liberal_2;Föderalistische;Grands propri?aires f??alistes;Federalist Great Proprietors;;Grandes Pro
+AUS_conservative_5;Sozialdemokratische Partei ï¿½sterreichs;Conservateurs;Conservatives;;Conservadores;;;;;;;;;x;;;;
+AUS_liberal_2;Fï¿½deralistische;Grands propri?aires f??alistes;Federalist Great Proprietors;;Grandes Pro
 MLW_dominion;Nyasaland;;;;;;;;;;;;x
 MLW_colonial_company;Nyasaland;;;;;;;;;;;;;x,
 NAL_dominion;Natal;;;;;;;;;;;;x
@@ -66,7 +66,7 @@ ZAM_dominion;Northern Rhodesia;;;;;;;;;;;;x
 ZAM_colonial_company;Northern Rhodesia;;;;;;;;;;;;;x,
 #AFG_prussian_constitutionalism;The Kingdom of Afghanistan;;;;;;;;;;;;;;x
 #AFG_hms_government;The Kingdom of Afghanistan;;;;;;;;;;;;;;x
-ITA_theocracy;The Papal Kingdom;;;;;;;;;;;;;;x
+ITA_theocracy;The Kingdom of God;;;;;;;;;;;;;;x
 MTQ_ADJ;Martiniquan;;;;;;;;;;;;x
 MTQ;Martinique;;;;;;;;;;;;x
 SGP_dominion;The Straits Settlement;;;;;;;;;;;;x
@@ -154,9 +154,9 @@ MCK_prussian_constitutionalism;Jin;;;;;;;;;;;;;x
 MCK_hms_government;Jin;;;;;;;;;;;;;x,
 MCK_colonial_company;Jin;;;;;;;;;;;;;x,
 TST;Alto Adige;;;;;;;;;x;;;;;;;;
-TST_colonial_company;Südtirol;;;;;;;;;;;;;;x
-LOM_colonial_company;Lombardo–Venetien;;;;;;;;;;;;;;x
-LOM_dominion;Lombardo–Venetien;;;;;;;;;;;;;;x
+TST_colonial_company;Sï¿½dtirol;;;;;;;;;;;;;;x
+LOM_colonial_company;Lombardoï¿½Venetien;;;;;;;;;;;;;;x
+LOM_dominion;Lombardoï¿½Venetien;;;;;;;;;;;;;;x
 HQJ_ADJ;Chinese;;;;;;;;;x;;;;;;;;
 HQJ;Heiqi Jun;;;;;;;;;x;;;;;;;;
 HQJ_conservative;Liu Yongfu;;;;;;;;;;;;;x,
@@ -194,8 +194,8 @@ BAN_colonial_company;Freistaat Banat;;;;;;;;;;;;;x
 BAN_dominion;Freistaat Banat;;;;;;;;;;;;;x
 SIE_colonial_company;Siebenburgen;;;;;;;;;;;;;x
 SIE_dominion;Siebenburgen;;;;;;;;;;;;;x
-SIE_colonial_company_ADJ;Siebenbürger;;;;;;;;;;;;;x
-SIE_dominion_ADJ;Siebenbürger;;;;;;;;;;;;;x
+SIE_colonial_company_ADJ;Siebenbï¿½rger;;;;;;;;;;;;;x
+SIE_dominion_ADJ;Siebenbï¿½rger;;;;;;;;;;;;;x
 SIE_reactionary;Sachsen Landtag;;;;;;;;;;;;;x,
 SIE_conservative;Unio Trium Nationum;;;;;;;;;;;;;x,
 LBY_colonial_company;Libia;;;;;;;;;;;;;x,
@@ -214,7 +214,7 @@ TAI_dominion;Takasago;;;;;;;;;;;;;x,
 SAF_hms_government;The Union of South Africa;;;;;;;;;;;;;x,
 SAF_colonial_company;The Cape Colony;;;;;;;;;;;;;x,
 SAF_dominon;The Cape Colony;;;;;;;;;;;;;x,
-PHI_colonial_company;Îles de Charles;;;;;;;;;;;;;x,
+PHI_colonial_company;ï¿½les de Charles;;;;;;;;;;;;;x,
 MAD_absolute_monarchy;The Merina Kingdom;;;;;;;;;;;;;x,
 MAD_colonial_company;Protectorat de Madagascar;;;;;;;;;;;;;x,
 KNY_colonial_company;East Africa;;;;;;;;;;;;;x,
@@ -242,8 +242,8 @@ CMR_colonial_company;Kamerun;;;;;;;;;;;;;x
 ALD_colonial_company;Algerie;;;;;;;;;;;;;x
 ALD_dominion;Algerie;;;;;;;;;;;;;x
 COL_hms_government;The Dominion of Columbia;;;;;;;;;;;;;x
-NMB_colonial_company;Südwestafrika;;;;;;;;;;;;;x
-NMB_dominon;Südwestafrika;;;;;;;;;;;;;x
+NMB_colonial_company;Sï¿½dwestafrika;;;;;;;;;;;;;x
+NMB_dominon;Sï¿½dwestafrika;;;;;;;;;;;;;x
 TNZ_colonial_company;Ostafrika;;;;;;;;;;;;;x
 TNZ_dominion;Ostafrika;;;;;;;;;;;;;x
 AUS_absolute_monarchy;The Austrian Empire;;;;;;;;;;;;;x
@@ -315,8 +315,8 @@ CGC_ADJ;Spanish;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 VNG_colonial_company;Virreinato de la Nueva Granada;;;;;;;;;;;;;x,
 VNG;Nueva Granada;;;;;;;;;;;;;x,
 VNG_ADJ;Spanish;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
-VLP_colonial_company;Virreinato del Río de la Plata;;;;;;;;;;;;;x,
-VLP;Río de la Plata;;;;;;;;;;;;;x,
+VLP_colonial_company;Virreinato del Rï¿½o de la Plata;;;;;;;;;;;;;x,
+VLP;Rï¿½o de la Plata;;;;;;;;;;;;;x,
 VLP_ADJ;Spanish;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 VOP_colonial_company;Virreinato del Peru;;;;;;;;;;;;;x,
 VOP;Peru;;;;;;;;;;;;;x,
@@ -329,9 +329,9 @@ JAP_absolute_monarchy;Imperial Japan;;;;;;;;;;;;x,
 JAP_prussian_constitutionalism;The Empire of Japan;;;;;;;;;;;;x,
 JAP_hms_government;The Empire of Japan;;;;;;;;;;;;x,
 JAP_absolute_monarchy_ADJ;Nippon;Nippon;Nippon;;;;;;;;;;;x,
-MEX_absolute_monarchy;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
-MEX_prussian_constitutionalism;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
-MEX_hms_government;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
+MEX_absolute_monarchy;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de Mï¿½xico;;;;;;;;;x
+MEX_prussian_constitutionalism;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de Mï¿½xico;;;;;;;;;x
+MEX_hms_government;The Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de Mï¿½xico;;;;;;;;;x
 FRA_proletarian_dictatorship;The Commune of France;;;;;;;;;;;;;x,
 FRA_presidential_dictatorship;The French Republic;;;;;;;;;;;;;x,
 FRA_bourgeois_dictatorship;The French Republic;;;;;;;;;;;;;x,

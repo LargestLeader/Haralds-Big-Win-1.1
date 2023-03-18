@@ -1,6 +1,6 @@
 owner = NRD
 controller = NRD
-add_core = PER
+ 
 add_core = TIM
 terrain = plains
 trade_goods = fish

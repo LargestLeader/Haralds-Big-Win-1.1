@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
+owner = BYZ
+controller = BYZ
 add_core = SER
-add_core = VEN
+add_core = BYZ
 trade_goods = fish
 life_rating = 35
