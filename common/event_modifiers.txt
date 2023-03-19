@@ -843,3 +843,6 @@ mormon_time = {
 recently_demoted = {
 icon = 8
 }
+recently_demoted_crafts = {
+	icon = 8
+}
