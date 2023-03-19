@@ -1,7 +1,6 @@
-owner = KNI
-controller = KNI
-add_core = KNI
-add_core = SIC
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 trade_goods = fish
 life_rating = 35
 terrain = urban
