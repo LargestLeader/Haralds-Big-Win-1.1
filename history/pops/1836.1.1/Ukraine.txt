@@ -2069,43 +2069,43 @@
 	}
 
 	aristocrats = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 175
 	}
 
 	officers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 60
 	}
 
 	clergymen = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 75
 	}
 
 	soldiers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 2465
 	}
@@ -2257,25 +2257,25 @@
 	}
 
 	clergymen = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 750
 	}
@@ -2409,25 +2409,25 @@
 	}
 
 	clergymen = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 1750
 	}
@@ -2489,31 +2489,31 @@
 	}
 
 	aristocrats = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 650
 	}
 
 	artisans = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 9500
 	}
 
 	soldiers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-	    culture = tatlar
+	    culture = crimean_tatar
 		religion = orthodox
 		size = 6775
 	}
@@ -3392,25 +3392,25 @@
 	}
 
 	clergymen = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 1100
 	}
 
 	soldiers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = tatlar
+		culture = crimean_tatar
 		religion = orthodox
 		size = 3900
 	}

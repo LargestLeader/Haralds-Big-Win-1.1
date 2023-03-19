@@ -43,4 +43,36 @@ political_decisions = {
             add_accepted_culture = kurmanji
         }
     }
+    triumph_of_the_shah = {
+        potential = {
+            tag = TIM
+            NOT = {accepted_culture = levantine}
+        }
+        allow = {
+            owns = 900
+            owns = 902
+            owns = 918
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            SYR = {all_core = {add_core = THIS}}
+            add_accepted_culture = levantine
+        }
+    }
+    triumph_of_the_caliph = {
+        potential = {
+            tag = ABB
+            NOT = {accepted_culture = mashriqi}
+        }
+        allow = {
+            owns = 926
+            owns = 923
+            owns = 935
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            IRQ = {all_core = {add_core = THIS}}
+            add_accepted_culture = mashriqi
+        }
+    }
 }

@@ -1,5 +1,6 @@
 owner = TIM
 controller = TIM
 add_core = TIM
+add_core = IRQ
 trade_goods = fruit
 life_rating = 35
