@@ -2,7 +2,8 @@ political_decisions = {
     kill_turks = {
         potential ={
             tag = BYZ
-            NOT = { has_country_flag = kill_turk }
+            tag = YUG
+            NOT = { accepted_culture = turkish }
         }
         allow = {
                 owns = 866
@@ -57,7 +58,8 @@ political_decisions = {
     tolerate_albanians = {
         potential = {
             tag = BYZ
-            NOT = { has_country_flag = accept_albania }
+            tag = YUG
+            NOT = { accepted_culture = albanian }
         }
         allow = { nationalism_n_imperialism = 1 }
         effect = {
