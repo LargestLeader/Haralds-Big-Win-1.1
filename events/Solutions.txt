@@ -22,7 +22,6 @@ country_event = {
         artillery = 25
         canned_food = 100
         grain = 200
-        wine = 100
         luxury_clothes = 25
         machine_parts = 500
         clipper_convoy = 50

@@ -600,9 +600,6 @@ refrigerator_technology = {
 		factory_goods_output = {
 			liquor = 0.02
 		}
-		factory_goods_output = {
-			wine = 0.02
-		}
 	}
 }
 #Metulurgy
@@ -1128,7 +1125,7 @@ catalytic_fermentative_process = {
 	}
 	effect = {
 		factory_goods_output = {
-			wine = 0.02
+			liquor = 0.02
 		} 
 	}
 }

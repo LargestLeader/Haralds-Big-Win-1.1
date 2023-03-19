@@ -34,7 +34,7 @@ factory_template = {
 
 cheap_factory_template = {
 	efficiency = {
-		cement = 0.25 #if no cement, work at 75% efficiency #cost = £4/level
+		cement = 0.25 #if no cement, work at 75% efficiency #cost = ï¿½4/level
 		
 	}
 	
@@ -588,24 +588,6 @@ liquor_distillery = {
 	}
 	bonus = {
 		trigger = { trade_goods_in_state = grain }
-		value = 0.1
-	}
-}
-
-winery = {       
-	template = cheap_factory_template
-	input_goods = {  	
-		fruit = 5		#9
-		glass = 5		#14.5	total input+maint = 27.5
-	}
-	output_goods = wine 
-	value = 3.5			#34
-	bonus = {
-		trigger = { has_building = glass_factory }
-		value = 0.15
-	}
-	bonus = {
-		trigger = { trade_goods_in_state = fruit }
 		value = 0.1
 	}
 }
@@ -1298,25 +1280,6 @@ artisan_liquor = {
 	
 	owner = {
 		poptype = artisan  
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_winery = {       
-
-	input_goods = {  	
-		fruit = 10		#18
-		glass = 10		#29	total input+maint = 57
-	}
-	output_goods = wine 
-	value = 7			#67.9
-	
-	owner = {
-		poptype = artisan 
 		effect = output
 	}
 	

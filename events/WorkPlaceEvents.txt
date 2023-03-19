@@ -1290,7 +1290,6 @@ province_event = {
 	option = {
 		name = "EVTOPTA12240"
 		owner = {
-			wine = 15
 			liquor = 5
 		}
 		middle_strata = {

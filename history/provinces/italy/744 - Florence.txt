@@ -9,7 +9,7 @@ terrain = florence
 fort = 1
 state_building = {
 	level = 1
-	building = canned_food_factory #bread to go with the winery in rome for communion (although I guess bread wouldnt come in a can but just roll with it)
+	building = canned_food_factory
 	upgrade = yes
 }
 1861.1.1 = {

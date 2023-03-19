@@ -516,26 +516,6 @@ liquor_distillery = {
 	pop_build_factory = yes
 }
 
-winery = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	max_level = 99
-	goods_cost =
-	{
-		machine_parts = 80
-		iron = 200
-		cement = 200
-	}
-	time = 365
-	visibility = yes
-	onmap = no
-
-	default_enabled = yes	
-	production_type = winery
-	pop_build_factory = yes
-}
-
 ############# BASIC FACTORIES
 
 lumber_mill = {

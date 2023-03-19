@@ -223,7 +223,6 @@ production_focus =
 	consumer_focus = 
 	{
 		liquor = 18.3
-		wine = 18.3
 		glass = 18.3
 		icon = 24
 		#limit = { 
