@@ -2997,7 +2997,7 @@
 	soldiers = {
 		culture = swiss_german
 		religion = catholic
-		size = 500
+		size = 4000
 	}
 
 	farmers = {
@@ -3135,7 +3135,7 @@
 	soldiers = {
 		culture = swiss_german
 		religion = catholic
-		size = 100
+		size = 4000
 	}
 
 	farmers = {

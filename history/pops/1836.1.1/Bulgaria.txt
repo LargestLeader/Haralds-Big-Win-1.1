@@ -118,7 +118,7 @@
 	bureaucrats = {
 		culture = bulgarian
 		religion = orthodox
-		size = 400
+		size = 3400
 	}
 
 	officers = {
@@ -283,6 +283,12 @@
 		culture = bulgarian
 		religion = orthodox
 		size = 800
+	}
+
+	bureaucrats = {
+		culture = bulgarian
+		religion = orthodox
+		size = 3400
 	}
 
 	soldiers = {

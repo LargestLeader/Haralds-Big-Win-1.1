@@ -8805,61 +8805,61 @@
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 850
+		size = 1650
 	}
 
 	artisans = {
 		culture = manchu
-		religion = mahayana
-		size = 700
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 1200
-	}
-
-	labourers = {
-		culture = manchu
-		religion = mahayana
-		size = 87550
-	}
-
-	aristocrats = {
-		culture = korean
-		religion = mahayana
-		size = 650
-	}
-
-	clergymen = {
-		culture = korean
-		religion = mahayana
-		size = 350
-	}
-
-	artisans = {
-		culture = korean
 		religion = mahayana
 		size = 1700
 	}
 
 	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 2200
+	}
+
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 167550
+	}
+
+	aristocrats = {
+		culture = korean
+		religion = mahayana
+		size = 1250
+	}
+
+	clergymen = {
+		culture = korean
+		religion = mahayana
+		size = 750
+	}
+
+	artisans = {
+		culture = korean
+		religion = mahayana
+		size = 3700
+	}
+
+	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1100
+		size = 2200
 	}
 	
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 60000
+		size = 120000
 	}
 
 	farmers = {
 		culture = korean
 		religion = mahayana
-		size = 10950
+		size = 20950
 	}
 }
 #Manzhouli (251300/62825 POPS)

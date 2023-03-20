@@ -13,6 +13,11 @@ ERF = {
     level = 5
     influence_value = 100
 }
+BRG = {
+    value = 0
+    level = 0
+    influence_value = 0
+}
 BRA = {
     value = 100
     level = 5

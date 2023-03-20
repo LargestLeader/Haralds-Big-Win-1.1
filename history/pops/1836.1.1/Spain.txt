@@ -619,7 +619,7 @@
 	bureaucrats = {
 		culture = spanish
 		religion = catholic
-		size = 1100
+		size = 5500
 	}
 
 	clergymen = {
@@ -2349,6 +2349,11 @@
 		size = 10400
 	}
 
+	bureaucrats = {
+		culture = algaravian
+		religion = sunni
+		size = 5000
+	}
 	farmers = {
 		culture = mozarabic
 		religion = catholic

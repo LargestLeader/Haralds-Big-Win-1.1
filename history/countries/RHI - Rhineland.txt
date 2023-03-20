@@ -29,6 +29,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+oob = "RHI_oob.txt"
 
 # New Reforms
 conscription = no_draft

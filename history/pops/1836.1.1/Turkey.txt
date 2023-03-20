@@ -817,7 +817,13 @@
 		religion = orthodox
 		size = 8500
 	}
-
+	
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 4000
+	}
+	
 	farmers = {
 		culture = greek
 		religion = orthodox

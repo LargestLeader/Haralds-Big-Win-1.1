@@ -1603,115 +1603,115 @@
 	aristocrats = {
 		culture = french
 		religion = catholic
-		size = 3000
+		size = 9000
 	}
 
 	officers = {
 		culture = french
 		religion = catholic
-		size = 800
+		size = 2400
 	}
 
 	bureaucrats = {
 		culture = french
 		religion = catholic
-		size = 1500
+		size = 4500
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 4000
+		size = 12000
 	}
 
 	capitalists = {
 		culture = french
 		religion = catholic
-		size = 200
+		size = 600
 	}
 
 	clerks = {
 		culture = french
 		religion = catholic
-		size = 1500
+		size = 4500
 	}
 
 	craftsmen = {
 		culture = french
 		religion = catholic
+		size = 21500
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 15540
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 12000
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 300000
+	}
+
+	clergymen = {
+		culture = french
+		religion = jewish
+		size = 1500
+	}
+
+	capitalists = {
+		culture = french
+		religion = jewish
+		size = 600
+	}
+
+	clerks = {
+		culture = french
+		religion = jewish
+		size = 4500
+	}
+
+	craftsmen = {
+		culture = french
+		religion = jewish
 		size = 7500
 	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 5540
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 4000
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 100000
-	}
-
-	clergymen = {
-		culture = french
-		religion = jewish
-		size = 500
-	}
-
-	capitalists = {
-		culture = french
-		religion = jewish
-		size = 200
-	}
-
-	clerks = {
-		culture = french
-		religion = jewish
-		size = 1500
-	}
-
-	craftsmen = {
-		culture = french
-		religion = jewish
-		size = 2500
-	}
 	
 	craftsmen = {
 		culture = dutch
 		religion = catholic
-		size = 4000
+		size = 12000
 	}
 	
 	clergymen = {
 		culture = dutch
 		religion = catholic
-		size = 100
+		size = 300
 	}
 
 	artisans = {
 		culture = french
 		religion = jewish
-		size = 2250
+		size = 3350
 	}
 
 	soldiers = {
 		culture = french
 		religion = jewish
-		size = 100
+		size = 300
 	}
 	
 	farmers = {
 		culture = french
 		religion = jewish
-		size = 5000
+		size = 15000
 	}
 }
 #Chartres (284000/71000 POPS)

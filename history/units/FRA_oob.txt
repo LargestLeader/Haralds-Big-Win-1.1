@@ -26,6 +26,44 @@ army = {
 	}
 }
 army = {
+	name = "localization is hard"
+	location = 445
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 1463
+	}
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 1485
+	}
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 1485
+	}
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 2562
+	}
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 2562
+	}regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 1455
+	}
+	regiment = {
+		name = "Infantry"
+		type = infantry
+		home = 1456
+	}
+}
+army = {
 	name = "1ère Armée"
 	location = 438
 	regiment = {

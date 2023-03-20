@@ -1634,6 +1634,12 @@
 		size = 11000
 	}
 
+	bureaucrats = {
+		culture = commanche
+		religion = animist
+		size = 2500
+	}
+
 	soldiers = {
 		culture = commanche
 		religion = animist
@@ -1879,6 +1885,12 @@
 		culture = commanche
 		religion = animist
 		size = 200
+	}
+	
+	bureaucrats = {
+		culture = commanche
+		religion = animist
+		size = 2500
 	}
 	
 	artisans = {

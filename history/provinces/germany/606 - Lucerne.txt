@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = WUR
+controller = WUR    
 add_core = BRH
 add_core = WUR
 add_core = SGF

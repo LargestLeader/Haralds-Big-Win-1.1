@@ -218,6 +218,7 @@ political_decisions = {
 			add_accepted_culture = south_italian
 			add_accepted_culture = venetian
 			add_accepted_culture = sardinian
+			add_accepted_culture = greek
 			capital = 749
 		}
 		ai_will_do = {
@@ -254,12 +255,81 @@ political_decisions = {
 			add_accepted_culture = sardinian
 			capital = 749
 			VEN = { all_core = { add_core = ITA}}
+			set_country_flag = venice_form_italy
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
-	
+	italian_hero = {
+		potential = {
+			OR = {
+				primary_culture = venetian
+				primary_culture = south_italian
+				primary_culture = north_italian
+			}
+			OR = {
+				729 = { owned_by = BYZ }
+				729 = { owned_by = YUG }
+				749 = { owned_by = BYZ }	
+				749 = { owned_by = YUG }
+				754 = { owned_by = BYZ }
+				754 = { owned_by = YUG }
+				741 = { owned_by = BYZ }
+				741 = { owned_by = YUG }
+			}
+			OR = {
+				tag = VEN
+				tag = SIC
+			}
+			NOT = {
+				exists = ITA
+			}
+		}
+		allow = {
+			AND = {
+				OR = {
+					owns = 729
+					owns = 749
+					owns = 754
+					owns = 741
+				}
+				OR = {
+					owns = 729
+					729 = { owned_by = YUG }
+					729 = { owned_by = BYZ}
+				}
+				OR = {
+					owns = 749
+					749 = { owned_by = BYZ }	
+					749 = { owned_by = YUG }
+				}
+				OR = {
+					owns = 754
+					754 = { owned_by = BYZ }
+					754 = { owned_by = YUG }
+				}
+				OR = {
+					owns = 741
+					741 = { owned_by = BYZ }
+					741 = { owned_by = YUG }
+				}
+			}
+		}
+		effect = {
+			prestige = 30
+			change_tag = ITA
+			add_accepted_culture = north_italian
+			add_accepted_culture = south_italian
+			add_accepted_culture = venetian
+			add_accepted_culture = sardinian
+			add_accepted_culture = greek
+			any_country = {
+				limit = { is_culture_group = italian }
+				country_event = { id=11101 days=0 }
+			}
+		}
+	}
 	
 	reichsland_elsass = {
 		potential = {
