@@ -25,4 +25,18 @@ political_decisions = {
             add_accepted_culture = manchu
         }
     }
+    conquest_of_the_manchus = {
+        potential = {
+            tag = OIR
+            NOT = { has_country_flag = conquest_of_the_manchus }
+        }
+        allow = {
+            MCK = { all_core = { owned_by = THIS } }
+        }
+        effect = { 
+            prestige = 10
+            MCK = { all_core = { add_core = THIS } }
+            set_country_flag = conquest_of_the_manchus 
+        }
+    }
 }
