@@ -29,4 +29,18 @@ political_decisions = {
             set_country_flag = italian_greeks
         }
     }
+    heroic_rome = {
+        potential = {
+            has_country_flag = italian_hero
+            NOT = { has_country_flag = heroic_rome }
+        }
+        allow = {
+            749 = { owned_by = ITA }
+        }
+        effect = {
+            set_country_flag = heroic_rome
+            prestige = 20
+            capital = 749
+        }
+    }
 }

@@ -324,6 +324,7 @@ political_decisions = {
 			add_accepted_culture = venetian
 			add_accepted_culture = sardinian
 			add_accepted_culture = greek
+			set_country_flag = italian_hero
 			any_country = {
 				limit = { is_culture_group = italian }
 				country_event = { id=11101 days=0 }

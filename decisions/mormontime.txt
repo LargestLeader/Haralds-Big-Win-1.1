@@ -106,7 +106,7 @@ political_decisions = {
             set_country_flag = mormoner_time
         }
     }
-    Deseret_time = {
+    deseret_time = {
         potential = {
             tag = CLM
             has_country_flag = mormoner_time
