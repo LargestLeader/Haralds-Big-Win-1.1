@@ -1,0 +1,34 @@
+army = {
+    name = "Yokut Crew"
+    location = 94
+    regiment = {
+        name = "The Yokut Boys"
+        type = infantry
+        home = 86
+    }
+    regiment = {
+        name = "The Yokut Boys"
+        type = infantry
+        home = 84
+    }
+    regiment = {
+        name = "The Yokut Boys"
+        type = infantry
+        home = 83
+    }
+    regiment = {
+        name = "The Yokut Boys"
+        type = infantry
+        home = 81
+    }
+    regiment = {
+        name = "The Yokut Boys"
+        type = infantry
+        home = 80
+    }
+    regiment = {
+        name = "The Yokut Boys"
+        type = infantry
+        home = 80
+    }
+}

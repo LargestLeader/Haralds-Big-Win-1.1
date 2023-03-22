@@ -39,4 +39,62 @@ political_decisions = {
             set_country_flag = conquest_of_the_manchus 
         }
     }
+    brother_kirghiz = {
+        potential = {
+            tag = OIR
+            NOT = { has_country_flag = brother_kirghiz }
+        }
+        allow = {
+            owns = 1185
+            owns = 2606
+            owns = 1186
+            owns = 1188
+            owns = 1187
+        }
+        effect = {
+            add_accepted_culture = kirgiz
+            1185 = { add_core = OIR }
+            2606 = { add_core = OIR }
+            1186 = { add_core = OIR }
+            1188 = { add_core = OIR }
+            1187 = { add_core = OIR }
+            set_country_flag = brother_kirghiz
+        }
+    }
+    restore_mongol_empire = {
+        potential = {
+            tag = OIR
+            has_country_flag = brother_kirghiz
+            has_country_flag = conquest_of_the_manchus
+        }
+        allow = {
+            civilized = yes
+            OIR = { all_core = { owned_by = THIS } }
+            UZB = { all_core = { owned_by = THIS } }
+        }
+        effect = {
+            change_tag = MOE 
+            add_accepted_culture = uzbek
+            add_accepted_culture = manchu
+            OIR = { all_core = { add_core = MOE } }
+            OIR = { all_core = { remove_core = OIR } }
+            UZB = { all_core = { add_core = MOE } }
+            UZB = { all_core = { remove_core = UZB } }
+        }
+    }
+    kazan_snag = {
+        potential = {
+            tag = MOE
+            NOT = { has_country_flag = kazan_snag }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+            KZN = { all_core = { owned_by = THIS } }
+        }
+        effect = {
+            add_accepted_culture = astrakhan_tatar
+            KZN = { all_core = { add_core = MOE } }
+            set_country_flag = kazan_snag
+        }
+    }
 }

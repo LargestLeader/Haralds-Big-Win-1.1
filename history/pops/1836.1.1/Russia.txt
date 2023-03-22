@@ -4804,55 +4804,55 @@
 	aristocrats = {
 		culture = uzbek
 		religion = sunni
-		size = 250
+		size = 750
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	artisans = {
 		culture = uzbek
 		religion = sunni
-		size = 550
+		size = 1550
 	}
 
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 2000
+		size = 6000
 	}
 
 	labourers = {
 		culture = uzbek
 		religion = sunni
-		size = 10800
+		size = 30800
 	}
 
 	clergymen = {
 		culture = astrakhan_tatar
 		religion = sunni
-		size = 25  
+		size = 125  
 	}
 
 	artisans = {
 		culture = astrakhan_tatar
 		religion = sunni
-		size = 220 
+		size = 620 
 	}
 
 	soldiers = {
 		culture = astrakhan_tatar
 		religion = sunni
-		size = 825
+		size = 2425
 	}
 
 	farmers = {
 		culture = astrakhan_tatar
 		religion = sunni
-		size = 5875  
+		size = 15875  
 	}
 
 }
@@ -5909,54 +5909,54 @@
 	artisans = {
 		culture = astrakhan_tatar
 		religion = sunni
-		size = 100
+		size = 300
 	}
 
 	soldiers = {
 		culture = astrakhan_tatar
 		religion = sunni
-		size = 1000
+		size = 3000
 	}
 
 	farmers = {
 		culture = astrakhan_tatar
 		religion = sunni
-		size = 8000
+		size = 18000
 	}
 	
 	aristocrats = {
 		culture = uzbek
 		religion = sunni
-		size = 150
+		size = 450
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = sunni
-		size = 150
+		size = 450
 	}
 	
 	artisans = {
 		culture = uzbek
 		religion = sunni
-		size = 250
+		size = 750
 	}
 
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 1000
+		size = 3000
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 10000
+		size = 30000
 	}
 	
-	slaves = {
-		culture = russian
-		religion = orthodox
+	bureaucrats = {
+		culture = uzbek
+		religion = sunni
 		size = 850
 	}
 }

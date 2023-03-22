@@ -5,37 +5,37 @@
 	bureaucrats = {
 		culture = uzbek
 		religion = sunni
-		size = 20
+		size = 600
 	}
 
 	aristocrats = {
 		culture = uzbek
 		religion = sunni
-		size = 275
+		size = 675
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = sunni
-		size = 275
+		size = 675
 	}
 
 	artisans = {
 		culture = uzbek
 		religion = sunni
-		size = 1200
+		size = 3200
 	}
 
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 4025
+		size = 12025
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 24250
+		size = 74250
 	}
 }
 #Aqtobe (20000/5000 POPS)
@@ -43,31 +43,31 @@
 	aristocrats = {
 		culture = uzbek
 		religion = sunni
-		size = 75
+		size = 175
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = sunni
-		size = 50
+		size = 150
 	}
 
 	artisans = {
 		culture = uzbek
 		religion = sunni
-		size = 250
+		size = 750
 	}
 
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 350
+		size = 1350
 	}
 	
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 2200
+		size = 6200
 	}
 }
 #Uralsk (13000/3250 POPS)
@@ -131,31 +131,31 @@
 	aristocrats = {
 		culture = uzbek
 		religion = sunni
-		size = 75
+		size = 175
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = sunni
-		size = 50
+		size = 150
 	}
 
 	artisans = {
 		culture = uzbek
 		religion = sunni
-		size = 250
+		size = 750
 	}
 
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 50
+		size = 150
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 4075
+		size = 12075
 	}
 }
 #Eastern kirgizh Steppes Region (376000)
@@ -165,143 +165,19 @@
 	aristocrats = {
 		culture = uzbek
 		religion = sunni
-		size = 85
+		size = 185
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = sunni
-		size = 45
+		size = 145
 	}
 
 	artisans = {
 		culture = uzbek
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = uzbek
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = uzbek
-		religion = sunni
-		size = 4875
-	}
-}
-#Kokshetau (96000/24000 POPS)
-1184 = {
-	bureaucrats = {
-		culture = sibir_tatar
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = sibir_tatar
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = sibir_tatar
 		religion = sunni
 		size = 150
-	}
-
-	soldiers = {
-		culture = sibir_tatar
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = sibir_tatar
-		religion = sunni
-		size = 2700
-	}
-
-	aristocrats = {
-		culture = uzbek
-		religion = sunni
-		size = 425
-	}
-
-	clergymen = {
-		culture = uzbek
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = uzbek
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = uzbek
-		religion = sunni
-		size = 225
-	}
-
-	farmers = {
-		culture = uzbek
-		religion = sunni
-		size = 19050
-	}
-}
-#Sholakkurgan (80000/20000 POPS)
-1185 = {
-    aristocrats = {
-		culture = kirgiz
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = kirgiz
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = kirgiz
-		religion = sunni
-		size = 700
-	}
-
-	soldiers = {
-		culture = kirgiz
-		religion = sunni
-		size = 1150
-	}
-
-	farmers = {
-		culture = kirgiz
-		religion = sunni
-		size = 6775
-	}
-
-	aristocrats = {
-		culture = uzbek
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = uzbek
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = uzbek
-		religion = sunni
-		size = 100
 	}
 
 	soldiers = {
@@ -313,7 +189,131 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 3700
+		size = 14875
+	}
+}
+#Kokshetau (96000/24000 POPS)
+1184 = {
+	bureaucrats = {
+		culture = sibir_tatar
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = sibir_tatar
+		religion = sunni
+		size = 475
+	}
+
+	artisans = {
+		culture = sibir_tatar
+		religion = sunni
+		size = 1250
+	}
+
+	soldiers = {
+		culture = sibir_tatar
+		religion = sunni
+		size = 325
+	}
+
+	farmers = {
+		culture = sibir_tatar
+		religion = sunni
+		size = 18700
+	}
+
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 1425
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 600
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 9100
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 120050
+	}
+}
+#Sholakkurgan (80000/20000 POPS)
+1185 = {
+    aristocrats = {
+		culture = kirgiz
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = kirgiz
+		religion = sunni
+		size = 325
+	}
+
+	artisans = {
+		culture = kirgiz
+		religion = sunni
+		size = 2100
+	}
+
+	soldiers = {
+		culture = kirgiz
+		religion = sunni
+		size = 3150
+	}
+
+	farmers = {
+		culture = kirgiz
+		religion = sunni
+		size = 18775
+	}
+
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 3125
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 9700
 	}
 }
 #Zhambul (76000/19000 POPS)
@@ -321,31 +321,31 @@
 	aristocrats = {
 		culture = kirgiz
 		religion = sunni
-		size = 350
+		size = 950
 	}
 
 	clergymen = {
 		culture = kirgiz
 		religion = sunni
-		size = 175
+		size = 475
 	}
 
 	artisans = {
 		culture = kirgiz
 		religion = sunni
-		size = 950
+		size = 1950
 	}
 
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 17325
+		size = 47325
 	}
 }
 #Aktash (68000/17000 POPS)
@@ -353,31 +353,31 @@
     aristocrats = {
 		culture = uzbek
 		religion = sunni
-		size = 35
+		size = 135
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = sunni
-		size = 75
+		size = 175
 	}
 
 	artisans = {
 		culture = uzbek
 		religion = sunni
-		size = 150
+		size = 350
 	}
 
 	soldiers = {
 		culture = uzbek
 		religion = sunni
-		size = 175
+		size = 375
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 2000
+		size = 6000
 	}
 	
 	aristocrats = {
@@ -407,7 +407,7 @@
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 1475
+		size = 2475
 	}
 	
 	clergymen = {
@@ -446,37 +446,37 @@
 	aristocrats = {
 		culture = kirgiz
 		religion = sunni
-		size = 350
+		size = 950
 	}
 
 	clergymen = {
 		culture = kirgiz
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	artisans = {
 		culture = kirgiz
 		religion = sunni
-		size = 1100
+		size = 3300
 	}
 
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size = 200
+		size = 600
 	}
 
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 18250
+		size = 52250
 	}
 	
 	farmers = {
 		culture = sibir_tatar
 		religion = sunni
-		size = 500
+		size = 1500
 	}
 }
 #Qaratal (108000/27000 POPS)
@@ -624,49 +624,49 @@
 	aristocrats = {
 		culture = kirgiz
 		religion = sunni
-		size = 350
+		size = 750
 	}
 
 	clergymen = {
 		culture = kirgiz
 		religion = sunni
-		size = 200
+		size = 400
 	}
 
 	artisans = {
 		culture = kirgiz
 		religion = sunni
-		size = 1100
+		size = 2200
 	}
 
 	soldiers = {
 		culture = kirgiz
 		religion = sunni
-		size = 5200
+		size = 10200
 	}
 
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 35250
+		size = 70250
 	}
 	
 	aristocrats = {
 		culture = turkmen
 		religion = sunni
-		size = 35
+		size = 135
 	}
 
 	clergymen = {
 		culture = turkmen
 		religion = sunni
-		size = 20
+		size = 120
 	}
 
 	artisans = {
 		culture = turkmen
 		religion = sunni
-		size = 200
+		size = 400
 	}
 
 	soldiers = {
@@ -708,7 +708,7 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 1250
+		size = 3250
 	}
 	
 	artisans = {
@@ -720,7 +720,7 @@
 	soldiers = {
 		culture = qomani
 		religion = sunni
-		size = 800
+		size = 1600
 	}
 
 	farmers = {
@@ -744,7 +744,7 @@
 	slaves = {
 		culture = turkmen
 		religion = sunni
-		size = 3000
+		size = 12000
 	}
 }
 #Aqtau (32000/8000 POPS)

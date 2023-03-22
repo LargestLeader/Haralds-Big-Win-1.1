@@ -1,0 +1,83 @@
+army = {
+    name = "Ozbeg Horde"
+    location = 2702
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1183
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1182
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1182
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1182
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1182
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1182
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1060
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1060
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1060
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1060
+    }
+}
+army = {
+    name = "Ozbeg Robbers"
+    location = 1193
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1193
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1193
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1193
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1193
+    }
+    regiment = {
+        name = "Ozbeg Raider"
+        type = cavalry
+        home = 1193
+    }
+}

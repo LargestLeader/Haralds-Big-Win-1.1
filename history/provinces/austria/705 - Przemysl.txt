@@ -1,6 +1,7 @@
 owner = BOH
 controller = BOH
 add_core = WSF
+add_core = BOH
 trade_goods = coal
 life_rating = 35
 

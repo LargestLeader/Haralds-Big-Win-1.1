@@ -26,6 +26,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+oob = "CAL_oob.txt"
 
 #New Reforms
 conscription = no_draft
@@ -73,7 +74,7 @@ late_classical_theory = 1
 market_structure = 1
 high_pressure_steam_engine = 1
 
-ruling_party = CAL_liberal
+ruling_party = CAL_conservative
 upper_house = {
 	fascist = 0
 	liberal = 59
