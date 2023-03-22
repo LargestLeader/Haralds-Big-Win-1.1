@@ -42,4 +42,20 @@ political_decisions = {
 			add_accepted_culture = british
 		}
 	}
+	my_latest_brilliant_idea = {
+		potential = {
+			tag = NRD
+			NOT = { has_country_flag = genius }
+		}
+		allow = {
+			year = 1860
+			owns = 71
+			owns = 65
+			owns = 46
+		}
+		effect = {
+			set_country_flag = genius
+			add_accepted_culture = vinlander
+		}
+	}
 }

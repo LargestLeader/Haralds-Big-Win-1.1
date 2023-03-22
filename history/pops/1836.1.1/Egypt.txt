@@ -582,6 +582,11 @@
 		size = 1950
 	}
 
+	craftsmen = {
+		culture = misri
+		religion = sunni
+		size = 35000
+	}
 	artisans = {
 		culture = misri
 		religion = sunni
@@ -1207,6 +1212,12 @@
 		culture = misri
 		religion = sunni
 		size = 3625
+	}
+
+	craftsmen = {
+		culture = misri
+		religion = sunni
+		size = 15000
 	}
 
 	bureaucrats = {

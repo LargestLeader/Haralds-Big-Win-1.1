@@ -108,6 +108,8 @@ schools = naval_tech_school
 
 decision = literacy_ENG
 
+decision = NO_MORE_CANADA
+
 govt_flag = {
 	government = hms_government
 	flag = theocracy

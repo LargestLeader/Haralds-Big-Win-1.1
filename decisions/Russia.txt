@@ -217,4 +217,17 @@ political_decisions = {
 			CRI = { all_core = { remove_core = CRI } }
 		}
 	}
+	entaras_novergod_idea = {
+		potential = {
+			tag = MUS
+			NOT = { has_country_flag = entars }
+		}
+		allow = {
+			year = 1845
+		}
+		effect = {
+			add_accepted_culture = novgorodian
+			set_country_flag = entars
+		}
+	}
 }

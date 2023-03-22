@@ -78,5 +78,3 @@ upper_house = {
 }
 
 set_country_flag = new_world_nation
-
-decision = NO_MORE_CANADA

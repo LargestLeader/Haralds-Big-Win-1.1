@@ -1,6 +1,7 @@
-owner = CAN
-controller = CAN
+owner = NRD
+controller = NRD
 add_core = CAN
 trade_goods = iron
-life_rating = 35
+
+life_rating = 35
 

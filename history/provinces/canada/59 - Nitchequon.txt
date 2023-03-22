@@ -1,5 +1,5 @@
-owner = CAN
-controller = CAN
+owner = NRD
+controller = NRD
 add_core = CAN
 trade_goods = timber
 terrain = new_world_boreal
