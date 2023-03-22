@@ -88,4 +88,21 @@ political_decisions = {
 			set_country_flag = accept_bruh
 		}
 	}
+	luxchange = {
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = luxchange }
+		}
+		allow = {
+			owns = 398
+			owns = 397
+			owns = 396
+		}
+		effect = {
+			set_country_flag = luxchange
+			398 = { add_core = FRA }
+			397 = { add_core = FRA }
+			396 = { add_core = FRA }
+		}
+	}
 }
