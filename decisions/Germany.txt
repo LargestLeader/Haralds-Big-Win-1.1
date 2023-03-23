@@ -108,7 +108,7 @@ political_decisions = {
 		}
     }
 
-    Claim_Mittelland = {
+    claim_mittelland = {
         potential = {
             tag = GER
             NOT = { has_country_flag = mittelland }
@@ -124,7 +124,7 @@ political_decisions = {
             set_country_flag = mittelland
         }
     }
-    SGF_thing = {
+    sgf_thing = {
         potential = {
             primary_culture = south_german
             NOT = { has_country_flag = sgf }
@@ -133,8 +133,8 @@ political_decisions = {
             SGF = { all_core = { owned_by = THIS }}
             }
         effect = {
-            SGF = {all_core = {add_core = THIS}}
-            SGF = {all_core = {remove_core = SGF}}
+            change_tag = SGF
+            WUR = {all_core = {add_core = THIS}}
             set_country_flag = sgf
         }
     }
@@ -182,5 +182,20 @@ political_decisions = {
             add_accepted_culture = sorbian
             add_accepted_culture = pruthenian
         }
+    }
+    core_flander = {
+        tag = GER
+        NOT = { has_country_flag = flander }
+        NOT = { primary_culture = south_german }
+    }
+    allow = {
+        owns = 388
+    }
+    effect = {
+        set_country_flag = flander
+        388 = { add_core = THIS }
+        389 = { add_core = THIS }
+        393 = { add_core = THIS }
+        399 = { add_core = THIS }
     }
 }

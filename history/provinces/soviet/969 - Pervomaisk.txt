@@ -1,6 +1,7 @@
 owner = RTH
 controller = RTH
 add_core = DON
+add_core = RTH
  
 trade_goods = cattle
 life_rating = 35

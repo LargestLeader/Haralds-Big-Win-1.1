@@ -42,7 +42,10 @@ political_decisions = {
                         tag = MOL
                         tag = ROM
                     }
-                    vassal_of = THIS
+                    OR = {
+                        vassal_of = THIS
+                        in_sphere = THIS
+                    }
                 }
                 country_event = { id=11101 days=0 }
             }
