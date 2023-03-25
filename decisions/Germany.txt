@@ -184,6 +184,7 @@ political_decisions = {
         }
     }
     core_flander = {
+    potential = {
         tag = GER
         NOT = { has_country_flag = flander }
         NOT = { primary_culture = south_german }
