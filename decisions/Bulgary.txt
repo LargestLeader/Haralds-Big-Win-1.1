@@ -1,8 +1,10 @@
 political_decisions = {
     kill_turks = {
         potential ={
-            tag = BYZ
-            tag = YUG
+	    OR = {
+                tag = BYZ
+                tag = YUG
+	    }
             NOT = { accepted_culture = turkish }
         }
         allow = {
