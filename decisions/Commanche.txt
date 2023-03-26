@@ -90,10 +90,28 @@ political_decisions = {
             SSH = {all_core = {remove_core = SSH}}
             YKM = {all_core = {remove_core = YKM}}
             SSX = {all_core = {remove_core = SSX}}
-            change_tag = LSK 
-            LSK = {all_core = {add_core = CMM}}
-            CMM = {all_core = {remove_core = CMM}}
             set_country_flag = commanche_big_win 
+        }
+    }
+    final_cmm_win = {
+        potential = {
+            has_country_flag = commanche_big_win
+            NOT = { has_country_flag = final_cmm_win }
+        }
+        allow = {
+            OR = {
+                NEN = { all_core = { owned_by = THIS }}
+                USA = { all_core = { owned_by = THIS }}
+            }
+        }
+        effect = {
+            USA = { all_core = { remove_core = USA }}
+            NEN = { all_core = { remove_core = NEN }}
+            set_country_flag = final_cmm_win
+            add_country_modifier = {
+                name = american_win
+                duration = 36500
+            }
         }
     }
 }

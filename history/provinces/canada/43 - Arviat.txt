@@ -1,5 +1,6 @@
 owner = NRD
 controller = NRD
 add_core = CAN
+colonial = 2
 trade_goods = cotton
 life_rating = 35

@@ -1,6 +1,7 @@
 owner = NRD
 controller = NRD
 add_core = CAN
+colonial = 2
 trade_goods = fish
 terrain = new_world_boreal
 life_rating = 30

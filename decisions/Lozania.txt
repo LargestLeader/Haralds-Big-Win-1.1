@@ -103,4 +103,21 @@ political_decisions = {
             NEN = {all_core = {remove_core = NEN}}
         }
     }
+    remove_the_natives = {
+        potential = {
+            tag = USA
+            NOT = { has_country_flag = remove_the_natives }
+        }
+        allow = {
+            CMM = { all_core = { owned_by = THIS }}
+        }
+        effect = {
+            CMM = { all_core = { remove_core = CMM}}
+            set_country_flag = remove_the_natives
+            add_country_modifier = {
+                name = american_win
+                duration = 36500
+            }
+        }
+    }
 }

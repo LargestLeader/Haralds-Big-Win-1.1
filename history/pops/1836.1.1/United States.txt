@@ -1342,31 +1342,37 @@
 	aristocrats = {
 		culture = commanche
 		religion = animist
-		size = 225
+		size = 825
 	}
 
 	clergymen = {
 		culture = commanche
 		religion = animist
-		size = 150
+		size = 650
 	}
 
 	artisans = {
 		culture = commanche
 		religion = animist
-		size = 100
+		size = 400
 	}
 
 	soldiers = {
 		culture = commanche
 		religion = animist
-		size = 1025
+		size = 4025
 	}
 
 	farmers = {
 		culture = commanche
 		religion = animist
-		size = 21800
+		size = 81800
+	}
+
+	bureaucrats = {
+		culture = commanche
+		religion = animist
+		size = 2000
 	}
 }
 #Loa (4000/1000 POPS)
@@ -1660,55 +1666,43 @@
 	aristocrats = {
 		culture = commanche
 		religion = animist
-		size = 60
+		size = 600
 	}
 
 	clergymen = {
 		culture = commanche
 		religion = animist
-		size = 125
+		size = 1250
 	}
 
 	artisans = {
 		culture = commanche
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = commanche
 		religion = animist
-		size = 1015
+		size = 10150
 	}
 
 	farmers = {
 		culture = commanche
 		religion = animist
-		size = 4400
-	}
-	
-	soldiers = {
-		culture = dakota
-		religion = animist
-		size = 115
+		size = 44000
 	}
 
 	farmers = {
 		culture = dakota
 		religion = animist
-		size = 2500
-	}
-	
-	soldiers = {
-		culture = commanche
-		religion = animist
-		size = 115
+		size = 25000
 	}
 
 	farmers = {
 		culture = commanche
 		religion = animist
-		size = 2000
+		size = 20000
 	}
 }
 
@@ -1717,61 +1711,61 @@
 	aristocrats = {
 		culture = commanche
 		religion = animist
-		size = 410
+		size = 4100
 	}
 
 	clergymen = {
 		culture = commanche
 		religion = animist
-		size = 425
+		size = 4250
 	}
 
 	soldiers = {
 		culture = commanche
 		religion = animist
-		size = 515
+		size = 5150
 	}
 
 	farmers = {
 		culture = commanche
 		religion = animist
-		size = 30000
+		size = 300000
 	}
 	
 	aristocrats = {
 		culture = new_scots
 		religion = catholic
-		size = 10
+		size = 100
 	}
 	
 	bureaucrats = {
 		culture = new_scots
 		religion = catholic
-		size = 50
+		size = 500
 	}
 	
 	clergymen = {
 		culture = new_scots
 		religion = catholic
-		size = 50
+		size = 500
 	}
 	
 	artisans = {
 		culture = new_scots
 		religion = catholic
-		size = 350
+		size = 3500
 	}
 	
 	soldiers = {
 		culture = new_scots
 		religion = catholic
-		size = 55
+		size = 550
 	}
 	
 	farmers = {
 		culture = new_scots
 		religion = catholic
-		size = 200
+		size = 2000
 	}
 	
 }
@@ -2473,49 +2467,49 @@
 	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
 		culture = dakota
 		religion = animist
-		size = 2900
+		size = 29000
 	}
 	
 	soldiers = {
 		culture = commanche
-		religion = animist
-		size = 110
-	}
-
-	farmers = {
-		culture = commanche
-		religion = animist
-		size = 900
-	}
-	
-	soldiers = {
-		culture = dakota
-		religion = animist
-		size = 300
-	}
-
-	farmers = {
-		culture = dakota
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = dakota
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
+		culture = commanche
+		religion = animist
+		size = 9000
+	}
+	
+	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 4000
+		size = 3000
+	}
+
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 30000
+	}
+
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 11000
+	}
+
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 40000
 	}
 }
 #Nebraska Region (20000)
@@ -2580,37 +2574,37 @@
 	soldiers = {
 		culture = illinois
 		religion = animist
-		size = 200
+		size = 2000
 	}
 
 	farmers = {
 		culture = illinois
 		religion = animist
-		size = 7800
+		size = 78000
 	}
 	
 	soldiers = {
 		culture = illinois
 		religion = animist
-		size = 200
+		size = 2000
 	}
 
 	farmers = {
 		culture = illinois
 		religion = animist
-		size = 3800
+		size = 38000
 	}
 	
 	soldiers = {
 		culture = dakota
 		religion = animist
-		size = 200
+		size = 2000
 	}
 
 	farmers = {
 		culture = dakota
 		religion = animist
-		size = 5000
+		size = 50000
 	}
 }
 #Kansas Region (24000)
@@ -2714,37 +2708,7 @@
 	aristocrats = {
 		culture = commanche
 		religion = animist
-		size = 4
-	}
-
-	clergymen = {
-		culture = commanche
-		religion = animist
-		size = 8
-	}
-
-	artisans = {
-		culture = commanche
-		religion = animist
-		size = 20
-	}
-
-	soldiers = {
-		culture = commanche
-		religion = animist
-		size = 240
-	}
-
-	farmers = {
-		culture = commanche
-		religion = animist
-		size = 2000
-	}
-	
-	aristocrats = {
-		culture = commanche
-		religion = animist
-		size = 140
+		size = 40
 	}
 
 	clergymen = {
@@ -2756,19 +2720,55 @@
 	artisans = {
 		culture = commanche
 		religion = animist
-		size = 20
+		size = 200
 	}
 
 	soldiers = {
 		culture = commanche
 		religion = animist
-		size = 1000
+		size = 2400
 	}
 
 	farmers = {
 		culture = commanche
 		religion = animist
-		size = 10200
+		size = 20000
+	}
+	
+	aristocrats = {
+		culture = commanche
+		religion = animist
+		size = 1400
+	}
+
+	clergymen = {
+		culture = commanche
+		religion = animist
+		size = 800
+	}
+
+	artisans = {
+		culture = commanche
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = commanche
+		religion = animist
+		size = 8000
+	}
+
+	farmers = {
+		culture = commanche
+		religion = animist
+		size = 102000
+	}
+	
+	bureaucrats = {
+		culture = commanche
+		religion = animist
+		size = 999
 	}
 }
 #Tahlequah (12000/3000 POPS)
@@ -3235,37 +3235,43 @@
 	aristocrats = {
 		culture = commanche
 		religion = animist
-		size = 125
+		size = 1250
 	}
 	
 	soldiers = {
 		culture = commanche
 		religion = animist
-		size = 2175
+		size = 21750
 	}
 
 	farmers = {
 		culture = commanche
 		religion = animist
-		size = 14800
+		size = 148000
 	}
 	
 	clergymen = {
 		culture = commanche
 		religion = animist
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = commanche
 		religion = animist
-		size = 850
+		size = 8500
 	}
 
 	farmers = {
 		culture = commanche
 		religion = animist
-		size = 2000
+		size = 20000
+	}
+
+	bureaucrats = {
+		culture = commanche
+		religion = animist
+		size = 1000
 	}
 }
 #Louisiana Region (280000)

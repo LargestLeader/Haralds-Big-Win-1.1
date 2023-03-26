@@ -65,7 +65,7 @@ army = {
 }
 army = {
 	name = "1ère Armée"
-	location = 438
+	location = 406
 	regiment = {
 		name= "1.1ère Division d'Infanterie"
 		type = infantry
@@ -99,7 +99,7 @@ army = {
 	regiment = {
 		name= "3.2ème Division d'Infanterie"
 		type = infantry
-		home = 404
+		home = 459
 	}
 
 	regiment = {
@@ -184,11 +184,6 @@ army = {
 army = {
 	name = "Garnison du Sénégal"
 	location = 1784
-	regiment = {
-		name= "1.10ème Division d'Infanterie"
-		type = infantry
-		home = 411
-	}
 
 	regiment = {
 		name= "2.10ème Division d'Infanterie"

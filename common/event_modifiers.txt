@@ -501,6 +501,12 @@ the_statue_of_liberty = {
 	icon = 15
 }
 
+american_win = {
+	global_immigrant_attract = 2	#200%
+	global_assimilation_rate = 5.0
+	icon = 15
+}
+
 the_congo_reform_association = {
 	badboy = 0.2
 	icon = 17

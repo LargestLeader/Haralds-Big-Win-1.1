@@ -1,0 +1,14 @@
+army = {
+    name = "Gonna Die for Sure"
+    location = 412
+    regiment = {
+        name = "Lorrain Infantry"
+        type = infantry
+        home = 411
+    }
+    regiment = {
+        name = "Red Brigade"
+        type = artillery
+        home = 412
+    }
+}

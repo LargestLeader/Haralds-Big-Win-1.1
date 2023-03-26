@@ -6,51 +6,61 @@ army=
 		{
 			name="1st Sopron Artillery"
 			type=artillery
+			home = 624
 		}
 		regiment=
 		{
 			name="2nd Sopron Artillery"
 			type=artillery
+			home = 624
 		}
 		regiment=
 		{
 			name="3rd Sopron Artillery"
 			type=artillery
+			home = 639
 		}
 		regiment=
 		{
 			name="1st Triszma Artillery"
 			type=artillery
+			home = 639
 		}
 		regiment=
 		{
 			name="1st Kremisza Artillery"
 			type=artillery
+			home = 639
 		}
 		regiment=
 		{
 			name="1st Gradec Infantry"
 			type=infantry
+			home = 639
 		}
 		regiment=
 		{
 			name="1st KumanvᲠInfantry"
 			type=infantry
+			home = 644
 		}
 		regiment=
 		{
 			name="1st Celovec Infantry"
 			type=infantry
+			home = 771
 		}
 		regiment=
 		{
 			name="2nd KumanvᲠInfantry"
 			type=infantry
+			home = 773
 		}
 		regiment=
 		{
 			name="2nd Celovec Infantry"
 			type=infantry
+			home = 768
 		}
 	}
 	army=
@@ -61,41 +71,49 @@ army=
 		{
 			name="1st Oradea Cuirassier"
 			type=cuirassier
+			home = 641
 		}
 		regiment=
 		{
 			name="1st Debrecen Cuirassier"
 			type=cuirassier
+			home = 648
 		}
 		regiment=
 		{
 			name="1st KaposvᲠCuirassier"
 			type=cuirassier
+			home = 950
 		}
 		regiment=
 		{
 			name="1st Ljubljana Artillery"
 			type=artillery
+			home = 637
 		}
 		regiment=
 		{
 			name="1st Brasso Infantry"
 			type=infantry
+			home = 659
 		}
 		regiment=
 		{
 			name="1st Resicab᮹a Infantry"
 			type=infantry
+			home = 619
 		}
 		regiment=
 		{
 			name="1st Debrecen Infantry"
 			type=infantry
+			home = 621	
 		}
 		regiment=
 		{
 			name="1st Szeged Infantry"
 			type=infantry
+			home = 623
 		}
 	}
 	army=
@@ -106,51 +124,61 @@ army=
 		{
 			name="1st Pest Hussar"
 			type=hussar
+			home = 639
 		}
 		regiment=
 		{
 			name="1st Zalaegerszeg Artillery"
 			type=artillery
+			home = 633
 		}
 		regiment=
 		{
 			name="1st P飳 Artillery"
 			type=artillery
+			home = 623
 		}
 		regiment=
 		{
 			name="1st Koice Artillery"
 			type=artillery
+			home = 653
 		}
 		regiment=
 		{
 			name="1st B飳 Infantry"
 			type=infantry
+			home = 950
 		}
 		regiment=
 		{
 			name="1st Vas Infantry"
 			type=infantry
+			home = 647
 		}
 		regiment=
 		{
 			name="2nd Vas Infantry"
 			type=infantry
+			home = 620
 		}
 		regiment=
 		{
 			name="3rd Vas Infantry"
 			type=infantry
+			home = 619
 		}
 		regiment=
 		{
 			name="1st Bratislava Infantry"
 			type=infantry
+			home = 619
 		}
 		regiment=
 		{
 			name="3rd KumanvᲠInfantry"
 			type=infantry
+			home = 618
 		}
 	}
 MOL = {

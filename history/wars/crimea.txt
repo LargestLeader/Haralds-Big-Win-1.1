@@ -1,0 +1,16 @@
+name = "The Crimean War"
+
+1835.12.12 = {
+    add_attacker = RTH 
+    add_defender = CRI 
+
+    war_goal = {
+        casus_belli = conquest
+        actor = RTH
+        receiver = CRI
+    }
+}
+1933.1.1 = {
+    rem_attacker = RTH
+    rem_defender = CRI
+}

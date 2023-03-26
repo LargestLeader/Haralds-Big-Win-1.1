@@ -1,6 +1,7 @@
 owner = NRD
 controller = NRD
 add_core = CAN
+colonial = 2
 trade_goods = grain
 life_rating = 35
 terrain = toronto

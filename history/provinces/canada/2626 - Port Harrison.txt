@@ -1,6 +1,7 @@
 owner = NRD
 controller = NRD
 add_core = CAN
+colonial = 2
 trade_goods = timber
 life_rating = 10
 terrain = new_world_boreal
