@@ -38,8 +38,9 @@ political_decisions = {
             prestige = 30
             change_tag = IBR
             add_accepted_culture = galician
-            add_accepted_culture = asturleonese
             add_accepted_culture = algaravian
+            add_accepted_culture = spanish
+            add_accepted_culture = basque
             CAT = { all_core = { add_core = IBR }}
             CAT = { all_core = { remove_core = CAT }}
             CST = { all_core = { remove_core = CST }}
@@ -47,6 +48,7 @@ political_decisions = {
             BSQ = { all_core = { remove_core = BSQ }}
             ATR = { all_core = { remove_core = ATR }} 
             ANU = { all_core = { remove_core = ANU }}
+            ANU = {annex_to = THIS}
         }
         ai_will_do = {
 			factor = 1
