@@ -1,0 +1,13 @@
+country_event = {
+    id = 999888777
+    title = "You have Freed Us!"
+    desc = "OH, I wouldn't say 'freed', more like 'under new management.'"
+    picture = "freedus"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Well Shit"
+        sphere_owner = { create_vassal = THIS }
+    }
+}
