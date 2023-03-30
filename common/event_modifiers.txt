@@ -558,10 +558,19 @@ witwatersrand_gold_rush = {
 
 bucks_for_bots = {
 	tax_efficiency = 0.2
-	administrative_efficiency_modifier = 20
+	administrative_efficiency_modifier = 100
 	min_tariff = 0.25
-	min_military_spending = 0.5
+	education_efficiency = 1
+	min_military_spending = 1
 	icon = 13
+}
+
+australian_got_money = {
+	icon = 11
+}
+
+australian_stalling = {
+	icon = 11
 }
 
 ##### RGO Spread Events #####

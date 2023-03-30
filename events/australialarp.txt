@@ -1,0 +1,103 @@
+country_event = {
+    id = 9090909
+    title = "Wrong Government Bozo"
+    desc = "This should be a democracy"
+
+    trigger = {
+        tag = NAL 
+        government = absolute_monarchy
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+
+    option = {
+        name = "Neat"
+        government = democracy
+    }
+}
+country_event = {
+    id = 90909010
+    title = "Australia Calls for aid"
+    desc = "please please please please please"
+
+    trigger = {
+        OR = {
+            tag = NAL
+            tag = AST
+        }
+        ai = yes
+        NOT = { 
+            money = 100000 
+            has_country_modifier = australian_got_money
+            has_country_modifier = australian_stalling
+        }
+        is_vassal = yes
+    }
+
+    mean_time_to_happen = { days = 1 }
+
+    option = {
+        overlord = {
+            country_event = {
+                id = 9090908
+                days = 1
+            }
+        }
+        add_country_modifier = {
+            name = "australian_stalling"
+            duration = 60
+        }
+    }
+}
+country_event = {
+    id = 9090908
+    title = "The Australian Puppet Requests a Grant"
+    desc = "If you want it to build boats its gonna need cash, simple as"
+
+    is_triggered_only = yes
+
+    mean_time_to_happen = {
+        days = 1
+    }
+
+    option = {
+        name = "Give it 1 Million Bucks"
+        FROM = {
+            treasury = 1000000
+            remove_country_modifier = australian_stalling
+            add_country_modifier = {
+                name = "australian_got_money"
+                duration = 730
+            }
+        }
+        THIS = {
+            treasury = -1000000
+        }
+    }
+    option = {
+        name = "Give it 1 Hundred Thousand"
+        FROM = {
+            treasury = 100000
+            remove_country_modifier = australian_stalling
+            add_country_modifier = {
+                name = "australian_got_money"
+                duration = 730
+            }
+        }
+        THIS = {
+            treasury = -100000
+        }
+    }
+    option = {
+        name = "Money? Tot the AI? ew"
+        FROM = {
+            remove_country_modifier = australian_stalling
+            add_country_modifier = {
+                name = "australian_got_money"
+                duration = 730
+            }
+        }
+    }
+}

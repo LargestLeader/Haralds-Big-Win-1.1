@@ -1,0 +1,96 @@
+political_decisions = {
+    NAL_cores = {
+        potential = {
+            tag = NAL
+            NOT = { has_country_flag = NAL_cores }
+        }
+        allow = {
+            NAL = { all_core = { owned_by = NAL } }
+        }
+        effect = {
+            AST = { all_core = { add_core = NAL } }
+            set_country_flag = NAL_cores
+        }
+    }
+    AST_cores = {
+        potential = {
+            tag = AST
+            NOT = { has_country_flag = AST_cores }
+        }
+        allow = {
+            AST = { all_core = { owned_by = AST } }
+        }
+        effect = {
+            NAL = { all_core = { add_core = AST } }
+            set_country_flag = AST_cores
+        }
+    }
+    NAL_victory = {
+        potential = {
+            tag = NAL
+            has_country_flag = NAL_cores
+            NOT = { has_country_flag = NAL_victory }
+        }
+        allow = {
+            NAL = { all_core = { owned_by = NAL } }
+            NOT = { exists = AST }
+        }
+        effect = {
+            AST = { all_core = { remove_core = AST } }
+            set_country_flag = NAL_cores
+        }
+    }
+    AST_victory = {
+        potential = {
+            tag = AST
+            has_country_flag = AST_cores
+            NOT = { has_country_flag = AST_victory }
+        }
+        allow = {
+            AST = { all_core = { owned_by = AST } }
+            NOT = { exists = AST }
+        }
+        effect = {
+            NAL = { all_core = { remove_core = NAL } }
+            set_country_flag = AST_victory
+        }
+    }
+    feed_NAL = {
+        potential = {
+            NAL = { vassal_of = THIS }
+            NAL = { 
+                any_core = {
+                    owned_by = THIS
+                }
+            }     
+        }
+        allow = {
+            exists = NAL
+        }
+        effect = {
+            any_owned = {
+                limit = { is_core = NAL }
+                secede_province = NAL
+            }
+        }
+    }
+    feed_AST = {
+        potential = {
+            AST = { vassal_of = THIS }
+            AST = { 
+                any_core = {
+                    owned_by = THIS
+                }
+            } 
+        }    
+        allow = {
+            exists = AST
+        }
+        effect = {
+            any_owned = {
+                limit = { is_core = AST }
+                secede_province = AST
+            }
+        }
+    }
+}
