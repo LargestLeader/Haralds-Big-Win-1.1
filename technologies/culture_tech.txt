@@ -211,7 +211,7 @@ idealism = {
 
 	increase_research = 0.50
 	ai_chance = {
-		factor = 51
+		factor = 200
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -246,7 +246,7 @@ empiricism = {
 	
 	increase_research = 0.50
 	ai_chance = {
-		factor = 51
+		factor = 200
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -272,7 +272,7 @@ analytic_philosophy = {
 
 	increase_research = 1.0
 	ai_chance = {
-		factor = 51
+		factor = 100
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -294,7 +294,7 @@ phenomenology_n_hermeneutic = {
 
 	increase_research = 1.0
 	ai_chance = {
-		factor = 51
+		factor = 100
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school

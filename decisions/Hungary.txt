@@ -9,7 +9,12 @@ political_decisions = {
                 all_core = {
                     OR = {
                         owned_by = HUN
-                        owner = { vassal_of = HUN }
+                        owner = { 
+                            OR = {
+                                vassal_of = HUN 
+                                in_sphere = HUN
+                            }
+                        }
                         province_id = 674
                         province_id = 675
                         province_id = 818

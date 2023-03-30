@@ -11,3 +11,40 @@ country_event = {
         sphere_owner = { create_vassal = THIS }
     }
 }
+country_event = {
+    id = 888777666
+    title = "AI Protien INjection"
+    desc = "bot"
+
+    trigger = {
+        ai = yes
+        NOT = { has_country_flag = bot_boost }
+    }
+    mean_time_to_happen = {
+        days = 1
+    }
+    option = {
+        name = "bot"
+        set_country_flag = bot_boost
+        add_country_modifier = {
+            name = "bucks_for_bots"
+            duration = 10000000
+        }
+    }
+}
+country_event = {
+    id = 777666555
+    title = "Can't Fool ME"
+    desc = "'You can't fool me twice.' - George Bush"
+
+    trigger = {
+        ai = no
+        has_country_flag = bot_boost
+    }
+    mean_time_to_happen = { days = 1 }
+    option = {
+        name = "This is gonna be real annoying when you're checking saves :)"
+        clr_country_flag = bot_boost
+        remove_country_modifier = { bucks_for_bots }
+    }
+}
