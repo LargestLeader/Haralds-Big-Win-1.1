@@ -424,6 +424,10 @@ commerce_raiders = {
 			fire_control_systems = 1
 		}
 		modifier = {
+			factor = -100
+			has_country_flag = bot_boost
+		}
+		modifier = {
 			factor = 3
 			raider_group_doctrine = 1
 		}
