@@ -1,4 +1,4 @@
-color = { 210 80 110 }
+color = { 163 102 5 }
 graphical_culture = AustriaHungaryGC
 
 party = {

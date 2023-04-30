@@ -47,7 +47,7 @@ political_decisions = {
                         in_sphere = THIS
                     }
                 }
-                country_event = { id=11101 days=0 }
+                annex_to = THIS
             }
         }
         ai_will_do = { factor = 1 }
