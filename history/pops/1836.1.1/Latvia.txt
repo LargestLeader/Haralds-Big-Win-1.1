@@ -3,25 +3,25 @@
 #Riga (220000/55000 POPS)  
 354 = {
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 325
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 1500
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 2400
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 36775
 	}
@@ -131,25 +131,25 @@
 #Valmeira (516000/129000 POPS)  
 355 = {
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 1100
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 3350
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 2150
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 112375
 	}
@@ -266,25 +266,25 @@
 #Daugavpils (136000/34000 POPS)  
 356 = {
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 250
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 19800
 	}
@@ -382,25 +382,25 @@
 #Jelgava (128000/32000 POPS)  
 357 = {
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 625
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 650
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 650
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 36275
 	}
@@ -486,31 +486,31 @@
 	}
 
 	aristocrats = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 3600
 	}
 
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 300
 	}
 	
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 30050
 	}
@@ -572,31 +572,31 @@
 	}
 
 	aristocrats = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 1550
 	}
 
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 300
 	}
 	
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = catholic
 		size = 24475
 	}

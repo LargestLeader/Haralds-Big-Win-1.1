@@ -429,25 +429,25 @@
 	}
 
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 200
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 750
 	}
@@ -533,25 +533,25 @@
 	}
 	
 	clergymen = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 100
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = latvian
+		culture = courish
 		religion = protestant
 		size = 100
 	}
