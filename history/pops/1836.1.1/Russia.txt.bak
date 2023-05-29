@@ -2734,19 +2734,19 @@
 	}
 
 	artisans = {
-		culture = courish
+		culture = latvian
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = courish
+		culture = latvian
 		religion = protestant
 		size = 30
 	}
 
 	farmers = {
-		culture = courish
+		culture = latvian
 		religion = protestant
 		size = 2775
 	}

@@ -176,19 +176,4 @@ political_decisions = {
             }
         }
     }
-    China_moment = {
-        potential = {
-            tag = SHN
-            always = no
-        }
-        allow = { tag = SHN }
-        effect = {
-            any_owned = {
-                limit = { is_core = CHI }
-                any_pop = {
-                    reduce_pop = 0.3
-                }
-            }
-        }
-    }
 }

@@ -2,6 +2,6 @@ owner = BAS
 controller = BAS
 add_core = BAS
 add_core = HND
-add_core = MUG
+add_core = ORI
 trade_goods = grain
 life_rating = 32
