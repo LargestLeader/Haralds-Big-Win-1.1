@@ -2,5 +2,6 @@ owner = SUR
 controller = SUR
 add_core = SUR
 add_core = HND
+add_core = MUG
 trade_goods = opium
 life_rating = 32

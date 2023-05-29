@@ -1,6 +1,5 @@
 owner = SWE
 controller = SWE
-add_core = NYK
 add_core = HND
 trade_goods = fish
 life_rating = 25

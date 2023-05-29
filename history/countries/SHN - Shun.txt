@@ -76,3 +76,5 @@ oob = "CHI_oob.txt"
 	set_global_flag = hong
 	set_global_flag = yang
 }
+
+decision = China_moment

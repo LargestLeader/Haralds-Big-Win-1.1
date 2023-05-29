@@ -2,7 +2,7 @@ owner = SUR
 controller = SUR
 add_core = SUR
 add_core = HND
-add_core = BNG
+add_core = MUG
 trade_goods = cotton
 life_rating = 32
 

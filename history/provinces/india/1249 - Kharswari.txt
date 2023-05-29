@@ -2,7 +2,7 @@ owner = BAS
 controller = BAS
 add_core = BAS
 add_core = HND
-add_core = ORI
+add_core = MUG
 trade_goods = coal
 life_rating = 28
 
