@@ -1,4 +1,5 @@
 background = {
+0.175_attack = { attack=0 }
 -4.001_attack = { attack=-4 }
 -3.003_attack = { attack=-3 }
 -3.005_attack = { attack=-3 }
@@ -86,7 +87,6 @@ background = {
 0.169_attack = { attack=0 }
 0.171_attack = { attack=0 }
 0.173_attack = { attack=0 }
-0.175_attack = { attack=0 }
 0.177_attack = { attack=0 }
 0.179_attack = { attack=0 }
 0.181_attack = { attack=0 }
@@ -200,208 +200,209 @@ background = {
 4.397_attack = { attack=4 }
 5.399_attack = { attack=5 }
 -5.000_attack = { attack=-5}
--4.401_attack = { attack_ -4 }
--3.403_attack = { attack_ -3 }
--2.405_attack = { attack_ -2 }
--2.407_attack = { attack_ -2 }
--2.409_attack = { attack_ -2 }
--2.411_attack = { attack_ -2 }
--2.413_attack = { attack_ -2 }
--2.415_attack = { attack_ -2 }
--2.417_attack = { attack_ -2 }
--2.419_attack = { attack_ -2 }
--2.421_attack = { attack_ -2 }
--2.423_attack = { attack_ -2 }
--2.425_attack = { attack_ -2 }
--1.427_attack = { attack_ -1 }
--1.429_attack = { attack_ -1 }
--1.431_attack = { attack_ -1 }
--1.433_attack = { attack_ -1 }
--1.435_attack = { attack_ -1 }
--1.437_attack = { attack_ -1 }
--1.439_attack = { attack_ -1 }
--1.441_attack = { attack_ -1 }
--1.443_attack = { attack_ -1 }
--1.445_attack = { attack_ -1 }
--1.447_attack = { attack_ -1 }
--1.449_attack = { attack_ -1 }
--1.451_attack = { attack_ -1 }
--1.453_attack = { attack_ -1 }
--1.455_attack = { attack_ -1 }
--1.457_attack = { attack_ -1 }
--1.459_attack = { attack_ -1 }
--1.461_attack = { attack_ -1 }
--1.463_attack = { attack_ -1 }
--1.465_attack = { attack_ -1 }
--1.467_attack = { attack_ -1 }
--1.469_attack = { attack_ -1 }
--1.471_attack = { attack_ -1 }
--1.473_attack = { attack_ -1 }
--1.475_attack = { attack_ -1 }
--1.477_attack = { attack_ -1 }
--1.479_attack = { attack_ -1 }
--1.481_attack = { attack_ -1 }
--1.483_attack = { attack_ -1 }
--1.485_attack = { attack_ -1 }
--1.487_attack = { attack_ -1 }
--1.489_attack = { attack_ -1 }
--1.491_attack = { attack_ -1 }
-0.493_attack = { attack_ 0 }
-0.495_attack = { attack_ 0 }
-0.497_attack = { attack_ 0 }
-0.499_attack = { attack_ 0 }
-0.501_attack = { attack_ 0 }
-0.503_attack = { attack_ 0 }
-0.505_attack = { attack_ 0 }
-0.507_attack = { attack_ 0 }
-0.509_attack = { attack_ 0 }
-0.511_attack = { attack_ 0 }
-0.513_attack = { attack_ 0 }
-0.515_attack = { attack_ 0 }
-0.517_attack = { attack_ 0 }
-0.519_attack = { attack_ 0 }
-0.521_attack = { attack_ 0 }
-0.523_attack = { attack_ 0 }
-0.525_attack = { attack_ 0 }
-0.527_attack = { attack_ 0 }
-0.529_attack = { attack_ 0 }
-0.531_attack = { attack_ 0 }
-0.533_attack = { attack_ 0 }
-0.535_attack = { attack_ 0 }
-0.537_attack = { attack_ 0 }
-0.539_attack = { attack_ 0 }
-0.541_attack = { attack_ 0 }
-0.543_attack = { attack_ 0 }
-0.545_attack = { attack_ 0 }
-0.547_attack = { attack_ 0 }
-0.549_attack = { attack_ 0 }
-0.551_attack = { attack_ 0 }
-0.553_attack = { attack_ 0 }
-0.555_attack = { attack_ 0 }
-0.557_attack = { attack_ 0 }
-0.559_attack = { attack_ 0 }
-0.561_attack = { attack_ 0 }
-0.563_attack = { attack_ 0 }
-0.565_attack = { attack_ 0 }
-0.567_attack = { attack_ 0 }
-0.569_attack = { attack_ 0 }
-0.571_attack = { attack_ 0 }
-0.573_attack = { attack_ 0 }
-0.575_attack = { attack_ 0 }
-0.577_attack = { attack_ 0 }
-0.579_attack = { attack_ 0 }
-0.581_attack = { attack_ 0 }
-0.583_attack = { attack_ 0 }
-0.585_attack = { attack_ 0 }
-0.587_attack = { attack_ 0 }
-0.589_attack = { attack_ 0 }
-0.591_attack = { attack_ 0 }
-0.593_attack = { attack_ 0 }
-0.595_attack = { attack_ 0 }
-0.597_attack = { attack_ 0 }
-0.599_attack = { attack_ 0 }
-0.601_attack = { attack_ 0 }
-1.603_attack = { attack_ 1 }
-1.605_attack = { attack_ 1 }
-1.607_attack = { attack_ 1 }
-1.609_attack = { attack_ 1 }
-1.611_attack = { attack_ 1 }
-1.613_attack = { attack_ 1 }
-1.615_attack = { attack_ 1 }
-1.617_attack = { attack_ 1 }
-1.619_attack = { attack_ 1 }
-1.621_attack = { attack_ 1 }
-1.623_attack = { attack_ 1 }
-1.625_attack = { attack_ 1 }
-1.627_attack = { attack_ 1 }
-1.629_attack = { attack_ 1 }
-1.631_attack = { attack_ 1 }
-1.633_attack = { attack_ 1 }
-1.635_attack = { attack_ 1 }
-1.637_attack = { attack_ 1 }
-1.639_attack = { attack_ 1 }
-1.641_attack = { attack_ 1 }
-1.643_attack = { attack_ 1 }
-1.645_attack = { attack_ 1 }
-1.647_attack = { attack_ 1 }
-1.649_attack = { attack_ 1 }
-1.651_attack = { attack_ 1 }
-1.653_attack = { attack_ 1 }
-1.655_attack = { attack_ 1 }
-1.657_attack = { attack_ 1 }
-1.659_attack = { attack_ 1 }
-1.661_attack = { attack_ 1 }
-1.663_attack = { attack_ 1 }
-1.665_attack = { attack_ 1 }
-1.667_attack = { attack_ 1 }
-1.669_attack = { attack_ 1 }
-1.671_attack = { attack_ 1 }
-1.673_attack = { attack_ 1 }
-1.675_attack = { attack_ 1 }
-1.677_attack = { attack_ 1 }
-1.679_attack = { attack_ 1 }
-1.681_attack = { attack_ 1 }
-1.683_attack = { attack_ 1 }
-1.685_attack = { attack_ 1 }
-1.687_attack = { attack_ 1 }
-1.689_attack = { attack_ 1 }
-1.691_attack = { attack_ 1 }
-1.693_attack = { attack_ 1 }
-1.695_attack = { attack_ 1 }
-1.697_attack = { attack_ 1 }
-1.699_attack = { attack_ 1 }
-1.701_attack = { attack_ 1 }
-1.703_attack = { attack_ 1 }
-1.705_attack = { attack_ 1 }
-1.707_attack = { attack_ 1 }
-1.709_attack = { attack_ 1 }
-2.711_attack = { attack_ 2 }
-2.713_attack = { attack_ 2 }
-2.715_attack = { attack_ 2 }
-2.717_attack = { attack_ 2 }
-2.719_attack = { attack_ 2 }
-2.721_attack = { attack_ 2 }
-2.723_attack = { attack_ 2 }
-2.725_attack = { attack_ 2 }
-2.727_attack = { attack_ 2 }
-2.729_attack = { attack_ 2 }
-2.731_attack = { attack_ 2 }
-2.733_attack = { attack_ 2 }
-2.735_attack = { attack_ 2 }
-2.737_attack = { attack_ 2 }
-2.739_attack = { attack_ 2 }
-2.741_attack = { attack_ 2 }
-2.743_attack = { attack_ 2 }
-2.745_attack = { attack_ 2 }
-2.747_attack = { attack_ 2 }
-2.749_attack = { attack_ 2 }
-2.751_attack = { attack_ 2 }
-2.753_attack = { attack_ 2 }
-2.755_attack = { attack_ 2 }
-2.757_attack = { attack_ 2 }
-2.759_attack = { attack_ 2 }
-2.761_attack = { attack_ 2 }
-2.763_attack = { attack_ 2 }
-2.765_attack = { attack_ 2 }
-2.767_attack = { attack_ 2 }
-2.769_attack = { attack_ 2 }
-2.771_attack = { attack_ 2 }
-2.773_attack = { attack_ 2 }
-2.775_attack = { attack_ 2 }
-2.777_attack = { attack_ 2 }
-3.779_attack = { attack_ 3 }
-3.781_attack = { attack_ 3 }
-3.783_attack = { attack_ 3 }
-3.785_attack = { attack_ 3 }
-3.787_attack = { attack_ 3 }
-3.789_attack = { attack_ 3 }
-3.791_attack = { attack_ 3 }
-3.793_attack = { attack_ 3 }
-3.795_attack = { attack_ 3 }
-3.797_attack = { attack_ 3 }
-4.799_attack = { attack_ 4 }
+-4.401_attack = { attack=-4 }
+-3.403_attack = { attack=-3 }
+-2.405_attack = { attack=-2 }
+-2.407_attack = { attack=-2 }
+-2.409_attack = { attack=-2 }
+-2.411_attack = { attack=-2 }
+-2.413_attack = { attack=-2 }
+-2.415_attack = { attack=-2 }
+-2.417_attack = { attack=-2 }
+-2.419_attack = { attack=-2 }
+-2.421_attack = { attack=-2 }
+-2.423_attack = { attack=-2 }
+-2.425_attack = { attack=-2 }
+-1.427_attack = { attack=-1 }
+-1.429_attack = { attack=-1 }
+-1.431_attack = { attack=-1 }
+-1.433_attack = { attack=-1 }
+-1.435_attack = { attack=-1 }
+-1.437_attack = { attack=-1 }
+-1.439_attack = { attack=-1 }
+-1.441_attack = { attack=-1 }
+-1.443_attack = { attack=-1 }
+-1.445_attack = { attack=-1 }
+-1.447_attack = { attack=-1 }
+-1.449_attack = { attack=-1 }
+-1.451_attack = { attack=-1 }
+-1.453_attack = { attack=-1 }
+-1.455_attack = { attack=-1 }
+-1.457_attack = { attack=-1 }
+-1.459_attack = { attack=-1 }
+-1.461_attack = { attack=-1 }
+-1.463_attack = { attack=-1 }
+-1.465_attack = { attack=-1 }
+-1.467_attack = { attack=-1 }
+-1.469_attack = { attack=-1 }
+-1.471_attack = { attack=-1 }
+-1.473_attack = { attack=-1 }
+-1.475_attack = { attack=-1 }
+-1.477_attack = { attack=-1 }
+-1.479_attack = { attack=-1 }
+-1.481_attack = { attack=-1 }
+-1.483_attack = { attack=-1 }
+-1.485_attack = { attack=-1 }
+-1.487_attack = { attack=-1 }
+-1.489_attack = { attack=-1 }
+-1.491_attack = { attack=-1 }
+0.493_attack = { attack=0 }
+0.495_attack = { attack=0 }
+0.497_attack = { attack=0 }
+0.499_attack = { attack=0 }
+0.501_attack = { attack=0 }
+0.503_attack = { attack=0 }
+0.505_attack = { attack=0 }
+0.507_attack = { attack=0 }
+0.509_attack = { attack=0 }
+0.511_attack = { attack=0 }
+0.513_attack = { attack=0 }
+0.515_attack = { attack=0 }
+0.517_attack = { attack=0 }
+0.519_attack = { attack=0 }
+0.521_attack = { attack=0 }
+0.523_attack = { attack=0 }
+0.525_attack = { attack=0 }
+0.527_attack = { attack=0 }
+0.529_attack = { attack=0 }
+0.531_attack = { attack=0 }
+0.533_attack = { attack=0 }
+0.535_attack = { attack=0 }
+0.537_attack = { attack=0 }
+0.539_attack = { attack=0 }
+0.541_attack = { attack=0 }
+0.543_attack = { attack=0 }
+0.545_attack = { attack=0 }
+0.547_attack = { attack=0 }
+0.549_attack = { attack=0 }
+0.551_attack = { attack=0 }
+0.553_attack = { attack=0 }
+0.555_attack = { attack=0 }
+0.557_attack = { attack=0 }
+0.559_attack = { attack=0 }
+0.561_attack = { attack=0 }
+0.563_attack = { attack=0 }
+0.565_attack = { attack=0 }
+0.567_attack = { attack=0 }
+0.569_attack = { attack=0 }
+0.571_attack = { attack=0 }
+0.573_attack = { attack=0 }
+0.575_attack = { attack=0 }
+0.577_attack = { attack=0 }
+0.579_attack = { attack=0 }
+0.581_attack = { attack=0 }
+0.583_attack = { attack=0 }
+0.585_attack = { attack=0 }
+0.587_attack = { attack=0 }
+0.589_attack = { attack=0 }
+0.591_attack = { attack=0 }
+0.593_attack = { attack=0 }
+0.595_attack = { attack=0 }
+0.597_attack = { attack=0 }
+0.599_attack = { attack=0 }
+0.601_attack = { attack=0 }
+1.603_attack = { attack=1 }
+1.605_attack = { attack=1 }
+1.607_attack = { attack=1 }
+1.609_attack = { attack=1 }
+1.611_attack = { attack=1 }
+1.613_attack = { attack=1 }
+1.615_attack = { attack=1 }
+1.617_attack = { attack=1 }
+1.619_attack = { attack=1 }
+1.621_attack = { attack=1 }
+1.623_attack = { attack=1 }
+1.625_attack = { attack=1 }
+1.627_attack = { attack=1 }
+1.629_attack = { attack=1 }
+1.631_attack = { attack=1 }
+1.633_attack = { attack=1 }
+1.635_attack = { attack=1 }
+1.637_attack = { attack=1 }
+1.639_attack = { attack=1 }
+1.641_attack = { attack=1 }
+1.643_attack = { attack=1 }
+1.645_attack = { attack=1 }
+1.647_attack = { attack=1 }
+1.649_attack = { attack=1 }
+1.651_attack = { attack=1 }
+1.653_attack = { attack=1 }
+1.655_attack = { attack=1 }
+1.657_attack = { attack=1 }
+1.659_attack = { attack=1 }
+1.661_attack = { attack=1 }
+1.663_attack = { attack=1 }
+1.665_attack = { attack=1 }
+1.667_attack = { attack=1 }
+1.669_attack = { attack=1 }
+1.671_attack = { attack=1 }
+1.673_attack = { attack=1 }
+1.675_attack = { attack=1 }
+1.677_attack = { attack=1 }
+1.679_attack = { attack=1 }
+1.681_attack = { attack=1 }
+1.683_attack = { attack=1 }
+1.685_attack = { attack=1 }
+1.687_attack = { attack=1 }
+1.689_attack = { attack=1 }
+1.691_attack = { attack=1 }
+1.693_attack = { attack=1 }
+1.695_attack = { attack=1 }
+1.697_attack = { attack=1 }
+1.699_attack = { attack=1 }
+1.701_attack = { attack=1 }
+1.703_attack = { attack=1 }
+1.705_attack = { attack=1 }
+1.707_attack = { attack=1 }
+1.709_attack = { attack=1 }
+2.711_attack = { attack=2 }
+2.713_attack = { attack=2 }
+2.715_attack = { attack=2 }
+2.717_attack = { attack=2 }
+2.719_attack = { attack=2 }
+2.721_attack = { attack=2 }
+2.723_attack = { attack=2 }
+2.725_attack = { attack=2 }
+2.727_attack = { attack=2 }
+2.729_attack = { attack=2 }
+2.731_attack = { attack=2 }
+2.733_attack = { attack=2 }
+2.735_attack = { attack=2 }
+2.737_attack = { attack=2 }
+2.739_attack = { attack=2 }
+2.741_attack = { attack=2 }
+2.743_attack = { attack=2 }
+2.745_attack = { attack=2 }
+2.747_attack = { attack=2 }
+2.749_attack = { attack=2 }
+2.751_attack = { attack=2 }
+2.753_attack = { attack=2 }
+2.755_attack = { attack=2 }
+2.757_attack = { attack=2 }
+2.759_attack = { attack=2 }
+2.761_attack = { attack=2 }
+2.763_attack = { attack=2 }
+2.765_attack = { attack=2 }
+2.767_attack = { attack=2 }
+2.769_attack = { attack=2 }
+2.771_attack = { attack=2 }
+2.773_attack = { attack=2 }
+2.775_attack = { attack=2 }
+2.777_attack = { attack=2 }
+3.779_attack = { attack=3 }
+3.781_attack = { attack=3 }
+3.783_attack = { attack=3 }
+3.785_attack = { attack=3 }
+3.787_attack = { attack=3 }
+3.789_attack = { attack=3 }
+3.791_attack = { attack=3 }
+3.793_attack = { attack=3 }
+3.795_attack = { attack=3 }
+3.797_attack = { attack=3 }
+4.799_attack = { attack=4 }
 }
 personality = {
+0.14_defence = { defence=0 }
     -4.002_defence = { defence=-4 }
 -3.004_defence = { defence=-3 }
 -3.006_defence = { defence=-3 }
@@ -471,7 +472,6 @@ personality = {
 0.134_defence = { defence=0 }
 0.136_defence = { defence=0 }
 0.138_defence = { defence=0 }
-0.14_defence = { defence=0 }
 0.142_defence = { defence=0 }
 0.144_defence = { defence=0 }
 0.146_defence = { defence=0 }
@@ -603,204 +603,204 @@ personality = {
 4.398_defence = { defence=4 }
 5.4_defence = { defence=5 }
 -5.000_defence = { defence=-5 }
--3.402_defence = { defense_ -3 }
--3.404_defence = { defense_ -3 }
--2.406_defence = { defense_ -2 }
--2.408_defence = { defense_ -2 }
--2.41_defence = { defense_ -2 }
--2.412_defence = { defense_ -2 }
--2.414_defence = { defense_ -2 }
--2.416_defence = { defense_ -2 }
--2.418_defence = { defense_ -2 }
--2.42_defence = { defense_ -2 }
--2.422_defence = { defense_ -2 }
--2.424_defence = { defense_ -2 }
--1.426_defence = { defense_ -1 }
--1.428_defence = { defense_ -1 }
--1.43_defence = { defense_ -1 }
--1.432_defence = { defense_ -1 }
--1.434_defence = { defense_ -1 }
--1.436_defence = { defense_ -1 }
--1.438_defence = { defense_ -1 }
--1.44_defence = { defense_ -1 }
--1.442_defence = { defense_ -1 }
--1.444_defence = { defense_ -1 }
--1.446_defence = { defense_ -1 }
--1.448_defence = { defense_ -1 }
--1.45_defence = { defense_ -1 }
--1.452_defence = { defense_ -1 }
--1.454_defence = { defense_ -1 }
--1.456_defence = { defense_ -1 }
--1.458_defence = { defense_ -1 }
--1.46_defence = { defense_ -1 }
--1.462_defence = { defense_ -1 }
--1.464_defence = { defense_ -1 }
--1.466_defence = { defense_ -1 }
--1.468_defence = { defense_ -1 }
--1.47_defence = { defense_ -1 }
--1.472_defence = { defense_ -1 }
--1.474_defence = { defense_ -1 }
--1.476_defence = { defense_ -1 }
--1.478_defence = { defense_ -1 }
--1.48_defence = { defense_ -1 }
--1.482_defence = { defense_ -1 }
--1.484_defence = { defense_ -1 }
--1.486_defence = { defense_ -1 }
--1.488_defence = { defense_ -1 }
--1.49_defence = { defense_ -1 }
--1.492_defence = { defense_ -1 }
-0.494_defence = { defense_ 0 }
-0.496_defence = { defense_ 0 }
-0.498_defence = { defense_ 0 }
-0.5_defence = { defense_ 0 }
-0.502_defence = { defense_ 0 }
-0.504_defence = { defense_ 0 }
-0.506_defence = { defense_ 0 }
-0.508_defence = { defense_ 0 }
-0.51_defence = { defense_ 0 }
-0.512_defence = { defense_ 0 }
-0.514_defence = { defense_ 0 }
-0.516_defence = { defense_ 0 }
-0.518_defence = { defense_ 0 }
-0.52_defence = { defense_ 0 }
-0.522_defence = { defense_ 0 }
-0.524_defence = { defense_ 0 }
-0.526_defence = { defense_ 0 }
-0.528_defence = { defense_ 0 }
-0.53_defence = { defense_ 0 }
-0.532_defence = { defense_ 0 }
-0.534_defence = { defense_ 0 }
-0.536_defence = { defense_ 0 }
-0.538_defence = { defense_ 0 }
-0.54_defence = { defense_ 0 }
-0.542_defence = { defense_ 0 }
-0.544_defence = { defense_ 0 }
-0.546_defence = { defense_ 0 }
-0.548_defence = { defense_ 0 }
-0.55_defence = { defense_ 0 }
-0.552_defence = { defense_ 0 }
-0.554_defence = { defense_ 0 }
-0.556_defence = { defense_ 0 }
-0.558_defence = { defense_ 0 }
-0.56_defence = { defense_ 0 }
-0.562_defence = { defense_ 0 }
-0.564_defence = { defense_ 0 }
-0.566_defence = { defense_ 0 }
-0.568_defence = { defense_ 0 }
-0.57_defence = { defense_ 0 }
-0.572_defence = { defense_ 0 }
-0.574_defence = { defense_ 0 }
-0.576_defence = { defense_ 0 }
-0.578_defence = { defense_ 0 }
-0.58_defence = { defense_ 0 }
-0.582_defence = { defense_ 0 }
-0.584_defence = { defense_ 0 }
-0.586_defence = { defense_ 0 }
-0.588_defence = { defense_ 0 }
-0.59_defence = { defense_ 0 }
-0.592_defence = { defense_ 0 }
-0.594_defence = { defense_ 0 }
-0.596_defence = { defense_ 0 }
-0.598_defence = { defense_ 0 }
-0.6_defence = { defense_ 0 }
-1.602_defence = { defense_ 1 }
-1.604_defence = { defense_ 1 }
-1.606_defence = { defense_ 1 }
-1.608_defence = { defense_ 1 }
-1.61_defence = { defense_ 1 }
-1.612_defence = { defense_ 1 }
-1.614_defence = { defense_ 1 }
-1.616_defence = { defense_ 1 }
-1.618_defence = { defense_ 1 }
-1.62_defence = { defense_ 1 }
-1.622_defence = { defense_ 1 }
-1.624_defence = { defense_ 1 }
-1.626_defence = { defense_ 1 }
-1.628_defence = { defense_ 1 }
-1.63_defence = { defense_ 1 }
-1.632_defence = { defense_ 1 }
-1.634_defence = { defense_ 1 }
-1.636_defence = { defense_ 1 }
-1.638_defence = { defense_ 1 }
-1.64_defence = { defense_ 1 }
-1.642_defence = { defense_ 1 }
-1.644_defence = { defense_ 1 }
-1.646_defence = { defense_ 1 }
-1.648_defence = { defense_ 1 }
-1.65_defence = { defense_ 1 }
-1.652_defence = { defense_ 1 }
-1.654_defence = { defense_ 1 }
-1.656_defence = { defense_ 1 }
-1.658_defence = { defense_ 1 }
-1.66_defence = { defense_ 1 }
-1.662_defence = { defense_ 1 }
-1.664_defence = { defense_ 1 }
-1.666_defence = { defense_ 1 }
-1.668_defence = { defense_ 1 }
-1.67_defence = { defense_ 1 }
-1.672_defence = { defense_ 1 }
-1.674_defence = { defense_ 1 }
-1.676_defence = { defense_ 1 }
-1.678_defence = { defense_ 1 }
-1.68_defence = { defense_ 1 }
-1.682_defence = { defense_ 1 }
-1.684_defence = { defense_ 1 }
-1.686_defence = { defense_ 1 }
-1.688_defence = { defense_ 1 }
-1.69_defence = { defense_ 1 }
-1.692_defence = { defense_ 1 }
-1.694_defence = { defense_ 1 }
-1.696_defence = { defense_ 1 }
-1.698_defence = { defense_ 1 }
-1.7_defence = { defense_ 1 }
-1.702_defence = { defense_ 1 }
-1.704_defence = { defense_ 1 }
-1.706_defence = { defense_ 1 }
-1.708_defence = { defense_ 1 }
-1.71_defence = { defense_ 1 }
-2.712_defence = { defense_ 2 }
-2.714_defence = { defense_ 2 }
-2.716_defence = { defense_ 2 }
-2.718_defence = { defense_ 2 }
-2.72_defence = { defense_ 2 }
-2.722_defence = { defense_ 2 }
-2.724_defence = { defense_ 2 }
-2.726_defence = { defense_ 2 }
-2.728_defence = { defense_ 2 }
-2.73_defence = { defense_ 2 }
-2.732_defence = { defense_ 2 }
-2.734_defence = { defense_ 2 }
-2.736_defence = { defense_ 2 }
-2.738_defence = { defense_ 2 }
-2.74_defence = { defense_ 2 }
-2.742_defence = { defense_ 2 }
-2.744_defence = { defense_ 2 }
-2.746_defence = { defense_ 2 }
-2.748_defence = { defense_ 2 }
-2.75_defence = { defense_ 2 }
-2.752_defence = { defense_ 2 }
-2.754_defence = { defense_ 2 }
-2.756_defence = { defense_ 2 }
-2.758_defence = { defense_ 2 }
-2.76_defence = { defense_ 2 }
-2.762_defence = { defense_ 2 }
-2.764_defence = { defense_ 2 }
-2.766_defence = { defense_ 2 }
-2.768_defence = { defense_ 2 }
-2.77_defence = { defense_ 2 }
-2.772_defence = { defense_ 2 }
-2.774_defence = { defense_ 2 }
-2.776_defence = { defense_ 2 }
-3.778_defence = { defense_ 3 }
-3.78_defence = { defense_ 3 }
-3.782_defence = { defense_ 3 }
-3.784_defence = { defense_ 3 }
-3.786_defence = { defense_ 3 }
-3.788_defence = { defense_ 3 }
-3.79_defence = { defense_ 3 }
-3.792_defence = { defense_ 3 }
-3.794_defence = { defense_ 3 }
-3.796_defence = { defense_ 3 }
-3.798_defence = { defense_ 3 }
-4.8_defence = { defense_ 4 }
+-3.402_defence = { defense=-3 }
+-3.404_defence = { defense=-3 }
+-2.406_defence = { defense=-2 }
+-2.408_defence = { defense=-2 }
+-2.41_defence = { defense=-2 }
+-2.412_defence = { defense=-2 }
+-2.414_defence = { defense=-2 }
+-2.416_defence = { defense=-2 }
+-2.418_defence = { defense=-2 }
+-2.42_defence = { defense=-2 }
+-2.422_defence = { defense=-2 }
+-2.424_defence = { defense=-2 }
+-1.426_defence = { defense=-1 }
+-1.428_defence = { defense=-1 }
+-1.43_defence = { defense=-1 }
+-1.432_defence = { defense=-1 }
+-1.434_defence = { defense=-1 }
+-1.436_defence = { defense=-1 }
+-1.438_defence = { defense=-1 }
+-1.44_defence = { defense=-1 }
+-1.442_defence = { defense=-1 }
+-1.444_defence = { defense=-1 }
+-1.446_defence = { defense=-1 }
+-1.448_defence = { defense=-1 }
+-1.45_defence = { defense=-1 }
+-1.452_defence = { defense=-1 }
+-1.454_defence = { defense=-1 }
+-1.456_defence = { defense=-1 }
+-1.458_defence = { defense=-1 }
+-1.46_defence = { defense=-1 }
+-1.462_defence = { defense=-1 }
+-1.464_defence = { defense=-1 }
+-1.466_defence = { defense=-1 }
+-1.468_defence = { defense=-1 }
+-1.47_defence = { defense=-1 }
+-1.472_defence = { defense=-1 }
+-1.474_defence = { defense=-1 }
+-1.476_defence = { defense=-1 }
+-1.478_defence = { defense=-1 }
+-1.48_defence = { defense=-1 }
+-1.482_defence = { defense=-1 }
+-1.484_defence = { defense=-1 }
+-1.486_defence = { defense=-1 }
+-1.488_defence = { defense=-1 }
+-1.49_defence = { defense=-1 }
+-1.492_defence = { defense=-1 }
+0.494_defence = { defense=0 }
+0.496_defence = { defense=0 }
+0.498_defence = { defense=0 }
+0.5_defence = { defense=0 }
+0.502_defence = { defense=0 }
+0.504_defence = { defense=0 }
+0.506_defence = { defense=0 }
+0.508_defence = { defense=0 }
+0.51_defence = { defense=0 }
+0.512_defence = { defense=0 }
+0.514_defence = { defense=0 }
+0.516_defence = { defense=0 }
+0.518_defence = { defense=0 }
+0.52_defence = { defense=0 }
+0.522_defence = { defense=0 }
+0.524_defence = { defense=0 }
+0.526_defence = { defense=0 }
+0.528_defence = { defense=0 }
+0.53_defence = { defense=0 }
+0.532_defence = { defense=0 }
+0.534_defence = { defense=0 }
+0.536_defence = { defense=0 }
+0.538_defence = { defense=0 }
+0.54_defence = { defense=0 }
+0.542_defence = { defense=0 }
+0.544_defence = { defense=0 }
+0.546_defence = { defense=0 }
+0.548_defence = { defense=0 }
+0.55_defence = { defense=0 }
+0.552_defence = { defense=0 }
+0.554_defence = { defense=0 }
+0.556_defence = { defense=0 }
+0.558_defence = { defense=0 }
+0.56_defence = { defense=0 }
+0.562_defence = { defense=0 }
+0.564_defence = { defense=0 }
+0.566_defence = { defense=0 }
+0.568_defence = { defense=0 }
+0.57_defence = { defense=0 }
+0.572_defence = { defense=0 }
+0.574_defence = { defense=0 }
+0.576_defence = { defense=0 }
+0.578_defence = { defense=0 }
+0.58_defence = { defense=0 }
+0.582_defence = { defense=0 }
+0.584_defence = { defense=0 }
+0.586_defence = { defense=0 }
+0.588_defence = { defense=0 }
+0.59_defence = { defense=0 }
+0.592_defence = { defense=0 }
+0.594_defence = { defense=0 }
+0.596_defence = { defense=0 }
+0.598_defence = { defense=0 }
+0.6_defence = { defense=0 }
+1.602_defence = { defense=1 }
+1.604_defence = { defense=1 }
+1.606_defence = { defense=1 }
+1.608_defence = { defense=1 }
+1.61_defence = { defense=1 }
+1.612_defence = { defense=1 }
+1.614_defence = { defense=1 }
+1.616_defence = { defense=1 }
+1.618_defence = { defense=1 }
+1.62_defence = { defense=1 }
+1.622_defence = { defense=1 }
+1.624_defence = { defense=1 }
+1.626_defence = { defense=1 }
+1.628_defence = { defense=1 }
+1.63_defence = { defense=1 }
+1.632_defence = { defense=1 }
+1.634_defence = { defense=1 }
+1.636_defence = { defense=1 }
+1.638_defence = { defense=1 }
+1.64_defence = { defense=1 }
+1.642_defence = { defense=1 }
+1.644_defence = { defense=1 }
+1.646_defence = { defense=1 }
+1.648_defence = { defense=1 }
+1.65_defence = { defense=1 }
+1.652_defence = { defense=1 }
+1.654_defence = { defense=1 }
+1.656_defence = { defense=1 }
+1.658_defence = { defense=1 }
+1.66_defence = { defense=1 }
+1.662_defence = { defense=1 }
+1.664_defence = { defense=1 }
+1.666_defence = { defense=1 }
+1.668_defence = { defense=1 }
+1.67_defence = { defense=1 }
+1.672_defence = { defense=1 }
+1.674_defence = { defense=1 }
+1.676_defence = { defense=1 }
+1.678_defence = { defense=1 }
+1.68_defence = { defense=1 }
+1.682_defence = { defense=1 }
+1.684_defence = { defense=1 }
+1.686_defence = { defense=1 }
+1.688_defence = { defense=1 }
+1.69_defence = { defense=1 }
+1.692_defence = { defense=1 }
+1.694_defence = { defense=1 }
+1.696_defence = { defense=1 }
+1.698_defence = { defense=1 }
+1.7_defence = { defense=1 }
+1.702_defence = { defense=1 }
+1.704_defence = { defense=1 }
+1.706_defence = { defense=1 }
+1.708_defence = { defense=1 }
+1.71_defence = { defense=1 }
+2.712_defence = { defense=2 }
+2.714_defence = { defense=2 }
+2.716_defence = { defense=2 }
+2.718_defence = { defense=2 }
+2.72_defence = { defense=2 }
+2.722_defence = { defense=2 }
+2.724_defence = { defense=2 }
+2.726_defence = { defense=2 }
+2.728_defence = { defense=2 }
+2.73_defence = { defense=2 }
+2.732_defence = { defense=2 }
+2.734_defence = { defense=2 }
+2.736_defence = { defense=2 }
+2.738_defence = { defense=2 }
+2.74_defence = { defense=2 }
+2.742_defence = { defense=2 }
+2.744_defence = { defense=2 }
+2.746_defence = { defense=2 }
+2.748_defence = { defense=2 }
+2.75_defence = { defense=2 }
+2.752_defence = { defense=2 }
+2.754_defence = { defense=2 }
+2.756_defence = { defense=2 }
+2.758_defence = { defense=2 }
+2.76_defence = { defense=2 }
+2.762_defence = { defense=2 }
+2.764_defence = { defense=2 }
+2.766_defence = { defense=2 }
+2.768_defence = { defense=2 }
+2.77_defence = { defense=2 }
+2.772_defence = { defense=2 }
+2.774_defence = { defense=2 }
+2.776_defence = { defense=2 }
+3.778_defence = { defense=3 }
+3.78_defence = { defense=3 }
+3.782_defence = { defense=3 }
+3.784_defence = { defense=3 }
+3.786_defence = { defense=3 }
+3.788_defence = { defense=3 }
+3.79_defence = { defense=3 }
+3.792_defence = { defense=3 }
+3.794_defence = { defense=3 }
+3.796_defence = { defense=3 }
+3.798_defence = { defense=3 }
+4.8_defence = { defense=4 }
 }
