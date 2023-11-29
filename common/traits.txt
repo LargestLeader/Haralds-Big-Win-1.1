@@ -1,5 +1,6 @@
 background = {
-0.175_attack = { attack=0 }
+no_personality = {
+}
 -4.001_attack = { attack=-4 }
 -3.003_attack = { attack=-3 }
 -3.005_attack = { attack=-3 }
@@ -402,8 +403,16 @@ background = {
 4.799_attack = { attack=4 }
 }
 personality = {
+no_background = {
+		attack = -2
+		defence = -2
+		morale = -0.20
+		organisation = -0.20
+		speed = -0.10
+		experience = -0.5
+}
 0.14_defence = { defence=0 }
-    -4.002_defence = { defence=-4 }
+-4.002_defence = { defence=-4 }
 -3.004_defence = { defence=-3 }
 -3.006_defence = { defence=-3 }
 -3.008_defence = { defence=-3 }
